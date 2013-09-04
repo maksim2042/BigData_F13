@@ -1,0 +1,5 @@
+## set these to the API key and secret from your PiCloud account
+## and save as cloud_config.py
+
+key='<your key>'
+secret='<your secret>'
