@@ -1,20 +1,21 @@
-#!/usr/bin/env python
-# encoding: utf-8
-"""
-app.py
+from flask import Flask
+app = Flask(__name__)
 
-Created by Maksim Tsvetovat on 2013-09-17.
-Copyright (c) 2013 __MyCompanyName__. All rights reserved.
-"""
+class RegistrationForm(Form):
+    username     = TextField('Username')
+    
 
-import sys
-import os
-
-
-def main():
+@app.route("/", methods=["GET", "POST"])
+def hello():
     pass
-
-
-if __name__ == '__main__':
-    main()
-
+   # if request.method == 'GET':
+   #     return "
+    #    
+    #    "
+        
+#    data=request.args
+    
+    
+    
+if __name__ == "__main__":
+    app.run()
