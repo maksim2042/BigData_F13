@@ -1,0 +1,2207 @@
+The Project Gutenberg Etext of Briefe aus der Schweiz by Goethe
+#21 in our series by Goethe
+
+This book is written in German.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfügung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg.aol.de erreichbar.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 8-bit version.
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Briefe aus der Schweiz
+
+by Johann Wolfgang von Goethe
+
+November, 2000  [Etext #2402]
+
+
+The Project Gutenberg Etext of Briefe aus der Schweiz by Goethe
+******This file should be named 8schw11.txt or 8schw11.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 8schw12.txt
+VERSIONS based on separate sources get new LETTER, 8schw11a.txt
+
+
+This etext was prepared by Michael Pullen, Globaltraveler5565@yahoo.com
+and proofread by Dr. Mary Cicora, mcicora@yahoo.com.
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hartPOBOX.com>
+hartPOBOX.com forwards to hartPRAIRIENET.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hartPOBOX.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: yourLOGIN
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+Briefe aus der Schweiz--Zweite Abteilung
+by Johann Wolfgang von Goethe
+
+
+
+
+
+Münster, den 3. October.
+
+Sonntag Abends.
+
+Von Basel erhalten Sie ein Paket, das die Geschichte unsrer bisherigen
+Reise enthält, indessen wir unsern Zug durch die Schweiz nun ernstlich
+fortsetzen.
+
+Auf dem Wege nach Biel ritten wir das schöne Birsch-Thal herauf und
+kamen endlich an den engen Paß der hierher führt.
+
+Durch den Rücken einer hohen und breiten Gebirgkette hat die Birsch,
+ein mäßiger Fluß, sich einen Weg von Uralters gesucht.  Das Bedürfniß
+mag nachher durch ihre Schluchten ängstlich nachgeklettert sein.  Die
+Römer erweiterten schon den Weg, und nun ist er sehr bequem
+durchgeführt.  Das über Felsstücke rauschende Wasser und der Weg gehen
+neben einander hin und machen an den meisten Orten die ganze Breite
+des Passes, der auf beiden Seiten von Felsen beschlossen ist, die ein
+gemächlich aufgehobenes Auge fassen kann.  Hinterwärts heben Gebirge
+sanft ihre Rücken, deren Gipfel uns vom Nebel bedeckt waren.  Bald
+steigen an einander hängende Wände senkrecht auf, bald streichen
+gewaltige Lagen schief nach dem Fluß und dem Weg ein, breite Massen
+sind auf einander gelegt, und gleich daneben stehen scharfe Klippen
+abgesetzt.  Große Klüfte spalten sich aufwärts, und Platten von
+Mauerstärke haben sich von dem übrigen Gesteine losgetrennt.  Einzelne
+Felsstücke sind herunter gestürzt, andere hängen noch über und lassen
+nach ihrer Lage fürchten, daß sie dereinst gleichfalls herein kommen
+werden.  Bald rund, bald spitz, bald bewachsen, bald nackt, sind die
+Firsten der Felsen, wo oft noch oben drüber ein einzelner Kopf kahl
+und kühn herüber sieht, und an Wänden und in der Tiefe schmiegen sich
+ausgewitterte Klüfte hinein.
+
+Mir machte der Zug durch diese Enge eine große ruhige Empfindung.  Das
+Erhabene gibt der Seele die schöne Ruhe, sie wird ganz dadurch
+ausgefüllt, fühlt sich so groß als sie sein kann.  Wie herrlich ist
+ein solches reines Gefühl, wenn es bis gegen den Rand steigt ohne
+überzulaufen.  Mein Auge und meine Seele konnten die Gegenstände
+fassen, und da ich rein war, diese Empfindung nirgends falsch
+widerstieß, so wirkten sie was sie sollten.  Vergleicht man solch ein
+Gefühl mit jenem, wenn wir uns mühselig im Kleinen umtreiben, alles
+aufbieten, diesem so viel als möglich zu borgen und aufzuflicken, und
+unserm Geist durch seine eigne Creatur Freude und Futter zu bereiten;
+so sieht man erst, wie ein armseliger Behelf es ist.
+
+Ein junger Mann, den wir von Basel mitnahmen, sagte: es sei ihm lange
+nicht wie das erstemal, und gab der Neuheit die Ehre.  Ich möchte aber
+sagen: wenn wir einen solchen Gegenstand zum erstenmal erblicken, so
+weitet sich die ungewohnte Seele erst aus, und es macht dieß ein
+schmerzlich Vergnügen, eine Überfülle, die die Seele bewegt und uns
+wollüstige Thränen ablockt.  Durch diese Operation wird die Seele in
+sich größer, ohne es zu wissen, und ist jener ersten Empfindung nicht
+mehr fähig.  Der Mensch glaubt verloren zu haben, er hat aber gewonnen.
+Was er an Wollust verliert, gewinnt er an innerm Wachsthum.  Hätte
+mich nur das Schicksal in irgend einer großen Gegend heißen wohnen,
+ich wollte mit jedem Morgen Nahrung der Großheit aus ihr saugen, wie
+aus einem lieblichen Thal Geduld und Stille.  Am Ende der Schlucht
+stieg ich ab und kehrte einen Theil allein zurück.  Ich entwickelte
+mir noch ein tiefes Gefühl, durch welches das Vergnügen auf einen
+hohen Grad für den aufmerksamen Geist vermehrt wird.  Man ahnet im
+Dunkeln die Entstehung und das Leben dieser seltsamen Gestalten.  Es
+mag geschehen sein wie und wann es wolle, so haben sich diese Massen,
+nach der Schwere und Ähnlichkeit ihrer Theile, groß und einfach
+zusammen gesetzt.  Was für Revolutionen sie nachher bewegt, getrennt,
+gespalten haben, so sind auch diese doch nur einzelne Erschütterungen
+gewesen, und selbst der Gedanke einer so ungeheuren Bewegung gibt ein
+hohes Gefühl von ewiger Festigkeit.  Die Zeit hat auch, gebunden an
+die ewigen Gesetze, bald mehr bald weniger auf sie gewirkt.
+
+Sie scheinen innerlich von gelblicher Farbe zu sein; allein das Wetter
+und die Luft verändern die Oberfläche in Graublau, daß nur hier und da
+in Streifen und in frischen Spalten die erste Farbe sichtbar ist.
+
+Langsam verwittert der Stein selbst und rundet sich an den Ecken ab,
+weichere Flecken werden weggezehrt, und so gibt's gar zierlich
+ausgeschweifte Höhlen und Löcher, die, wann sie mit scharfen Kanten
+und Spitzen zusammen treffen, sich seltsam zeichnen.  Die Vegetation
+behauptet ihr Recht; auf jedem Vorsprung, Fläche und Spalt fassen
+Fichten Wurzel, Moos und Kräuter säumen die Felsen.  Man fühlt tief,
+hier ist nichts Willkürliches, hier wirkt ein alles langsam bewegendes
+ewiges Gesetz, und nur von Menschenhand ist der bequeme Weg, über den
+man durch diese seltsamen Gegenden durchschleicht.
+
+
+
+
+Genf, den 27. October.
+
+Die große Bergkette, die von Basel bis Genf Schweiz und Frankreich
+scheidet, wird, wie Ihnen bekannt ist, der Jura genannt.  Die größten
+Höhen davon ziehen sich über Lausanne bis ungefähr über Rolle und Nyon.
+Auf diesem höchsten Rücken ist ein merkwürdiges Thal von der Natur
+eingegraben — ich möchte sagen eingeschwemmt, da auf allen diesen
+Kalkhöhen die Wirkungen der uralten Gewässer sichtbar sind — das la
+Vallée de Joux genannt wird, welcher Name, da Joux in der Landsprache
+einen Felsen oder Berg bedeutet, deutsch das Bergthal hieße.  Eh' ich
+zur Beschreibung unsrer Reise fortgehe, will ich mit wenigem die Lage
+desselben geographisch angeben.  Seine Länge streicht, wie das Gebirg
+selbst, ziemlich von Mittag gegen Mitternacht, und wird an jener Seite
+von den Septmoncels, an dieser von der Dent de Vaulion, welche nach
+der Dole der höchste Gipfel des Jura ist, begränzt und hat, nach der
+Sage des Landes, neun kleine, nach unsrer ungefähren Reiserechnung
+aber sechs starke Stunden.  Der Berg, der es die Länge hin an der
+Morgenseite begränzt und auch von dem flachen Land herauf sichtbar ist,
+heißt Le noir Mont.  Gegen Abend streicht der Risou hin und verliert
+sich allmählich gegen die Franche-Comté.
+
+Frankreich und Bern theilen sich ziemlich gleich in dieses Thal, so
+daß jenes die obere schlechte Hälfte und dieses die untere bessere
+besitzt, welche letztere eigentlich La Vallée du Lac de Joux genannt
+wird.  Ganz oben in dem Thal, gegen den Fuß der Septmoncels, liegt der
+Lac des Rousses, der keinen sichtlichen einzelnen Ursprung hat,
+sondern sich aus quelligem Boden und den überall auslaufenden Brunnen
+sammelt.  Aus demselben fließt die Orbe, durchstreicht das ganze
+französische und einen großen Theil des Berner Gebiets, bis sie wieder
+unten gegen die Dent de Vaulion sich zum Lac de Joux bildet, der
+seitwärts in einen kleinen See abfällt, woraus das Wasser endlich sich
+unter der Erde verlieret.  Die Breite des Thals ist verschieden, oben
+bei'm Lac des Rousses etwa eine halbe Stunde, alsdann verengert sich's
+und läuft wieder unten aus einander, wo etwa zum bessern Verständniß
+des Folgenden, wobei ich Sie einen Blick auf die Karte zu thun bitte,
+ob ich sie gleich alle, was diese Gegend betrifft, unrichtig gefunden
+habe.
+
+Den 24. Oct. ritten wir, in Begleitung eines Hauptmanns und
+Oberforstmeisters dieser Gegenden, erstlich Mont hinan, einen kleinen
+zerstreuten Ort, der eigentlicher eine Kette von Reb- und Landhäusern
+genannt werden könnte.  Das Wetter war sehr hell; wir hatten, wenn wir
+uns umkehrten, die Aussicht auf den Genfersee, die Savoyer und
+Walliser Gebirge, konnten Lausanne erkennen und durch einen leichten
+Nebel auch die Gegend von Genf.  Der Montblanc, der über alle Gebirge
+des Faucigni ragt, kam immer mehr hervor.  Die Sonne ging klar unter,
+es war so ein großer Anblick, daß ein menschlich Auge nicht dazu
+hinreicht.  Der fast volle Mond kam herauf und wir immer höher.  Durch
+Fichtenwälder stiegen wir weiter den Jura hinan, und sahen den See in
+Duft und den Widerschein des Mondes darin.  Es wurde immer heller.
+Der Weg ist eine wohlgemachte Chaussee, nur angelegt um das Holz aus
+dem Gebirg bequemer in das Land herunter zu bringen.  Wir waren wohl
+drei Stunden gestiegen, als es hinterwärts sachte wieder hinabzugehen
+anfing.  Wir glaubten unter uns einen großen See zu erblicken, indem
+ein tiefer Nebel das ganze Thal, was wir übersehen konnten, ausfüllte.
+Wir kamen ihm endlich näher, sahen einen weißen Bogen, den der Mond
+darin bildete, und wurden bald ganz vom Nebel eingewickelt.
+
+Die Begleitung des Hauptmanns verschaffte uns Quartier in einem Hause,
+wo man sonst nicht Fremde aufzunehmen pflegt.  Es unterschied sich in
+der innern Bauart von gewöhnlichen Gebäuden in nichts, als daß der
+große Raum mitten inne zugleich Küche, Versammlungsplatz, Vorsaal ist,
+und man von da in die Zimmer gleicher Erde und auch die Treppe hinauf
+geht.  Auf der einen Seite war an dem Boden auf steinernen Platten das
+Feuer angezündet, davon ein weiter Schornstein, mit Brettern dauerhaft
+und sauber ausgeschlagen, den Rauch aufnahm.  In der Ecke waren die
+Thüren zu den Backöfen, der ganze Fußboden übrigens gedielet, bis auf
+ein kleines Eckchen am Fenster um den Spülstein, das gepflastert war,
+übrigens rings herum, auch in der Höhe über den Balken, eine Menge
+Hausrath und Geräthschaften in schöner Ordnung angebracht, alles nicht
+unreinlich gehalten.
+
+Den 25. Morgens war helles kaltes Wetter, die Wiesen bereift, hier und
+da zogen leichte Nebel: wir konnten den untern Theil des Thals
+ziemlich übersehen, unser Haus lag am Fuß des östlichen noir Mont.
+Gegen Achte ritten wir ab, und um der Sonne gleich zu genießen, an der
+Abendseite hin.  Der Theil des Thals, an dem wir hinritten, besteht in
+abgetheilten Wiesen, die gegen den See zu etwas sumpfichter werden.
+Die Orbe fließt in der Mitte durch.  Die Einwohner haben sich theils
+in einzelnen Häusern an der Seite angebaut, theils sind sie in Dörfern
+näher zusammengerückt, die einfache Namen von ihrer Lage führen.  Das
+erste, wodurch wir kamen, war le Sentier.  Wir sahen von weitem die
+Dent de Vaulion über einem Nebel, der auf dem See stand, hervorblicken.
+Das Thal ward breiter, wir kamen hinter einem Felsgrat, der uns den
+See verdeckte, durch ein ander Dorf, le Lieu genannt, die Nebel
+stiegen und fielen wechselsweise vor der Sonne.
+
+Hier nahebei ist ein kleiner See, der keinen Zu- und Abfluß zu haben
+scheint.  Das Wetter klärte sich völlig auf und wir kamen gegen den
+Fuß der Dent de Vaulion und trafen hier an's nördliche Ende des großen
+Sees, der, indem er sich westwärts wendet, in den kleinen durch einen
+Damm unter einer Brücke weg seinen Ausfluß hat.  Das Dorf drüben heißt
+le Pont.  Die Lage des kleinen Sees ist wie in einem eigenen kleinen
+Thal, was man niedlich sagen kann.
+
+An dem westlichen Ende ist eine merkwürdige Mühle in einer Felskluft
+angebracht, die ehemals der kleine See ausfüllte.  Nunmehr ist er
+abgedämmt und die Mühle in die Tiefe gebaut.  Das Wasser läuft durch
+Schleusen auf die Räder, es stürzt sich von da in Felsritzen, wo es
+eingeschluckt wird und erst eine Stunde von da im Valorbe hervor kommt,
+wo es wieder den Namen des Orbeflusses führet.  Diese Abzüge
+(entonnoirs) müssen rein gehalten werden, sonst würde das Wasser
+steigen, die Kluft wieder ausfüllen und über die Mühle weg gehen, wie
+es schon mehr geschehen ist.  Sie waren stark in der Arbeit begriffen,
+den morschen Kalkfelsen theils wegzuschaffen, theils zu befestigen.
+Wir ritten zurück über die Brücke nach Pont, nahmen einen Wegweiser
+auf la Dent.
+
+Im Aufsteigen sahen wir nunmehr den großen See völlig hinter uns.
+Ostwärts ist der noir Mont seine Gränze, hinter dem der kahle Gipfel
+der Dole hervorkommt, westwärts hält ihn der Felsrücken, der gegen den
+See ganz nackt ist, zusammen.  Die Sonne schien heiß, es war zwischen
+Eilf und Mittag.  Nach und nach übersahen wir das ganze Thal, konnten
+in der Ferne den Lac des Rousses erkennen, und weiter her bis zu
+unsern Füßen die Gegend durch die wir gekommen waren, und den Weg der
+uns rückwärts noch überblieb.  Im Aufsteigen wurde von der großen
+Strecke Landes und den Herrschaften, die man oben unterscheiden könnte,
+gesprochen, und in solchen Gedanken betraten wir den Gipfel; allein
+uns war ein ander Schauspiel zubereitet.  Nur die hohen Gebirgketten
+waren unter einem klaren und heitern Himmel sichtbar, alle niederen
+Gegenden mit einem weißen wolkigen Nebelmeer überdeckt, das sich von
+Genf bis nordwärts an den Horizont erstreckte und in der Sonne glänzte.
+Daraus stieg ostwärts die ganze reine Reihe aller Schnee- und
+Eisgebirge, ohne Unterschied von Namen der Völker und Fürsten, die sie
+zu besitzen glauben, nur Einem großen Herrn und dem Blick der Sonne
+unterworfen, der sie schön röthete.
+
+Der Montblanc gegen uns über schien der höchste, die Eisgebirge des
+Wallis und des Oberlandes folgten, zuletzt schlossen niedere Berge des
+Cantons Bern.  Gegen Abend war an einem Platze das Nebelmeer
+unbegränzt, zur Linken in der weitsten Ferne zeigten sich sodann die
+Gebirge von Solothurn, näher die von Neufchâtel, gleich vor uns einige
+niedere Gipfel des Jura, unter uns lagen einige Häuser von Vaulion,
+dahin die Dent gehört und daher sie den Namen hat.
+
+Gegen Abend schließt die Franche-Comté mit flachstreichenden waldigen
+Bergen den ganzen Horizont, wovon ein einziger ganz in der Ferne gegen
+Nordwest sich unterschied.  Grad ab war ein schöner Anblick.  Hier ist
+die Spitze, die diesem Gipfel den Namen eines Zahns gibt.  Er geht
+steil und eher etwas einwärts hinunter, in der Tiefe schließt ein
+kleines Fichtenthal an mit schönen Grasplätzen, gleich drüber liegt
+das Thal Valorbe genannt, wo man die Orbe aus dem Felsen kommen sieht
+und rückwärts zum kleinen See ihren unterirdischen Lauf in Gedanken
+verfolgen kann.  Das Städtchen Valorbe liegt auch in diesem Thal.
+Ungern schieden wir.  Einige Stunden längeren Aufenthalts, indem der
+Nebel um diese Zeit sich zu zerstreuen pflegt, hätten uns das tiefere
+Land mit dem See entdecken lassen; so aber mußte, damit der Genuß
+vollkommen werde, noch etwas zu wünschen übrig bleiben.  Abwärts
+hatten wir unser ganzes Thal in aller Klarheit vor uns, stiegen bei
+Pont zu Pferde, ritten an der Ostseite den See hinauf, kamen durch
+l'Abbaye de Joux, welches jetzt ein Dorf ist, ehemals aber ein Sitz
+der Geistlichen war, denen das ganze Thal zugehörte.  Gegen Viere
+langten wir in unserm Wirthshaus an, und fanden ein Essen, wovon uns
+die Wirthin versicherte, daß es um Mittag gut gewesen sei, aber auch
+übergar trefflich schmeckte.
+
+Daß ich noch einiges, wie man mir es erzählt, Canton Bern, und sind
+die Gebirge umher die Holzkammer von dem Pays de Vaud.  Die meisten
+Hölzer sind Privatbesitzungen, werden unter Aufsicht geschlagen und so
+in's Land gefahren.  Auch werden hier die Dauben zu fichtenen Fässern
+geschnitten, Eimer, Bottiche und allerlei hölzerne Gefäße verfertiget.
+Die Leute sind gut gebildet und gesittet.  Neben dem Holzverkauf
+treiben sie die Viehzucht; sie haben kleines Vieh und machen gute Käse.
+Sie sind geschäftig, und ein Erdschollen ist ihnen viel werth.  Wir
+fanden einen, der die wenige aus einem Gräbchen aufgeworfene Erde mit
+Pferd und Karren in einige Vertiefungen eben der Wiese führte.  Die
+Steine legen sie sorgfältig zusammen und bringen sie auf kleine Haufen.
+
+Es sind viele Steinschleifer hier, die für Genfer und andere Kaufleute
+arbeiten, mit welchem Erwerb sich auch die Frauen und Kinder
+beschäftigen.  Die Häuser sind dauerhaft und sauber gebaut, die Form
+und Einrichtung nach dem Bedürfniß der Gegend und der Bewohner; vor
+jedem Hause läuft ein Brunnen, und durchaus spürt man Fleiß,
+Rührigkeit und Wohlstand.  Über alles aber muß man die schönen Wege
+preisen, für die, in diesen entfernten Gegenden, der Stand Bern wie
+durch den ganzen übrigen Canton sorgt.  Es geht eine Chaussee um das
+ganze Thal herum, nicht übermäßig breit, aber wohl unterhalten, so daß
+die Einwohner mit der größten Bequemlichkeit ihr Gewerbe treiben, mit
+kleinen Pferden und leichten Wagen fortkommen können.  Die Luft ist
+sehr rein und gesund.
+
+Den 26. ward bei'm Frühstück überlegt, welchen Weg man zurück nehmen
+wolle.  Da wir hörten daß die Dole, der höchste Gipfel des Jura, nicht
+weit von dem obern Ende des Thals liege, da das Wetter sich auf das
+herrlichste anließ und wir hoffen konnten, was uns gestern noch
+gefehlt, heute vom Glück alles zu erlangen; so wurde dahin zu gehen
+beschlossen.  Wir packten einem Boten Käse, Butter, Brot und Wein auf,
+und ritten gegen Achte ab.  Unser Weg ging nun durch den obern Theil
+des Thals in dem Schatten des noir Mont hin.  Es war sehr kalt, hatte
+gereift und gefroren; wir hatten noch eine Stunde im Bernischen zu
+reiten, wo sich die Chaussee, die man eben zu Ende bringt, abschneiden
+wird.  Durch einen kleinen Fichtenwald rückten wir in's französische
+Gebiet ein.  Hier verändert sich der Schauplatz sehr.  Was wir zuerst
+bemerkten, waren die schlechten Wege.
+
+Der Boden ist sehr steinicht, überall liegen sehr große Haufen
+zusammen gelesen; wieder ist er eines Theils sehr morastig und quellig;
+die Waldungen umher sind sehr ruiniret; den Häusern und Einwohnern
+sieht man ich will nicht sagen Mangel, aber doch bald ein sehr enges
+Bedürfniß an.  Sie gehören fast als Leibeigne an die Canonici von St.
+Claude, sie sind an die Erde gebunden, viele Abgaben liegen auf ihnen
+(sujets à la main morte et au droit de la suite), wovon mündlich ein
+mehreres, wie auch von dem neusten Edict des Königs, wodurch das droit
+de la suite aufgehoben wird, die Eigenthümer und Besitzer aber
+eingeladen werden, gegen ein gewisses Geld der main morte zu entsagen.
+Doch ist auch dieser Theil des Thals sehr angebaut.  Sie nähren sich
+mühsam und lieben doch ihr Vaterland sehr, stehlen gelegentlich den
+Bernern Holz und verkaufen's wieder in's Land.  Der erste Sprengel
+heißt le Bois d'Amont, durch den wir in das Kirchspiel les Rousses
+kamen, wo wir den kleinen Lac des Rousses und les sept Moncels, sieben
+kleine, verschieden gestaltete und verbundene Hügel, die mittägige
+Gränze des Thals, vor uns sahen.  Wir kamen bald auf die neue Straße,
+die aus dem Pays de Vaud nach Paris führt; wir folgten ihr eine Weile
+abwärts, und waren nunmehr von unserm Thale geschieden; der kahle
+Gipfel der Dole lag vor uns, wir stiegen ab, unsre Pferde zogen auf
+der Straße voraus nach St. Sergues, und wir stiegen die Dole hinan.
+Es war gegen Mittag, die Sonne schien heiß, aber es wechselte ein
+kühler Mittagswind.  Wenn wir, auszuruhen, uns umsahen, hatten wir les
+sept Moncels hinter uns, wir sahen noch einen Theil des Lac des
+Rousses und um ihn die zerstreuten Häuser des Kirchspiels, der noir
+Mont deckte uns das übrige ganze Thal, höher sahen wir wieder ungefähr
+die gestrige Aussicht in die Franche-Comté und näher bei uns, gegen
+Mittag, die letzten Berge und Thäler des Jura.  Sorgfältig hüteten wir
+uns, nicht durch einen Bug der Hügel uns nach der Gegend umzusehen, um
+derentwillen wir eigentlich herauf stiegen.  Ich war in einiger Sorge
+wegen des Nebels, doch zog ich aus der Gestalt des obern Himmels
+einige gute Vorbedeutungen.  Wir betraten endlich den obern Gipfel und
+sahen mit größtem Vergnügen uns heute gegönnt, was uns gestern versagt
+war.  Das ganze Pays de Vaud und de Gex lag wie eine Flurkarte unter
+uns, alle Besitzungen mit grünen Zäunen abgeschnitten, wie die Beete
+eines Parterres.  Wir waren so hoch, daß die Höhen und Vertiefungen
+des vordern Landes gar nicht erschienen.
+
+Dörfer, Städtchen, Landhäuser, Weinberge, und höher herauf, wo Wald
+und Alpen angehen, Sennhütten, meistens weiß und hell angestrichen,
+leuchteten gegen die Sonne.  Vom Lemaner-See hatte sich der Nebel
+schon zurück gezogen, wir sahen den nächsten Theil an der diesseitigen
+Küste deutlich; den sogenannten kleinen See, wo sich der große
+verenget und gegen Genf zugeht, dem wir gegenüber waren, überblickten
+wir ganz, und gegenüber klärte sich das Land auf, das ihn einschließt.
+Vor allem aber behauptete der Anblick über die Eis- und Schneeberge
+seine Rechte.  Wir setzten uns vor der kühlen Luft in Schutz hinter
+Felsen, ließen uns von der Sonne bescheinen, das Essen und Trinken
+schmeckte trefflich.  Wir sahen dem Nebel zu, der sich nach und nach
+verzog, jeder entdeckte etwas, oder glaubte etwas zu entdecken.  Wir
+sahen nach und nach Lausanne mit allen Gartenhäusern umher, Vevey und
+das Schloß von Chillon ganz deutlich, das Gebirg das uns den Eingang
+vom Wallis verdeckte, bis in den See, von da, an der Savoyer Küste,
+Evian, Ripaille, Tonon, Dörfchen und Häuschen zwischen inne; Genf kam
+endlich rechts auch aus dem Nebel, aber weiter gegen Mittag, gegen den
+Montcrédo und Mont-vauche, wo das Fort l'Ecluse inne liegt, zog er
+sich gar nicht weg. Wendeten wir uns wieder links, so lag das ganze
+Land von Lausanne bis Solothurn in leichtem Duft.  Die nähern Berge
+und Höhen, auch alles, was weiße Häuser hatte, konnten wir erkennen;
+man zeigte uns das Schloß Chanvan blinken, das vom Neuburgersee links
+liegt, woraus wir seine Lage muthmaßen, ihn aber in dem blauen Duft
+nicht erkennen konnten.  Es sind keine Worte für die Größe und Schöne
+dieses Anblicks, man ist sich im Augenblick selbst kaum bewußt, daß
+man sieht, man ruft sich nur gern die Namen und alten Gestalten der
+bekannten Städte und Orte zurück, und freut sich in einer taumelnden
+Erkenntniß, daß das eben die weißen Puncte sind, die man vor sich hat.
+
+Und immer wieder zog die Reihe der glänzenden Eisgebirge das Aug' und
+die Seele an sich.  Die Sonne wendete sich mehr gegen Abend und
+erleuchtete ihre größern Flächen gegen uns zu.  Schon was vom See auf
+für schwarze Felsrücken, Zähne, Thürme und Mauern in vielfachen Reihen
+vor ihnen aufsteigen!  Wilde, ungeheure, undurchdringliche Vorhöfe
+bilden! wenn sie dann erst selbst in der Reinheit und Klarheit in der
+freien Luft mannichfaltig da liegen; man gibt da gern jede Prätension
+an's Unendliche auf, da man nicht einmal mit dem Endlichen im
+Anschauen und Gedanken fertig werden kann.
+
+Vor uns sahen wir ein fruchtbares bewohntes Land; der Boden worauf wir
+stunden, ein hohes kahles Gebirge, trägt noch Gras, Futter für Thiere,
+von denen der Mensch Nutzen zieht.  Das kann sich der einbildische
+Herr der Welt noch zueignen; aber jene sind wie eine heilige Reihe von
+Jungfrauen, die der Geist des Himmels in unzugänglichen Gegenden, vor
+unsern Augen, für sich allein in ewiger Reinheit aufbewahrt.  Wir
+blieben und reizten einander wechselsweise, Städte, Berge und Gegenden,
+bald mit bloßem Auge, bald mit dem Teleskop, zu entdecken, und gingen
+nicht eher abwärts, als bis die Sonne, im Weichen, den Nebel seinen
+Abendhauch über den See breiten ließ.  Wir kamen mit Sonnenuntergang
+auf die Ruinen des Fort de St. Sergues.  Auch näher am Thal, waren
+unsre Augen nur auf die Eisgebirge gegenüber gerichtet.  Die letzten,
+links im Oberland, schienen in einen leichten Feuerdampf
+aufzuschmelzen; die nächsten standen noch mit wohl bestimmten rothen
+Seiten gegen uns, nach und nach wurden jene weiß, grün, graulich.  Es
+sah fast ängstlich aus.  Wie ein gewaltiger Körper von außen gegen das
+Herz zu abstirbt, so erblaßten alle langsam gegen den Montblanc zu,
+dessen weiter Busen noch immer roth herüber glänzte und auch zuletzt
+uns noch einen röthlichen Schein zu behalten schien, wie man den Tod
+des Geliebten nicht gleich bekennen, und den Augenblick, wo der Puls
+zu schlagen aufhört, nicht abschneiden will.  Auch nun gingen wir
+ungern weg. Die Pferde fanden wir in St. Sergues, und daß nichts fehle,
+stieg der Mond auf und leuchtete uns nach Nyon, indeß unterweges
+unsere gespannten Sinnen sich wieder lieblich falten konnten, wieder
+freundlich wurden, um mit frischer Lust aus den Fenstern des
+Wirthshauses den breitschwimmenden Widerglanz des Mondes im ganz
+reinen See genießen zu können.
+
+Hier und da auf der ganzen Reise ward soviel von der Merkwürdigkeit
+der Savoyer Eisgebirge gesprochen, und wie wir nach Genf kamen, hörten
+wir, es werde immer mehr Mode dieselben zu sehen, daß der Graf eine
+sonderliche Lust kriegte, unsern Weg dahin zu leiten, von Genf aus
+über Cluse und Salenche in's Thal Chamouni zu gehen, die Wunder zu
+betrachten, dann über Valorsine und Trient nach Martinach in's Wallis
+zu fallen.  Dieser Weg, den die meisten Reisenden nehmen, schien wegen
+der Jahrszeit etwas bedenklich.  Der Herr de Saussure wurde deßwegen
+auf seinem Landgute besucht und um Rath gefragt.  Er versicherte, daß
+man ohne Bedenken den Weg machen könne: es liege auf den mittlern
+Bergen noch kein Schnee, und wenn wir in der Folge auf's Wetter und
+auf den guten Rath der Landleute achten wollten, der niemals fehl
+schlage, so könnten wir mit aller Sicherheit diese Reise unternehmen.
+Hier ist die Abschrift eines sehr eiligen Tageregisters.
+
+
+
+
+Cluse in Savoyen den 3. November.
+
+Heute bei'm Abscheiden von Genf theilte sich die Gesellschaft; der
+Graf, mit mir und einem Jäger, zog nach Savoyen zu; Freund W. mit den
+Pferden durch's Pays de Vaud in's Wallis.  Wir in einem leichten
+Cabriolett mit vier Rädern, fuhren erst, Hubern auf seinem Landgute zu
+besuchen, den Mann, dem Geist, Imagination, Nachahmungsbegierde zu
+allen Gliedern heraus will, einen der wenigen ganzen Menschen, die wir
+angetroffen haben.  Er setzte uns auf den Weg, und wir fuhren sodann,
+die hohen Schneegebirge, an die wir wollten, vor Augen, weiter.  Vom
+Genfersee laufen die vordern Bergketten gegen einander, bis da, wo
+Bonneville, zwischen der Mole, einem ansehnlichen Berge, und der Arve
+inne liegt.  Da aßen wir zu Mittag.  Hinter der Stadt schließt sich
+das Thal an, obgleich noch sehr breit, die Arve fließt sachte durch,
+die Mittagseite ist sehr angebaut und durchaus der Boden benutzt.  Wir
+hatten seit früh etwas Regen, wenigstens auf die Nacht, befürchtet,
+aber die Wolken verließen nach und nach die Berge und theilten sich in
+Schäfchen, die uns schon mehr ein gutes Zeichen gewesen.  Die Luft war
+so warm, wie Anfang Septembers und die Gegend sehr schön, noch viele
+Bäume grün, die meisten braungelb, wenige ganz kahl, die Saat hochgrün,
+die Berge im Abendroth rosenfarb in's Violette, und diese Farben auf
+großen, schönen, gefälligen Formen der Landschaft.  Wir schwatzten
+viel Gutes.  Gegen Fünfe kamen wir nach Cluse, wo das Thal sich
+schließet und nur Einen Ausgang läßt, wo die Arve aus dem Gebirge
+kommt und wir morgen hineingehen.  Wir stiegen auf einen Berg und
+sahen unter uns die Stadt an einen Fels gegenüber mit der einen Seite
+angelehnt, die andere mehr in die Fläche des Thals hingebaut, das wir
+mit vergnügten Blicken durchliefen, und auf abgestürzten Granitstücken
+sitzend, die Ankunft der Nacht, mit ruhigen und mannichfaltigen
+Gesprächen, erwarteten.  Gegen Sieben, als wir hinabstiegen, war es
+noch nicht kühler, als es im Sommer um neun Uhr zu sein pflegt.  In
+einem schlechten Wirthshaus, bei muntern und willigen Leuten, an deren
+Patois man sich erlustigt, erschlafen wir nun den morgenden Tag, vor
+dessen Anbruch wir schon unsern Stab weiter setzen wollen.
+
+Abends gegen Zehn.
+
+
+
+
+Salenche den 4. Nov. Mittags.
+
+Bis ein schlechtes Mittagessen von sehr willigen Händen wird bereitet
+sein, versuche ich das Merkwürdigste von heute früh aufzuschreiben.
+Mit Tages Anbruch gingen wir zu Fuße von Cluse ab, den Weg nach Balme.
+Angenehm frisch war's im Thal, das letzte Mondviertel ging vor der
+Sonne hell auf und erfreute uns, weil man es selten so zu sehen
+gewohnt ist.  Leichte, einzelne Nebel stiegen aus den Felsritzen
+aufwärts, als wenn die Morgenluft junge Geister aufweckte, die Lust
+fühlten, ihre Brust der Sonne entgegen zu tragen und sie an ihren
+Blicken zu vergülden.  Der obere Himmel war ganz rein, nur wenige
+durchleuchtete Wolkenstreifen zogen quer darüber hin.  Balme ist ein
+elendes Dorf, unfern vom Weg, wo sich eine Felsschlucht wendet.  Wir
+verlangten von den Leuten, daß sie uns zur Höhle führen sollten, von
+der der Ort seinen Ruf hat.  Da sahen sich die Leute unter einander an
+und sagten einer zum andern: Nimm du die Leiter, ich will den Strick
+nehmen, kommt ihr Herrn nur mit!  Diese wunderbare Einladung schreckte
+uns nicht ab, ihnen zu folgen.  Zuerst ging der Stieg durch
+abgestürzte Kalkfelsenstücke hinauf, die durch die Zeit vor die steile
+Felswand aufgestufet worden und mit Hasel- und Buchenbüschen
+durchwachsen sind.  Auf ihnen kommt man endlich an die Schicht der
+Felswand, wo man mühselig und leidig, auf der Leiter und Felsstufen,
+mit Hülfe übergebogener Nußbaum-Äste und daran befestigter Stricke,
+hinauf klettern muß dann steht man fröhlich in einem Portal das in den
+Felsen eingewittert ist, übersieht das Thal und das Dorf unter sich.
+Wir bereiteten uns zum Eingang in die Höhle, zündeten Lichter an und
+luden eine Pistole, die wir losschießen wollten.  Die Höhle ist ein
+langer Gang, meist ebenen Bodens, auf Einer Schicht, bald zu einem
+bald zu zwei Menschen breit, bald über Mannshöhe, dann wieder zum
+Bücken und auch zum Durchkriechen.  Gegen die Mitte steigt eine Kluft
+aufwärts und bildet einen spitzigen Dom.  In einer Ecke schiebt eine
+Kluft abwärts, wo wir immer gelassen Siebzehn bis Neunzehn gezählt
+haben, eh' ein Stein, mit verschiedentlich widerschallenden Sprüngen,
+endlich in die Tiefe kam.  An den Wänden sintert ein Tropfstein, doch
+ist sie an den wenigsten Orten feucht, auch bilden sich lange nicht
+die reichen wunderbaren Figuren, wie in der Baumanns-Höhle.  Wir
+drangen so weit vor, als es die Wasser zuließen, schossen im
+Herausgehen die Pistole los, davon die Höhle mit einem starken dumpfen
+Klang erschüttert wurde und um uns wie eine Glocke summte.  Wir
+brauchten eine starke Viertelstunde wieder heraus zu gehen, machten
+uns die Felsen wieder hinunter, fanden unsern Wagen und fuhren weiter.
+Wir sahen einen schönen Wasserfall auf Staubbachs Art; er war weder
+sehr hoch noch sehr reich, doch sehr interessant, weil die Felsen um
+ihn wie eine runde Nische bilden, in der er herabstürzt, und weil die
+Kalkschichten an ihm, in sich selbst umgeschlagen, neue und ungewohnte
+Formen bilden.  Bei hohem Sonnenschein kamen wir hier an, nicht
+hungrig genug, das Mittagessen, das aus einem aufgewärmten Fisch,
+Kuhfleisch und hartem Brot bestehet, gut zu finden.  Von hier geht
+weiter in's Gebirg kein Fuhrweg für eine so stattliche Reisekutsche,
+wie wir haben; diese geht nach Genf zurück und ich nehme Abschied von
+Ihnen, um den Weg weiter fortzusetzen.  Ein Maulesel mit dem Gepäck
+wird uns auf dem Fuße folgen.
+
+
+
+
+Chamouni, den 4. Nov.
+
+Abends gegen Neun.
+
+Nur daß ich mit diesem Blatt Ihnen um so viel näher rücken kann, nehme
+ich die Feder; sonst wäre es besser meine Geister ruhen zu lassen.
+Wir ließen Salenche in einem schönen offnen Thale hinter uns, der
+Himmel hatte sich während unsrer Mittagrast mit weißen Schäfchen
+überzogen, von denen ich hier eine besondere Anmerkung machen muß.
+Wir haben sie so schön und noch schöner an einem heitern Tag von den
+Berner Eisbergen aufsteigen sehen.  Auch hier schien es uns wieder so,
+als wenn die Sonne die leisesten Ausdünstungen von den höchsten
+Schneegebirgen gegen sich aufzöge, und diese ganz feinen Dünste von
+einer leichten Luft, wie eine Schaumwolle, durch die Atmosphäre
+gekämmt würden.  Ich erinnere mich nie in den höchsten Sommertagen,
+bei uns, wo dergleichen Lufterscheinungen auch vorkommen, etwas so
+Durchsichtiges, Leichtgewobenes gesehen zu haben.  Schon sahen wir die
+Schneegebirge, von denen sie aufsteigen, vor uns, das Thal fing an zu
+stocken, die Arve schoß aus einer Felskluft hervor, wir mußten einen
+Berg hinan und wanden uns, die Schneegebirge rechts vor uns, immer
+höher.  Abwechselnde Berge, alte Fichtenwälder zeigten sich uns rechts,
+theils in der Tiefe, theils in gleicher Höhe mit uns.  Links über uns
+waren die Gipfel des Bergs kahl und spitzig.
+
+Wir fühlten, daß wir einem stärkern und mächtigern Satz von Bergen
+immer näher rückten.  Wir kamen über ein breites trocknes Bett von
+Kieseln und Steinen, das die Wasserfluthen die Länge des Berges hinab
+zerreißen und wieder füllen; von da in ein sehr angenehmes,
+rundgeschlossenes, flaches Thal, worin das Dörfchen Serves liegt.  Von
+da geht der Weg um einige sehr bunte Felsen, wieder gegen die Arve.
+
+Wenn man über sie weg ist, steigt man einen Berg hinan, die Massen
+werden hier immer größer, die Natur hat hier mit sachter Hand das
+Ungeheure zu bereiten angefangen.
+
+Es wurde dunkler, wir kamen dem Thale Chamouni näher und endlich
+darein.  Nur die großen Massen waren uns sichtbar.  Die Sterne gingen
+nach einander auf und wir bemerkten über den Gipfeln der Berge, rechts
+vor uns, ein Licht, das wir nicht erklären konnten.  Hell, ohne Glanz
+wie die Milchstraße, doch dichter, fast wie die Plejaden, nur größer,
+unterhielt es lange unsere Aufmerksamkeit, bis es endlich, da wir
+unsern Standpunct änderten, wie eine Pyramide, von einem innern
+geheimnißvollen Lichte durchzogen, das dem Schein eines Johanniswurms
+am besten verglichen werden kann, über den Gipfeln aller Berge
+hervorragte und uns gewiß machte, daß es der Gipfel des Montblanc war.
+Es war die Schönheit dieses Anblicks ganz außerordentlich; denn, da
+er mit den Sternen, die um ihn herumstunden, zwar nicht in gleich
+raschem Licht, doch in einer breitern zusammenhängendern Masse
+leuchtete, so schien er den Augen zu einer höhern Sphäre zu gehören
+und man hatte Müh', in Gedanken seine Wurzeln wieder an die Erde zu
+befestigen.  Vor ihm sahen wir eine Reihe von Schneegebirgen
+dämmernder auf den Rücken von schwarzen Fichtenbergen liegen und
+ungeheure Gletscher zwischen den schwarzen Wäldern herunter in's Thal
+steigen.  Meine Beschreibung fängt an unordentlich und ängstlich zu
+werden; auch brauchte es eigentlich immer zwei Menschen, einen der's
+sähe und einen der's beschriebe.  Wir sind hier in dem mittelsten
+Dorfe des Thals, le Prieuré genannt, wohl logirt, in einem Hause, das
+eine Witwe, den vielen Fremden zu Ehren, vor einigen Jahren erbauen
+ließ.  Wir sitzen am Kamin und lassen uns den Muskatellerwein, aus der
+Vallée d'Aost, besser schmecken, als die Fastenspeisen, die uns
+aufgetischt werden.
+
+
+
+
+Den 5. Nov. Abends.
+
+Es ist immer eine Resolution, als wie wenn man in's kalte Wasser soll,
+ehe ich die Feder nehmen mag, zu schreiben.  Hier hätt' ich nun gerade
+Lust, Sie auf die Beschreibung der Savoyschen Eisgebirge, die Bourit,
+ein passionirter Kletterer, herausgegeben hat, zu verweisen.
+
+Erfrischt durch einige Gläser guten Weins und den Gedanken, daß diese
+Blätter eher als die Reisenden und Bourits Buch bei Ihnen ankommen
+werden, will ich mein Möglichstes thun.  Das Thal Chamouni, in dem wir
+uns befinden, liegt sehr hoch in den Gebirgen, ist etwa sechs bis
+sieben Stunden lang und gehet ziemlich von Mittag gegen Mitternacht.
+Der Charakter, der mir es vor andern auszeichnet, ist, daß es in
+seiner Mitte fast gar keine Fläche hat, sondern das Erdreich, wie eine
+Mulde, sich gleich von der Arve aus gegen die höchsten Gebirge
+anschmiegt.
+
+Der Montblanc und die Gebirge die von ihm herabsteigen, die Eismassen,
+die diese ungeheuren Klüfte ausfüllen, machen die östliche Wand aus,
+an der die ganze Länge des Thals hin sieben Gletscher, einer größer
+als der andere, herunter kommen.  Unsere Führer, die wir gedingt
+hatten, das Eismeer zu sehen, kamen bei Zeiten.  Der eine ist ein
+rüstiger junger Bursche, der andre ein schon älterer und sich
+klugdünkender, der mit allen gelehrten Fremden Verkehr gehabt hat, von
+der Beschaffenheit der Eisberge sehr wohl unterrichtet und ein sehr
+tüchtiger Mann.  Er versicherte uns, daß seit acht und zwanzig Jahren
+— so lange führ' er Fremde auf die Gebirge — er zum erstenmal so spät
+im Jahr, nach Allerheiligen, jemand hinauf bringe; und doch sollten
+wir alles eben so gut wie im August sehen.  Wir stiegen, mit Speise
+und Wein gerüstet, den Mont-Anvert hinan, wo uns der Anblick des
+Eismeers überraschen sollte.  Ich würde es, um die Backen nicht so
+voll zu nehmen, eigentlich das Eisthal oder den Eisstrom nennen: denn
+die ungeheuren Massen von Eis dringen aus einem tiefen Thal, von oben
+anzusehen, in ziemlicher Ebne hervor.  Gerad hinten endigt ein spitzer
+Berg, von dessen beiden Seiten Eiswogen in den Hauptstrom
+hereinstarren.  Es lag noch nicht der mindeste Schnee auf der zackigen
+Fläche und die blauen Spalten glänzten gar schön hervor.  Das Wetter
+fing nach und nach an sich zu überziehen, und ich sah wogige graue
+Wolken, die Schnee anzudeuten schienen, wie ich sie niemals gesehn.
+
+In der Gegend wo wir stunden, ist die kleine von Steinen zusammen
+gelegte Hütte für das Bedürfniß der Reisenden, zum Scherz das Schloß
+von Mont-Anvert genannt.  Monsieur Blaire, ein Engländer, der sich zu
+Genf aufhält, hat eine geräumigere an einem schicklichern Ort, etwas
+weiter hinauf, erbauen lassen, wo man am Feuer sitzend, zu einem
+Fenster hinaus, das ganze Eisthal übersehen kann.  Die Gipfel der
+Felsen gegenüber und auch in die Tiefe des Thals hin sind sehr spitzig
+ausgezackt.  Es kommt daher, weil sie aus einer Gesteinart zusammen
+gesetzt sind, deren Wände fast ganz perpendikular in die Erde
+einschießen.  Wittert eine leichter aus, so bleibt die andere spitz in
+die Luft stehen.  Solche Zacken werden Nadeln genennet und die
+Aiguille du Dru ist eine solche hohe merkwürdige Spitze, gerade dem
+Mont-Anvert gegenüber.  Wir wollten nunmehr auch das Eismeer betreten
+und diese ungeheuren Massen auf ihnen selbst beschauen.  Wir stiegen
+den Berg hinunter und machten einige hundert Schritte auf den wogigen
+Krystallklippen herum.  Es ist ein ganz trefflicher Anblick, wenn man,
+auf dem Eise selbst stehend, den oberwärts sich herabdrängenden und
+durch seltsame Spalten geschiedenen Massen entgegen sieht.  Doch
+wollt' es uns nicht länger auf diesem schlüpfrigen Boden gefallen, wir
+waren weder mit Fußeisen, noch mit beschlagenen Schuhen gerüstet;
+vielmehr hatten sich unsere Absätze durch den langen Marsch abgerundet
+und geglättet.  Wir machten uns also wieder zu den Hütten hinauf und
+nach einigem Ausruhen zur Abreise fertig.  Wir stiegen den Berg hinab
+und kamen an den Ort, wo der Eisstrom stufenweis bis hinunter in's
+Thal dringt, und traten in die Höhle in der er sein Wasser ausgießt.
+Sie ist weit, tief, von dem schönsten Blau, und es steht sich sicherer
+im Grund als vorn an der Mündung, weil an ihr sich immer große Stücke
+Eis schmelzend ablösen.  Wir nahmen unsern Weg nach dem Wirthshause zu,
+bei der Wohnung zweier Blondins vorbei: Kinder von zwölf bis vierzehn
+Jahren, die sehr weiße Haut, weiße, doch schroffe Haare, rothe und
+bewegliche Augen wie die Kaninchen haben.  Die tiefe Nacht, die im
+Thale liegt, lädt mich zeitig zu Bette, und ich habe kaum noch so viel
+Munterkeit Ihnen zu sagen, daß wir einen jungen zahmen Steinbock
+gesehen haben, der sich unter den Ziegen ausnimmt, wie der natürliche
+Sohn eines großen Herrn, dessen Erziehung in der Stille einer
+bürgerlichen Familie aufgetragen ist.
+
+Von unsern Discursen geht's nicht an, daß ich etwas außer der Reihe
+mittheile.  An Graniten, Gneißen, Lerchen und Zirbelbäumen finden Sie
+auch keine große Erbauung; doch sollen Sie ehestens merkwürdige
+Früchte von unserm Botanisiren zu sehen kriegen.  Ich bilde mir ein,
+sehr schlaftrunken zu sein und kann nicht eine Zeile weiter schreiben.
+
+
+
+
+Chamouni, den 6. Nov. früh.
+
+Zufrieden mit dem, was uns die Jahrszeit hier zu sehen erlaubte, sind
+wir reisefertig, noch heute in's Wallis durchzudringen.  Das ganze
+Thal ist über und über bis an die Hälfte der Berge mit Nebel bedeckt,
+und wir müssen erwarten, was Sonne und Wind zu unserm Vortheil thun
+werden.  Unser Führer schlägt uns einen Weg über den Col de Balme vor:
+Ein hoher Berg, der an der nördlichen Seite des Thals gegen Wallis zu
+liegt, auf dem wir, wenn wir glücklich sind, das Thal Chamouni, mit
+seinen meisten Merkwürdigkeiten, noch auf einmal von der Höhe
+übersehen können.  Indem ich dieses schreibe, geschieht an dem Himmel
+eine herrliche Erscheinung: Die Nebel, die sich bewegen und sich an
+einigen Orten brechen, lassen wie durch Tagelöcher den blauen Himmel
+sehen und zugleich die Gipfel der Berge, die oben, über unsrer
+Dunstdecke, von der Morgensonne beschienen werden.  Auch ohne die
+Hoffnung eines schönen Tags ist dieser Anblick dem Aug' eine rechte
+Weide.  Erst jetzo hat man einiges Maß für die Höhe der Berge.  Erst
+in einer ziemlichen Höhe vom Thal auf streichen die Nebel an dem Berg
+hin, hohe Wolken steigen von da auf, und alsdann sieht man noch über
+ihnen die Gipfel der Berge in der Verklärung schimmern.  Es wird Zeit!
+Ich nehme zugleich von diesem geliebten Thal und von Ihnen Abschied.
+
+
+
+
+Martinach im Wallis, den 6. Nov. Abends.
+
+Glücklich sind wir herüber gekommen und so wäre auch dieses Abenteuer
+bestanden.  Die Freude über unser gutes Schicksal wird mir noch eine
+halbe Stunde die Feder lebendig erhalten.
+
+Unser Gepäck auf ein Maulthier geladen, zogen wir heute früh gegen
+Neune von Prieuré aus.  Die Wolken wechselten, daß die Gipfel der
+Berge bald erschienen, bald verschwanden, bald die Sonne streifweis
+in's Thal dringen konnte, bald die Gegend wieder verdeckt wurde.  Wir
+gingen das Thal hinauf, den Ausguß des Eisthals vorbei, ferner den
+Glacier d'Argentiere hin, den höchsten von allen, dessen oberster
+Gipfel uns aber von Wolken bedeckt war.  In der Gegend wurde Rath
+gehalten, ob wir den Stieg über den Col de Balme unternehmen und den
+Weg über Valorsine verlassen wollten.  Der Anschein war nicht der
+vortheilhafteste; doch da hier nichts zu verlieren und viel zu
+gewinnen war, traten wir unsern Weg keck gegen die dunkle Nebel- und
+Wolkenregion an.  Als wir gegen den Glacier du Tour kamen, rissen sich
+die Wolken auseinander, und wir sahen auch diesen schönen Gletscher in
+völligem Lichte.  Wir setzten uns nieder, tranken eine Flasche Wein
+aus und aßen etwas Weniges.  Wir stiegen nunmehr immer den Quellen der
+Arve auf rauhern Matten und schlecht beras'ten Flecken entgegen und
+kamen dem Nebelkreis immer näher, bis er uns endlich völlig aufnahm.
+Wir stiegen eine Weile geduldig fort, als es auf einmal, indem wir
+aufschritten, wieder über unsern Häuptern helle zu werden anfing.
+Kurze Zeit dauerte es, so traten wir aus den Wolken heraus, sahen sie
+in ihrer ganzen Last unter uns auf dem Thale liegen, und konnten die
+Berge, die es rechts und links einschließen, außer dem Gipfel des
+Montblanc, der mit Wolken bedeckt war, sehen, deuten und mit Namen
+nennen.  Wir sahen einige Gletscher von ihren Höhen bis zu der
+Wolkentiefe herabsteigen, von andern sahen wir nur die Plätze, indem
+uns die Eismassen durch die Bergschrunden verdeckt wurden.  Über die
+ganze Wolkenfläche sahen wir, außerhalb dem mittägigen Ende des Thales,
+ferne Berge im Sonnenschein.  Was soll ich Ihnen die Namen von den
+Gipfeln, Spitzen, Nadeln, Eis- und Schneemassen vorerzählen, die Ihnen
+doch kein Bild, weder vom Ganzen noch vom Einzelnen, in die Seele
+bringen.  Merkwürdiger ist's, wie die Geister der Luft sich unter uns
+zu streiten schienen.  Kaum hatten wir eine Weile gestanden und uns an
+der großen Aussicht ergetzt, so schien eine feindselige Gährung in dem
+Nebel zu entstehen, der auf einmal aufwärts strich, und uns auf's neue
+einzuwickeln drohte.  Wir stiegen stärker den Berg hinan, ihm nochmals
+zu entgehn, allein er überflügelte uns und hüllte uns ein.  Wir
+stiegen immer frisch aufwärts, und bald kam uns ein Gegenwind vom
+Berge selbst zu Hülfe, der durch den Sattel, der zwei Gipfel verbindet,
+hereinstrich und den Nebel wieder in's Thal zurücktrieb.  Dieser
+wundersame Streit wiederholte sich öfter, und wir langten endlich
+glücklich auf dem Col de Balme an.  Es war ein seltsamer, eigener
+Anblick.  Der höchste Himmel über den Gipfeln der Berge war überzogen,
+unter uns sahen wir durch den manchmal zerrissenen Nebel in's ganze
+Thal Chamouni, und zwischen diesen beiden Wolkenschichten waren die
+Gipfel der Berge alle sichtbar.  Auf der Ostseite waren wir von
+schroffen Gebirgen eingeschlossen, auf der Abendseite sahen wir in
+ungeheure Thäler, wo doch auf einigen Matten sich menschliche
+Wohnungen zeigten.  Vorwärts lag uns das Wallisthal, wo man mit einem
+Blick bis Martinach und weiter hinein mannichfaltig über einander
+geschlungene Berge sehen konnte.  Auf allen Seiten von Gebirgen
+umschlossen, die sich weiter gegen den Horizont immer zu vermehren und
+aufzuthürmen schienen, so standen wir auf der Gränze von Savoyen und
+Wallis.  Einige Contrebandiers kamen mit Mauleseln den Berg herauf und
+erschraken vor uns, da sie an dem Platz jetzo niemand vermutheten.
+Sie thaten einen Schuß, als ob sie sagen wollten: damit ihr seht, daß
+sie geladen sind, und einer ging voraus, um uns zu recognosciren.  Da
+er unsern Führer erkannte und unsere harmlosen Figuren sah, rückten
+die andern auch näher, und wir zogen mit wechselseitigen Glückwünschen
+an einander vorbei.  Der Wind ging scharf und es fing ein wenig an zu
+schneien.  Nunmehr ging es einen sehr rauhen und wilden Stieg abwärts,
+durch einen alten Fichtenwald, der sich auf Fels-Platten von Gneiß
+eingewurzelt hatte.  Vom Wind über einander gerissen verfaulten hier
+die Stämme mit ihren Wurzeln, und die zugleich losgebrochenen Felsen
+lagen schroff durch einander.  Endlich kamen wir in's Thal, wo der
+Trientfluß aus einem Gletscher entspringt, ließen das Dörfchen Trient
+ganz nahe rechts liegen und folgten dem Thale durch einen ziemlich
+unbequemen Weg, bis wir endlich gegen Sechse hier in Martinach auf
+flachem Wallisboden angekommen sind, wo wir uns zu weitern
+Unternehmungen ausruhen wollen.
+
+
+
+
+Martinach, den 6. Nov. 1779.
+
+Abends.
+
+Wie unsre Reise ununterbrochen fortgeht, knüpft sich auch ein Blatt
+meiner Unterhaltung mit Ihnen an's andre, und kaum hab' ich das Ende
+unserer Savoyer Wanderungen gefaltet und bei Seite gelegt, nehm' ich
+schon wieder ein andres Papier, um Sie mit dem bekannt zu machen, was
+wir zunächst vorhaben.  Zu Nacht sind wir in ein Land getreten, nach
+welchem unsre Neugier schon lange gespannt ist.  Noch haben wir nichts
+als die Gipfel der Berge, die das Thal von beiden Seiten einschließen,
+in der Abenddämmerung gesehen.  Wir sind im Wirthshause untergekrochen,
+sehen zum Fenster hinaus die Wolken wechseln, es ist uns so heimlich
+und so wohl, daß wir ein Dach haben, als Kindern, die sich aus Stühlen,
+Tischblättern und Teppichen eine Hütte am Ofen machen und sich darin
+bereden, es regne und schneie draußen, um angenehme eingebildete
+Schauer in ihren wir in der Herbstnacht in einem fremden unbekannten
+Lande.  Aus der Karte wissen wir, daß wir in dem Winkel eines
+Ellenbogens sitzen, von wo aus der kleinere Theil des Wallis, ungefähr
+von Mittag gegen Mitternacht, die Rhone hinunter sich an den Genfersee
+anschließt, der andere aber und längste, von Abend gegen Morgen, die
+Rhone hinauf bis an ihren Ursprung, die Furka, streicht.  Das Wallis
+selbst zu durchreisen macht uns eine angenehme Aussicht; nur wie wir
+oben hinaus kommen werden, erregt einige Sorge.  Zuvörderst ist
+festgesetzt, daß wir, um den untern Theil zu sehen, morgen bis St.
+Maurice gehen, wo der Freund, der mit den Pferden durch das Pays de
+Vaud gegangen, eingetroffen sein wird.  Morgen Abend gedenken wir
+wieder hier zu sein, und übermorgen soll es das Land hinauf.  Wenn es
+nach dem Rath des Herrn de Saussure geht, so machen wir den Weg bis an
+die Furka zu Pferde, sodann wieder bis Brieg zurück über den
+Simpelberg, wo bei jeder Witterung eine gute Passage ist, über Domo
+d'ossola, den Lago maggiore, über Bellinzona, und dann den Gotthard
+hinauf.  Der Weg soll gut und durchaus für Pferde practicabel sein.
+Am liebsten gingen wir über die Furka auf den Gotthard, der Kürze
+wegen und weil der Schwanz durch die italiänischen Provinzen von
+Anfang an nicht in unserm Plane war; allein wo mit den Pferden hin?
+die sich nicht über die Furka schleppen lassen, wo vielleicht gar
+schon Fußgängern der Weg durch Schnee versperrt ist.  Wir sind darüber
+ganz ruhig und hoffen von Augenblick zu Augenblick wie bisher von den
+Umständen selbst guten Rath zu nehmen.  Merkwürdig ist in diesem
+Wirthshause eine Magd, die bei einer großen Dummheit alle Manieren
+einer sich empfindsam zierenden deutschen Fräulein hat.  Es gab ein
+großes Gelächter, als wir uns die müden Füße mit rothem Wein und
+Kleien, auf Anrathen unsers Führers, badeten und sie von dieser
+annehmlichen Dirne abtrocknen ließen.
+
+
+
+
+Nach Tische.
+
+Am Essen haben wir uns nicht sehr erholt und hoffen daß der Schlaf
+besser schmecken soll.
+
+
+
+
+Den 7ten.  St. Maurice,
+
+gegen Mittag.
+
+Unter Weges ist es meine Art die schönen Gegenden zu genießen, daß ich
+mir meine abwesenden Freunde wechselsweise herbeirufe, und mich mit
+ihnen über die herrlichen Gegenstände unterhalte.  Komm' ich in ein
+Wirthshaus, so ist ausruhen, mich rückerinnern und an Sie schreiben
+Eins, wenn schon manchmal die allzusehr ausgespannte Seele lieber in
+sich selbst zusammenfiele und mit einem halben Schlaf sich erholte.
+
+Heute früh gingen wir in der Dämmerung von Martinach weg; ein frischer
+Nordwind ward mit dem Tage lebendig, wir kamen an einem alten Schlosse
+vorbei, das auf der Ecke steht, wo die beiden Arme des Wallis ein Y
+machen.  Das Thal ist eng und wird auf beiden Seiten von
+mannichfaltigen Bergen beschlossen, die wieder zusammen von eigenem,
+erhaben lieblichem Charakter sind.  Wir kamen dahin wo der Trientstrom
+um enge und gerade Felsenwände herum in das Thal dringt, daß man
+zweifelhaft ist, ob er nicht unter den Felsen hervor komme.  Gleich
+dabei steht die alte, vor'm Jahr durch den Fluß beschädigte Brücke,
+unweit welcher ungeheure Felsstücke vor kurzer Zeit vom Gebirge herab
+die Landstraße verschüttet haben.  Diese Gruppe zusammen würde ein
+außerordentlich schönes Bild machen.  Nicht weit davon hat man eine
+neue hölzerne Brücke gebaut und ein ander Stück Landstraße eingeleitet.
+Wir wußten, daß wir uns dem berühmten Wasserfall der Pisse vache
+näherten, und wünschten einen Sonnenblick, wozu uns die wechselnden
+Wolken einige Hoffnung machten.  An dem Wege betrachteten wir die
+vielen Granit- und Gneißstücke, die bei ihrer Verschiedenheit doch
+alle Eines Ursprungs zu sein schienen.  Endlich traten wir vor den
+Wasserfall, der seinen Ruhm vor vielen andern verdient.  In ziemlicher
+Höhe schießt aus einer engen Felskluft ein starker Bach flammend
+herunter in ein Becken, wo er in Staub und Schaum sich weit und breit
+im Wind herumtreibt.  Die Sonne trat hervor und machte den Anblick
+doppelt lebendig.  Unten im Wasserstaube hat man einen Regenbogen hin
+und wieder, wie man geht, ganz nahe vor sich.  Tritt man weiter hinauf,
+so sieht man noch eine schönere Erscheinung.  Die luftigen
+schäumenden Wellen des obern Strahls, wenn sie gischend und flüchtig
+die Linien berühren, wo in unsern Augen der Regenbogen entstehet,
+färben sich flammend, ohne daß die aneinanderhängende Gestalt eines
+Bogens erschiene; und so ist an dem Platze immer eine wechselnde
+feurige Bewegung.  Wir kletterten dran herum, setzten uns dabei nieder
+und wünschten ganze Tage und gute Stunden des Lebens dabei zubringen
+zu können.  Auch hier wieder, wie so oft auf dieser Reise, fühlten wir,
+daß große Gegenstände im Vorübergehen gar nicht empfunden und
+genossen werden können.  Wir kamen in ein Dorf wo lustige Soldaten
+waren, und tranken daselbst neuen Wein, den man uns gestern auch schon
+vorgesetzt hatte.  Er sieht aus wie Seifenwasser, doch mag ich ihn
+lieber trinken als ihren sauren jährigen und zweijährigen.  Wenn man
+durstig ist, bekommt alles wohl.  Wir sahen St. Maurice von weitem,
+wie es just an einem Platze liegt, wo das Thal sich zu einem Passe
+zusammendrückt.  Links über der Stadt sahen wir an einer Felsenwand
+eine kleine Kirche mit einer Einsiedelei angeflickt, wo wir noch
+hinaufzusteigen denken.  Hier im Wirthshaus fanden wir ein Billet vom
+Freunde, der zu Bex, drei viertel Stunden von hier, geblieben ist.
+Wir haben ihm einen Boten geschickt.  Der Graf ist spazieren gegangen,
+vorwärts die Gegend noch zu sehen; ich will einen Bissen essen und
+alsdann auch nach der berühmten Brücke und dem Paß zu gehn.
+
+Nach Eins.
+
+Ich bin wieder zurück von dem Fleckchen, wo man Tage lang sitzen,
+zeichnen, herumschleichen, und ohne müde zu werden sich mit sich
+selbst unterhalten könnte.  Wenn ich jemanden einen Weg in's Wallis
+rathen sollte, so wär' es dieser vom Genfersee die Rhone herauf.  Ich
+bin auf dem Weg nach Bex zu über die große Brücke gegangen, wo man
+gleich in's Berner Gebiet eintritt.  Die Rhone fließt dort hinunter
+und das Thal wird nach dem See zu etwas weiter.  Wie ich mich umkehrte,
+sah ich die Felsen sich bei St. Maurice zusammen drücken, und über
+die Rhone, die unten durchrauscht, in einem hohen Bogen eine schmale
+leichte Brücke kühn hinüber gesprengt.  Die mannichfaltigen Erker und
+Thürme einer Burg schließen drüben gleich an, und mit einem einzigen
+Thore ist der Eingang in's Wallis gesperrt.  Ich ging über die Brücke
+nach St. Maurice zurück, suchte noch vorher einen Gesichtspunct, den
+ich bei Hubern gezeichnet gesehn habe und auch ungefähr fand.
+
+Der Graf ist wieder gekommen, er war den Pferden entgegen gegangen und
+hat sich auf seinem Braunen voraus gemacht.  Er sagt, die Brücke sei
+so schön und leicht gebaut, daß es aussehe als wenn ein Pferd flüchtig
+über einen Graben setzt.  Der Freund kommt auch an, zufrieden von
+seiner Reise.  Er hat den Weg am Genfersee her bis Bex in wenigen
+Tagen zurück gelegt, und es ist eine allgemeine Freude sich wieder zu
+sehen.
+
+
+
+
+Martinach, gegen Neun.
+
+Wir sind tief in die Nacht geritten, und der Herweg hat uns länger
+geschienen als der Hinweg, wo wir von einem Gegenstand zu dem andern
+gelockt worden sind.  Auch habe ich aller Beschreibungen und
+Reflexionen für heute herzlich satt, doch will ich zwei schöne noch
+geschwind in der Erinnerung festsetzen.  An der Pisse vache kamen wir
+in tiefer Dämmerung wieder vorbei.  Die Berge, das Thal und selbst der
+Himmel waren dunkel und dämmernd.  Graulich und mit stillem Rauschen
+sah man den herabschießenden Strom von allen andern Gegenständen sich
+unterscheiden, man bemerkte fast gar keine Bewegung.  Es war immer
+dunkler geworden.  Auf einmal sahen wir den Gipfel einer sehr hohen
+Klippe, völlig wie geschmolzen Erz im Ofen, glühen und rothen Dampf
+davon aufsteigen.  Dieses sonderbare Phänomen wirkte die Abendsonne,
+die den Schnee und den davon aufsteigenden Nebel erleuchtete.
+
+
+
+
+Sion, den 8. Nov. nach drei Uhr.
+
+Wir haben heute früh einen Fehlritt gethan und uns wenigstens um drei
+Stunden versäumet.  Wir ritten vor Tag von Martinach weg, um bei
+Zeiten in Sion zu sein.  Das Wetter war außerordentlich schön, nur daß
+die Sonne, wegen ihres niedern Standes, von den Bergen gehindert war,
+den Weg den wir ritten zu bescheinen; und der Anblick des
+wunderschönen Wallisthals machte manchen guten und muntern Gedanken
+rege.  Wir waren schon drei Stunden die Landstraße hinan, die Rhone
+uns linker Hand, geritten; wir sahen Sion vor uns liegen und freuten
+uns auf das bald zu veranstaltende Mittagessen, als wir die Brücke,
+die wir zu passiren hatten, abgetragen fanden.  Es blieb uns, nach
+Angabe der Leute, die dabei beschäftigt waren, nichts übrig, als
+entweder einen kleinen Fußpfad, der an den Felsen hinging, zu wählen,
+oder eine Stunde wieder zurück zu reiten und alsdann über einige
+andere Brücken der Rhone zu gehen.  Wir wählten das letzte und ließen
+uns von keinem üblen Humor anfechten, sondern schrieben diesen Unfall
+wieder auf Rechnung eines guten Geistes, der uns bei der schönsten
+Tagszeit durch ein so interessantes Land spazieren führen wollte.  Die
+Rhone macht überhaupt in diesem engen Lande böse Händel.
+
+Wir mußten, um zu den andern Brücken zu kommen, über anderthalb
+Stunden durch die sandigen Flecke reiten, die sie durch
+Überschwemmungen sehr oft zu verändern pflegt, und die nur zu Erlen
+und Weidengebüschen zu benutzen sind.  Endlich kamen wir an die
+Brücken, die sehr bös, schwankend, lang und von falschen Klüppeln
+zusammen gesetzt sind.  Wir mußten einzeln unsere Pferde, nicht ohne
+Sorge, darüber führen.  Nun ging es an der linken Seite des Wallis
+wieder nach Sion zu.  Der Weg an sich war meistentheils schlecht und
+steinig, doch zeigte uns jeder Schritt eine Landschaft die eines
+Gemähldes werth gewesen wäre.  Besonders führte er uns auf ein Schloß
+hinauf, wo herunter sich eine der schönsten Aussichten zeigte, die ich
+auf dem ganzen Wege gesehen habe.  Die nächsten Berge schossen auf
+beiden Seiten mit ihren Lagen in die Erde ein, und verjüngten durch
+ihre Gestalt die Gegend gleichsam perspectivisch.  Die ganze Breite
+des Wallis von Berg zu Berg lag bequem anzusehen unter uns; die Rhone
+kam, mit ihren mannichfaltigen Krümmen und Buschwerken, bei Dörfern,
+Wiesen und angebauten Hügeln vorbeigeflossen; in der Entfernung sah
+man die Burg von Sion und die verschiedenen Hügel die sich dahinter zu
+erheben anfingen; die letzte Gegend ward wie mit einem
+Amphitheaterbogen durch eine Reihe von Schneegebirgen geschlossen, die
+wie das übrige Ganze von der hohen steinig der Weg war, den wir zu
+reiten hatten, so erfreulich fanden wir die noch ziemlich grünen
+Reblauben die ihn bedeckten.  Die Einwohner, denen jedes Fleckchen
+Erdreich kostbar ist, pflanzen ihre Weinstöcke gleich an ihre Mauern
+die ihre Güter von dem Wege scheiden; sie wachsen zu außerordentlicher
+Dicke und werden vermittelst Pfählen und Latten über den Weg gezogen,
+so daß er fast eine aneinanderhängende Laube bildet.  In dem untern
+Theil war meistens Wiesewachs, doch fanden wir auch, da wir uns Sion
+näherten, einigen Feldbau.  Gegen diese Stadt zu wird die Gegend durch
+wechselnde Hügel außerordentlich mannichfaltig, und man wünschte eine
+längere Zeit des Aufenthalts genießen zu können.  Doch unterbricht die
+Häßlichkeit der Städte und der Menschen die angenehmen Empfindungen,
+welche die Landschaft erregt, gar sehr.  Die scheußlichen Kröpfe haben
+mich ganz und gar üblen Humors gemacht.  Unsern Pferden dürfen wir
+wohl heute nichts mehr zumuthen, und denken deßwegen zu Fuße nach
+Seyters zu gehen.  Hier in Sion ist das Wirthshaus abscheulich, und
+die Stadt hat ein widriges schwarzes Ansehn.
+
+
+
+
+Seyters, den 8. Nov. Nachts.
+
+Da wir bei einbrechendem Abend erst von Sion weggegangen, sind wir bei
+Nacht unter einem hellen Sternhimmel hier angekommen.  Wir haben
+einige schöne Aussichten darüber verloren, merk' ich wohl.  Besonders
+wünschten wir das Schloß Tourbillion, das bei Sion liegt, erstiegen zu
+haben; es muß von da aus eine ganz ungemein schöne Aussicht sein.  Ein
+Bote, den wir mitnahmen, brachte uns glücklich durch einige böse
+Flecke, wo das Wasser ausgetreten war.  Bald erreichten wir die Höhe
+und hatten die Rhone immer rechts unter uns.  Mit verschiedenen
+astronomischen Gesprächen verkürzten wir den Weg, und sind bei guten
+Leuten, die ihr Bestes thun werden uns zu bewirthen, eingekehret.
+Wenn man zurück denkt, kommt einem so ein durchlebter Tag, wegen der
+mancherlei Gegenstände, fast wie eine Woche vor.  Es fängt mir an
+recht leid zu thun, daß ich nicht Zeit und Geschick habe, die
+merkwürdigsten Gegenden auch nur linienweise zu zeichnen; es ist immer
+besser als alle Beschreibungen für einen Abwesenden.
+
+
+
+
+Seyters, den 9ten.
+
+Noch ehe wir aufbrechen, kann ich Ihnen einen guten Morgen bieten.
+Der Graf wird mit mir links in's Gebirg nach dem Leukerbad zu gehen,
+der Freund indessen die Pferde hier erwarten und uns morgen in Leuk
+wieder antreffen.
+
+
+
+
+Leukerbad, den 9ten, am Fuß des Gemmiberges.
+
+In einem kleinen bretternen Haus, wo wir von sehr braven Leuten gar
+freundlich aufgenommen worden, sitzen wir in einer schmalen und
+niedrigen Stube, und ich will sehen, wie viel von unserer heutigen
+sehr interessanten Tour durch Worte mitzutheilen ist.  Von Seyters
+stiegen wir heute früh drei Stunden lang einen Berg herauf, nachdem
+wir vorherSteinen und Kies Felder, Wiesen und Gärten, die denn nach
+und nach kümmerlich, wenn es allenfalls noch möglich ist, von den
+Leuten wieder hergestellt und nach ein paar Generationen vielleicht
+wieder verschüttet werden.  Wir hatten einen grauen Tag mit
+abwechselnden Sonnenblicken.  Es ist nicht zu beschreiben, wie
+mannichfaltig auch hier das Wallis wieder wird; mit jedem Augenblick
+biegt und verändert sich die Landschaft.  Es scheint alles sehr nah
+beisammen zu liegen, und man ist doch durch große Schluchten und Berge
+getrennt.  Wir hatten bisher noch meist das offene Wallisthal rechts
+neben uns gehabt, als sich auf einmal ein schöner Anblick in's Gebirg
+vor uns aufthat.
+
+Ich muß, um anschaulicher zu machen was ich beschreiben will, etwas
+von der geographischen Lage der Gegend, wo wir uns befinden, sagen.
+Wir waren nun schon drei Stunden aufwärts in das ungeheure Gebirg
+gestiegen, das Wallis von Bern trennet.  Es ist eben der Stock von
+Bergen, der in Einemfort vom Genfersee bis auf den Gotthard läuft, und
+auf dem sich in dem Berner Gebiet die großen Eis- und Schnee-Massen
+eingenistet haben.  Hier sind oben und unten relative Worte des
+Augenblicks.  Ich sage, unter mir auf einer Fläche liegt ein Dorf, und
+eben diese Fläche liegt vielleicht wieder an einem Abgrund, der viel
+höher ist als mein Verhältniß zu ihr.  Wir sahen, als wir um eine Ecke
+herumkamen und bei einem Heiligenstock ausruhten, unter uns am Ende
+einer schönen grünen Matte, die an einem ungeheuren Felsschlund
+herging, das Dorf Inden mit {ed.-???}.
+
+Mitte von der Landschaft liegen.  Über der Schlucht drüben gingen
+wieder Matten und Tannenwälder aufwärts, gleich hinter dem Dorfe stieg
+eine große Kluft von Felsen in die Höhe, die Berge von der linken
+Seite schlossen sich bis zu uns an, die von der rechten setzten auch
+ihre Rücken weiter fort, so daß das Dörfchen mit seiner weißen Kirche
+gleichsam wie im Brennpunct von so viel zusammenlaufenden Felsen und
+Klüften dastand.  Der Weg nach Inden ist in die steile Felswand
+gehauen, die dieses Amphitheater von der linken Seite, im Hingehen
+gerechnet, einschließt.  Es ist dieses kein gefährlicher aber doch
+sehr fürchterlich aussehender Weg. Er geht auf den Lagen einer
+schroffen Felswand hinunter, an der rechten Seite mit einer geringen
+Planke von dem Abgrunde gesondert.
+
+Ein Kerl, der mit einem Maulesel neben uns hinab stieg, faßte sein
+Thier, wenn es an gefährliche Stellen kam, bei'm Schweife, um ihm
+einige Hülfe zu geben, wenn es gar zu steil vor sich hinunter in den
+Felsen hinein mußte.  Endlich kamen wir in Inden an, und da unser Bote
+wohl bekannt war, so fiel es uns leicht, von einer willigen Frau ein
+gut Glas rothen Wein und Brot zu erhalten, da sie eigentlich in dieser
+Gegend keine Wirthshäuser haben.  Nun ging es die hohe Schlucht hinter
+Inden hinauf, wo wir denn bald den so schrecklich beschriebenen
+Gemmiberg vor uns sahen, und das Leukerbad an seinem Fuß, zwischen
+andern hohen, unwegsamen und mit Schnee bedeckten Gebirgen, gleichsam
+wie in einer hohlen Hand liegen fanden.  Es war gegen Drei als wir
+ankamen; unser Führer schaffte uns bald Quartier.  Es ist zwar kein
+Gasthof hier, aber alle Leute sind so ziemlich, wegen der vielen
+Badegäste, die hieher kommen, eingerichtet.  Unsere Wirthin liegt seit
+gestern in den Wochen, und ihr Mann macht mit einer alten Mutter und
+der Magd ganz artig die Ehre des Hauses.  Wir bestellten etwas zu
+essen und ließen uns die warmen Quellen zeigen, die an verschiedenen
+Orten sehr stark aus der Erde hervorkommen und reinlich eingefaßt sind.
+Außer dem Dorfe, gegen das Gebirg zu, sollen noch einige stärkere
+sein.  Es hat dieses Wasser nicht den mindesten schwefelichten Geruch,
+setzt wo es quillt und wo es durchfließt nicht den mindesten Oker noch
+sonst irgend etwas Mineralisches oder Irdisches an, sondern läßt wie
+ein anderes reines Wasser keine Spur zurück.  Es ist, wenn es aus der
+Erde kommt, sehr heiß und wegen seiner guten Kräfte berühmt.  Wir
+hatten noch Zeit zu einem Spaziergang gegen den Fuß des Gemmi, der uns
+ganz nah zu liegen schien.  Ich muß hier wieder bemerken, was schon so
+oft vorgekommen, daß wenn man mit Gebirgen umschlossen ist, einem alle
+Gegenstände so außerordentlich nahe scheinen.  Wir hatten eine starke
+Stunde über herunter gestürzte Felsstücke und dazwischen geschwemmten
+Kies hinauf zu steigen, bis wir uns an dem Fuß des ungeheuren
+Gemmibergs, wo der Weg an steilen Klippen aufwärts gehet, befanden.
+Es ist dieß der Übergang in's Berner Gebiet, wo alle Kranken sich
+müssen in Sänften herunter tragen lassen.  Hieß' uns die Jahrszeit
+nicht eilen, so würde wahrscheinlicher Weise morgen ein Versuch
+gemacht werden, diesen so merkwürdigen Berg zu besteigen: so aber
+werden wir uns mit der bloßen Ansicht für dießmal begnügen müssen.
+Wie wir zurückgingen, sahen wir dem Gebräude der Wolken zu, das in der
+jetzigen Jahrszeit in diesen Gegenden äußerst interessant ist.  Über
+das schöne Wetter haben wir bisher ganz vergessen, daß wir im November
+leben; es ist auch, wie man uns im Bernschen voraussagte, hier der
+Herbst sehr gefällig.  Die frühen Abende und Schnee verkündende Wolken
+erinnern uns aber doch manchmal, daß wir tief in der Jahrszeit sind.
+Das wunderbare Wehen, das sie heute Abend verführten, war
+außerordentlich schön.  Als wir vom Fuß des Gemmiberges zurückkamen,
+sahen wir, aus der Schlucht von Inden herauf, leichte Nebelwolken sich
+mit großer Schnelligkeit bewegen.  Sie wechselten bald rückwärts bald
+vorwärts, und kamen endlich aufsteigend dem Leukerbad so nah, daß wir
+wohl sahen, wir mußten unsere Schritte verdoppeln, um bei
+hereinbrechender Nacht nicht in Wolken eingewickelt zu werden.  Wir
+kamen auch glücklich zu Hause an, und während ich dieses hinschreibe,
+legen sich wirklich die Wolken ganz ernstlich in einen kleinen artigen
+Schnee aus einander.  Es ist dieser der erste, den wir haben, und,
+wenn wir auf unsere gestrige warme Reise von Martinach nach Sion, auf
+die noch ziemlich belaubten Rebengeländer zurückdenken, eine sehr
+schnelle Abwechslung.  Ich bin in die Thüre getreten, ich habe dem
+Wesen der Wolken eine Weile zugesehen, das über alle Beschreibung
+schön ist.
+
+Eigentlich ist es noch nicht Nacht, aber sie verhüllen abwechselnd den
+Himmel und machen dunkel.  Aus den tiefen Felsschluchten steigen sie
+herauf, bis sie an die höchsten Gipfel der Berge reichen; von diesen
+angezogen scheinen sie sich zu verdicken und von der Kälte gepackt in
+Gestalt des Schnees niederzufallen.  Es ist eine unaussprechliche
+Einsamkeit hier oben, in so großer Höhe doch noch wie in einem Brunnen
+zu sein, wo man nur vorwärts durch die Abgründe einen Fußpfad hinaus
+vermuthet.  Die Wolken, die sich hier in diesem Sacke stoßen, die
+ungeheuren Felsen bald zudecken und in eine undurchdringliche öde
+Dämmerung verschlingen, bald Theile davon wieder als Gespenster sehen
+lassen, geben dem Zustand ein trauriges Leben.  Man ist voller Ahnung
+bei diesen Wirkungen der Natur.  Die Wolken, eine dem Menschen von
+Jugend auf so merkwürdige Lufterscheinung, ist man in dem platten
+Lande doch nur als etwas Fremdes, Überirdisches anzusehen gewohnt.
+Man betrachtet sie nur als Gäste, als Streichvögel, die, unter einem
+andern Himmel geboren, von dieser oder jener Gegend bei uns
+augenblicklich vorbeigezogen kommen; als prächtige Teppiche, womit die
+Götter ihre Herrlichkeit vor unsern Augen verschließen.  Hier aber ist
+man von ihnen selbst wie sie sich erzeugen eingehüllt, und die ewige
+innerliche Kraft der Natur fühlt man sich ahnungsvoll durch jede Nerve
+bewegen.  Auf die Nebel, die bei uns eben diese Wirkungen
+hervorbringen, gibt man weniger Acht; auch weil sie uns weniger vor's
+Auge gedrängt sind, ist ihre Wirthschaft schwerer zu beobachten.  Bei
+allen diesen Gegenständen wünscht man nur länger sich verweilen und an
+solchen Orten mehrere Tage zubringen zu können; ja ist man ein
+Liebhaber von dergleichen Betrachtungen, so wird der Wunsch immer
+lebhafter, wenn man bedenkt, daß jede Jahrszeit, Tagszeit und
+Witterung neue Erscheinungen, die man gar nicht erwartet,
+hervorbringen muß.  Und wie in jedem Menschen, auch selbst dem
+gemeinen, sonderbare Spuren übrig bleiben, wenn er bei großen
+ungewöhnlichen Handlungen etwa einmal gegenwärtig gewesen ist; wie er
+sich von diesem einen Flecke gleichsam größer fühlt, unermüdlich eben
+dasselbe erzählend wiederholt, und so, auf jene Weise, einen Schatz
+für sein ganzes Leben gewonnen hat: so ist es auch dem Menschen, der
+solche große Gegenstände der Natur gesehen und mit ihnen vertraut
+geworden ist.  Er hat, wenn er diese Eindrücke zu bewahren, sie mit
+andern Empfindungen und Gedanken, die in ihm entstehen, zu verbinden
+weiß, gewiß einen Vorrath von Gewürz, womit er den unschmackhaften
+Theil des Lebens verbessern und seinem ganzen Wesen einen
+durchziehenden guten Geschmack geben kann.
+
+Ich bemerke, daß ich in meinem Schreiben der Menschen wenig erwähne;
+sie sind auch unter diesen großen Gegenständen der Natur, besonders im
+Vorbeigehen, minder merkwürdig.  Ich zweifle nicht, daß man bei
+längerm Aufenthalt gar interessante und gute Leute finden würde.  Eins
+glaub' ich überall zu bemerken: je weiter man von der Landstraße und
+dem größern Gewerbe der Menschen abkömmt, je mehr in den Gebirgen die
+Menschen beschränkt, abgeschnitten und auf die allerersten Bedürfnisse
+des Lebens zurückgewiesen sind, je mehr sie sich von einem einfachen,
+langsamen, unveränderlichen Erwerbe nähren; desto besser, willfähriger,
+freundlicher, uneigennütziger, gastfreier bei ihrer Armuth hab' ich
+sie gefunden.
+
+
+
+
+Leukerbad, den 10. Nov.
+
+Wir machen uns bei Licht zurechte, um mit Tages Anbruch wieder
+hinunter zu gehen.  Diese Nacht habe ich ziemlich unruhig zugebracht.
+Ich lag kaum im Bette, so kam mir vor als wenn ich über und über mit
+einer Nesselsucht befallen wäre; doch merkte ich bald, daß es ein
+großes Heer hüpfender Insecten war, die den neuen Ankömmling
+blutdürstig überfielen.  Diese Thiere erzeugen sich in den hölzernen
+Häusern in großer Menge.  Die Nacht ward mir sehr lang und ich war
+zufrieden, als man uns den Morgen Licht brachte.
+
+
+
+
+Leuk, gegen 10 Uhr.
+
+Wir haben nicht viel Zeit, doch will ich, eh' wir hier weggehen, die
+merkwürdige Trennung unserer Gesellschaft melden, die hier vorgegangen
+ist, und was sie veranlaßt hat.  Wir gingen mit Tages Anbruch heute
+von Leukerbad aus, und hatten im frischen Schnee einen schlüpfrigen
+Weg über die Matten zu machen.  Wir kamen bald nach Inden, wo wir dann
+den steilen Weg, den wir gestern herunter kamen, zur Rechten über uns
+ließen, und auf der Matte nach der Schlucht, die uns nunmehr links lag,
+hinabstiegen.  Es ist diese wild und mit Bäumen verwachsen, doch geht
+ein ganz leidlicher Weg hinunter.  Durch diese Felsklüfte hat das
+Wasser, das vom Leukerbad kommt, seine Abflüsse in's Wallisthal.  Wir
+sahen in der Höhe an der Seite des Felsens, den wir gestern herunter
+gekommen waren, eine Wasserleitung gar künstlich eingehauen, wodurch
+ein Bach erst daran her, dann durch eine Höhle, aus dem Gebirge in das
+benachbarte Dorf geleitet wird.  Wir mußten nunmehr wieder einen Hügel
+hinauf und sahen dann bald das offene Wallis und die garstige Stadt
+Leuk unter uns liegen.  Es sind diese Städtchen meist an die Berge
+angeflickt, die Dächer mit groben geriss'nen Schindeln unzierlich
+gedeckt, die durch die Jahrszeit ganz schwarz gefault und vermoos't
+sind.  Wie man auch nur hinein tritt, so ekelt's einem, denn es ist
+überall unsauber; Mangel und ängstlicher Erwerb dieser privilegirten
+und freien Bewohner kommt überall zum Vorschein.  Wir fanden den
+Freund, der die schlimme Nachricht brachte, daß es nunmehr mit den
+Pferden sehr beschwerlich weiter zu gehen anfinge.  Die Ställe werden
+kleiner und enger, weil sie nur auf Maulesel und Saumrosse
+eingerichtet sind; der Haber fängt auch an sehr selten zu werden, ja
+man sagt, daß weiter hin in's Gebirg gar keiner mehr anzutreffen sei.
+Ein Beschluß war bald gefaßt: der Freund sollte mit den Pferden das
+Wallis wieder hinunter über Bex, Vevey, Lausanne, Freiburg und Bern
+auf Luzern gehen, der Graf und ich wollten unsern Weg das Wallis
+hinauf fortsetzen, versuchen, wo wir auf den Gotthard hinauf dringen
+könnten, alsdann durch den Canton Uri über den Vier-Waldstädtersee
+gleichfalls in Luzern eintreffen.  Man findet in dieser Gegend überall
+Maulthiere, die auf solchen Wegen immer besser sind als Pferde, und zu
+Fuße zu gehen ist am Ende doch immer das Angenehmste.  Wir haben
+unsere Sachen getrennet.  Der Freund ist fort, unser Mantelsack wird
+auf ein Maulthier das wir gemiethet haben gepackt, und so wollen wir
+aufbrechen und unsern Weg zu Fuße nach Brieg nehmen.  Am Himmel sieht
+es bunt aus, doch ich denke, das gute Glück, das uns bisher begleitet
+und uns so weit gelockt hat, soll uns auf dem Platze nicht verlassen,
+wo wir es am nöthigsten brauchen.
+
+
+
+
+Brieg, den 10. Abends.
+
+Von unserm heutigen Weg kann ich wenig erzählen, ausgenommen, wenn Sie
+mit einer weitläuftigen Wettergeschichte sich wollen unterhalten
+lassen.  Wir gingen in Gesellschaft eines schwäbischen Metzgerknechtes,
+der sich hierher verloren, in Leuk Condition gefunden hatte und eine
+Art von Hanswurst machte, unser Gepäck auf ein Maulthier geladen, das
+sein Herr vor sich hertrieb, gegen Eilf von Leuk ab.  Hinter uns, so
+weit wir in's Wallisthal hineinsehen konnten, lag es mit dicken
+Schnee-Wolken bedeckt, die das Land herauf gezogen kamen.  Es war
+wirklich ein trüber Anblick und ich befürchtete in der Stille, daß, ob
+es gleich so hell vor uns aufwärts war als wie im Lande Gosen, uns
+doch die Wolken bald einholen, und wir vielleicht im Grunde des Wallis
+an beiden Seiten von Bergen eingeschlossen, von Wolken zugedeckt und
+die Sorge, die sich meistentheils des einen Ohrs bemeistert.
+
+Auf der andern Seite sprach der gute Muth mit weit zuverlässigerer
+Stimme, verwies mir meinen Unglauben, hielt mir das Vergangene vor und
+machte mich auch auf die gegenwärtigen Lufterscheinungen aufmerksam.
+Wir gingen dem schönen Wetter immer entgegen; die Rhone hinauf war
+alles heiter, und so stark der Abendwind das Gewölk hinter uns her
+trieb, so konnte es uns doch niemals erreichen.  Die Ursache war diese:
+In das Wallisthal gehen, wie ich schon so oft gesagt, sehr viele
+Schluchten des benachbarten Gebirges aus und ergießen sich wie kleine
+Bäche in den großen Strom, wie denn auch alle ihre Gewässer in der
+Rhone zusammen laufen.  Aus jeder solcher Öffnung streicht ein Zugwind,
+der sich in den innern Thälern und Krümmungen erzeugt.  Wie nun der
+Hauptzug der Wolken das Thal herauf an so eine Schlucht kommt, so läßt
+die Zugluft die Wolken nicht vorbei, sondern kämpft mit ihnen und dem
+Winde der sie trägt, hält sie auf und macht ihnen wohl Stunden lang
+den Weg streitig.  Diesem Kampf sahen wir oft zu, und wenn wir
+glaubten, von ihnen überzogen zu werden, so fanden sie wieder ein
+solches Hinderniß, und wenn wir eine Stunde gegangen waren, konnten
+sie noch kaum vom Fleck.  Gegen Abend ward der Himmel außerordentlich
+schön.  Als wir uns Brieg näherten, trafen die Wolken fast zu gleicher
+Zeit mit uns ein; doch mußten sie, weil die Sonne untergegangen war
+und ihnen nunmehr ein packender Morgenwind entgegen kam, stille stehen,
+und machten von einem Berge zum andern einen großen halben Mond über
+das Thal.  Sie waren von der kalten Luft zur Consistenz gebracht und
+hatten, da wo sich ihr Saum gegen den blauen Himmel zeichnete, schöne
+leichte und muntere Formen.  Man sah daß sie Schnee enthielten, doch
+scheint uns die frische Luft zu verheißen, daß diese Nacht nicht viel
+fallen soll.  Wir haben ein ganz artiges Wirthshaus und, was uns zu
+großem Vergnügen dient, in einer geräumigen Stube ein Kamin
+angetroffen; wir sitzen am Feuer und machen Rathschläge wegen unserer
+weiteren Reise.  Hier in Brieg geht die gewöhnliche Straße über den
+Simplon nach Italien; wenn wir also unsern Gedanken, über die Furka
+auf den Gotthard zu gehen, aufgeben wollten, so gingen wir mit
+gemietheten Pferden und Maulthieren auf Domo d'ossola, Margozzo,
+führen den Lago maggiore hinaufwärts, dann auf Bellinzona und so
+weiter den Gotthard hinauf, über Airolo zu den Kapuzinern.
+
+Dieser Weg ist den ganzen Winter über gebahnt und mit Pferden bequem
+zu machen, doch scheint er unserer Vorstellung, da er in unserm Plane
+nicht war und uns fünf Tage später als unsern Freund nach Luzern
+führen würde, nicht reizend.  Wir wünschen vielmehr das Wallis bis an
+sein oberes Ende zu sehen, dahin wir morgen Abend kommen werden; und
+wenn das Glück gut ist, so sitzen wir übermorgen um diese Zeit in
+Realp in dem Ursner Thal, welches auf dem Gotthard nahe bei dessen
+höchstem Gipfel ist.  Sollten wir nicht über die Furka kommen, so
+bleibt uns immer der Weg hierher unverschlossen, und wir werden
+alsdann das aus Noth ergreifen, was wir aus Wahl nicht gerne thun.
+Sie können sich vorstellen, daß ich hier schon wieder die Leute
+examiniret habe, ob sie glauben, daß die Passage über die Furka offen
+ist; denn das ist der Gedanke mit dem ich aufstehe, schlafen gehe, mit
+dem ich den ganzen Tag über beschäftigt bin.  Bisher war es einem
+Marsch zu vergleichen, den man gegen einen Feind richtet, und nun
+ist's, als wenn man sich dem Flecke nähert, wo er sich verschanzt hat
+und man sich mit ihm herumschlagen muß.  Außer unserm Maulthier sind
+zwei Pferde auf morgen früh bestellt.
+
+
+
+
+Münster, den 11. Abends 6 Uhr.
+
+Wieder einen glücklichen und angenehmen Tag zurückgelegt!  Heute früh
+als wir von Brieg bei guter Tagszeit ausritten, sagte uns der Wirth
+noch auf den Weg: Wenn der Berg, so nennen sie hier die Furka, gar zu
+grimmig wäre, so möchten wir wieder zurückkehren und einen andern Weg
+suchen.  Mit unsern zwei Pferden und einem Maulesel kamen wir nun bald
+über angenehme Matten, wo das Thal so eng wird, daß es kaum einige
+Büchsenschüsse breit ist.  Es hat daselbst eine schöne Weide, worauf
+große Bäume stehen, und Felsstücke, die sich von benachbarten Bergen
+abgelös't haben, zerstreut liegen.  Das Thal wird immer enger, man
+wird genöthiget an den Bergen seitwärts hinauf zu steigen, und hat
+nunmehr die Rhone in einer schroffen Schlucht immer rechts unter sich.
+In der Höhe aber breitet sich das Land wieder recht schön aus, auf
+mannichfaltig gebogenen Hügeln sind schöne nahrhafte Matten, liegen
+hübsche Örter, die mit ihren dunkelbraunen hölzernen Häusern gar
+wunderlich unter dem Schnee hervor gucken.  Wir gingen viel zu Fuß und
+thaten's uns einander wechselseitig zu Gefallen.  Denn ob man gleich
+auf den Pferden sicher ist, so sieht es doch immer gefährlich aus,
+wenn ein anderer, auf so schmalen Pfaden, von so einem schwachen
+Thiere getragen, an einem schroffen Abgrund, vor einem herreitet.
+Weil nun kein Vieh auf der Weide sein kann, indem die Menschen alle in
+den Häusern stecken, so sieht eine solche Gegend sehr einsam aus, und
+der Gedanke, daß man immer enger und enger zwischen ungeheuren
+Gebirgen eingeschlossen wird, gibt der Imagination graue und
+unangenehme Bilder, die einen, der nicht recht fest im Sattel säße,
+gar leicht herab werfen könnten.  Der Mensch ist niemals ganz Herr von
+sich selbst.  Da er die Zukunft nicht weiß, da ihm sogar der nächste
+Augenblick verborgen ist; so hat er oft, wenn er etwas Ungemeines
+vornimmt, mit unwillkürlichen Empfindungen, Ahnungen, traumartigen
+Vorstellungen zu kämpfen, über die man kurz hinter drein wohl lachen
+kann, die aber oft in dem Augenblicke der Entscheidung höchst
+beschwerlich sind.  In unserm Mittagsquartier begegnete uns was
+Angenehmes.  Wir traten bei einer Frau ein, in deren Hause es ganz
+rechtlich aussah.  Ihre Stube war nach hiesiger Landesart ausgetäfelt,
+die Betten mit Schnitzwerk gezieret, die Schränke, Tische und was
+sonst von kleinen Repositorien an den Wänden und in den Ecken
+befestigt war, hatte artige Zierrathen von Drechsler- und Schnitzwerk.
+An den Porträts, die in der Stube hingen, konnte man bald sehen, daß
+mehrere aus dieser Familie sich dem geistlichen Stand gewidmet hatten.
+Wir bemerkten auch eine Sammlung wohl eingebundener Bücher über der
+Thür, die wir für eine Stiftung eines dieser Herren hielten.  Wir
+nahmen die Legenden der Heiligen herunter und lasen drin, während das
+Essen für uns zubereitet wurde.  Die Wirthin fragte uns einmal als sie
+in die Stube trat, ob wir auch die Geschichte des heil.  Alexis
+gelesen hätten?  Wir sagten Nein, nahmen aber weiter keine Notiz davon
+und jeder las in seinem Capitel fort.  Als wir uns zu Tische gesetzt
+hatten, stellte sie sich zu uns und fing wieder von dem heil.  Alexis
+an zu reden.  Wir fragten, ob es ihr Patron oder der Patron ihres
+Hauses sei, welches sie verneinte, dabei aber versicherte, daß dieser
+heilige Mann so viel aus Liebe zu Gott ausgestanden habe, daß ihr
+seine Geschichte erbärmlicher vorkomme, als viele der übrigen.
+
+Da sie sah, daß wir gar nicht unterrichtet waren, fing sie an uns zu
+erzählen: Es sei der heil.  Alexis der Sohn vornehmer, reicher und
+gottesfürchtiger Eltern in Rom gewesen, sei ihnen, die den Armen
+außerordentlich viel Gutes gethan, in Ausübung guter Werke mit
+Vergnügen gefolgt; doch habe ihm dieses noch nicht genug gethan,
+sondern er habe sich in der Stille Gott ganz und gar geweiht, und
+Christo eine ewige Keuschheit angelobet.  Als ihn in der Folge seine
+Eltern an eine schöne und treffliche Jungfrau verheirathen wollen,
+habe er zwar sich ihrem Willen nicht widersetzt, die Trauung sei
+vollzogen worden; er habe sich aber, anstatt sich zu der Braut in die
+Kammer zu begeben, auf ein Schiff das er bereit gefunden gesetzt, und
+sei damit nach Asien übergefahren.  Er habe daselbst die Gestalt eines
+schlechten Bettlers angezogen und sei dergestalt unkenntlich geworden,
+daß ihn auch die Knechte seines Vaters, die man ihm nachgeschickt,
+nicht erkannt hätten.  Er habe sich daselbst an der Thüre der
+Hauptkirche gewöhnlich aufgehalten, dem Gottesdienst beigewohnt und
+sich von geringem Almosen der Gläubigen genährt.  Nach drei oder vier
+Jahren seien verschiedene Wunder geschehen, die ein besonderes
+Wohlgefallen Gottes angezeigt.  Der Bischof habe in der Kirche eine
+Stimme gehört, daß er den frömmsten Mann, dessen Gebet vor Gott am
+angenehmsten sei, in die Kirche rufen und an seiner Seite den Dienst
+verrichten sollte.  Da dieser hierauf nicht gewußt wer gemeint sei,
+habe ihm die Stimme den Bettler angezeigt, den er denn auch zu großem
+Erstaunen des Volks hereingeholt.  Der heil.  Alexis, betroffen daß
+die Aufmerksamkeit der Leute auf ihn rege geworden, habe sich in der
+Stille davon und auf ein Schiff gemacht, willens weiter sich in die
+Fremde zu begeben.  Durch Sturm aber und andere Umstände sei er
+genöthiget worden, in Italien zu landen.  Der heil.  Mann habe hierin
+einen Wink Gottes gesehen und sich gefreut eine Gelegenheit zu finden,
+wo er die Selbstverläugnung im höchsten Grade zeigen konnte.  Er sei
+daher geradezu auf seine Vaterstadt losgegangen, habe sich als ein
+armer Bettler vor seiner Eltern Hausthür gestellt, diese, ihn auch
+dafür haltend, haben ihn nach ihrer frommen Wohlthätigkeit gut
+aufgenommen, und einem Bedienten aufgetragen, ihn mit Quartier im
+Schloß und den nöthigen Speisen zu versehen.  Dieser Bediente,
+verdrießlich über die Mühe und unwillig über seiner Herrschaft
+Wohlthätigkeit, habe diesen anscheinenden Bettler in ein schlechtes
+Loch unter der Treppe gewiesen, und ihm daselbst geringes und
+sparsames Essen gleich einem Hunde vorgeworfen.  Der heil.  Mann,
+anstatt sich dadurch irre machen zu lassen, habe darüber erst Gott
+recht in seinem Herzen gelobt, und nicht allein dieses, was er so
+leicht ändern können, mit gelassenem Gemüthe getragen, sondern auch
+die andauernde Betrübniß der Eltern und seiner Gemahlin über die
+Abwesenheit ihres so geliebten Alexis mit unglaublicher und
+übermenschlicher Standhaftigkeit ausgehalten.  Denn seine
+vielgeliebten Eltern und seine schöne Gemahlin hat er des Tags wohl
+hundertmal seinen Namen ausrufen hören, sich nach ihm sehnen und über
+seine Abwesenheit ein kummervolles Leben verzehren sehen.  An dieser
+Stelle konnte sich die Frau der Thränen nicht mehr enthalten und ihre
+beiden Mädchen, die sich während der Erzählung an ihren Rock gehängt,
+sahen unverwandt an der Mutter hinauf.  Ich weiß mir keinen
+erbärmlichern Zustand vorzustellen, sagte sie, und keine größere
+Marter, als was dieser heilige Mann bei den Seinigen und aus freiem
+Willen ausgestanden hat.  Aber Gott hat ihm seine Beständigkeit auf's
+herrlichste vergolten, und bei seinem Tode die größten Zeichen der
+Gnade vor den Augen der Gläubigen gegeben.  Denn als dieser heilige
+Mann, nachdem er einige Jahre in diesem Zustande gelebt, täglich mit
+größter Innbrunst dem Gottesdienste beigewohnet, so ist er endlich
+krank geworden ohne daß jemand sonderlich auf ihn Acht gegeben.
+
+Als darnach an einem Morgen der Papst, in Gegenwart des Kaisers und
+des ganzen Adels, selbst hohes Amt gehalten, haben auf einmal die
+Glocken der ganzen Stadt Rom wie zu einem vornehmen Todtengeläute zu
+läuten angefangen; wie nun jedermänniglich darüber erstaunt, so ist
+dem Papste eine Offenbarung geschehen, daß dieses Wunder den Tod des
+heiligsten Mannes in der ganzen Stadt anzeige, der in dem Hause des
+Patricii so eben verschieden sei.  Der Vater des Alexis fiel auf
+Befragen selbst auf den Bettler.  Er ging nach Hause und fand ihn
+unter der Treppe wirklich todt.  In den zusammengefalteten Händen
+hatte der heil.  Mann ein Papier stecken, welches ihm der Alte,
+wiewohl vergebens, herauszuziehen suchte.  Er brachte diese Nachricht
+dem Kaiser und Papst in die Kirche zurück, die alsdann mit dem Hofe
+und der Klerisei sich aufmachten, um selbst den heil.  Leichnam zu
+besuchen.  Als sie angelangt, nahm der heil.  Vater ohne Mühe das
+Papier dem Leichnam aus den Händen, überreichte es dem Kaiser, der es
+sogleich von seinem Kanzler vorlesen ließ.  Es enthielte dieses Papier
+die bisherige Geschichte dieses Heiligen.  Da hätte man nun erst den
+übergroßen Jammer der Eltern und der Gemahlin sehen sollen, die ihren
+theuren Sohn und Gatten so nahe bei sich gehabt und ihm nichts zu Gute
+thun können, und nunmehro erst erfuhren wie übel er behandelt worden.
+Sie fielen über den Körper her, klagten so wehmüthig, daß niemand von
+allen Umstehenden sich des Weinens enthalten konnte.  Auch waren unter
+der Menge Volks, die sich nach und nach zudrängten, viele Kranke die
+zu dem heil.  Körper gelassen und durch dessen Berührung gesund wurden.
+Die Erzählerin versicherte nochmals, indem sie ihre Augen trocknete,
+daß sie keine erbärmlichere Geschichte niemals gehört habe; und mir
+kam selbst ein so großes Verlangen zu weinen an, daß ich große Mühe
+hatte es zu verbergen und zu unterdrücken.  Nach dem Essen suchte ich
+im Pater Cochem die Legende selbst auf, und fand, daß die gute Frau
+den ganzen reinen menschlichen Faden der Geschichte behalten und alle
+abgeschmackten Anwendungen dieses Schriftstellers rein vergessen hatte.
+Wir gehen fleißig in's Fenster und sehen uns nach der Witterung um,
+denn wir sind jetzt sehr im Fall, Winde und Wolken anzubeten.  Die
+frühe Nacht und die allgemeine Stille ist das Element, worin das
+Schreiben recht gut gedeiht, und ich bin überzeugt, wenn ich mich nur
+einige Monate an so einem Orte inne halten könnte und müßte, so würden
+alle meine angefangenen Dramen eins nach dem andern aus Noth fertig.
+Wir haben schon verschiedene Leute vorgehabt und sie nach dem
+Übergange über die Furka gefragt, aber auch hier können wir nichts
+Bestimmtes erfahren, ob der Berg gleich nur zwei Stunden entfernt ist.
+
+Wir müssen uns also darüber beruhigen, und morgen mit Anbruch des
+Tages selbst recognosciren und sehen, auch sonst bin, so muß ich
+gestehen, daß mir's höchst verdrießlich wäre, wenn wir
+zurückgeschlagen würden.  Glückt es, so sind wir morgen Abend in Realp
+auf dem Gotthard und übermorgen zu Mittage auf dem Gipfel des Bergs
+bei den Kapuzinern; mißlingt's, so haben wir nur zwei Wege zur
+Retirade offen, wovon keiner sonderlich besser ist als der andere.
+Durch's ganze Wallis zurück und den bekannten Weg über Bern auf Luzern;
+oder auf Brieg zurück und erst durch einen großen Umweg auf den
+Gotthard!  Ich glaube, ich habe Ihnen das in diesen wenigen Blättern
+schon dreimal gesagt.  Freilich ist es für uns von der größten
+Wichtigkeit.  Der Ausgang wird entscheiden, ob unser Muth und Zutrauen,
+daß es gehen müsse, oder die Klugheit einiger Personen, die uns
+diesen Weg mit Gewalt widerrathen wollen, Recht und Muth, das Glück
+über sich erkennen müssen.  Nachdem wir vorher nochmals das Wetter
+examinirt, die Luft kalt, den Himmel heiter und ohne Disposition zu
+Schnee gesehen haben, legen wir uns ruhig zu Bette.
+
+
+
+
+Münster, den 12. Nov. früh 6 Uhr.
+
+Wir sind schon fertig und alles ist eingepackt, um mit Tages Anbruch
+von hier weg zu gehen.  Wir haben zwei Stunden bis Oberwald, und von
+da rechnet man gewöhnlich sechs Stunden auf Realp.  Unser Maulthier
+geht mit dem Gepäck nach, so weit wir es bringen können.
+
+
+
+Realp, den 12. Nov. Abends.
+
+Mit einbrechender Nacht sind wir hier angekommen.  Es ist überstanden
+und der Knoten, der uns den Weg verstrickte, entzwei geschnitten.  Eh'
+ich Ihnen sage, wo wir eingekehrt sind, eh' ich Ihnen das Wesen
+unserer Gastfreunde beschreibe, lassen Sie mich mit Vergnügen den Weg
+in Gedanken zurück machen, den wir mit Sorgen vor uns liegen sahen und
+den wir glücklich, doch nicht ohne Beschwerde, zurückgelegt haben.
+
+Um Sieben gingen wir von Münster weg und sahen das beschneite
+Amphitheater der hohen Gebirge vor uns zugeschlossen, hielten den Berg,
+der hinten quer vorsteht, für die Furka; allein wir irrten uns, wie
+wir nachmals erfuhren; sie war durch Berge, die uns links lagen, und
+durch hohe Wolken bedeckt.  Der Morgenwind blies stark und schlug sich
+mit einigen Schneewolken herum, und jagte abwechselnd leichte Gestöber
+an den Bergen und durch das Thal.  Desto stärker trieben aber die
+Windweben an dem Boden hin und machten uns etlichemal den Weg
+verfehlen, ob wir gleich, auf beiden Seiten von Bergen eingeschlossen,
+Oberwald am Ende doch finden mußten.  Nach Neune trafen wir daselbst
+an und sprachen in einem Wirthshaus ein, wo sich die Leute nicht wenig
+wunderten, solche Gestalten in dieser Jahrszeit erscheinen zu sehen.
+Wir fragten, ob der Weg über die Furka noch gangbar wäre?  Sie
+antworteten, daß ihre Leute den größten Theil des Winters drüber
+gingen; ob wir aber hinüber kommen würden, das wüßten sie nicht.  Wir
+schickten sogleich nach solchen Führern; es kam ein untersetzter
+starker Mann, dessen Gestalt ein gutes Zutrauen gab, dem wir unsern
+Antrag thaten: Wenn er den Weg für uns noch practicabel hielte, so
+sollt' ers sagen, noch einen oder mehr Kameraden zu sich nehmen und
+mit uns kommen.  Nach einigem Bedenken sagte er's zu, ging weg, um
+sich fertig zu machen und den andern mitzubringen.  Wir zahlten
+indessen unserm Mauleseltreiber seinen Lohn, den wir mit seinem Thiere
+nunmehr nicht weiter brauchen konnten, aßen ein weniges Käs und Brot,
+tranken ein Glas rothen Wein und waren sehr lustig und wohlgemuth, als
+unser Führer wieder kam und noch einen größer und stärker aussehenden
+Mann, der die Stärke und Tapferkeit eines Rosses zu haben schien,
+hinter sich hatte.  Einer hockte den Mantelsack auf den Rücken, und
+nun ging der Zug zu Fünfen zum Dorfe hinaus, da wir denn in kurzer
+Zeit den Fuß des Berges, der uns links lag, erreichten und allmählich
+in die Höhe zu steigen anfingen.  Zuerst hatten wir noch einen
+betretenen Fußpfad, der von einer benachbarten Alpe herunterging, bald
+aber verlor sich dieser und wir mußten im Schnee den Berg hinauf
+steigen.  Unsere Führer wanden sich durch die Felsen, um die sich der
+bekannte Fußpfad schlingt, sehr geschickt herum, obgleich alles
+überein zugeschneit war.  Noch ging der Weg durch einen Fichtenwald,
+wir hatten die Rhone in einem engen unfruchtbaren Thal unter uns.
+Nach einer kleinen Weile mußten wir selbst hinab in dieses Thal, kamen
+über einen kleinen Steg und sahen nunmehr den Rhonegletscher vor uns.
+Es ist der ungeheuerste, den wir so ganz übersehen haben.  Er nimmt
+den Sattel eines Berges in sehr großer Breite ein, steigt
+ununterbrochen herunter bis da wo unten im Thal die Rhone aus ihm
+herausfließt.
+
+An diesem Ausflusse hat er, wie die Leute erzählen, verschiedene Jahre
+her abgenommen; das will aber gegen die übrige ungeheure Masse gar
+nichts sagen.  Obgleich alles voll Schnee lag, so waren doch die
+schroffen Eisklippen, wo der Wind so leicht keinen Schnee haften läßt,
+mit ihren vitriolblauen Spalten sichtbar, und man konnte deutlich
+sehen, wo der Gletscher aufhört und der beschneite Felsen anhebt.
+
+Wir gingen ganz nahe daran hin, er lag uns linker Hand.  Bald kamen
+wir wieder auf einen leichten Steg über ein kleines Bergwasser, das in
+einem muldenförmigen unfruchtbaren Thal nach der Rhone zu floß.  Vom
+Gletscher aber rechts und links und vorwärts sieht man nun keinen Baum
+mehr, alles ist öde und wüste.  Keine schroffen und überstehenden
+Felsen, nur lang gedehnte Thäler, sacht geschwungene Berge, die nun
+gar im alles vergleichenden Schnee die einfachen ununterbrochenen
+Flächen uns entgegen wiesen.  Wir stiegen nunmehr links den Berg hinan
+und sanken in tiefen Schnee.  Einer von unsern Führern mußte voran und
+brach, indem er herzhaft durchschritt, die Bahn, in der wir folgten.
+Es war ein seltsamer Anblick, wenn man einen Moment seine
+Aufmerksamkeit von dem Wege ab und auf sich selbst und die
+Gesellschaft wendete: in der ödesten Gegend der Welt, und in einer
+ungeheuren einförmigen schneebedeckten Gebirgs-Wüste, wo man rückwärts
+und vorwärts auf drei Stunden keine lebendige Seele weiß, wo man auf
+beiden Seiten die weiten Tiefen verschlungener Gebirge hat, eine Reihe
+Menschen zu sehen, deren einer in des andern tiefe Fußtapfen tritt,
+und wo in der ganzen glatt überzogenen Weite nichts in die Augen fällt,
+als die Furche die man gezogen hat.
+
+Die Tiefen, aus denen man herkommt, liegen grau und endlos in Nebel
+hinter einem.  Die Wolken wechseln über die blasse Sonne,
+breitflockiger Schnee stiebt in der Tiefe und zieht über alles einen
+ewig beweglichen Flor.  Ich bin überzeugt, daß einer, über den auf
+diesem Weg seine Einbildungskraft nur einigermaßen Herr würde, hier
+ohne anscheinende Gefahr vor Angst und Furcht vergehen müßte.
+Eigentlich ist auch hier keine Gefahr des Sturzes, sondern nur die
+Lauwinen, wenn der Schnee stärker wird als er jetzt ist, und durch
+seine Last zu rollen anfängt, sind gefährlich.
+
+Doch erzählten uns unsere Führer, daß sie den ganzen Winter durch
+drüber gingen, um Ziegenfelle aus dem Wallis auf den Gotthard zu
+tragen, womit ein starker Handel getrieben wird.  Sie gehen alsdann,
+um die Lauwinen zu vermeiden, nicht da wo wir gingen, den Berg
+allmählich hinauf, sondern bleiben eine Weile unten im breitern Thal,
+und steigen alsdann den steilen Berg gerade hinauf.  Der Weg ist da
+sicherer, aber auch viel unbequemer.  Nach viertehalb Stunden Marsch
+kamen wir auf dem Sattel der Furka an, bei'm Kreuz wo sich Wallis und
+Uri scheiden.  Auch hier ward uns der doppelte Gipfel der Furka, woher
+sie ihren Namen hat, nicht sichtbar.  Wir hofften nunmehr einen
+bequemern Hinabstieg, allein unsere Führer verkündigten uns einen noch
+tiefern Schnee, den wir auch bald fanden.  Unser Zug ging wie vorher
+hinter einander fort, und der vorderste, der die Bahn brach, saß oft
+bis über den Gürtel darin.  Die Geschicklichkeit der Leute, und die
+Leichtigkeit womit sie die Sache tractirten, erhielt auch unsern guten
+Muth; und ich muß sagen, daß ich für meine Person so glücklich gewesen
+bin, den Weg ohne große Mühseligkeit zu überstehen, ob ich gleich
+damit nicht sagen will, daß es ein Spaziergang sei.  Der Jäger Hermann
+versicherte, daß er auf dem Thüringerwalde auch schon so tiefen Schnee
+gehabt habe, doch ließ er sich am Ende verlauten, die Furka sei ein S..
+.r.  Es kam ein Lämmergeier mit unglaublicher Schnelle über uns
+hergeflogen; er war das einzige Lebende was wir in diesen Wüsten
+antrafen, und in der Ferne sahen wir die Berge des Ursner Thals im
+Sonnenschein.  Unsere Führer wollten in einer verlassenen, steinernen
+und zugeschneiten Hirtenhütte einkehren und etwas essen, allein wir
+trieben sie fort um in der Kälte nicht stille zu stehen.  Hier
+schlingen sich wieder andere Thäler ein, und endlich hatten wir den
+offenen Anblick in's Ursner Thal.  Wir gingen schärfer und, nach
+viertehalb Stunden Wegs vom Kreuz an, sahen wir die zerstreuten Dächer
+von Realp.  Wir hatten unsere Führer schon verschiedentlich gefragt,
+was für ein Wirthshaus und besonders was für Wein wir in Realp zu
+erwarten hätten.  Die Hoffnung, die sie uns gaben, war nicht
+sonderlich, doch versicherten sie, daß die Kapuziner daselbst, die
+zwar nicht, wie die auf dem Gotthard, ein Hospitium hätten, dennoch
+manchmal Fremde aufzunehmen pflegten.  Bei diesen würden wir einen
+guten rothen Wein und besseres Essen als im Wirthshaus finden.  Wir
+schickten einen deßwegen voraus, daß er die Patres disponiren und uns
+Quartier machen sollte.  Wir säumten nicht ihm nach zu gehen und kamen
+bald nach ihm an, da uns denn ein großer ansehnlicher Pater an der
+Thür empfing.  Er hieß uns mit großer Freundlichkeit eintreten und bat
+noch auf der Schwelle, daß wir mit ihnen vorlieb nehmen möchten, da
+sie eigentlich, besonders in jetziger Jahrszeit, nicht eingerichtet
+wären, solche Gäste zu empfangen.  Er führte uns sogleich in eine
+warme Stube und war sehr geschäftig, uns, indem wir unsere Stiefeln
+auszogen und Wäsche wechselten, zu bedienen.  Er bat uns einmal über
+das andre, wir möchten ja völlig thun, als ob wir zu Hause wären.
+Wegen des Essens müßten wir, sagte er, in Geduld stehen, indem sie in
+ihrer langen Fasten begriffen wären, die bis Weihnachten dauert.  Wir
+versicherten ihm, daß eine warme Stube, ein Stück Brot und ein Glas
+Wein, unter gegenwärtigen Umständen, alle unsere Wünsche erfülle.  Er
+reichte uns das Verlangte, und wir hatten uns kaum ein wenig erholt,
+als er uns ihre Umstände und ihr Verhältniß hier auf diesem öden
+Flecke zu erzählen anfing.  Wir haben, sagte er, kein Hospitium, wie
+die Patres auf dem Gotthard; wir sind hier Pfarrherrn und unser drei:
+ich habe das Predigtamt auf mir, der zweite Pater die Schullehre und
+der Bruder die Haushaltung.  Er fuhr fort zu erzählen, wie
+beschwerlich ihre Geschäfte seien, am Ende eines einsamen, von aller
+Welt abgesonderten Thales zu liegen, und für sehr geringe Einkünfte
+viele Arbeit zu thun.  Es sei sonst diese, wie die übrigen dergleichen
+Stellen, von einem Weltgeistlichen versehen worden, der aber, als
+einstens eine Schneelauwine einen Theil des Dorfs bedeckt, sich mit
+der Monstranz geflüchtet; da man ihn denn abgesetzt und sie, denen man
+mehr Resignation zutraue, an dessen Stelle eingeführt habe.  Ich habe
+mich, um dieses zu schreiben, in eine obere Stube begeben, die durch
+ein Loch von unten auf geheizt wird.  Es kommt die Nachricht, daß das
+Essen fertig ist, die, ob wir gleich schon einiges vorgearbeitet haben,
+sehr willkommen klingt.
+
+Nach Neun.
+
+Die Patres, Herren, Knechte und Träger haben alle zusammen an Einem
+Tische gegessen; nur der Frater, der die Küche besorgte, war erst ganz
+gegen Ende der Tafel sichtbar.  Er hatte aus Eiern, Milch und Mehl gar
+mannichfaltige Speisen zusammengebracht, die wir uns eine nach der
+andern sehr wohl schmecken ließen.  Die Träger, die eine große Freude
+hatten, von unserer glücklich vollbrachten Expedition zu reden, lobten
+unsre seltene Geschicklichkeit im Gehen, und versicherten, daß sie es
+nicht mit einem jeden unternehmen würden.  Sie gestanden uns nun, daß
+heute früh als sie aufgefordert wurden, erst einer gegangen sei, uns
+zu recognosciren, um zu sehen, ob wir wohl die Miene hätten, mit ihnen
+fortzukommen; denn sie hüteten sich sehr, alte oder schwache Leute in
+dieser Jahrszeit zu begleiten, weil es ihre Pflicht sei, denjenigen,
+dem sie einmal zugesagt ihn hinüber zu bringen, im Fall er matt oder
+krank würde, zu tragen und selbst wenn er stürbe, nicht liegen zu
+lassen, außer wenn sie in augenscheinliche Gefahr ihres eigenen Lebens
+kämen.  Es war nunmehr durch dieses Geständniß die Schleuse der
+Erzählung aufgezogen, und nun brachte einer nach dem andern
+Geschichten von beschwerlichen oder verunglückten Bergwanderungen
+hervor, worin die Leute hier gleichsam wie in einem Elemente leben, so
+daß sie mit der größten Gelassenheit Unglücksfälle erzählen, denen sie
+täglich selbst unterworfen sind.  Der eine brachte eine Geschichte vor,
+wie er auf dem Kandersteg, um über den Gemmi zu gehen, mit noch einem
+Kameraden, der denn auch immer mit Vor- und Zunamen genennt wird, in
+tiefem Schnee, eine arme Familie angetroffen, die Mutter sterbend, den
+Knaben halb todt, und den Vater in einer Gleichgültigkeit, die dem
+Wahnsinne ähnlich gewesen.  Er habe die Frau aufgehockt, sein Kamerade
+den Sohn, und so haben sie den Vater, der nicht vom Flecke gewollt,
+vor sich hergetrieben.
+
+Bei'm Absteigen vom Gemmi sei die Frau ihm auf dem Rücken gestorben,
+und er habe sie noch todt bis hinunter in's Leukerbad gebracht.  Auf
+Befragen, was es für Leute gewesen seien, und wie sie in dieser
+Jahrszeit auf die Gebirge gekommen, sagte er: es seien arme Leute aus
+dem Canton Bern gewesen, die, von Mangel getrieben, sich in
+unschicklicher Jahrszeit auf den Weg gemacht, um Verwandte im Wallis
+oder den italiänischen Provinzen aufzusuchen, und seien von der
+Witterung übereilt worden.  Sie erzählten ferner Geschichten, die
+ihnen begegnen, wenn sie Winters Ziegenfelle über die Furka tragen, wo
+sie aber immer gesellschaftsweise zusammen gingen.  Der Pater machte
+dazwischen viele Entschuldigungen wegen seines Essens, und wir
+verdoppelten unsere Versicherungen, daß wir nicht mehr wünschten, und
+erfuhren, da er das Gespräch auf sich und seinen Zustand lenkte, daß
+er noch nicht sehr lange an diesem Platze sei.  Er fing an vom
+Predigtamte zu sprechen und von dem Geschick, das ein Prediger haben
+müsse; er verglich ihn mit einem Kaufmann, der seine Waare wohl heraus
+zu streichen und durch einen gefälligen Vortrag den Leuten angenehm zu
+machen habe.  Er setzte nach Tisch die Unterredung fort, und indem er
+aufgestanden die linke Hand auf den Tisch stemmte, mit der rechten
+seine Worte begleitete, und von der Rede selbst rednerisch redete, so
+schien er in dem Augenblick uns überzeugen zu wollen, daß er selbst
+der geschickte Kaufmann sei.  Wir gaben ihm Beifall, und er kam von
+dem Vortrage auf die Sache selbst.  Er lobte die katholische Religion.
+Eine Regel des Glaubens müssen wir haben, sagte er: und daß diese so
+fest und unveränderlich als möglich sei, ist ihr größter Vorzug.  Die
+Schrift haben wir zum Fundamente unsers Glaubens, allein dieß ist
+nicht hinreichend.  Dem gemeinen Manne dürfen wir sie nicht in die
+Hände geben; denn so heilig sie ist und von dem Geiste Gottes auf
+allen Blättern zeugt, so kann doch der irdisch gesinnte Mensch dieses
+nicht begreifen, sondern findet überall leicht Verwirrung und Anstoß.
+Was soll ein Laie Gutes aus den schändlichen Geschichten, die darin
+vorkommen, und die doch zu Stärkung des Glaubens für geprüfte und
+erfahrne Kinder Gottes von dem heil.  Geiste aufgezeichnet worden, was
+soll ein gemeiner Mann daraus Gutes ziehen, der die Sachen nicht in
+ihrem Zusammenhange betrachtet?  Wie soll er sich aus den hier und da
+anscheinenden Widersprüchen, aus der Unordnung der Bücher, aus der
+mannichfaltigen Schreibart herauswickeln, da es den Gelehrten selbst
+so schwer wird, und die Gläubigen über so viele Stellen ihre Vernunft
+gefangen nehmen müssen?  Was sollen wir also lehren?  Eine auf die
+Schrift gegründete mit der besten Schriftauslegung bewiesene Regel!
+Und wer soll die Schrift auslegen?  Wer soll diese Regel festsetzen?
+Etwa ich oder ein anderer einzelner Mensch?  Mit nichten!  Jeder hängt
+die Sache auf eine andere Art zusammen, stellt sie sich nach seinem
+Concepte vor.  Das würde eben so viele Lehren als Köpfe geben, und
+unsägliche Verwirrungen hervorbringen, wie es auch schon gethan hat.
+
+Nein, es bleibt der allerheiligsten Kirche allein, die Schrift
+auszulegen und die Regel zu bestimmen, wornach wir unsere
+Seelenführung einzurichten haben.  Und wer ist diese Kirche?  Es ist
+nicht etwa ein oder das andere Oberhaupt, ein oder das andere Glied
+derselben, nein!  Es sind die heiligsten, gelehrtesten, erfahrensten
+Männer aller Zeiten, die sich zusammen vereiniget haben, nach und nach,
+unter dem Beistand des heil.  Geistes, dieses übereinstimmende große
+und allgemeine Gebäude aufzuführen; die auf den großen Versammlungen
+ihre Gedanken einander mitgetheilet, sich wechselseitig erbaut, die
+Irrthümer verbannt und eine Sicherheit, eine Gewißheit unserer
+allerheiligsten Religion gegeben, deren sich keine andre rühmen kann;
+ihr einen Grund gegraben und eine Brustwehr aufgeführet, die die Hölle
+selbst nicht überwältigen kann.  Eben so ist es auch mit dem Texte der
+heil.  Schrift.  Wir haben die Vulgata, wir haben eine approbirte
+Übersetzung der Vulgata, und zu jedem Spruche eine Auslegung, welche
+von der Kirche gebilliget ist.  Daher kommt die Übereinstimmung, die
+einen jeden erstaunen muß.  Ob Sie mich hier reden hören an diesem
+entfernten Winkel der Welt, oder in der größten Hauptstadt in einem
+entferntesten Lande, den ungeschicktesten oder den fähigsten; alle
+werden Eine Sprache führen, ein katholischer Christ wird immer
+dasselbige hören, überall auf dieselbige Weise unterrichtet und
+erbauet werden: und das ist's was die Gewißheit unsers Glaubens macht,
+was uns die süße Zufriedenheit und Versicherung gibt, in der wir einer
+mit dem andern fest verbunden leben, und in der Gewißheit, uns
+glücklicher wieder zu finden, von einander scheiden können.  Er hatte
+diese Rede, wie im Discurs, eins auf das andre, folgen lassen, mehr in
+dem innern behaglichen Gefühl, daß er sich uns von einer
+vortheilhaften Seite zeige, als mit dem Ton einer bigotten
+Belehrungssucht.  Er wechselte theils mit den Händen dabei ab, schob
+sie einmal in die Kuttenärmel zusammen, ließ sie über dem Bauch ruhen,
+bald holte er mit gutem Anstand seine Dose aus der Kapuze und warf sie
+nach dem Gebrauch wieder hinein.  Wir hörten ihm aufmerksam zu, und er
+schien mit unserer Art, seine richte {ed.-???}.
+
+
+
+
+Den 13. Nov., oben auf dem Gipfel
+des Gotthards bei den Kapuzinern.
+
+Morgens um Zehn.
+
+Endlich sind wir auf dem Gipfel unserer Reise glücklich angelangt!
+Hier, ist's beschlossen, wollen wir stille stehen und uns wieder nach
+dem Vaterlande zuwenden.
+
+Ich komme mir sehr wunderbar hier oben vor; wo ich mich vor vier
+Jahren mit ganz andern Sorgen, Gesinnungen, Planen und Hoffnungen, in
+einer andern Jahrszeit, einige Tage aufhielt, und mein künftiges
+Schicksal unvorahnend durch ein ich weiß nicht was bewegt Italien den
+Rücken zukehrte und meiner jetzigen Bestimmung unwissend entgegen ging.
+Ich erkannte das Haus nicht wieder.  Vor einiger Zeit ist es durch
+eine Schneelauwine stark beschädigt worden; die Patres haben diese
+Gelegenheit ergriffen, und eine Beisteuer im Lande eingesammelt, um
+ihre Wohnung zu erweitern und bequemer zu machen.  Beide Patres, die
+hier oben wohnen, sind nicht zu Hause, doch, wie ich höre, noch eben
+dieselben die ich vor vier Jahren antraf.  Pater Seraphim, der schon
+dreizehn Jahre auf diesem Posten aushält, ist gegenwärtig in Mailand,
+den andern erwarten sie noch heute von Airolo herauf.  In dieser
+reinen Luft ist eine ganz grimmige Kälte.  Sobald wir gegessen haben,
+will ich weiter fortfahren, denn vor die Thüre, merk' ich schon,
+werden wir nicht viel kommen.  Nach Tische.
+
+Es wird immer kälter, man mag gar nicht von dem Ofen weg. Ja es ist
+die größte Lust sich oben drauf zu setzen, welches in diesen Gegenden,
+wo die Öfen von steinernen Platten zusammen gesetzt sind, gar wohl
+angeht.  Zuvörderst also wollen wir an den Abschied von Realp und
+unsern Weg hieher.  Noch gestern Abend, ehe wir zu Bette gingen,
+führte uns der Pater in sein Schlafzimmer, wo alles auf einen sehr
+kleinen Platz zusammen gestellt war.  Sein Bett, das aus einem
+Strohsack und einer wollenen Decke bestund, schien uns, die wir uns an
+ein gleiches Lager gewöhnt, nichts Verdienstliches zu haben.  Er
+
+Zufriedenheit, seinen Bücherschrank und andere Dinge.  Wir lobten ihm
+alles und schieden sehr zufrieden von einander, um zu Bette zu gehen.
+Bei der Einrichtung des Zimmers hatte man, um zwei Betten an Eine Wand
+anzubringen, beide kleiner als gehörig gemacht.  Diese
+Unbequemlichkeit hielt mich vom Schlaf ab, bis ich mir durch
+zusammengestellte Stühle zu helfen suchte.  Erst heute früh bei hellem
+Tage erwachten wir wieder und gingen hinunter, da wir denn durchaus
+vergnügte und freundliche Gesichter antrafen.  Unsere Führer, im
+Begriff den lieblichen gestrigen Weg wieder zurück zu machen, schienen
+es als Epoche anzusehn und als Geschichte, mit der sie sich in der
+Folge gegen andere Fremde was zu Gute thun könnten; und da sie gut
+bezahlt wurden, schien bei ihnen der Begriff von Abenteuer vollkommen
+zu werden.  Wir nahmen noch ein starkes Frühstück zu uns und schieden.
+Unser Weg ging nunmehr durch's Ursner Thal, das merkwürdig ist, weil
+es in so großer Höhe schöne Matten und Viehzucht hat.  Es werden hier
+Käse gemacht, denen ich einen besondern Vorzug gebe.  Hier wachsen
+keine Bäume; Büsche von Saalweiden fassen den Bach ein, und an den
+Gebirgen flechten sich kleine Sträucher durch einander.  Mir ist's
+unter allen Gegenden, die ich kenne, die liebste und interessanteste;
+es sei nun daß alte Erinnerungen sie werth machen, oder daß mir das
+Gefühl von so viel zusammengeketteten Wundern der Natur ein heimliches
+und unnennbares Vergnügen erregt.  Ich setze zum voraus, die ganze
+Gegend, durch die ich Sie führe, ist mit Schnee bedeckt, Fels und
+Matte und Weg sind alle überein verschneit.  Der Himmel war ganz klar
+ohne irgend eine Wolke, das Blau viel tiefer als man es in dem platten
+Lande gewohnt ist, die Rücken der Berge, die sich weiß davon
+abschnitten, theils hell im Sonnenlicht, theils blaulich im Schatten.
+In anderthalb Stunden waren wir in Hospital; ein Örtchen das noch im
+Ursner Thal am Weg auf den Gotthard liegt.  Hier betrat ich zum
+erstenmal wieder die Bahn meiner vorigen Reise.  Wir kehrten ein,
+bestellten uns auf Morgen ein Mittagessen und stiegen den Berg hinauf.
+Ein großer Zug von Mauleseln machte mit seinen Glocken die ganze
+Gegend lebendig.  Es ist ein Ton, der alle Berg-Erinnerungen rege
+macht.  Der größte Theil war schon vor uns aufgestiegen, und hatte den
+glatten Weg mit den scharfen Eisen schon ziemlich aufgehauen.  Wir
+fanden auch einige Wegeknechte, die bestellt sind, das Glatteis mit
+Erde zu überfahren, um den Weg practicabel zu erhalten.  Der Wunsch,
+den ich in vorigen Zeiten gethan hatte, diese Gegend einmal im Schnee
+zu sehen, ist mir nun auch gewährt.  Der Weg geht an der, über Felsen
+sich immer hinabstürzenden, Reuß hinauf, und die Wasserfälle bilden
+hier die schönsten Formen.  Wir verweilten lange bei der Schönheit des
+einen, der über schwarze Felsen in ziemlicher Breite herunterkam.
+Hier und da hatten sich, in den Ritzen und auf den Flächen, Eismassen
+angesetzt, und das Wasser schien über schwarz und weiß gesprengten
+Marmor herzulaufen.  Das Eis blinkte wie Krystall-Adern und Strahlen
+in der Sonne, und das Wasser lief rein und frisch dazwischen hinunter.
+Auf den Gebirgen ist keine beschwerlichere Reisegesellschaft als
+Maulthiere.  Sie halten einen ungleichen Schritt, indem sie, durch
+einen sonderbaren Instinct, unten an einem steilen Orte erst stehen
+bleiben, dann denselben schnell hinauf schreiten und oben wieder
+ausruhen.  Sie halten auch auf geraden Flächen, die hier und da
+vorkommen, manchmal inne, bis sie durch den Treiber, oder durch die
+nachfolgenden Thiere vom Platze bewegt werden.  Und so, indem man
+einen gleichen Schritt hält, drängt man sich an ihnen auf dem schmalen
+Wege vorbei, und gewinnt über solche ganze Reihen den Vortheil.  Steht
+man still, um etwas zu betrachten, so kommen sie einem wieder zuvor,
+und man ist von dem betäubenden Laut ihrer Klingeln und von ihrer
+breit wir endlich auf dem Gipfel des Berges an, den Sie sich wie einen
+kahlen Scheitel, mit einer Krone umgeben, denken müssen.  Man ist hier
+auf einer Fläche, ringsum wieder von Gipfeln umgeben, und die Aussicht
+wird in der Nähe und Ferne von kahlen und auch meistens mit Schnee
+bedeckten Rippen und Klippen eingeschränkt.  Man kann sich kaum
+erwärmen, besonders da sie nur mit Reißig heizen können, und auch
+dieses sparen müssen, weil sie es fast drei Stunden herauf zu
+schleppen haben, und oberwärts, wie gesagt, fast gar kein Holz wächs't.
+Der Pater ist von Airolo herauf gekommen, so erfroren, daß er bei
+seiner Ankunft kein Wort hervorbringen konnte.  Ob sie gleich hier
+oben sich bequemer als die übrigen vom Orden tragen dürfen, so ist es
+doch immer ein Anzug, der für dieses Klima nicht gemacht ist.  Er war
+von Airolo herauf den sehr glatten Weg gegen den Wind gestiegen; der
+Bart war ihm eingefroren, und es währte eine ganze Weile, bis er sich
+besinnen konnte.  Wir unterhielten uns von der Beschwerlichkeit dieses
+Aufenthalts; er erzählte, wie es ihnen das Jahr über zu gehen pflege,
+ihre Bemühungen und häuslichen Umstände.  Er sprach nichts als
+Italiänisch, und wir fanden hier Gelegenheit von den Übungen, die wir
+uns das Frühjahr in dieser Sprache gegeben, Gebrauch zu machen.  Gegen
+Abend traten wir einen Augenblick vor die Hausthüre heraus, um uns vom
+Pater denjenigen Gipfel zeigen zu lassen, den man für den höchsten des
+Gotthards hält; wir konnten aber kaum einige Minuten dauern, so
+durchdringend und angreifend kalt ist es.  Wir bleiben also wohl für
+dießmal in dem Hause eingeschlossen, bis wir morgen fortgehen, und
+haben Zeit genug das Merkwürdige dieser Gegend in Gedanken zu
+durchreisen.
+
+Aus einer kleinen geographischen Beschreibung werden Sie sehen, wie
+merkwürdig der Punct ist, auf dem wir uns jetzt befinden.  Der
+Gotthard ist zwar nicht das höchste Gebirg der Schweiz, und in Savoyen
+übertrifft ihn der Montblanc an Höhe um sehr vieles; doch behauptet er
+den Rang eines königlichen Gebirges über alle andere, weil die größten
+Gebirgsketten bei ihm zusammen laufen und sich an ihn lehnen.  Ja,
+wenn ich mich nicht irre, so hat mir Herr Wyttenbach zu Bern, der von
+dem höchsten Gipfel die Spitzen der übrigen Gebirge gesehen, erzählt,
+daß sich diese alle gleichsam gegen ihn zu neigen schienen.  Die
+Gebirge von Schweiz und Unterwalden, gekettet an die von Uri, steigen
+von Mitternacht, von Morgen die Gebirge des Graubündter Landes, von
+Mittag die der italiänischen Vogteien herauf, und von Abend drängt
+sich durch die Furka das doppelte Gebirg, welches Wallis einschließt,
+an ihn heran.  Nicht weit vom Hause hier sind zwei kleine Seen, davon
+der eine den Tessin durch Schluchten und Thäler nach Italien, der
+andere gleicherweise die Reuß nach dem Vier-Waldstädtersee ausgießt.
+Nicht fern von hier entspringt der Rhein und läuft gegen Morgen, und
+wenn man alsdann die Rhone dazu nimmt, die an einem Fuß der Furka
+entspringt, und nach Abend durch das Wallis läuft; so befindet man
+sich hier auf einem Kreuzpuncte, von dem aus Gebirge und Flüsse in
+alle vier Himmels-Gegenden auslaufen.
+
+
+
+Ende dieses Projekt Gutenberg Etextes "Briefe aus der Schweiz" von
+Johann Wolfgang von Goethe.
+

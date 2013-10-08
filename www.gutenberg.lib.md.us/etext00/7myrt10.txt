@@ -1,0 +1,752 @@
+The Project Gutenberg Etext of "Das Maerchen von dem Myrtenfraeulein"
+by Clemens Brentano
+
+This book is written in German.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfuegung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg.aol.de erreichbar.
+
+This work contains 7 bit ASCII characters to represent certain special
+German characters.  An alternate 8 bit version of this text which does
+use the high order ASCII characters is also available in this format.
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Das Maerchen von dem Myrtenfraeulei
+
+by Clemens Brentano
+
+November, 2000  [Etext #2380]
+
+
+The Project Gutenberg Etext of Das Maerchen von dem Myrtenfraeulei by Brentano
+******This file should be named 7myrt10.txt or 7myrt10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 7myrt11.txt
+VERSIONS based on separate sources get new LETTER, 7myrt10a.txt
+
+
+This etext was prepared by Michael Pullen, globaltraveler5565@yahoo.com.
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hartPOBOX.com>
+hartPOBOX.com forwards to hartPRAIRIENET.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hartPOBOX.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: yourLOGIN
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+Das Maerchen von dem Myrtenfraeulein
+
+Clemens Brentano
+
+
+
+
+Im sandigen Lande, wo nicht viel Gruenes waechst, wohnten einige Meilen
+von der prozellanenen Hauptstadt, wo der Prinz Wetschwuth residierte,
+ein Toepfer und seine Frau mitten auf ihrem Tonfeld neben ihrem
+Toepferofen, beide ohne Kinder, einsam und allein.  Das Land war
+ringsum so flach wie ein See, kein Baum und Busch war zu sehen, und es
+war gar betruebt und langweilig.  Taeglich beteten die guten Leute zum
+Himmel, er moege ihnen doch ein Kind bescheren, damit sie eine
+Unterhaltung haetten, aber der Himmel erhoerte ihre Wuensche nicht.  Der
+Toepfer verzierte alle seine Gefaesse mit schoenen Engelskoepfen, und die
+Toepferin traeumte alle Nacht von gruenen Wiesen und anmutigen Gebueschen
+und Baeumen, bei welchen Kinder spielten; denn wonach das Herz sich
+sehnt, das hat man immer vor Augen.
+
+Einstens hatte der Toepfer seiner Frau zwei schoene Werke auf ihrem
+Geburtstag verfertigt, eine wunderschoene Wiege von dem weissesten Ton,
+ganz mit goldenen Engelskoepfen und Rosen verziert, und ein grosses
+Gartengefaess von rotem Ton, rings mit bunten Schmetterlingen und Blumen
+bemalt.  Sie machte sich ein Bettchen in die Wiege und fuellte das
+Gartengefaess mit der besten Erde, die sie selbst stundenweit in ihrer
+Schuerze dazu herbeitrug, und so stellte sie die beiden Geschenke neben
+ihre Schlafstelle, in bestaendiger Hoffnung, der Himmel werde ihr ihre
+Bitte gewaehren; und so betete sie auch einst abends von ganzer Seele:
+
+Herr, ich flehe auf den Knien,
+Schenke mir ein liebes Kind,
+Fromm will ich es auferziehen:
+Ists ein Maegdlein, dass es spinnt
+Einen klaren reinen Faden
+Und dabei huebsch singt und betet;
+Ists ein Sohn durch deine Gnaden,
+Dass er kluge Dinge redet
+Und ein Mann wird treu von Worten,
+Stark von Willen, kuehn von Tat,
+Der geehrt wird aller Orten,
+Wie im Kampfe, so im Rat.
+Herr! bereitet ist die Wiege,
+Gib, dass mir ein Kind drin liege!
+Ach, und sollte es nicht sein,
+Gib mir doch nur eine Wonne,
+Waers auch nur ein Baeumelein,
+das ich in der lieben Sonne
+Koennte ziehen, koennte pflegen,
+Dass ich mich mit meinem Gatten
+Einst im selbsterzognen Schatten
+Unter ihm ins Grab koennt legen.
+
+
+So betete die gute Frau unter Traenen und ging zu Bett.  In der Nacht
+war ein schweres Gewitter, es donnerte und blitzte, und einmal fuhr
+ein heller Glanz durch die Schlafkammer.  Am andern Morgen war das
+schoenste Wetter, ein kuehler Wind wehte durch das offene Fenster, und
+die gute Toepferin lag in einem suessen Traum, als sitze sie unter einem
+schoenen Myrtenbaum bei ihrem lieben Manne.  Da saeuselte das Laub um
+sie und sie erwachte, und siehe da! ein frisches junges Myrtenreis lag
+neben ihr auf dem Kopfkissen und spielte mit seinen zarten im Winde
+bewegten Blaettern um ihre Wangen.  Da weckte sie mit grossen Freuden
+ihren Mann, und zeigte es ihm, und sie dankten beide Gott auf ihren
+Knien, dass er ihnen doch etwas Lebendiges geschenkt hatte, das sie
+koennten gruenen und bluehen sehen.  Sie pflanzten das Myrtenreis mit der
+groessten Sorgfalt in das schoene Gartengefaess, und es war taeglich ihr
+liebstes Geschaeft, das junge Staemmchen zu begiessen und in der Sonne zu
+setzen und vor boesem Tau und rauhen Winden zu schuetzen.  Der
+Myrtenreis wuchs zusehends unter ihren Haenden und duftete ihnen Fried
+und Freud ins Herz.
+
+Da kam einstens der Landesherr, Prinz Wetschwuth, in diese Gegend mit
+einigen Gelehrten, um neue Porzellanerde zu entdecken; denn es wurden
+in seiner Hauptstadt Porzellania so viele Haeuser davon gebaut, dass
+diese Erde in der Naehe der Stadt selten geworden war.  Da er in die
+Wohnung des Toepfers eintrat, ihn um seinen Rat zu fragen, ward er bei
+dem Anblick des Myrtenbaeumchens so durch dessen Schoenheit hingerissen,
+dass er alles andere vergass und in lauter Verwunderung ausrief: "O wie
+lieblich, wie reizend ist diese Myrte!  Ihr Anblick hat fuer mein Herz
+etwas ungemein Erquickendes, ich moechte immer in der Naehe dieses
+Baumes leben--nein, ich kann ihn nicht entbehren, ich muss ihn besitzen,
+und muesste ich ihn mit einem Auge erkaufen."  Nach diesem Ausruf
+fragte er sogleich den Toepfer und seine Frau, was sie fuer die Myrte
+verlangten.  Diese guten Leute erklaerten auf die bescheidenste Weise,
+dass sie den Baum nicht verkaufen wollten, und dass er das Liebste sei,
+was sie auf Erden haetten.  "Ach," sagte die Toepferin, "ich koennte
+nicht leben, wenn ich meine Myrte nicht vor mir saehe; ja sie ist mir
+so lieb und wert, als waere sie mein Kind, und kein Koenigreich naehme
+ich fuer diese meine Myrte."  Da der Prinz Wetschwuth dies hoerte, ward
+er sehr traurig und begab sich nach seinem Schlosse zurueck.  Seine
+Sehnsucht nach der Myrte ward so gross, dass er in eine Krankheit fiel
+und das ganze Land um ihn bekuemmert wurde.  Da kamen Abgesandte zu dem
+Toepfer und seiner Frau, und forderten sie auf, die Myrte dem Prinzen
+zu ueberlassen, damit er nicht vor Sehnsucht sterben moechte.  Nach
+langen Unterhandlungen sagte die Frau: "Wenn er die Myrte nicht hat,
+so muss er sterben, und wenn wir die Myrte nicht haben, so koennen wir
+nicht leben; will der Prinz nun die Myrte haben, so muss er uns auch
+mitnehmen, wir wollen sie ihm ueberbringen und ihn anflehen, dass er uns
+als treue Diener in sein Schloss aufnehme, damit wir die geliebte Myrte
+dann und wann sehen und uns an ihr erfreuen koennen."  Das waren die
+Abgesandten zufrieden, sie schickten gleich einen Reiter in die Stadt
+mit der frohen Nachricht, die Myrte werde ankommen, der Prinz sollte
+Mut fassen.  Nun stellte der Toepfer das Gefaess mit der Myrte auf eine
+Tragbahre, ueber welche die Frau ihre schoensten seidenen Tuecher
+gebreitet hatte, und sie trugen beide, nachdem sie ihre Huette
+verschlossen hatten, den geliebten Baum nach der Stadt, wohin sie von
+den Abgesandten begleitet wurden.  Von der Stadt kam ihnen der Prinz
+selbst in einem Wagen entgegen und hatte ein goldenes Giesskaennchen in
+der Hand, womit er die geliebte Myrte begoss, bei deren Anblick er sich
+sichtbar erholte.  Vier weissgekleidete, mit Rosen geschmueckte
+Jungfrauen kamen mit einem rotseidenen Traghimmel, unter welchem die
+Myrte nach dem Schloss getragen wurde.  Kinder streuten Blumen, und
+alles Volk war froh und warf die Muetzen in die Hoehe.  Nur neun
+Fraeulein in der Stadt waren nicht bei der allgemeinen Freude zugegen,
+denn sie wuenschten, dass die Myrte verdorren moechte, weil der Prinz,
+ehe er die Myrte gesehen hatte, sie oft besuchte und jede von ihnen
+gehofft hatte, einst Beherrscherin der Stadt Porzellania zu werden.
+Seit aber von der Myrte die Rede war, hatte er sich nicht mehr um sie
+bekuemmert; drum waren sie auf den unschuldigen Baum so erbittert, dass
+sich an diesem Freudentage keine von ihnen erblicken liess.  Der Prinz
+liess die Myrte an das Fenster seiner Stube stellen und gab dem Toepfer
+und seiner Frau eine Wohnung im Schlossgarten, aus deren Fenster sie
+die Myrte immer erblicken konnten, womit die guten Leute dann auch
+wohl zufrieden waren.
+
+Der Prinz war bald wieder ganz gesund; er pflegte den Baum mit einer
+unbeschreiblichen Liebe und Sorgfalt; auch wuchs dieser und breitete
+sich aus zu aller Freude.  Einstens setzte sich der Prinz abends neben
+dem Baume auf sein Ruhebett.  Alles war ruhig im Schloss, und er
+entschlummerte in tiefen Gedanken.  Da nun die Nacht alles bedeckt
+hatte, hoerte er ein wunderbares Saeuseln in seinem Baum und erwachte
+und lauschte; da vernahm er eine leise Bewegung in seiner Stube herum,
+und ein suesser Duft breitete sich umher.  Er war stille, stille und
+lauschte immerfort; endlich, da es ihm wieder so wunderbar in der
+Myrte saeuselte, begann er zu singen:
+
+Sag, warum dies suesse Rauschen,
+Meine wunderschoene Myrte!
+O mein Baum, fuer den ich so gluehe?
+
+
+Da sang eine liebliche leise Stime wider:
+
+Dank will ich fuer Freundschaft tauschen
+Meinem wunderguten Wirte,
+Meinem Herrn, fuer den ich bluehe!
+
+
+Da war der Prinz ueber die Stimme so entzueckt, dass es nicht
+auszusprechen ist; aber bald ward seine Freude noch viel groesser, denn
+er bemerkte, dass sich jemand auf den Schemel zu seinen Fuessen setzte,
+und da er die Hand darnach ausstreckte, ergriff eine zarte Hand die
+seinige und fuehrte sie an die Lippen eines Mundes, welcher sprach:
+"Mein teurer Herr und Prinz! frage nicht, wer ich bin; erlaube mir nur
+dann und wann in der Stille der Nacht zu deinen Fuessen zu sitzen und
+dir zu danken fuer die treue Pflege, welche du mir in der Myrte
+bewiesen, denn ich bin die Bewohnerin dieser Myrte; aber mein Dank fuer
+deine Zuneigung ist so gewachsen, dass er keinen Raum mehr in diesem
+Baume hatte, und so hat es mir der Himmel vergoennt, in menschlichen
+Gestalt dir manchmal nahezusein."  Der Prinz war entzueckt ueber diese
+Worte und pries sich unendlich gluecklich durch dies Geschenk der
+Goetter.  Sie unterhielten sich einige Stunden, und sie sprach so weise
+und klug, dass er vor Begierde brannte, sie von Angesicht zu Angesicht
+zu sehen.  Das Myrtenfraeulein aber sagte zu ihm: "Lass mich erst ein
+kleines Lied singen, dann kannst du mich sehen", und sie sang:
+
+Saeusle, liebe Myrte!
+Wie still ists in der Welt,
+Der Mond, der Sternenhirte
+Auf klarem Himmelsfeld,
+Treibt schon die Wolkenschafe
+Zum Born des Lichtes hin,
+Schlaf, mein Freund, o schlafe,
+Bis ich wieder bei dir bin.
+
+
+Dazu saeuselte die Myrte, und die Wolken trieben so langsam am Himmel
+hin, und die Springbrunnen plaetscherten so leise im Garten, und der
+Gesang war so sanft, dass der Prinz einschlief, und als er kaum nickte,
+erhob sich das Myrtenfraeulein leise, leise vom Schemel und begab sich
+wieder in die Myrte.
+
+Als der Prinz am Morgen erwachte, erblickte er den Schemel leer zu
+seinen Fuessen, und er wusste nicht, ob das Myrtenfraeulein wirklich bei
+ihm gewesen war, oder ob er nur getraeumt habe; aber da er das Baeumchen
+ganz mit Blueten uebersaet sah, die in der Nacht aufgegangen waren, ward
+er der Erscheinung immer gewisser.  Nie ward die Nacht so sehnsuechtig
+erwartet als von ihm; er setzte sich schon gegen Abend auf sein
+Ruhebett und harrte.  Endlich war die Sonne hinunter, es daemmerte, es
+ward Nacht.  Die Myrte saeuselte, und das Myrtenfraeulein sass zu seinen
+Fuessen und erzaehlte ihm so schoene Sachen, dass er nicht genug zuhoeren
+konnte, und als er sie wieder bat, Licht anzuenden zu duerfen, sang sie
+ihm wieder ein Liedchen:
+
+Saeusle, liebe Myrte!
+Und traeum im Sternenschein,
+Die Turteltaube girrte
+Auch ihre Brust schon ein.
+Still ziehn die Wolkenschafe
+Zum Born des Lichtes hin,
+Schlaf, mein Freund, o schlafe,
+Bis ich wieder bei dir bin.
+
+
+Da schlummerte der Prinz wieder ein und erwachte am Morgen wieder mit
+der gleichen UEberraschung und erwartete die Nacht wieder mit gleicher
+Sehnsucht.  Aber es ging ihm auch diesmal wie in der ersten und
+zweiten Nacht, sie sang ihn immer in den Schlaf, wenn er sie zu sehen
+verlangte.  Sieben Naechte ging dies so fort, waehrend welchen sie ihm
+so vortreffliche Lehren ueber die Kunst zu regieren gab, dass seine
+Begierde, sie zu sehen, nur noch groesser ward.  Er lies daher am andern
+Tage an die Decke seiner Stube ein seidenes Netz befestigen, welches
+er ganz leise niederlassen konnte, und so erwartete er die Nacht.  Als
+das Myrtenfraeulein wieder zu seinen Fuessen sass und ihm die
+tiefsinnigsten Lehren ueber die Pflichten eines guten Fuersten gegeben
+hatte, wollte sie ihm wieder das Schlaflied singen, aber er sprach zu
+ihr: "Heute will ich einmal singen", und sie gab es nach vielen Bitten
+zu; da sang er folgendes Liedchen:
+
+Hoerst du, wie die Brunnen rauschen?
+Hoerst du, wie die Grille zirpt?
+Stille, stille, lass uns lauschen,
+Selig, wer in Traeumen stirbt;
+Selig, wen die Wolken wiegen,
+Wem der Mond ein Schlaflied singt!
+O! wie selig kann der fliegen,
+Dem der Traum den Fluegel schwingt,
+Dass an blauer Himmelsdecke
+Sterne er wie Blumen pflueckt:
+Schlafe, traeume, flieg, ich wecke
+Bald dich auf und bin beglueckt.
+
+
+Und dies Lied wirkte so durch die sanfte Weise, in welcher er es sang,
+dass das Myrtenfraeulein zu den Fuessen des Prinzen entschlummerte; da
+liess er das Netz nieder ueber sie und zuendete seine Lampe an, und o
+Himmel! was sah er?  Die wunderschoenste Jungfrau, welche jemals gelebt,
+im Antlitz wie der klare Mond so mild und rein, Locken wie Gold um
+die Stirne spielend und auf dem Haupt ein Myrtenkroenchen; sie hatte
+ein gruenes Gewand an, mit Silber gestickt, und ihre Haende gefaltet wie
+ein Engelchen.  Lange betrachtete er seine Freundin und Lehrerin mit
+stummen Erstaunen, dann konnte er seine Freude nicht mehr fassen, er
+brach in lautem Jubel aus und rief: "O Tugend! o Weisheit! wie schoen
+ist deine Gestalt; wer kann leben ohne dich, wenn er dich einmal
+erblickte."  Dann ergriff er ihre Hand und steckte ihr seinen
+Siegelring an den Finger und sprach: "Erwache, o meine holdselige
+Freundin! nimm meinen Thron und meine Hand und verlasse mich nie
+wieder."  Da erwachte das Myrtenfraeulein, und als es das Licht
+erblickte, erroetete es ueber und ueber, und blies die Lampe aus.  Dann
+klagte sie, dass er sie gefangen habe, und sagte, daraus wird gewiss
+Unglueck kommen; aber der Prinz bat sie so sehr um Vergebung, bis sie
+ihm verzieh und versprach, die Fuerstin seines Landes zu werden, wenn
+ihre Eltern es erlaubten, er sollte nur alle Anstalten zur Hochzeit
+machen und dann ihre Eltern fragen; bis dahin sollte er sie aber nicht
+wiedersehen.  Der Prinz willigte in alles ein und fragte sie, wie er
+sie rufen solle, wenn er alle Anstalten getroffen habe, und sie sagte:
+"Befestige eine kleine Silberglocke an die Spitze meines Baeumchens,
+und sobald du klingelst, werde ich erscheinen."  Nun zerriss sie das
+Netz, der Baum rauschte, und fort war das Myrtenfraeulein.
+
+Der Tag war kaum angebrochen, als der Prinz auch schon alle seine
+Minister und Raete zusammenberief und ihnen bekannt machte, dass er sich
+naechstens zu vermaehlen gedenke und dass sie alle Anstalten zu dem
+praechtigsten Hochzeitsfeste treffen sollten, das jemals im Land
+gewesen.  Die Raete waren sehr erfreut darueber und fragten ihn
+untertaenigst um den Namen der Braut, damit sie ihren Namenszug bei der
+Illumination anbringen koennten.  Da sagte der Prinz: "Der erste
+Buchstabe ihres Namens ist M und es sollen beim Feste ueberall
+Myrtenzweige hingemalt werden, wo es sich schickt."  Da wollten die
+Herren ihn schon verlassen, als ploetzlich eine Botschaft kam, dass ein
+wildes Schwein in dem fuerstlichen Tiergarten toll geworden waere und in
+dem darin befindlichen glaesernen Lusthause alles chinesische Porzellan
+zertruemmert habe; es sei aeusserst noetig, es sogleich zu erlegen, damit
+es nicht andere Schweine beisse und auch toll mache, welche dann leicht
+die ganze Stadt Porzellania ueber den Haufen werfen koennten.  Da durfte
+der Prinz nicht laenger zaudern; er befahl seinen Raeten, einstweilen
+die Hochzeit zuzubereiten, und zog mit seinen Jaegern hinaus auf die
+Jagd.
+
+Als der Prinz aus dem Schloss ritt, lagen die neun boesen Fraeulein,
+welche sich nicht mit gefreut hatten, als Myrte so feierlich in die
+Stadt gebracht wurde, sehr schoen geputzt am Fenster, in der Hoffnung,
+der Prinz werde sie bemerken und gruessen; aber vergebens, wenn sie sich
+gleich so weit herauslegten, dass sie leicht haetten auf die Strasse
+fallen koennen: der Prinz tat nicht, als wenn er sie bemerkte.
+Hierueber aufgebracht, kamen sie zusammen und fassten den Entschluss,
+sich zu raechen.  Die Geschichte mit dem tollgewordenen wilden Schwein
+war auch nur von ihnen ausgesprengt, damit der Prinz, der sich gar
+nicht mehr sehen liess, ueber die Strasse reiten sollte: sie hatten das
+chinesische Porzellan in dem Lusthaus durch ihre Diener zerschlagen
+lassen.  Als sie eben versammelt waren, trat der Vater der AEltesten,
+der einer der Minister war, herein, und machte den Damen bekannt, sie
+moechten sich zum Hochzeitsfest des Prinzen vorbereiten; der Prinz
+werde eine Prinzessin M. heiraten, auch sei von vielen
+Myrtenverzierungen bei der Illumination die Rede.  Kaum waren sie
+wieder allein, als sie ihrem ganzen Zorn den Lauf liessen; denn sie
+hatten sich alle neun eingebildet, den porzellanenen Thron zu
+besteigen.  Sie liessen sich einen Maurer kommen, der musste ihnen einen
+unterirdischen Gang bis in die Stube des Prinzen machen; denn sie
+wollten sehen, wen er dort versperrt habe.  Als der Gang fertig war,
+beredeten sie noch ein zehntes junges Fraeulein, der sie jedoch ihr
+Vorhaben verschwiegen, mitzugehen, welche es auch tat, doch nur aus
+Neugier und nicht aus boesem Willen; sie nahmen sie aber nur mit, um
+sie dort zurueckzulassen, als habe sie alles getan.  Hierauf begaben
+sie sich in einer Nacht mit Laternen versehen durch den Gang in die
+Stube des Prinzen und suchten alles durch, sehr verwundert, nichts
+Besonderes darin zu finden ausser der Myrte.  An dieser liessen sie nun
+allen ihren Grimm aus, rissen ihr Zweige und Blaetter ab, und als sie
+auch den Wipfel herunterrissen, klingelte das Gloeckchen, und das
+Myrtenfraeulein, welches glaubte, es sei dies das Zeichen zu ihrer
+Hochzeit, trat ploetzlich in dem schoensten Brautkleide aus der Myrte.
+Anfangs verwunderten sich die boesen Geschoepfe, aber bald waren sie
+einig, dieses muesste die kuenftige Fuerstin sein, und somit fielen sie
+ueber sie her und ermordeten sie auf die unbarmherzigste Weise, indem
+sie das arme Myrtenfraeulein mit ihren Messern in viele kleine Stuecke
+zerhackten; jede nahm sich einen Finger von dem armen Myrtenfraeulein
+mit; nur das zehnte Fraeulein hatte nicht mitgeholfen und nur immer
+gejammert und geweint, wofuer sie sie dann einsperrten und nun auf
+demselben Wege entwichen.
+
+Als der Kammerdiener des Prinzen, welchem dieser bei Lebensstrafe
+befohlen hatte, die Myrte taeglich zu begiessen und taeglich die Stube
+aufzuraeumen, als wenn der Prinz da waere, zu seiner Verrichtung
+hereintrat, war sein Entsetzen unbeschreiblich, da er das zerfleischte
+Myrtenfraeulein in dem Blute an der Erde herumliegen und den Myrtenbaum
+zerknickt und entblaettert sah.  Er wusste nicht, was dies sein konnte,
+denn er wusste von dem Myrtenfraeulein nichts; da erzaehlte ihm das junge
+Fraeulein, welches weinend in einer Ecke sass, alles.  Sie nahmen unter
+bittern Traenen alle Glieder und Knochen der Ungluecklichen zusammen und
+begruben sie unter dem zerstoerten Myrtenbaum in das Gefaess, so dass
+alles einen kleinen Grabhuegel bildete; sodann wuschen sie den Boden so
+rein sie konnten, und begossen den Baum mit dem blutverschmierten
+Wasser, raeumten die Stube auf, schlossen sie zu, und flohen in grosser
+Angst miteinander; doch nahm das Fraeulein eine Locke der ungluecklichen
+Gemordeten zum Andenken mit.
+
+Unterdessen waren die Vorbereitungen zu der Hochzeit beinahe fertig,
+und der Prinz, der das wilde Schwein vergebens aufgesucht hatte,
+kehrte nach der Stadt zurueck.  Sein erster Gang war zu dem guten
+Toepfer und seiner Frau, welchen er seine Geschichte mit dem
+Myrtenfraeulein erzaehlte und sie um die Hand ihrer Tochter bat.  Die
+guten Leute waren vor Entzuecken fast ausser sich, als sie vernahmen,
+dass in ihrem Myrtenbaum ihnen eine Tochter erwachsen sei, und wussten
+nun, warum sie denselben so ungemein liebgehabt hatten.  Freudig
+willigten sie in die Bitte des Prinzen ein und begleiteten ihn in das
+Schloss, um ihre wunderbare Tochter zu sehen.  Als sie nun zusammen in
+das Zimmer traten, wo die Myrte stand, sahen ihre Augen ein trauriges
+Schauspiel:--am Boden noch viele blutige Spuren, und der geliebte Baum
+entblaettert und verletzt, neben ihm aber ein Grabhuegel.  Der Prinz
+rief, der Toepfer rief, die Toepferin rief: "O meine geliebte Braut! o
+mein teures Kind! mein einziges liebes Toechterchen! o wo bist du, lass
+dich sehen vor deinen ungluecklichen Eltern!"  Aber nichts ruehrte sich,
+und ihre Verzweiflung war unbegrenzt.  Die drei armen Ungluecklichen
+sassen nun ganze Tage und begossen den Myrtenbaum mit ihren Traenen, und
+das ganze Land war bestuerzt und traurig.
+
+Unter solchen Schmerzen pflegten und warteten der Prinz und der Toepfer
+nebst seiner Frau den kranken Myrtenbaum aufs zaertlichste, und er
+begann wieder Zweige zu treiben, worueber sie sehr erfreut wurden, und
+er war schon wieder ganz hergestellt, nur fehlten ihm an dem Wipfel
+einige Blaetter und an einem seiner beiden Hauptaeste die aeussersten fuenf
+Sprossen und an dem andern vier, neben welchen der fuenfte zu keimen
+anfing.  Diesen fuenften Spross beobachtete der Prinz alle Tage, und wie
+entzueckt war er nicht, als er eines Morgens diesen Spross ganz
+erwachsen und den Ring, den er dem Myrtenfraeulein gegeben, an
+demselben wie an einem Finger befestigt sah.  Sein Entzuecken war
+unbeschreiblich; denn er glaubte nun, das Myrtenfraeulein muesse noch
+leben.  In der naechsten Nacht sass er mit dem Toepfer und der Toepferin
+bei dem Baum, und sie flehten die Myrte so zaertlich um ein
+Lebenszeichen an, dass der Baum endlich zu saeuseln begann und folgende
+Worte sang:
+
+Habt Erbarmen,
+An zwei Armen
+Fehlen mir neun Fingerlein.
+Lieber Prinz! in deinem Reiche
+Wachsen jetzt neun Myrtenzweige,
+Und sie sind mein Fleisch und Bein.
+Habt Erbarmen,
+Schafft mir Armen
+Wieder die neun Fingerlein.
+
+
+Der Prinz und die Eltern waren durch dies traurige Lied sehr geruehrt,
+und der Prinz liess den andern Tag im ganzen Lande bekanntmachen, wer
+ihm die schoensten Myrtenzweige bringe, den wolle er mit seiner
+koeniglichen Hand belohnen.  Dieses kaum auch zu den Ohren der
+Mordfraeulein, welche die arme Myrte so schrecklich gemartert hatten,
+und sie waren sehr froh darueber: denn sie hatten die neun Finger des
+Myrtenfraeuleins, jede den ihren, in einen Topf mit Erde vergraben, und
+es waren kleine Myrtensprosse daraus erwachsen.  Sie putzten sich
+gleich schoen an und kamen eine nach der andern mit ihren Myrtenzweigen
+ins Schloss; denn sie glaubten, die Worte des Prinzen wollten soviel
+sagen, als wolle er die UEberbringerin der schoensten Myrte heiraten.
+Der Prinz liess ihnen die Myrtenzweige abnehmen und versprach ihnen
+seiner Zeit Antwort sagen zu lassen; sie moechten sich nur zum Feste
+vorbereiten.  Als er nun alle die neun Zweige neben den grossen Baum
+gestellt hatte, sprach die Stimme aus dem Baum:
+
+Willkomm, willkomm, neun Zweigelein!
+Willkomm, willkomm, neun Fingerlein!
+Willkomm, willkomm, mein Fleisch und Bein!
+Willkomm, willkomm, zum Topf herein!
+
+
+Da begrub der Prinz die neun Zweige und die neun Finger unter die
+Myrte, welche noch denselben Tag die neun fehlenden Sprossen trieb.
+Nun aber kam noch das juengste Fraeulein, welche nur die Haarlocke
+genommen und ihr den Ringfinger gelassen hatte, und warf sich dem
+Prinzen zu Fuessen und sagte: "Herr! ich habe keine Myrte und habe auch
+keine haben wollen; aber diese Locke gebe ich in deine Hand und bitte
+dich um eine Gnade."  Der Prinz versprach sie ihr, und sie erzaehlte
+ihm, wie die ganze Mordtat geschehen sei, und bat ihn, er moege seinem
+entflohenen Kammerherrn verzeihen und sie mit demselben vermaehlen.  Da
+gab ihr der Prinz einen Gnadenbrief fuer denselben, und sie lief zu ihm
+in den Wald, wo er sich in einem hohlen Baum versteckt hatte, in den
+sie ihm taeglich zu essen gebracht.  Der Kammerherr erfreute sich sehr
+ueber sein Glueck und kam mit ihr wieder in die Stadt.  Als aber der
+Prinz die Haarlocke auch vergraben hatte, sprach die Myrte:
+
+Nun bin ich ganz
+Im alten Glanz,
+Bring mir den Kranz
+Und fuehre mich zum Hochzeitstanz
+
+
+Da liess der Prinz ein grosses Fest vor allem Volke im Schlossgarten
+ansagen; da alles versammelt war, ward die Myrte unter einen
+Thronhimmel gestellt, und der schoenste Blumenkranz, mit Gold
+durchwunden, ward ihr von dem Toepfer und der Toepferin aufgesetzt, und
+als dies kaum geschehen war, trat das Myrtenfraeulein, wie die schoenste
+Braut geschmueckt, aus dem Baum hervor und ward von ihren Eltern,
+welche sie noch nie gesehen hatten, unter Freudentraenen und dann von
+dem gluecklichen Prinzen als seine Braut herzlich umarmt.  Da standen
+die neun Mordfraeulein wie auf heissen Kohlen; der Prinz aber sprach:
+"Was verdient der, welche diesem Myrtenfraeulein etwas zu Leide tut?"
+Und einer sagte da nach dem andern irgendeine harte Strafe her, und
+als die Frage an die neun Fraeulein kam, sagten sie alle zusammen: "Dass
+ihn die Erde verschlinge und seine Hand aus der Erde wachse"; und kaum
+hatten sie es gesagt, als die Erde sie auch verschlang und ueber ihnen
+Fuenffingerkraut hervorwuchs.  Nun wurde die Hochzeit gehalten, und der
+Kammerherr hielt mit dem juengsten Fraeulein auch Hochzeit.  Es schenkte
+dem Prinzen der Himmel auch bald ein kleines Myrtenprinzchen, das ward
+in der schoenen Wiege des alten Toepfers gewiegt, und das ganze Land war
+froh und gluecklich.
+
+Der Myrtenbaum aber ward bald so stark und gross, dass man ihn ins Freie
+setzen musste.  Da begehrte die Prinzessin Myrte, dass er neben die
+ehemalige Huette ihrer Eltern gesetzt werde; das geschah auch, und die
+Huette ward zu einem schoenen Landhaus veraendert, und endlich ward aus
+dem Myrtenbaum ein Myrtenwald, und die Enkel des Toepfers und seiner
+Frau spielten darin, und die beiden guten Leute wurden dort, wie sie
+gewuenscht hatten, unter dem Myrtenbaum begraben.  Der Prinz und das
+Myrtenfraeulein ruhen wohl auch schon dort, wenn sie nicht mehr leben
+sollten, woran ich fast zweifle; denn es ist schon sehr lange her.
+
+
+Ende dieses Projekt Gutenberg Etextes "Das Maerchen von dem
+Myrtenfraeulein" von Clemens Brentano.
+

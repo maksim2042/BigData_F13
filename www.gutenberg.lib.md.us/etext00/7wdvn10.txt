@@ -1,0 +1,5182 @@
+The Project Gutenberg Etext of West-oestlicher Divan, by Goethe
+#10 in our series by Johann Wolfgang Goethe
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfuegung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg.aol.de erreichbar.
+
+This work contains 7 bit ASCII characters to represent certain special
+German characters.  An alternate 8 bit version of this text which does
+use the high order ASCII characters is also available in this format.
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+West-oestlicher Divan
+
+by Johann Wolfgang Goethe
+
+September, 2000  [Etext #2319]
+
+
+The Project Gutenberg Etext of West-oestlicher Divan, by Goethe
+*****This file should be named 7wdvn10.txt or 7wdvn10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 7wdvn11.txt
+VERSIONS based on separate sources get new LETTER, 7wdvn10a.txt
+
+
+This etext was prepared by Michael Pullen, globaltraveler5565@yahoo.com.
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+This etext was prepared by Michael Pullen, globaltraveler5565@yahoo.com.
+
+
+
+
+
+West-oestlicher Divan
+Johann Wolfgang Goethe
+
+
+
+
+Inhalt:
+
+Buch des Saengers
+Buch Hafis
+Buch der Liebe
+Buch der Betrachtungen
+Buch des Unmuts
+Buch der Sprueche
+Buch des Timur
+Buch Suleika
+Das Schenkenbuch
+Buch der Parabeln
+Buch des Parsen
+Buch des Paradieses
+
+
+
+
+Buch des Saengers
+
+
+
+
+Moganni Nameh: Buch des Saengers
+
+
+Zwanzig Jahre liess ich gehn
+Und genoss, was mir beschieden;
+Eine Reihe voellig schoen
+Wie die Zeit der Barmekiden.
+
+
+Hegire
+
+
+Nord und West und Sued zersplittern,
+Throne bersten, Reiche zittern:
+Fluechte du, im reinen Osten
+Patriarchenluft zu kosten,
+Unter Lieben, Trinken, Singen
+Soll dich Chisers Quell verjuengen.
+
+Dort im Reinen und im Rechten
+Will ich menschlichen Geschlechten
+In des Ursprungs Tiefe dringen,
+Wo sie noch von Gott empfingen
+Himmelslehr' in Erdesprachen
+Und sich nicht den Kopf zerbrachen.
+
+Wo sie Vaeter hoch verehrten,
+Jeden fremden Dienst verwehrten;
+Will mich freun der Jugendschranke:
+Glaube weit, eng der Gedanke,
+Wie das Wort so wichtig dort war,
+Weil es ein gesprochen Wort war.
+
+Will mich unter Hirten mischen,
+An Oasen mich erfrischen,
+Wenn mit Karawanen wandle,
+Shawl, Kaffee und Moschus handle;
+Jeden Pfad will ich betreten
+Von der Wueste zu den Staedten.
+
+Boesen Felsweg auf und nieder
+Troesten, Hafis, deine Lieder,
+Wenn der Fuehrer mit Entzuecken
+Von des Maultiers hohem Ruecken
+Singt, die Sterne zu erwecken
+Und die Raeuber zu erschrecken.
+
+Will in Baedern und in Schenken,
+Heilger Hafis, dein gedenken,
+Wenn den Schleier Liebchen lueftet,
+Schuettelnd Ambralocken dueftet.
+Ja, des Dichters Liebesfluestern
+Mache selbst die Huris luestern.
+
+Wolltet ihr ihm dies beneiden
+Oder etwa gar verleiden,
+Wisset nur, dass Dichterworte
+Um des Paradieses Pforte
+Immer leise klopfend schweben,
+Sich erbittend ewges Leben.
+
+
+Segenspfaender
+
+
+Talisman in Karneol,
+Glaeubgen bringt er Glueck und Wohl;
+Steht er gar auf Onyx' Grunde,
+Kuess ihn, mit geweihtem Munde!
+Alles uebel treibt er fort,
+Schuetzet dich und schuetzt den Ort:
+Wenn das eingegrabne Wort
+Allahs Namen rein verkuendet,
+Dich zu Lieb und Tat entzuendet.
+Und besonders werden Frauen
+Sich am Talisman erbauen.
+
+Amulette sind dergleichen
+Auf Papier geschriebne Zeichen;
+Doch man ist nicht im Gedraenge
+Wie auf edlen Steines Enge
+Und vergoennt ist frommen Seelen,
+Laengre Verse hier zu waehlen.
+Maenner haengen die Papiere
+Glaeubig um als Skapuliere.
+
+Die Inschrift aber hat nichts hinter sich,
+Sie ist sie selbst und muss dir alles sagen,
+Was hintendrein mit redlichem Behagen
+Du gerne sagst: Ich sag' es! Ich!
+
+Doch Abraxas bring ich selten!
+Hier soll meist das Fratzenhafte,
+Das ein duestrer Wahnsinn schaffte,
+Fuer das Allerhoechste gelten.
+Sag' ich euch absurde Dinge,
+Denkt, dass ich Abraxas bringe.
+
+Ein Siegelring ist schwer zu zeichnen;
+Den hoechsten Sinn im engsten Raum;
+Doch weisst du hier ein Echtes anzueignen,
+Gegraben steht das Wort, du denkst es kaum.
+
+
+Freisinn
+
+
+Lasst mich nur auf meinem Sattel gelten!
+Bleibt in euren Huetten, euren Zelten!
+Und ich reite froh in alle Ferne,
+ueber meiner Muetze nur die Sterne.
+
+Er hat euch die Gestirne gesetzt
+Als Leiter zu Land und See,
+Damit ihr euch daran ergetzt,
+Stets blickend in die Hoeh'.
+
+
+Talismane
+
+
+Gottes ist der Orient!
+Gottes ist der Occident!
+Nord- und suedliches Gelaende
+Ruht im Frieden seiner Haende!
+
+Er, der einzige Gerechte,
+Will fuer jedermann das Rechte.
+Sei von seinen hundert Namen
+Dieser hochgelobet! Amen.
+
+Mich verwirren will das Irren,
+Doch du weisst mich zu entwirren.
+Wenn ich handle, wenn ich dichte,
+Gib du meinem Weg die Richte!
+
+Ob ich Ird'sches denk' und sinne,
+Das gereicht zu hoeherem Gewinne.
+Mit dem Staube nicht der Geist zerstoben,
+Dringet, in sich selbst gedraengt, nach oben.
+
+Im Atemholen sind zweierlei Gnaden:
+Die Luft einziehn, sich ihrer entladen.
+Jenes bedraengt, dieses erfrischt;
+So wunderbar ist das Leben gemischt.
+Du danke Gott, wenn er dich presst,
+Und dank ihm, wenn er dich wieder entlaesst!
+
+
+Vier Gnaden
+
+
+Dass Araber an ihrem Teil
+Die Weite froh durchziehen,
+Hat Allah zu gemeinem Heil
+Der Gnaden vier verliehen.
+
+Den Turban erst, der besser schmueckt
+Als alle Kaiserkronen;
+Ein Zelt, dass man vom Orte rueckt,
+Um ueberall zu wohnen;
+
+Ein Schwert, das tuechtiger beschuetzt
+Als Fels und hohe Mauern;
+Ein Liedchen, das gefaellt und nuetzt,
+Worauf die Maedchen lauern.
+
+Und Blumen sing ich ungestoert
+Von ihrem Shawl herunter;
+Sie weiss recht wohl, was ihr gehoert,
+Und bleibt mir hold und munter,
+
+Und Blum und Fruechte weiss ich euch
+Gar zierlich aufzutischen;
+Wollt ihr Moralien zugleich,
+So geb ich von den frischen.
+
+
+Gestaendnis
+
+
+Was ist schwer zu verbergen? Das Feuer!
+Denn bei Tage verraet's der Rauch,
+Bei Nacht die Flamme, das Ungeheuer.
+Ferner ist schwer zu verbergen auch
+Die Liebe: noch so stille gehegt,
+Sie doch gar leicht aus den Augen schlaegt.
+Am schwersten zu bergen ist ein Gedicht:
+Man stellt es untern Scheffel nicht.
+Hat es der Dichter frisch gesungen,
+So ist er ganz davon durchdrungen;
+Hat er es zierlich nett geschrieben,
+Will er, die ganze Welt soll's lieben.
+Er liest es jedem froh und laut,
+Ob es uns quaelt, ob es erbaut.
+
+
+Elemente
+
+
+Aus wie vielen Elementen
+Soll ein echtes Lied sich naehren,
+Dass es Laien gern empfinden,
+Meister es mit Freuden hoeren?
+
+Liebe sei vor allen Dingen
+Unser Thema, wenn wir singen;
+Kann sie gar das Lied durchdringen,
+Wird's um desto besser klingen.
+
+Dann muss Klang der Glaeser toenen
+Und Rubin des Weins erglaenzen:
+Denn fuer Liebende, fuer Trinker
+Winkt man mit den schoensten Kraenzen.
+
+Waffenklang wird auch gefodert,
+Dass auch die Drommete schmettre;
+Dass, wenn Glueck zu Flammen lodert,
+Sich im Sieg der Held vergoettre.
+
+Dann zuletzt ist unerlaesslich,
+Dass der Dichter manches hasse;
+Was unleidlich ist und haesslich,
+Nicht wie Schoenes leben lasse.
+
+Weiss der Saenger, dieser Viere
+Urgewalt'gen Stoff zu mischen,
+Hafis gleich wird er die Voelker
+Ewig freuen und erfrischen.
+
+
+Erschaffen und Beleben
+
+
+Hans Adam war ein Erdenkloss,
+Den Gott zum Menschen machte,
+Doch bracht' er aus der Mutter Schoss
+Noch vieles Ungeschlachte.
+
+Die Elohim zur Nas' hinein
+Den besten Geist ihm bliesen,
+Nun schien er schon was mehr zu sein
+Denn er fing an zu niesen.
+
+Doch mit Gebein und Glied und Kopf
+Blieb er ein halber Klumpen,
+Bis endlich Noah fuer den Tropf
+Das Wahre fand--den Humpen.
+
+Der Klumpe fuehlt sogleich den Schwung,
+Sobald er sich benetzet,
+So wie der Teig durch Saeuerung
+Sich in Bewegung setzet.
+
+So, Hafis, mag dein holder Sang,
+Dein heiliges Exempel
+Uns fuehren bei der Glaeser Klang
+Zu unsres Schoepfers Tempel.
+
+
+Phaenomen
+
+
+Wenn zu der Regenwand
+Phoebus sich gattet,
+Gleich steht ein Bogenrand
+Farbig beschattet.
+
+Im Nebel gleichen Kreis
+Seh ich gezogen,
+Zwar ist der Bogen weiss,
+Doch Himmelsbogen.
+
+So sollst du, muntrer Greis,
+Dich nicht betrueben:
+Sind gleich die Haare weiss,
+Doch wirst du lieben.
+
+
+Liebliches
+
+
+Was doch Buntes dort verbindet
+Mir den Himmel mit der Hoehe?
+Morgennebelung verblindet
+Mir des Blickes scharfe Sehe.
+
+Sind es Zelte des Wesires,
+Die er lieben Frauen baute?
+Sind es Teppiche des Festes,
+Weil er sich der Liebsten traute?
+
+Rot und weiss, gemischt, gesprenkelt
+Wuesst ich Schoenres nicht zu schauen.
+Doch wie, Hafis, kommt dein Schiras
+Auf des Nordens truebe Gauen?
+
+Ja, es sind die bunten Mohne,
+Die sich nachbarlich erstrecken
+Und dem Kriegesgott zu Hohne
+Felder streifweis freundlich decken.
+
+Moege stets so der Gescheute
+Nutzend Blumenzierde pflegen
+Und ein Sonnenschein wie heute
+Klaeren sie auf meinen Wegen!
+
+
+Zwiespalt
+
+
+Wenn links am Baches Rand
+Cupido floetet,
+Im Felde rechter Hand
+Mavors drommetet,
+Da wird dorthin das Ohr
+Lieblich gezogen,
+Doch um des Liedes Flor
+Durch Laerm betrogen.
+Nun floetet's immer voll
+Im Kriegestunder,
+Ich werde rasend, toll--
+Ist das ein Wunder?
+Fort waechst der Floetenton,
+Schall der Posaunen,
+Ich irre, rase schon--
+Ist das zu staunen?
+
+
+Im Gegenwaertigen Vergangnes
+
+
+Ros' und Lilie morgentaulich
+Blueht im Garten meiner Naehe;
+Hintenan, bebuscht und traulich,
+Steigt der Felsen in die Hoehe;
+Und mit hohem Wald umzogen
+Und mit Ritterschloss gekroenet,
+Lenkt sich hin des Gipfels Bogen,
+Bis er sich dem Tal versoehnet.
+
+Und da duftet's wie vor Alters,
+Da wir noch von Liebe litten
+Und die Saiten meines Psalters
+Mit dem Morgenstrahl sich stritten;
+Wo das Jagdlied aus den Bueschen
+Fuelle runden Tons enthauchte,
+Anzufeuern, zu erfrischen,
+Wie's der Busen wollt und brauchte.
+
+Nun die Waelder ewig sprossen,
+So ermutigt euch mit diesen:
+Was ihr sonst fuer euch genossen,
+Laesst in andern sich geniessen.
+Niemand wird uns dann beschreien,
+Dass wir's uns alleine goennen;
+Nun in allen Lebensreihen
+Muesset ihr geniessen koennen.
+
+Und mit diesem Lied und Wendung
+Sind wir wieder bei Hafisen,
+Denn es ziemt, des Tags Vollendung
+Mit Geniessern zu geniessen.
+
+
+Lied und Gebilde
+
+
+Mag der Grieche seinen Ton
+Zu Gestalten druecken,
+An der eignen Haende Sohn
+Steigern sein Entzuecken.
+
+Aber uns ist wonnereich,
+In den Euphrat greifen
+Und im fluess'gen Element
+Hin und wieder schweifen.
+
+Loescht ich so der Seele Brand,
+Lied, es wird erschallen:
+Schoepft des Dichters reine Hand,
+Wasser wird sich ballen.
+
+
+Dreistigkeit
+
+
+Worauf kommt es ueberall an,
+Dass der Mensch gesundet?
+Jeder hoeret gern den Schall an,
+Der zum Ton sich rundet.
+
+Alles weg, was deinen Lauf stoert!
+Nur kein duester Streben!
+Eh' er singt und eh' er aufhoert,
+Muss der Dichter leben.
+
+Und so mag des Lebens Erzklang
+Durch die Seele droehnen!
+Fuehlt der Dichter sich das Herz bang,
+Wird sich selbst versoehnen.
+
+
+Derb und tuechtig
+
+
+Dichten ist ein uebermut,
+Niemand schelte mich!
+Habt getrost ein warmes Blut
+Froh und frei wie ich.
+
+Sollte jeder Stunde Pein
+Bitter schmecken mir,
+Wuerd ich auch bescheiden sein
+Und noch mehr als ihr.
+
+Denn Bescheidenheit ist fein,
+Wenn das Maedchen blueht,
+Sie will zart geworben sein,
+Die den Rohen flieht.
+
+Auch ist gut Bescheidenheit,
+Spricht ein weiser Mann,
+Der von Zeit und Ewigkeit
+Mich belehren kann.
+
+Dichten ist ein uebermut!
+Treib es gern allein.
+Freund' und Frauen, frisch von Blut,
+Kommt nur auch herein!
+
+Moenchlein ohne Kapp und Kutt,
+Schwatz nicht auf mich ein!
+Zwar du machest mich kaputt,
+Nicht bescheiden, nein!
+
+Deiner Phrasen leeres Was
+Treibet mich davon,
+Abgeschliffen hab ich das
+An den Sohlen schon.
+
+Wenn des Dichters Muehle geht,
+Halte sie nicht ein:
+Denn wer einmal uns versteht,
+Wird uns auch verzeihn.
+
+
+All-Leben
+
+
+Staub ist eins der Elemente,
+Das du gar geschickt bezwingest,
+Hafis, wenn zu Liebchens Ehren
+Du ein zierlich Liedchen singest.
+
+Denn der Staub auf ihrer Schwelle
+Ist dem Teppich vorzuziehen,
+Dessen goldgewirkte Blumen
+Mahmuds Guenstlinge beknieen.
+
+Treibt der Wind von ihrer Pforte
+Wolken Staubs behend vorueber,
+Mehr als Moschus sind die Duefte
+Und als Rosenoel dir lieber.
+
+Staub, den hab ich laengst entbehret
+In dem stets umhuellten Norden,
+Aber in dem heissen Sueden
+Ist er mir genugsam worden.
+
+Doch schon laengst, dass liebe Pforten
+Mir auf ihren Angeln schwiegen!
+Heile mich, Gewitterregen,
+Lass mich, dass es grunelt, riechen!
+
+Wenn jetzt alle Donner rollen
+Und der ganze Himmel leuchtet,
+Wird der wilde Staub des Windes
+Nach dem Boden hingefeuchtet.
+
+Und sogleich entspring ein Leben,
+Schwillt ein heilig heimlich Wirken,
+Und es grunelt und es gruenet
+In den irdischen Bezirken.
+
+
+Selige Sehnsucht
+
+
+Sagt es niemand, nur den Weisen,
+Weil die Menge gleich verhoehnet:
+Das Lebendige will ich preisen,
+Das nach Flammentod sich sehnet.
+
+In der Liebesnaechte Kuehlung,
+Die dich zeugte, wo du zeugtest,
+ueberfaellt dich fremde Fuehlung,
+Wenn die stille Kerze leuchtet.
+
+Nicht mehr bleibest du umfangen
+In der Finsternis Beschattung,
+Und dich reisset neu Verlangen
+Auf zu hoeherer Begattung.
+
+Keine Ferne macht dich schwierig,
+Kommst geflogen und gebannt,
+Und zuletzt, des Lichts begierig,
+Bist du Schmetterling verbrannt.
+
+Und so lang du das nicht hast,
+Dieses: Stirb und werde!
+Bist du nur ein trueber Gast
+Auf der dunklen Erde.
+
+Tut ein Schilf sich doch hervor,
+Welten zu versuessen!
+Moege meinem Schreiberohr
+Liebliches entfliessen!
+
+
+
+
+
+Buch Hafis
+
+
+
+
+
+Hafis Nameh: Buch Hafis
+
+
+Sei das Wort die Braut genannt,
+Braeutigam der Geist;
+Diese Hochzeit hat gekannt,
+Wer Hafisen preist.
+
+
+Beiname
+
+
+
+Dichter
+
+Mohammed Schemseddin, sage,
+Warum hat dein Volk, das hehre,
+Hafis dich genannt?
+
+Hafis
+
+
+    Ich ehre,
+Ich erwidre deine Frage.
+Weil in gluecklichem Gedaechtnis
+Des Korans geweiht Vermaechtnis
+Unveraendert ich verwahre,
+Und damit so fromm gebare,
+Des gemeinen Tages Schlechtnis
+Weder mich noch die beruehret,
+Die Propheten-Wort und Samen
+Schaetzen, wie es sich gebuehret--
+Darum gab man mir den Namen.
+
+
+Dichter
+
+
+Hafis, drum, so will mir scheinen,
+Moecht ich dir nicht gerne weichen:
+Denn, wenn wir wie andre meinen,
+Werden wir den andern gleichen.
+Und so gleich ich dir vollkommen,
+Der ich unsrer heil'gen Buecher
+Herrlich Bild an mich genommen,
+Wie auf jenes Tuch der Tuecher
+Sich des Herren Bildnis drueckte,
+Mich in stiller Brust erquickte
+Trotz Verneinung, Hindrung, Raubens
+Mit dem heitern Bild des Glaubens.
+
+
+Anklage
+
+
+Wisst ihr denn, auf wen die Teufel lauern
+In der Wueste, zwischen Fels und Mauern?
+Und wie sie den Augenblick erpassen,
+Nach der Hoelle sie entfuehrend fassen?
+Luegner sind es und der Boesewicht,
+Der Poete, warum scheut er nicht,
+Sich mit solchen Leuten einzulassen!
+
+Weiss denn der, mit wem er geht und wandelt,
+Er, der immer nur im Wahnsinn handelt?
+Grenzenlos, von eigensinnigem Lieben,
+Wird er in die oede fortgetrieben,
+Seiner Klagen Reim', in Sand geschrieben,
+Sind vom Winde gleich verjagt;
+Er versteht nicht, was er sagt,
+Was er sagt, wird er nicht halten.
+
+Doch sein Lied, man laesst es immer walten,
+Da es doch dem Koran widerspricht.
+Lehret nun, ihr des Gesetzes Kenner,
+Weisheit-fromme, hochgelahrte Maenner,
+Treuer Mosleminen feste Pflicht.
+
+Hafis insbesondre schaffet aergernisse,
+Mirza sprengt den Geist ins Ungewisse:
+Saget, was man tun und lassen muesse!
+
+
+Fetwa
+
+
+Hafis' Dichterzuege, sie bezeichnen
+Ausgemachte Wahrheit unausloeschlich;
+Aber hie und da auch Kleinigkeiten
+Ausserhalb der Grenze des Gesetzes.
+Willst du sicher gehn, so musst du wissen
+Schlangengift und Theriah zu sondern--
+Doch der reinen Wollust edler Handlung
+Sich mit frohem Mut zu ueberlassen
+Und vor solcher, der nur ew'ge Pein folgt,
+Mit besonnenem Sinn sich zu verwahren,
+Ist gewiss das Beste, um nicht zu fehlen.
+Dieses schrieb der arme Ebusuud,
+Gott verzeih' ihm seine Suenden alle!
+
+
+Der Deutsche dankt
+
+
+Heilger Ebusuud, hast's getroffen!
+Solche Heil'ge wuenschet sich der Dichter:
+Denn gerade jene Kleinigkeiten
+Ausserhalb der Grenze des Gesetzes
+Sind das Erbteil, wo er uebermuetig,
+Selbst im Kummer lustig, sich beweget.
+Schlangengift und Theriak muss
+Ihm das eine wie das andre scheinen.
+Toeten wird nicht jenes, dies nicht heilen:
+Denn das wahre Leben ist des Handelns
+Ewge Unschuld, die sich so erweiset,
+Dass sie niemand schadet als sich selber.
+Und so kann der alte Dichter hoffen,
+Dass die Huris ihn im Paradiese
+Als verklaerten Juengling wohl empfangen.
+Heiliger Ebusuud, hast's getroffen!
+
+
+Fetwa
+
+
+Der Mufti las des Misri Gedichte,
+Eins nach dem andern, alle zusammen,
+Und wohlbedaechtig warf sie in die Flammen.
+Das schoengeschriebne Buch, es ging zunichte.
+"Verbrannt sei jeder", sprach der hohe Richter,
+"Wer spricht und glaubt wie Misri--er allein
+Sei ausgenommen von des Feuers Pein:
+Denn Allah gab die Gabe jedem Dichter.
+Missbraucht er sie im Wandel seiner Suenden,
+So seh er zu, mit Gott sich abzufinden."
+
+
+Unbegrenzt
+
+
+Dass du nicht enden kannst, das macht dich gross,
+Und dass du nie beginnst, das ist dein Los.
+Dein Lied ist drehend wie das Sterngewoelbe,
+Anfang und Ende immerfort dasselbe,
+Und, was die Mitte bringt, ist offenbar
+Das, was zu Ende bleibt und Anfangs war.
+
+Du bist der Freuden echte Dichterquelle
+Und ungezaehlt entfliesst dir Well' auf Welle.
+Zum Kuessen stets bereiter Mund,
+Ein Brustgesang, der lieblich fliesset,
+Zum Trinken stets gereizter Schlund,
+Ein gutes Herz, das sich ergiesset.
+
+Und mag die ganze Welt versinken,
+Hafis mit dir, mit dir allein
+Will ich wetteifern! Lust und Pein
+Sei uns, den Zwillingen, gemein!
+Wie du zu lieben und zu trinken,
+Das soll mein Stolz, mein Leben sein.
+
+Nun toene Lied mit eignem Feuer!
+Denn du bist aelter, du bist neuer.
+
+
+Nachbildung
+
+
+In deine Reimart hoff ich mich zu finden,
+Das Wiederholen soll mir auch gefallen,
+Erst werd ich Sinn, sodann auch Worte finden;
+Zum zweitenmal soll mir kein Klang erschallen,
+Er muesste denn besondern Sinn begruenden,
+Wie du's vermagst, Beguenstigter vor allen!
+Denn wie ein Funke faehig, zu entzuenden
+Die Kaiserstadt, wenn Flammen grimmig wallen,
+Sich winderzeugend gluehn von eignen Winden,
+Er, schon erloschen, schwand zu Sternenhallen:
+So schlang's von dir sich fort mit ew'gen Gluten,
+Ein deutsches Herz von frischem zu ermuten.
+
+Zugemessne Rhythmen reizen freilich,
+Das Talent erfreut sich wohl darin,
+Doch wie schnelle widern sie abscheulich,
+Hohle Masken ohne Blut und Sinn.
+Selbst der Geist erscheint sich nicht erfreulich,
+Wenn er nicht, auf neue Form bedacht,
+Jener toten Form ein Ende macht.
+
+
+Offenbar Geheimnis
+
+
+Sie haben dich, heiliger Hafis,
+Die mystische Zunge genannt
+Und haben, die Wortgelehrten,
+Den Wert des Worts nicht erkannt.
+
+Mystisch heissest du ihnen,
+Weil sie Naerrisches bei dir denken
+Und ihren unlautern Wein
+In deinem Namen verschenken.
+
+Du aber bist mystisch rein,
+Weil sie dich nicht verstehn,
+Der du, ohne fromm zu sein, selig bist!
+Das wollen sie dir nicht zugestehn.
+
+
+Wink
+
+
+Und doch haben sie recht, die ich schelte:
+Denn, dass ein Wort nicht einfach gelte,
+Das muesste sich wohl von selbst verstehn.
+Das Wort ist ein Faecher! Zwischen den Staeben
+Blicken ein paar schoene Augen hervor,
+Der Faecher ist nur ein lieblicher Flor,
+Er verdeckt mir zwar das Gesicht,
+Aber das Maedchen verbirgt er nicht,
+Weil das Schoenste, was sie besitzt,
+Das Auge, mir ins Auge blitzt.
+
+
+An Hafis
+
+
+Was alle wollen, weisst du schon
+Und hast es wohl verstanden:
+Denn Sehnsucht haelt, von Staub zu Thron
+Uns all in strengen Banden.
+
+Es tut so weh, so wohl hernach,
+Wer straeubte sich dagegen?
+Und wenn den Hals der eine brach,
+Der andre bleibt verwegen.
+
+Verzeihe, Meister, wie du weisst,
+Dass ich mich oft vermesse,
+Wenn sie das Auge nach sich reisst,
+Die wandelnde Cypresse.
+
+Wie Wurzelfasern schleicht ihr Fuss
+Und buhlet mit dem Boden,
+Wie leicht Gewoelk verschmilzt ihr Gruss,
+Wie Ost-Gekos' ihr Oden.
+
+Das alles draengt uns ahndevoll,
+Wo Lock an Locke kraeuselt,
+In brauner Fuelle ringelnd schwoll,
+Sodann im Winde saeuselt.
+
+Nun oeffnet sich die Stirne klar,
+Dein Herz damit zu glaetten,
+Vernimmst ein Lied so froh und wahr,
+Den Geist darin zu betten.
+
+Und wenn die Lippen sich dabei
+Aufs niedlichste bewegen,
+Sie machen dich auf einmal frei,
+In Fesseln dich zu legen.
+
+Der Atem will nicht mehr zurueck,
+Die Seel zur Seele fliehend,
+Gerueche winden sich durchs Glueck
+Unsichtbar wolkig ziehend.
+
+Doch wenn es allgewaltig brennt,
+Dann greifst du nach der Schale:
+Der Schenke laeuft, der Schenke koemmt
+Zum erst- und zweiten Male.
+
+Sein Auge blitzt, sein Herz erbebt,
+Er hofft auf deine Lehren,
+Dich, wenn der Wein den Geist erhebt,
+Im hoechsten Sinn zu hoeren.
+
+Ihm oeffnet sich der Welten Raum,
+Im Innern Heil und Orden,
+Es schwillt die Brust, es braeunt der Flaum,
+Er ist ein Juengling worden.
+
+Und wenn dir kein Geheimnis blieb,
+Was Herz und Welt enthalte,
+Dem Denker winkst du treu und lieb,
+Dass sich der Sinn entfalte.
+
+Auch dass vom Throne Fuerstenhort
+Sich nicht fuer uns verliere.
+Gibst du dem Schah ein gutes Wort
+Und gibst es dem Wesire.
+
+Das alles kennst und singst du heut
+Und singst es morgen eben:
+So traegt uns freundlich dein Geleit
+Durchs rauhe, milde Leben.
+
+
+
+
+
+Buch der Liebe
+
+
+
+
+
+Ushk Nameh: Buch der Liebe
+
+
+Sage mir,
+Was mein Herz begehrt?
+
+"Mein Herz ist bei dir,
+Halt es wert!"
+
+
+Musterbilder
+
+
+Hoer und bewahre
+Sechs Liebespaare!
+Wortbild entzuendet, Liebe schuert zu:
+Rustan und Rodawu.
+Unbekannte sind sich nah:
+Jussuph und Suleika.
+Liebe, nicht Liebesgewinn:
+Ferhad und Schirin.
+Nur fuer einander da:
+Medschnun und Leila.
+Liebend im Alter sah
+Dschemil auf Boteinah.
+Suesse Liebeslaune:
+Salomo und die Braune!
+Hast du sie wohl vermerkt?
+Bist im Lieben gestaerkt.
+
+
+Noch ein Paar
+
+
+Ja, Lieben ist ein gross Verdienst!
+Wer findet schoeneren Gewinst?--
+Du wirst nicht maechtig, wirst nicht reich,
+Jedoch den groessten Helden gleich.
+Man wird so gut wie vom Propheten
+Von Wamik und von Asra reden.--
+Nicht reden wird man, wird sie nennen:
+Die Namen muessen alle kennen.
+Was sie getan, was sie geuebt,
+Das weiss kein Mensch! Dass sie geliebt,
+Das wissen wir. Genug gesagt,
+Wenn man nach Wamik und Asra fragt!
+
+
+Lesebuch
+
+
+Wunderlichstes Buch der Buecher
+Ist das Buch der Liebe.
+Aufmerksam hab ich's gelesen:
+Wenig Blaetter Freuden,
+Ganze Hefte Leiden;
+Einen Abschnitt macht die Trennung.
+Wiedersehn! ein klein Kapitel,
+Fragmentarisch. Baende Kummers,
+Mit Erklaerungen verlaengert,
+Endlos, ohne Mass.
+O Nisami!--doch am Ende
+Hast den rechten Weg gefunden:
+Unaufloesliches, wer loest es?
+Liebende, sich wiederfindend.
+
+
+Ja, die Augen waren's
+
+
+Ja, die Augen waren's, ja, der Mund,
+Die mir blickten, die mich kuessten.
+Huefte schmal, der Leib so rund,
+Wie zu Paradieses Luesten!
+War sie da? Wo ist sie hin?
+Ja, sie war's, sie hat's gegeben,
+Hat gegeben sich im Fliehn
+Und gefesselt all mein Leben.
+
+
+Gewarnt
+
+
+Auch in Locken hab ich mich
+Gar zu gern verfangen.
+Und so, Hafis, waer's wie dir
+Deinem Freund ergangen.
+
+Aber Zoepfe flechten sie,
+Nun aus langen Haaren;
+Unterm Helme fechten sie,
+Wie wir wohl erfahren.
+
+Wer sich aber wohl besann,
+Laesst sich so nicht zwingen:
+Schwere Ketten fuerchtet man,
+Rennt in leichte Schlingen.
+
+
+Versunken
+
+
+Voll Locken kraus ein Haupt so rund!
+Und darf ich dann in solchen reichen Haaren
+Mit vollen Haenden hin und wider fahren,
+Da fuehl ich mich von Herzensgrund gesund.
+Und kuess ich Stirne, Bogen, Auge, Mund,
+Dann bin ich frisch und immer wieder wund.
+Der fuenfgezackte Kamm, wo sollt er stocken?
+Er kehrt schon wieder zu den Locken.
+Das Ohr versagt sich nicht dem Spiel,
+Hier ist nicht Fleisch, hier ist nicht Haut,
+So zart zum Scherz, so liebeviel!
+Doch wie man auf dem Koepfchen kraut,
+Man wird in solchen reichen Haaren
+Fuer ewig auf und nieder fahren.
+So hast du, Hafis, auch getan,
+Wir fangen es von vornen an.
+
+
+Bedenklich
+
+
+Soll ich von Smaragden reden,
+Die dein Finger niedlich zeigt?
+Manchmal ist ein Wort von noeten,
+Oft ist's besser, dass man schweigt.
+
+Also sag ich, dass die Farbe
+Gruen und augerquicklich sei!
+Sage nicht, dass Schmerz und Narbe
+Zu befuerchten nah dabei!
+
+Immerhin! du magst es lesen!
+Warum uebst du solche Macht!
+"So gefaehrlich ist dein Wesen
+Als erquicklich der Smaragd."
+
+Liebchen, ach! im starren Bande
+Zwaengen sich die freien Lieder,
+Die im reinen Himmelslande
+Munter flogen hin und wider.
+Allem ist die Zeit verderblich,
+Sie erhalten sich allein!
+Jede Zeile soll unsterblich,
+Ewig wie die Liebe sein.
+
+
+Schlechter Trost
+
+
+Mitternachts weint und schluchzt ich,
+Weil ich dein entbehrte.
+Da kamen Nachtgespenster
+Und ich schaemte mich.
+"Nachtgespenster", sagt ich,
+"Schluchzend und weinend
+Findet ihr mich, dem ihr sonst
+Schlafende vorueberzogt.
+Grosse Gueter vermiss ich.
+Denkt nicht schlimmer von mir,
+Den ihr sonst weise nanntet,
+Grosses uebel betrifft ihn!"--
+Und die Nachtgespenster
+Mit langen Gesichtern
+Zogen vorbei,
+Ob ich weise oder toerig,
+Voellig unbekuemmert.
+
+
+Genuegsam
+
+
+"Wie irrig waehntest du,
+Aus Liebe gehoere das Maedchen dir zu.
+Das koennte mich nun garnicht freuen,
+Sie versteht sich auf Schmeicheleien."
+
+Dichter
+
+Ich bin zufrieden, dass ich's habe!
+Mir diene zur Entschuldigung:
+Liebe ist freiwillige Gabe,
+Schmeichelei Huldigung.
+
+
+Gruss
+
+
+O wie selig ward mir!
+Im Lande wandl ich,
+Wo Hudhud ueber den Weg laeuft.
+Des alten Meeres Muscheln
+Im Stein sucht ich, die versteinten;
+Hudhud lief einher,
+Die Krone entfaltend,
+Stolzierte, neckischer Art,
+ueber das Tote scherzend
+Der Lebendge.
+"Hudhud", sagt ich, "fuerwahr!
+Ein schoener Vogel bist du.
+Eile doch, Wiedehopf!
+Eile, der Geliebten
+Zu verkuenden, dass ich ihr
+Ewig angehoere.
+Hast du doch auch
+Zwischen Salomo
+Und Sabas Koenigin
+Ehemals den Kuppler gemacht!"
+
+
+Ergebung
+
+
+"Du vergehst und bist so freundlich,
+Verzehrst dich und singst so schoen?"
+
+Dichter
+
+Die Liebe behandelt mich feindlich!
+Da will ich gern gestehn:
+Ich singe mit schwerem Herzen.
+Sieh doch einmal die Kerzen!
+Sie leuchten, indem sie vergehn.
+
+Eine Stelle sucht der Liebe Schmerz,
+Wo es recht wuest und einsam waere;
+Da fand er denn mein oedes Herz
+Und nistete sich in das leere.
+
+
+Unvermeidlich
+
+
+Wer kann gebieten den Voegeln,
+Still zu sein auf der Flur?
+Und wer verbieten zu zappeln
+Den Schafen unter der Schur?
+
+Stell ich mich wohl ungebaerdig,
+Wenn mir die Wolle kraust?
+Nein! die Ungebaerden entzwingt mir
+Der Scherer, der mich zerzaust.
+
+Wer will mir wehren, zu singen
+Nach Lust zum Himmel hinan,
+Den Wolken zu vertrauen,
+Wie lieb sie mir's angetan?
+
+
+Geheimes
+
+
+ueber meines Liebchens aeugeln
+Stehn verwundert alle Leute,
+Ich, der Wissende, dagegen
+Weiss recht gut, was das bedeute.
+
+Denn es heisst: ich liebe diesen,
+Und nicht etwa den und jenen,
+Lasset nur, ihr guten Leute,
+Euer Wundern, euer Sehnen!
+
+Ja, mit ungeheuren Maechten
+Blicket sie wohl in die Runde,
+Doch sie sucht nur zu verkuenden
+Ihm die naechste suesse Stunde.
+
+
+Geheimstes
+
+
+"Wir sind emsig, nachzuspueren,
+Wir, die Anekdotenjaeger,
+Wer dein Liebchen sei und ob du
+Nicht auch habest viele Schwaeger.
+
+Denn dass du verliebt bist, sehn wir,
+Moegen dir es gerne goennen;
+Doch, dass Liebchen so dich liebe,
+Werden wir nicht glauben koennen."
+
+Ungehindert, liebe Herren,
+Sucht sie auf! Nur hoert das eine:
+Ihr erschrecket, wenn sie dasteht;
+Ist sie fort, ihr kos't dem Scheine.
+
+Wisst ihr, wie Schehab-eddin
+Sich auf Arafat entmantelt,
+Niemand haltet ihr fuer toerig,
+Der in seinem Sinne handelt.
+
+Wenn vor deines Kaisers Throne
+Oder vor der Vielgeliebten
+Je dein Name wird gesprochen,
+Sei es dir zu hoechstem Lohne.
+
+Darum war's der hoechste Jammer,
+Als einst Medschnun sterbend wollte,
+Dass vor Leila seinen Namen
+Man forthin nicht nennen sollte.
+
+
+
+
+
+Buch der Betrachtungen
+
+
+
+
+
+Tefkir Nameh: Buch der Betrachtungen
+
+
+Hoere den Rat, den die Leier toent!
+Doch er nutzet nur, wenn du faehig bist.
+Das gluecklichste Wort, es wird verhoehnt,
+Wenn der Hoerer ein Schiefohr ist.
+
+"Was toent denn die Leier?" Sie toenet laut:
+Die schoenste, das ist nicht die beste Braut;
+Doch wenn wir dich unter uns zaehlen sollen,
+So musst du das Schoenste, das Beste wollen.
+
+
+Fuenf Dinge
+
+
+Fuenf Dinge bringen fuenfe nicht hervor,
+Du, dieser Lehre oeffne du dein Ohr:
+Der stolzen Brust wird Freundschaft nicht entsprossen;
+Unhoeflich sind der Niedrigkeit Genossen;
+Ein Boesewicht gelangt zu keiner Groesse;
+Der Neidische erbarmt sich nicht der Bloesse;
+Der Luegner hofft vergeblich Treu und Glauben--
+Das halte fest und niemand lass dir's rauben!
+
+
+Fuenf andere
+
+
+Was verkuerzt mir die Zeit?
+Taetigkeit!
+Was macht sie unertraeglich lang?
+Muessiggang!
+Was bringt in Schulden?
+Harren und Dulden!
+Was macht Gewinnen?
+Nicht lange besinnen!
+Was bringt zu Ehren?
+Sich wehren!
+
+
+Lieblich ist des Maedchens Blick
+
+
+Lieblich ist des Maedchens Blick, der winket;
+Trinkers Blick ist lieblich, eh er trinket,
+Gruss des Herren, der befehlen konnte,
+Sonnenschein im Herbst, der sich besonnte.
+Lieblicher als alles dieses habe
+Stets vor Augen, wie sich kleiner Gabe
+Duerftge Hand so huebsch entgegendraenget,
+Zierlich dankbar, was du reichst, empfaenget.
+Welch ein Blick! ein Gruss! ein sprechend Streben!
+Schau es recht und du wirst immer geben.
+
+
+Und was im Pend-Nameh steht
+
+
+Und was im Pend-Nameh steht,
+Ist dir aus der Brust geschrieben:
+Jeden, dem du selber gibst,
+Wirst du wie dich selber lieben.
+
+Reiche froh den Pfennig hin,
+Haeufe nicht ein Goldvermaechtnis,
+Eile freudig vorzuziehn
+Gegenwart vor dem Gedaechtnis.
+
+
+Reitest du bei einem Schmied vorbei
+
+
+Reitest du bei einem Schmied vorbei,
+Weisst du nicht, wann er dein Pferd beschlaegt;
+Siehst du eine Huette im Felde frei,
+Weisst nicht, ob sie dir ein Liebchen hegt;
+Einem Juengling begegnest du, schoen und kuehn,
+Er ueberwindet dich kuenftig oder du ihn.
+Am sichersten kannst du vom Rebstock sagen,
+Er werde fuer dich was Gutes tragen.
+So bist du denn der Welt empfohlen,
+Das uebrige will ich nicht wiederholen.
+
+
+Den Gruss des Unbekannten ehre ja!
+
+
+Den Gruss des Unbekannten ehre ja!
+Er sei dir wert als alten Freundes Gruss.
+Nach wenig Worten sagt ihr Lebewohl!
+Zum Osten du, er westwaerts, Pfad an Pfad--
+Kreuzt euer Weg nach vielen Jahren drauf
+Sich unerwartet, ruft ihr freudig aus:
+"Er ist es! ja, da war's!" als haette nicht
+So manche Tagefahrt zu Land und See,
+So manche Sonnenkehr sich drein gelegt.
+Nun tauschet War um Ware, teilt Gewinn!
+Ein alt Vertrauen wirke neuen Bund--
+Der erste Gruss ist viele tausend wert,
+Drum gruesse freundlich jeden, der begruesst!
+
+
+Haben sie von deinen Fehlen
+
+
+Haben sie von deinen Fehlen
+Immer viel erzaehlt
+Und fuer wahr sie zu erzaehlen,
+Vielfach sich gequaelt.
+Haetten sie von deinem Guten
+Freundlich dir erzaehlt,
+Mit verstaendig treuen Winken,
+Wie man Bessres waehlt:
+O gewiss! das Allerbeste
+Blieb mir nicht verhehlt,
+Das fuerwahr nur wenig Gaeste
+In der Klause zaehlt.
+Nun als Schueler mich, zu kommen
+Endlich auserwaehlt,
+Lehret mich der Busse Frommen,
+Wenn der Mensch gefehlt.
+
+
+Maerkte reizen dich zum Kauf
+
+
+Maerkte reizen dich zum Kauf;
+Doch das Wissen blaehet auf.
+Wer im Stillen um sich schaut,
+Lernet, wie die Lieb erbaut.
+Bist du Tag und Nacht beflissen,
+Viel zu hoeren, viel zu wissen,
+Horch an einer andern Tuere,
+Wie zu wissen sich gebuehre.
+Soll das Rechte zu dir ein,
+Fuehl in Gott was Rechts zu sein:
+Wer von reiner Lieb entbrannt,
+Wird vom lieben Gott erkannt.
+
+
+Wie ich so ehrlich war
+
+
+Wie ich so ehrlich war,
+Hab ich gefehlt,
+Und habe Jahre lang
+Mich durchgequaelt.
+Ich galt und galt auch nicht.
+Was sollt es heissen?
+Nun wollt ich Schelm sein,
+Taet mich befleissen;
+Das wollt mir garnicht ein,
+Musst mich zerreissen.
+Da dacht ich: Ehrlich sein
+Ist doch das Beste;
+War es nur kuemmerlich,
+So steht es feste.
+
+
+Frage nicht, durch welche Pforte
+
+
+Frage nicht, durch welche Pforte
+Du in Gottes Stadt gekommen,
+Sondern bleib am stillen Orte,
+Wo du einmal Platz genommen.
+
+Schaue dann umher nach Weisen
+Und nach Maechtgen, die befehlen;
+Jene werden unterweisen,
+Diese Tat und Kraefte staehlen.
+
+Wenn du nuetzlich und gelassen
+So dem Staate treu geblieben,
+Wisse! niemand wird dich hassen,
+Und dich werden viele lieben.
+
+Und der Fuerst erkennt die Treue,
+Sie erhaelt die Tat lebendig;
+Dann bewaehrt sich auch das Neue
+Naechst dem Alten erst bestaendig.
+
+
+Woher ich kam?
+
+
+Woher ich kam? Es ist noch eine Frage;
+Mein Weg hierher, der ist mir kaum bewusst,
+Heut nun und hier am himmelfrohen Tage
+Begegnen sich, wie Freunde, Schmerz und Lust.
+O suesses Glueck, wenn beide sich vereinen!
+Einsam, wer moechte lachen, moechte weinen?
+
+
+Es geht eins nach dem andern hin
+
+
+Es geht eins nach dem andern hin,
+Und auch wohl vor dem andern;
+Drum lasst uns rasch und brav und kuehn
+Die Lebenswege wandern.
+Es haelt dich auf, mit Seitenblick
+Der Blumen viel zu lesen;
+Doch haelt nichts grimmiger zurueck,
+Als wenn du falsch gewesen.
+
+
+Behandelt die Frauen mit Nachsicht
+
+
+Behandelt die Frauen mit Nachsicht!
+Aus krummer Rippe ward sie erschaffen;
+Gott konnte sie nicht ganz grade machen.
+Willst du sie biegen, sie bricht;
+Laesst du sie ruhig, sie wird noch kruemmer:
+Du guter Adam, was ist denn schlimmer?--
+Behandelt die Frauen mit Nachsicht:
+Es ist nicht gut, dass euch eine Rippe bricht.
+
+
+Das Leben ist ein schlechter Spass
+
+
+Das Leben ist ein schlechter Spass:
+Dem fehlt's an Dies, dem fehlt's an Das,
+Der will nicht wenig, der zu viel,
+Und Kann und Glueck kommt auch ins Spiel.
+Und hat sich's Unglueck drein gelegt,
+Jeder, wie er nicht wollte, traegt.
+Bis endlich Erben mit Behagen
+Herrn Kannicht-Willnicht weiter tragen.
+
+
+Das Leben ist ein Gaensespiel
+
+
+Das Leben ist ein Gaensespiel:
+Je mehr man vorwaerts gehet,
+Je frueher kommt man an das Ziel,
+Wo niemand gerne stehet.
+
+Man sagt, die Gaense waeren dumm,
+O, glaubt mir nicht den Leuten:
+Denn eine sieht einmal sich 'rum,
+Mich rueckwaerts zu bedeuten.
+
+Ganz anders ist's in dieser Welt,
+Wo alles vorwaerts druecket:
+Wenn einer stolpert oder faellt,
+Keine Seele rueckwaerts blicket.
+
+
+Die Jahre nahmen dir
+
+
+
+"Die Jahre nahmen dir, du sagst, so vieles:
+Die eigentliche Lust des Sinnespieles;
+Erinnerung des allerliebsten Tandes
+Von gestern, weit- und breiten Landes
+Durchschweifen frommt nicht mehr; selbst nicht von oben
+Der Ehren anerkannte Zier, das Loben,
+Erfreulich sonst. Aus eignem Tun Behagen
+Quillt nicht mehr auf, dir fehlt ein dreistes Wagen!
+Nun wuesst ich nicht, was dir Besondres bliebe!"
+Mir bleibt genug! Es bleibt Idee und Liebe!
+
+
+Vor den Wissenden sich stellen
+
+
+Vor den Wissenden sich stellen,
+Sicher ist's in allen Faellen!
+Wenn du lange dich gequaelet,
+Weiss er gleich, wo dir es fehlet.
+Auch auf Beifall darfst du hoffen;
+Denn er weiss, wo du's getroffen.
+
+
+Freigebiger wird betrogen
+
+
+Freigebiger wird betrogen,
+Geizhafter ausgesogen
+Verstaendiger irrgeleitet,
+Vernuenftiger leer geweitet,
+Der Harte wird umgangen,
+Der Gimpel wird gefangen.
+Beherrsche diese Luege,
+Betrogener, betruege!
+
+
+Wer befehlen kann, wird loben
+
+
+Wer befehlen kann, wird loben,
+Und er wird auch wieder schelten,
+Und das muss dir, treuer Diener,
+Eines wie das andre gelten.
+
+Denn er lobt wohl das Geringe,
+Schilt auch, wo er sollte loben:
+Aber bleibst du guter Dinge,
+Wird er dich zuletzt erproben.
+
+Und so haltet's auch, ihr Hohen,
+Gegen Gott wie der Geringe:
+Tut und leidet, wie sich's findet,
+Bleibt nur immer guter Dinge!
+
+
+An Schah Sedschan und seinesgleichen
+
+
+Durch allen Schall und Klang
+Der Transoxanen
+Erkuehnt sich unser Sang
+Auf deine Bahnen!
+Uns ist fuer garnichts bang,
+In dir lebendig,
+Dein Leben daure lang,
+Dein Reich bestaendig!
+
+
+Hoechste Gunst
+
+
+Ungezaehmt, so wie ich war,
+Hab ich einen Herrn gefunden
+Und, gezaehmt nach manchem Jahr,
+Eine Herrin auch gefunden.
+Da sie Pruefung nicht gespart,
+Haben sie mich treu gefunden
+Und mit Sorgfalt mich bewahrt
+Als den Schatz, den sie gefunden.
+Niemand diente zweien Herrn,
+Der dabei sein Glueck gefunden:
+Herr und Herrin sehn es gern,
+Dass sie beide mich gefunden,
+Und mir leuchtet Glueck und Stern,
+Da ich beide sie gefunden.
+
+
+Ferdusi spricht
+
+
+O Welt! wie schamlos und boshaft du bist!
+Du naehrst und erzieltest und toetest zugleich.
+
+Nur wer von Allah beguenstigt ist,
+Der naehrt sich, erzieht sich, lebendig und reich.
+
+
+Was heisst denn Reichtum?
+
+
+Was heisst denn Reichtum?--Eine waermende Sonne,
+Geniesst sie der Bettler, wie wir sie geniessen!
+Es moege doch keinen der Reichen verdriessen
+Des Bettlers im Eigensinn selige Wonne!
+
+
+Dschelal-eddin Rumi spricht
+
+
+Verweilst du in der Welt, sie flieht als Traum,
+Du reisest, ein Geschick bestimmt den Raum;
+Nicht Hitze, Kaelte nicht vermagst du festzuhalten,
+Und was dir blueht, sogleich wird es veralten.
+
+
+Suleika spricht
+
+
+Der Spiegel sagt mir: ich bin schoen
+Ihr sagt: zu altern, sei auch mein Geschick.
+Vor Gott muss alles ewig stehn;
+In mir liebt ihn fuer diesen Augenblick!
+
+
+
+
+
+Buch des Unmuts
+
+
+
+
+
+Rendsch Nameh: Buch des Unmuts
+Wo hast du das genommen?
+
+
+"Wo hast du das genommen?
+Wie konnt es zu dir kommen?
+Wie aus dem Lebensplunder
+Erwarbst du diesen Zunder,
+Der Funken letzte Gluten
+Von frischem zu ermuten?"
+
+Euch moeg' es nicht beduenkeln,
+Es sei gemeines Fuenkeln:
+Auf ungemessner Ferne,
+Im Ozean der Sterne,
+Mich hatt ich nicht verloren;
+Ich war wie neu geboren.
+
+Von weisser Schafe Wogen
+Die Huegel ueberzogen,
+Umsorgt von ernsten Hirten,
+Die gern und schmal bewirten,
+So ruhig-liebe Leute,
+Dass jeder mich erfreute.
+
+In schauerlichen Naechten,
+Bedrohet von Gefechten,
+Das Stoehnen der Kamele
+Durchdrang das Ohr, die Seele,
+Und derer, die sie fuehren,
+Einbildung und Stolzieren.
+
+Und immer ging es weiter
+Und immer ward es breiter,
+Und unser ganzes Ziehen,
+Es schien ein ewig Fliehen.
+Blau, hinter Wuest und Heere,
+Der Streif erlogner Meere.
+
+
+Keinen Reimer wird man finden
+
+
+Keinen Reimer wird man finden,
+Der sich nicht den besten hielte,
+Keinen Fiedler, der nicht lieber
+Eigne Melodien spielte.
+
+Und ich konnte sie nicht tadeln;
+Wenn wir andern Ehre geben,
+Muessen wir uns selbst entadeln.
+Lebt man denn, wenn andre leben?
+
+Und so fand ich's denn auch juste
+In gewissen Antichambern,
+Wo man nicht zu sondern wusste
+Maeusedreck von Koriandern.
+
+Das Gewesne wollte hassen
+Solche ruestge neue Besen,
+Diese dann, nicht gelten lassen,
+Was sonst Besen war gewesen.
+
+Und wo sich die Voelker trennen,
+Gegenseitig im Verachten,
+Keins von beiden wird bekennen,
+Dass sie nach demselben trachten.
+
+Und das grobe Selbstempfinden
+Haben Leute hart gescholten,
+Die am wenigsten verwinden,
+Wenn die andern was gegolten.
+
+
+Befindet sich einer heiter und gut
+
+
+Befindet sich einer heiter und gut,
+Gleich will ihn der Nachbar peingen;
+Solang der Tuechtige lebt und tut,
+Moechten sie ihn gerne steingen.
+Ist er hinterher aber tot,
+Gleich sammeln sie grosse Spenden,
+Zu Ehren seiner Lebensnot
+Ein Denkmal zu vollenden.
+Doch ihren Vorteil sollte dann
+Die Menge wohl ermessen:
+Gescheiter waer's, den guten Mann
+Auf immerdar vergessen.
+
+
+uebermacht, ihr koennt es spueren
+
+
+uebermacht, ihr koennt es spueren,
+Ist nicht aus der Welt zu bannen;
+Mir gefaellt zu konvergieren
+Mit Gescheiten, mit Tyrannen.
+
+Da die dummen Eingeengten
+Immerfort am staerksten pochten,
+Und die Halben, die Beschraenkten
+Gar zu gern uns unterjochten,
+
+Hab ich mich fuer frei erklaeret
+Von den Narren, von den Weisen;
+Diese bleiben ungestoeret,
+Jene moechten sich zerreissen;
+
+Denken, in Gewalt und Liebe
+Muessten wir zuletzt uns gatten,
+Machen mir die Sonne truebe
+Und erhitzen mir den Schatten.
+
+Hafis auch und Ulrich Hutten
+Mussten ganz bestimmt sich ruesten
+Gegen braun und blaue Kutten:
+Meine gehn wie andre Christen.
+
+"Aber nenn uns doch die Feinde!"
+Niemand soll sie unterscheiden;
+Denn ich hab in der Gemeinde
+Schon genug daran zu leiden.
+
+
+Wenn du auf dem Guten ruhst
+
+
+Wenn du auf dem Guten ruhst,
+Nimmer werd ich's tadeln;
+Wenn du gar das Gute tust,
+Sieh, das soll dich adeln!
+Hast du aber deinen Zaun
+Um dein Gut gezogen,
+Leb ich frei und lebe traun
+Keineswegs betrogen.
+
+Denn die Menschen, sie sind gut,
+Wuerden besser bleiben,
+Sollte nicht, wie's einer tut,
+Auch der andre treiben.
+Auf dem Weg, da ist's ein Wort,
+Niemand wird's verdammen:
+"Wollen wir an einen Ort,
+Nun wir gehn zusammen!"
+
+Vieles wird sich da und hie
+Uns entgegenstellen:
+In der Liebe mag man nie
+Helfer und Gesellen;
+Geld und Ehre haette man
+Gern allein zur Spende;
+Und der Wein, der treue Mann,
+Der entzweit am Ende.
+
+Hat doch ueber solches Zeug
+Hafis auch gesprochen,
+ueber manchen dummen Streich
+Sich den Kopf zerbrochen;
+Und ich seh nicht, was es frommt,
+Aus der Welt zu laufen,
+Magst du, wenn das Schlimmste kommt,
+Auch einmal dich raufen!
+
+
+Als wenn das auf Namen ruhte
+
+
+Als wenn das auf Namen ruhte,
+Was sich schweigend nur entfaltet!
+Lieb ich doch das schoene Gute,
+Wie es sich aus Gott gestaltet!
+
+Jemand lieb ich, das ist noetig.
+Niemand hass ich; soll ich hassen,
+Auch dazu bin ich erboetig,
+Hasse gleich in ganzen Massen.
+
+Willst sie aber naeher kennen?
+Sieh aufs Rechte, sieh aufs Schlechte:
+Was sie ganz fuertrefflich nennen,
+Ist wahrscheinlich nicht das Rechte.
+
+Denn das Rechte zu ergreifen,
+Muss man aus dem Grunde leben,
+Und salbadrisch auszuschweifen,
+Duenket mich ein seicht Bestreben.
+
+Wohl, Herr Knitterer, er kann sich
+Mit Zersplitterer vereinen,
+Und Verwitterer alsdann sich
+Allenfalls der Beste scheinen!
+
+Dass nur immer in Erneuung
+Jeder taeglich Neues hoere,
+Und zugleich auch die Zerstreuung
+Jeden in sich selbst zerstoere!
+
+Dies der Landsmann wuenscht und liebet
+Mag er Deutsch, mag Teutsch sich schreiben,
+Liedchen aber heimlich piepet:
+Also war es und wird bleiben.
+
+
+Medschnun
+
+
+Medschnun heisst--ich will nicht sagen,
+Dass es grad ein Toller heisse,
+Doch ihr muesst mich nicht verklagen,
+Dass ich mich als Medschnun preise.
+
+Wenn die Brust, die redlich volle,
+Sich entladet, euch zu retten,
+Ruft ihr nicht: "Das ist der Tolle!
+Holet Stricke, schaffet Ketten!"
+
+Und wenn ihr zuletzt in Fesseln
+Seht die Kluegeren verschmachten,
+Sengt es euch wie Feuernesseln,
+Das vergebens zu betrachten.
+
+Hab ich euch denn je geraten,
+Wie ihr Kriege fuehren solltet?
+Schalt ich euch, nach euren Taten,
+Wenn ihr Friede schliessen wolltet?
+
+Und so hab ich auch den Fischer
+Ruhig sehen Netze werfen,
+Brauchte dem gewandten Tischer
+Winkelmass nicht einzuschaerfen.
+
+Aber ihr wollt besser wissen,
+Was ich weiss, der ich bedachte,
+Was Natur, fuer mich beflissen,
+Schon zu meinem Eigen machte.
+
+Fuehlt ihr euch dergleichen Staerke?
+Nun, so foerdert eure Sachen!
+Seht ihr aber meine Werke,
+Lernet erst: so wollt er's machen!
+
+
+Wanderers Gemuetsruhe
+
+
+uebers Niedertraechtige
+Niemand sich beklage!
+Denn es ist das Maechtige,
+Was man dir auch sage.
+
+In dem Schlechten waltet es
+Sich zu Hochgewinne,
+Und mit Rechtem schaltet es
+Ganz nach seinem Sinne.
+
+Wandrer!--Gegen solche Not
+Wolltest du dich straeuben?
+Wirbelwind und trocknen Kot,
+Lass sie drehn und staeuben!
+
+
+Wer wird von der Welt verlangen
+
+
+Wer wird von der Welt verlangen,
+Was sie selbst vermisst und traeumet,
+Rueckwaerts oder seitwaerts blickend,
+Stets den Tag des Tags versaeumt?
+Ihr Bemuehn, ihr guter Wille
+Hinkt nur nach dem raschen Leben,
+Und was du vor Jahren brauchtest,
+Moechte sie dir heute geben.
+
+
+Sich selbst zu loben, ist ein Fehler
+
+
+Sich selbst zu loben, ist ein Fehler,
+Doch jeder tut's, der etwas Gutes tut;
+Und ist er dann in Worten kein Verhehler,
+Das Gute bleibt doch immer gut.
+
+Lasst doch, ihr Narren, doch die Freude
+Dem Weisen, der sich weise haelt,
+Dass er, ein Narr wie ihr, vergeude
+Den abgeschmackten Dank der Welt.
+
+
+Glaubst du denn: von Mund zu Ohr
+
+
+Glaubst du denn: von Mund zu Ohr
+Sei ein redlicher Gewinnst?
+ueberliefrung, o du Tor,
+Ist auch wohl ein Hirngespinst.
+
+Nun geht erst das Urteil an:
+Dich vermag aus Glaubensketten
+Der Verstand allein zu retten,
+Dem du schon Verzicht getan.
+
+
+Und wer franzet oder britet
+
+
+Und wer franzet oder britet,
+Italienert oder teutschet,
+Einer will nur wie der andre,
+Was die Eigenliebe heischet.
+
+Denn es ist kein Anerkennen,
+Weder vieler, noch des einen,
+Wenn es nicht am Tage foerdert,
+Wo man selbst was moechte scheinen.
+
+Morgen habe denn das Rechte
+Seine Freunde wohlgesinnet,
+Wenn nur heute noch das Schlechte
+Vollen Platz und Gunst gewinnet.
+
+Wer nicht von dreitausend Jahren
+Sich weiss Rechenschaft zu geben,
+Bleib im Dunkeln unerfahren,
+Mag von Tag zu Tage leben.
+
+
+Sonst, wenn man den heiligen Koran zitierte
+
+
+Sonst, wenn man den heiligen Koran zitierte,
+Nannte man die Sure, den Vers dazu,
+Und jeder Moslim, wie sich's gebuehrte,
+Fuehlte sein Gewissen in Respekt und Ruh.
+
+Die neuen Derwische wissen's nicht besser,
+Sie schwatzen das Alte, das Neue dazu;
+Die Verwirrung wird taeglich groesser,
+O heiliger Koran! O ewige Ruh'!
+
+
+Der Prophet spricht
+
+
+aergerts jemand, dass es Gott gefallen,
+Mahomet zu goennen Schutz und Glueck,
+An den staerksten Balken seiner Hallen,
+Da befestig' er den derben Strick,
+Knuepfe sich daran! Das haelt und traegt.
+Er wird fuehlen, dass sein Zorn sich legt.
+
+
+Timur spricht
+
+
+Was? Ihr missbilliget den kraeftgen Sturm
+Des uebermuts, verlogne Pfaffen?
+Haett Allah mich bestimmt zum Wurm,
+So haett' er mich als Wurm geschaffen.
+
+
+
+
+
+Buch der Sprueche
+
+
+
+
+
+Hikmet Nameh: Buch der Sprueche
+
+
+Talismane werd ich in dem Buch zerstreuen;
+Das bewirkt ein Gleichgewicht.
+Wer mit glaeubger Nadel sticht,
+ueberall soll gutes Wort ihn freuen,.
+
+Vom heutgen Tag, von heutger Nacht
+Verlange nichts,
+Als was die gestrigen gebracht.
+
+Wer geboren in boes'sten Tagen,
+Dem werden selbst die boesen behagen.
+
+Wie etwas sei leicht,
+Weiss, der es erfunden und der es erreicht.
+
+Das Meer flutet immer,
+Das Land behaelt es nimmer.
+
+Was wird mir jede Stunde so bang?--
+Das Leben ist kurz, der Tag ist lang.
+Und immer sehnt sich fort das Herz,
+Ich weiss nicht recht, ob himmelwaerts;
+Fort aber will es hin und hin,
+Und moechte vor sich selber fliehn.
+Und fliegt es an der Liebsten Brust,
+Da ruht's im Himmel unbewusst.
+Des Lebens Strudel reisst es fort,
+Und immer haengt's an einem Ort,
+Was es gewollt, was es verlor,
+Es bleibt zuletzt sein eigner Tor.
+
+Prueft das Geschick dich, weiss es wohl warum:
+Es wuenschte dich enthaltsam! Folge stumm!
+
+Noch ist es Tag; da ruehre sich der Mann!
+Die Nacht tritt ein, wo niemand wirken kann.
+
+Was machst du an der Welt? Sie ist schon gemacht.
+Der Herr der Schoepfung hat alles bedacht,
+Dein Los ist gefallen, verfolge die Weise,
+Der Weg ist begonnen, vollende die Reise.
+Denn Sorgen und Kummer veraendern es nicht,
+Sie schleudern dich ewig aus gleichem Gewicht.
+
+Wenn der Schwergedrueckte klagt,
+Hilfe, Hoffnung sei versagt,
+Bleibet heilsam fort und fort
+Immer noch ein freundlich Wort.
+
+"Wie ungeschickt habt ihr euch benommen,
+Da euch das Glueck ins Haus gekommen!"
+Das Maedchen hat's nicht uebel genommen
+Und ist noch ein paarmal wieder gekommen.
+
+Mein Erbteil wie herrlich, weit und breit!
+Die Zeit ist mein Besitz, mein Acker ist die Zeit.
+
+Gutes tu rein aus des Guten Liebe!
+Das ueberliefre deinem Blut.
+Und wenn's den Kindern nicht verbliebe,
+Den Enkeln kommt es doch zu gut.
+
+Enweri sagt's, ein Herrlichster der Maenner,
+Des tiefsten Herzens, hoechsten Hauptes Kenner:
+"Dir frommt an jedem Ort, zu jeder Zeit
+Geradheit, Urteil und Vertraeglichkeit."
+
+Was klagst du ueber Feinde?
+Sollten solche je werden Freunde,
+Denen das Wesen, wie du bist,
+Im stillen ein ewiger Vorwurf ist?
+
+Duemmer ist nichts zu ertragen,
+Als wenn Dumme sagen den Weisen,
+Dass sie sich in grossen Tagen
+Sollten bescheidentlich erweisen.
+
+Wenn Gott so schlechter Nachbar waere,
+Als ich bin und als du bist,
+Wir haetten beide wenig Ehre;
+Der laesst einen jeden, wie er ist.
+
+Gestehts! die Dichter des Orients
+Sind groesser als wir des Occidents.
+Worin wir sie aber voellig erreichen,
+Das ist im Hass auf unsresgleichen.
+
+ueberall will jeder obenauf sein,
+Wie's eben in der Welt so geht,
+Jeder sollte freilich grob sein,
+Aber nur in dem, was er versteht.
+
+Verschon uns, Gott, mit deinem Grimme!
+Zaunkoenige gewinnen Stimme.
+
+Will der Neid sich doch zerreissen,
+Lass ihn seinen Hunger speisen.
+
+Sich im Respekt zu erhalten,
+Muss man recht borstig sein.
+Alles jagt man mit Falken,
+Nur nicht das wilde Schwein.
+
+Was hilft's dem Pfaffenorden,
+Der mir den Weg verrannt?
+Was nicht gerade erfasst worden,
+Wird auch schief nicht erkannt.
+
+Einen Helden mit Lust preisen und nennen
+Wird jeder, der selbst als Kuehner stritt.
+Des Menschen Wert kann niemand erkennen,
+Der nicht selbst Hitze und Kaelte litt.
+
+Gutes tu' rein aus des Guten Liebe!
+Was du tust, verbleibt dir nicht;
+Und wenn es auch dir verblieben
+Bleibt es deinen Kindern nicht.
+
+Soll man dich nicht auf's schmaehlichste berauben,
+Verbirg dein Gold, dein Weggehn, deinen Glauben!
+
+Wie kommt's, dass man an jedem Orte
+So viel Gutes, so viel Dummes hoert?
+Die Juengsten wiederholen der aeltesten Worte
+Und glauben, dass es ihnen angehoert.
+
+Lass dich nur in keiner Zeit
+Zum Widerspruch verleiten!
+Weise fallen in Unwissenheit,
+Wenn sie mit Unwissenden streiten.
+
+"Warum ist Wahrheit fern und weit?
+Birgt sich hinab in tiefste Gruende?"
+Niemand versteht zur rechten Zeit!--
+Wenn man zur rechten Zeit verstuende,
+So waere Wahrheit nah und breit
+Und waere lieblich und gelinde.
+
+Was willst du untersuchen,
+Wohin die Milde fliesst!
+Ins Wasser wirf deine Kuchen;
+Wer weiss, wer sie geniesst!
+
+Als ich einmal eine Spinne erschlagen,
+Dacht ich, ob ich das wohl gesollt?
+Hat Gott ihr doch wie mir gewollt
+Einen Anteil an diesen Tagen!
+
+"Dunkel ist die Nacht, bei Gott ist Licht."
+Warum hat er uns nicht auch so zugericht?
+
+Welch eine bunte Gemeinde!
+An Gottes Tisch sitzen Freund und Feinde.
+
+Ihr nennt mich einen kargen Mann;
+Gebt mir, was ich verprassen kann!
+
+Soll ich dir die Gegend zeigen,
+Musst du erst das Dach besteigen.
+
+Wer schweigt, hat wenig zu sorgen;
+Der Mensch bleibt unter der Zunge verborgen.
+
+Ein Herre mit zwei Gesind,
+Er wird nicht wohl gepflegt.
+Ein Haus, worin zwei Weiber sind,
+Es wird nicht rein gefegt.
+
+Ihr lieben Leute, bleibt dabei
+Und sagt nur: "Autos epha!"
+Was sagt ihr lange Mann und Weib?
+Adam, so heisst's, und Eva!
+
+Wofuer ich Allah hoechlich danke?
+Dass er Leiden und Wissen getrennt.
+Verzweifeln muesste jeder Kranke,
+Das uebel kennend, wie der Arzt es kennt.
+
+Naerrisch, dass jeder in seinem Falle
+Seine besondere Meinung preist!
+Wenn Islam "Gott ergeben" heisst,
+In Islam leben und sterben wir alle.
+
+Wer auf die Welt kommt, baut ein neues Haus,
+Er geht und laesst es einem zweiten;
+Der wird sich's anders zubereiten.
+Und niemand baut es aus.
+
+Wer in mein Haus tritt, der kann schelten,
+Was ich liess viele Jahre gelten;
+Vor der Tuer aber muesst er passen,
+Wenn ich ihn nicht wollte gelten lassen.
+
+Herr, lass dir gefallen
+Dieses kleine Haus!
+Groessre kann man bauen,
+Mehr kommt nicht heraus.
+
+Du bist auf immer geborgen,
+Das nimmt dir niemand wieder:
+Zwei Freunde ohne Sorgen,
+Weinbecher, Buechlein Lieder.
+
+"Was brachte Lokman nicht hervor,
+Den man den Garst'gen hiess!"
+Die Suessigkeit liegt nicht im Rohr,
+Der Zucker, der ist suess.
+
+Herrlich ist der Orient
+uebers Mittelmeer gedrungen;
+Nur wer Hafis liebt und kennt,
+Weiss, was Calderon gesungen.
+
+"Was schmueckst du die eine Hand denn nun
+Weit mehr als ihr gebuehrte?"
+Was sollte denn die Linke tun,
+Wenn sie die Rechte nicht zierte?
+
+Wenn man auch nach Mekka triebe
+Christus' Esel, wuerd' er nicht
+Dadurch besser abgericht,
+Sondern stets ein Esel bliebe.
+
+Getretner Quark
+Wird breit, nicht stark.
+
+Schlaegst du ihn aber mit Gewalt
+In feste Form, er nimmt Gestalt.
+Dergleichen Steine wirst du kennen.
+Europaeer Pise sie nennen.
+
+Betruebt euch nicht, ihr guten Seelen!
+Denn wer nicht fehlt, weiss wohl, wenn andre fehlen;
+Allein wer fehlt, der ist erst recht daran,
+Er weiss nun deutlich, wie sie wohl getan.
+
+"Du hast gar vielen nicht gedankt,
+Die dir so manches Gute gegeben!"
+Darueber bin ich nicht erkrankt,
+Ihre Gaben mir im Herzen leben.
+
+Guten Ruf musst du dir machen,
+Unterscheiden wohl die Sachen;
+Wer was weiter will, verdirbt.
+
+Die Flut der Leidenschaft, sie stuermt vergebens
+Ans unbezwungne feste Land:
+Sie wirft poetische Perlen an den Strand,
+Und das ist schon Gewinn des Lebens.
+
+
+Vertrauter
+
+
+Du hast so manche Bitte gewaehrt,
+Und wenn sie dir auch schaedlich war;
+Der gute Mann da hat wenig begehrt,
+Dabei hat es doch keine Gefahr.
+
+Wesir
+
+Der gute Mann hat wenig begehrt,
+Und haett ich's ihm sogleich gewaehrt,
+Er auf der Stelle verloren war.
+
+Schlimm ist es, wie doch wohl geschieht,
+Wenn Wahrheit sich nach dem Irrtum zieht.
+Das ist auch manchmal ihr Behagen:
+Wer wird so schoene Frau befragen?
+Herr Irrtum, wollt er an Wahrheit sich schliessen,
+Das sollte Frau Wahrheit bald verdriessen.
+
+Wisse, dass mir sehr missfaellt,
+Wenn so viele singen und reden!
+Wer treibt die Dichtkunst aus der Welt?
+
+--Die Poeten!
+
+
+
+
+
+Buch des Timur
+
+
+
+
+
+Timur Nameh: Buch des Timur
+Der Winter und Timur
+
+
+So umgab sie nun der Winter
+Mit gewaltgem Grimme. Streuend
+Seinen Eishauch zwischen alle,
+Hetzt' er die verschiednen Winde
+Widerwaertig auf sie ein.
+ueber sie gab er Gewaltkraft
+Seinen frostgespitzten Stuermen,
+Stieg in Timurs Rat hernieder,
+Schrie ihn drohend an und sprach so:
+"Leise, langsam, Ungluecksel'ger!
+Wandle, du Tyrann des Unrechts!
+Sollen laenger noch die Herzen
+Sengen, brennen deinen Flammen?
+Bist du der verdammten Geister
+Einer: wohl! ich bin der andre.
+Du bist Greis; ich auch! Erstarren
+Machen wir so Land als Menschen.
+Mars, du bist's! Ich bin Saturnus;
+uebeltaetige Gestirne,
+Im Verein die schrecklichsten.
+Toetest du die Seele, kaeltest
+Du den Luftkreis: meine Luefte
+Sind noch kaelter, als du sein kannst.
+Quaelen deine wilden Heere
+Glaeubige mit tausend Martern:
+Wohl! in meinen Tagen soll sich,
+Geb es Gott! was Schlimmres finden,
+Und, bei Gott! dir schenk ich nichts.
+Hoer es Gott, was ich dir biete!
+Ja, bei Gott! von Todeskaelte
+Nicht, o Greis, verteidigen soll dich
+Breite Kohlenglut vom Herde,
+Keine Flamme des Dezembers!"
+
+
+An Suleika
+
+
+Dir mit Wohlgeruch zu kosen,
+Deine Freuden zu erhoehn,
+Knospend muessen tausend Rosen
+Erst in Gluten untergehn.
+
+Um ein Flaeschchen zu besitzen,
+Das den Ruch auf ewig haelt,
+Schlank wie deine Fingerspitzen,
+Da bedarf es einer Welt.
+
+Einer Welt von Lebenstrieben,
+Die in ihrer Fuelle Drang
+Ahneten schon Bulbuls lieben,
+Seelerregenden Gesang.
+
+Sollte jene Qual uns quaelen,
+Da sie unsre Lust vermehrt?
+Hat nicht Myriaden Seelen
+Timurs Herrschaft aufgezehrt?
+
+
+
+
+
+Buch Suleika--1
+
+
+
+
+
+Suleika Nameh: Buch Suleika
+
+
+Ich gedachte in der Nacht,
+Dass ich den Mond saehe im Schlaf,
+Als ich aber erwachte,
+Ging unvermutet die Sonne auf.
+
+
+Einladung
+
+
+Musst nicht vor dem Tage fliehn;
+Denn der Tag, den du ereilest,
+Ist nicht besser als der heutge:
+Aber wenn du froh verweilest,
+Wo ich mir die Welt beseitge,
+Um die Welt an mich zu ziehen,
+Bist du gleich mit mir geborgen:
+Heut ist heute, morgen morgen.
+Und, was folgt und was vergangen,
+Reisst nicht hin und bleibt nicht hangen,
+Bleibe du, mein Allerliebstes,
+Denn du bringst es und du gibst es.
+
+Dass Suleika von Jussuf entzueckt war,
+Ist keine Kunst.
+Er war jung, Jugend hat Gunst.
+Er war schoen; sie sagen: zum Entzuecken,
+Schoen war sie, konnten einander begluecken.
+Aber dass du, die so lange mir erharrt war,
+Feurige Jugendblicke mir schickst,
+Jetzt mich liebst, mich spaeter beglueckst,
+Das sollen meine Lieder preisen,
+Sollst mir ewig Suleika heissen.
+
+Da du nun Suleika heissest,
+Sollt ich auch benamset sein.
+Wenn du deinen Geliebten preisest,
+Hatem! das soll der Name sein.
+Nur dass man mich daran erkennet,
+Keine Anmassung soll es sein:
+Wer sich Sankt Georgenritter nennet,
+Denkt nicht gleich Sankt Georg zu sein.
+Nicht Hatem Thai, nicht der alles Gebende,
+Kann ich in meiner Armut sein;
+Hatem Zograi nicht, der reichlichst Lebende
+Von allen Dichtern moecht ich sein:
+Aber beide doch im Auge zu haben,
+Es wird nicht ganz verwerflich sein:
+Zu nehmen, zu geben des Glueckes Gaben,
+Wird immer ein gross Vergnuegen sein.
+Sich liebend aneinander zu laben,
+Wird Paradieses Wonne sein.
+
+
+Hatem
+
+
+Nicht Gelegenheit macht Diebe
+Sie ist selbst der groesste Dieb;
+Denn sie stahl den Rest der Liebe,
+Die mir noch im Herzen blieb.
+
+Dir hat sie ihn uebergeben,
+Meines Lebens Vollgewinn,
+Dass ich nun verarmt, mein Leben
+Nur von dir gewaertig bin.
+
+Doch ich fuehle schon Erbarmen
+Im Karfunkel deines Blicks
+Und erfreu in deinen Armen
+Mich erneuerten Geschicks.
+
+
+Suleika
+
+
+Hochbeglueckt in deiner Liebe
+Schelt ich nicht Gelegenheit,
+Ward sie auch an dir zum Diebe.
+Wie mich solch ein Raub erfreut!
+
+Und wozu denn auch berauben?
+Gib dich mir aus freier Wahl,
+Gar zu gerne moecht ich glauben:
+Ja, ich bin's, die dich bestahl.
+
+Was so willig du gegeben,
+Bringt dir herrlichen Gewinn;
+Meine Ruh, mein reiches Leben
+Geb ich freudig: nimm es hin!
+
+Scherze nicht! Nichts von Verarmen!
+Macht uns nicht die Liebe reich?
+Halt ich dich in meinen Armen,
+Jedem Glueck ist meines gleich.
+
+
+Der Liebende wird nicht irre gehn
+
+
+Der Liebende wird nicht irre gehn,
+Waer's um ihn her auch noch so truebe.
+Sollten Leila und Medschnun auferstehn,
+Von mir erfuehren sie den Weg der Liebe.
+
+
+Ists moeglich
+
+
+Ists moeglich, dass ich, Liebchen, dich kose,
+Vernehme der goettlichen Stimme Schall!
+Unmoeglich scheint immer die Rose,
+Unbegreiflich die Nachtigall.
+
+
+Suleika
+
+
+Als ich auf dem Euphrat schiffte,
+Streifte sich der goldne Ring
+Fingerab in Wasserkluefte,
+Den ich juengst von dir empfing.
+
+Also traeumt ich; Morgenroete
+Blitzt ins Auge durch den Baum.
+Sag, Poete, sag, Prophete,
+Was bedeutet dieser Traum?
+
+
+Hatem
+
+
+Dies zu deuten, bin erboetig!
+Hab ich dir nicht oft erzaehlt,
+Wie der Doge von Venedig
+Mit dem Meere sich vermaehlt?
+
+So von deinen Fingergliedern
+Fiel der Ring dem Euphrat zu.
+Ach, zu tausend Himmelsliedern
+Suesser Traum, begeisterst du!
+
+Mich, der von den Indostanen
+Streifte bis Damaskus hin,
+Um mit neuen Karawanen
+Bis ans Rote Meer zu ziehn,
+
+Mich vermaehlst du deinem Flusse,
+Der Terrasse, diesem Hain,
+Hier soll bis zum letzten Kusse
+Dir mein Geist gewidmet sein.
+
+
+Suleika
+
+
+Kenne wohl der Maenner Blicke,
+Einer sagt: "Ich liebe, leide!
+Ich begehre, ja verzweifle!"
+Und was sonst ist, kennt ein Maedchen.
+Alles das kann mir nicht helfen,
+Alles das kann mich nicht ruehren;
+Aber, Hatem, deine Blicke
+Geben erst dem Tage Glanz.
+Denn sie sagen: "Die gefaellt mir,
+Wie mir sonst nichts mag gefallen,
+Seh ich Rosen, seh ich Lilien,
+Aller Gaerten Zier und Ehre,
+So Zypressen, Myrten, Veilchen,
+Aufgeregt zum Schmuck der Erde,
+Und geschmueckt ist sie ein Wunder,
+Mit Erstaunen uns umfangend,
+Uns erquickend, heilend, segnend,
+Dass wir uns gesunder fuehlen,
+Wieder gern erkranken moechten."
+Da erblicktest du Suleika
+Und gesundetest erkrankend
+Und erkranketest gesundend,
+Laecheltest und sahst herueber,
+Wie du nie der Welt gelaechelt.
+Und Suleika fuehlt des Blickes
+Ewge Rede: "Die gefaellt mir,
+Wie mir sonst nichts mag gefallen."
+
+
+Gingo biloba
+
+
+Dieses Baums Blatt, der von Osten
+Meinem Garten anvertraut,
+Gibt geheimen Sinn zu kosten,
+Wie's den Wissenden erbaut.
+
+Ist es ein lebendig Wesen,
+Das sich in sich selbst getrennt?
+Sind es zwei, die sich erlesen,
+Dass man sie als eines kennt?
+
+Solche Fragen zu erwidern,
+Fand ich wohl den rechten Sinn:
+Fuehlst du nicht an meinen Liedern,
+Dass ich eins und doppelt bin?
+
+
+Suleika
+
+
+Sag, du hast wohl viel gedichtet,
+Hin und her dein Lied gerichtet,
+Schoene Schrift von deiner Hand,
+Prachtgebunden, goldgeraendet,
+Bis auf Punkt und Strich vollendet,
+Zierlich lockend, manchen Band?
+Stets, wo du sie hingewendet,
+War's gewiss ein Liebespfand?
+
+
+Hatem
+
+
+Ja, von maechtig holden Blicken
+Wie von laechelndem Entzuecken
+Und von Zaehnen blendend klar,
+Wimpernpfeilen, Lockenschlangen,
+Hals und Busen reizumhangen,
+Tausendfaeltige Gefahr!
+Denke nun, wie von so langem
+Prophezeit Suleika war.
+
+
+Suleika
+
+
+Die Sonne kommt! Ein Prachterscheinen!
+Der Sichelmond umklammert sie.
+Wer konnte solch ein Paar vereinen?
+Dies Raetsel, wie erklaert sich's wie?
+
+
+Hatem
+
+
+Der Sultan konnt es, er vermaehlte
+Das allerhoechste Weltenpaar,
+Um zu bezeichnen Auserwaehlte,
+Die Tapfersten der treuen Schar.
+
+Auch sei's ein Bild von unsrer Wonne!
+Schon seh ich wieder mich und dich,
+Du nennst mich, Liebchen, deine Sonne;
+Komm, suesser Mond, umklammre mich!
+
+
+Komm, Liebchen, komm
+
+
+Komm, Liebchen, komm! umwinde mir die Muetze!
+Aus deiner Hand nur ist der Tulbend schoen
+Hat Abbas doch auf Irans hoechstem Sitze
+Sein Haupt nicht zierlicher umwinden sehn!
+
+Ein Tulbend war das Band, das Alexandern
+In Schleifen schoen vom Haupte fiel
+Und allen Folgeherrschern, jenen Andern,
+Als Koenigszierde wohlgefiel.
+
+Ein Tulbend ist's, der unsern Kaiser schmuecket,
+Sie nennen's Krone. Name geht wohl hin!
+Juwel und Perle! sei das Aug entzuecket!
+Der schoenste Schmuck ist stets der Musselin.
+
+Und diesen hier, ganz rein und silberstreifig,
+Umwinde, Liebchen, um die Stirn umher!
+Was ist denn Hoheit? Mir ist sie gelaeufig!
+Du schaust mich an, ich bin so gross als er.
+
+
+Nur wenig ists, was ich verlange
+
+
+Nur wenig ists, was ich verlange,
+Weil eben alles mir gefaellt,
+Und dieses Wenige, wie lange,
+Gibt mir gefaellig schon die Welt!
+
+Oft sitz ich heiter in der Schenke
+Und heiter im beschraenkten Haus;
+Allein sobald ich dein gedenke,
+Dehnt sich mein Geist erobernd aus.
+
+Dir sollten Timurs Reiche dienen,
+Gehorchen sein gebietend Heer,
+Badakschan zollte dir Rubinen,
+Tuerkise das Hyrkan'sche Meer.
+
+Getrocknet honigsuesse Fruechte
+Von Bokhara, dem Sonnenland,
+Und tausend liebliche Gedichte
+Auf Seidenblatt von Samarkand.
+
+Da solltest du mit Freude lesen,
+Was ich von Ormus dir verschrieb
+Und wie das ganze Handelswesen
+Sich nur bewegte dir zulieb;
+
+Wie in dem Lande der Brahmanen
+Viel tausend Finger sich bemueht,
+Dass alle Pracht der Indostanen
+Fuer dich auf Woll und Seide blueht;
+
+Ja, zur Verherrlichung der Lieben,
+Giessbaeche, Soumelpours durchwuehlt,
+Aus Erde, Grus, Gerill, Geschieben
+Dir Diamanten ausgespuelt;
+
+Wie Taucherschar verwegner Maenner
+Der Perle Schatz dem Golf entriss,
+Darauf ein Divan scharfer Kenner
+Sie dir zu reihen sich befliss.
+
+Wenn nun Bassora noch das Letzte,
+Gewuerz und Weihrauch, beigetan,
+Bringt alles, was die Welt ergetzte,
+Die Karawane dir heran.
+
+Doch alle diese Kaisergueter
+Verwirrten doch zuletzt den Blick;
+Und wahrhaft liebende Gemueter
+Eins nur im andern fuehlt sein Glueck.
+
+
+Haett ich irgend wohl Bedenken
+
+
+Haett ich irgend wohl Bedenken,
+Balch, Bochara, Samarkand,
+Suesses Liebchen, dir zu schenken,
+Dieser Staedte Rausch und Tand?
+
+Aber frag einmal den Kaiser,
+Ob er dir die Staedte gibt?
+Er ist herrlicher und weiser;
+Doch er weiss nicht, wie man liebt.
+
+Herrscher, zu dergleichen Gaben
+Nimmermehr bestimmst du dich!
+Solch ein Maedchen muss man haben
+Und ein Bettler sein wie ich.
+
+
+Die schoen geschriebenen
+
+
+Die schoen geschriebenen,
+Herrlich umgueldeten
+Belaechelst du,
+Die anmasslichen Blaetter,
+Verziehst mein Prahlen
+Von deiner Lieb und meinem
+Durch dich gluecklichen Gelingen,
+Verziehst anmutigem Selbstlob.
+
+Selbstlob! Nur dem Neide stinkt's,
+Wohlgeruch Freunden
+Und eignem Schmack!
+
+Freude des Daseins ist gross,
+Groesser die Freud am Dasein.
+Wenn du, Suleika,
+Mich ueberschwenglich beglueckst,
+Deine Leidenschaft mir zuwirfst,
+Als waer's ein Ball,
+Dass ich ihn fange,
+Dir zurueckwerfe
+Mein gewidmetes Ich:
+Das ist ein Augenblick!
+Und dann reisst mich von dir
+Bald der Franke, bald der Armenier.
+
+Aber Tage waehrt's,
+Jahre dauert's, dass ich neu erschaffe
+Tausendfaeltig deiner Verschwendungen Fuelle,
+Auftroesle die bunte Schnur meines Gluecks,
+Gekloeppelt tausendfadig
+Von dir, o Suleika!
+
+Hier nun dagegen
+Dichtrische Perlen,
+Die mir deiner Leidenschaft
+Gewaltige Brandung
+Warf an des Lebens
+Veroedeten Strand aus,
+Mit spitzen Fingern
+Zierlich gelesen,
+Durchreiht mit juwelenem Goldschmuck.
+Nimm sie an deinen Hals,
+An deinem Busen,
+Die Regentropfen Allahs,
+Gereift in bescheidener Muschel!
+
+
+Lieb um Liebe, Stund um Stunde
+
+
+Lieb um Liebe, Stund um Stunde,
+Wort um Wort und Blick um Blick,
+Kuss um Kuss vom treusten Munde,
+Hauch um Hauch und Glueck um Glueck.
+So am Abend, so am Morgen.
+Doch du fuehlst an meinen Liedern
+Immer noch geheime Sorgen:
+Jussufs Reize moecht ich borgen,
+Deine Schoenheit zu erwidern.
+
+
+Suleika
+
+
+Volk und Knecht und ueberwinder,
+Sie gestehn zu jeder Zeit:
+Hoechstes Glueck der Erdenkinder
+Sei nur die Persoenlichkeit.
+
+Jedes Leben sei zu fuehren,
+Wenn man sich nicht selbst vermisst;
+Alles koenne man verlieren,
+Wenn man bliebe, was man ist.
+
+
+Hatem
+
+
+Kann wohl sein, so wird gemeinet,
+Doch ich bin auf andrer Spur:
+Alles Erdenglueck vereinet
+Find ich in Suleika nur.
+
+Wie sie sich an mich verschwendet,
+Bin ich mir ein wertes Ich;
+Haette sie sich weggewendet,
+Augenblicks verloer ich mich.
+
+Nun mit Hatem waer's zu Ende,
+Doch schon hab ich umgelost:
+Ich verkoerpre mich behende
+In den Holden, den sie kost.
+
+Wollte, wo nicht gar ein Rabbi,
+Das will mir so recht nicht ein,
+Doch Ferdusi, Montanabbi,
+Allenfalls der Kaiser sein.
+
+
+Hatem
+
+
+Wie des Goldschmieds Bazarlaedchen
+Vielgefaerbt geschliffne Lichter,
+So umgeben huebsche Maedchen
+Den beinah ergrauten Dichter.
+
+
+Maedchen
+
+
+Singst du schon Suleika wieder!
+Diese koennen wir nicht leiden,;
+Nicht um dich--um deine Lieder
+Wollen, muessen wir sie neiden.
+
+Denn wenn sie auch garstig waere,
+Macht'st du sie zum schoenen Wesen,
+Und so haben wir von Dschemil
+Und Boteinah viel gelesen.
+
+Aber eben, weil wir huebsch sind,
+Moechten wir auch gern gemalt sein,
+Und, wenn du es billig machest,
+Sollst du auch recht huebsch bezahlt sein.
+
+
+Hatem
+
+
+Braeunchen, komm! es wird schon gehen
+Zoepfe, Kaemme, gross und kleine,
+Zieren Koepfchens nette Reine,
+Wie die Kuppel ziert Moscheen.
+
+Du, Blondinchen, bist so zierlich,
+Aller Weis und Weg so nette;
+Man gedenkt nicht ungebuehrlich
+Alsogleich der Minarette.
+
+Du da hinten hast der Augen
+Zweierlei, du kannst die beiden
+Einzeln nach Belieben brauchen.
+Doch ich sollte dich vermeiden.
+
+Leichtgedrueckt der Augenlider
+Eines, die den Stern bewhelmen,
+Deutet auf den Schelm der Schelmen,
+Doch das andre schaut so bieder.
+
+Dies, wenn jen's verwundend angelt,
+Heilend, naehrend wird sich's weisen;
+Niemand kann ich gluecklich preisen,
+Der des Doppelblicks ermangelt.
+
+Und so koennt ich alle loben,
+Und so koennt ich alle lieben:
+Denn so wie ich euch erhoben,
+War die Herrin mit beschrieben.
+
+
+Maedchen
+
+
+Dichter will so gerne Knecht sein,
+Weil die Herrschaft draus entspringet;
+Doch vor allem sollt' ihm recht sein,
+Wenn das Liebchen selber singet.
+
+Ist sie denn des Liedes maechtig,
+Wie's auf unsern Lippen waltet?
+Denn es macht sie gar verdaechtig,
+Dass sie im Verborgnen schaltet.
+
+
+Hatem
+
+
+Nun, wer weiss, was sie erfuellet!
+Kennt ihr solcher Tiefe Grund?
+Selbstgefuehltes Lied entquillet,
+Selbstgedichtetes dem Mund.
+
+Von euch Dichterinnen allen
+Ist ihr eben keine gleich:
+Denn sie singt mir zu Gefallen,
+Und ihr singt und liebt nur euch.
+
+
+Maedchen
+
+
+Merke wohl, du hast uns eine
+Jener Huris vorgeheuchelt!
+Mag schon sein! wenn es nur keine
+Sich auf dieser Erde schmeichelt.
+
+
+Hatem
+
+
+Locken, haltet mich gefangen
+In dem Kreise des Gesichts!
+Euch, geliebten braunen Schlangen,
+Zu erwidern hab ich nichts.
+
+Nur dies Herz, es ist von Dauer,
+Schwillt in jugendlichstem Flor;
+Unter Schnee und Nebelschauer
+Rast ein aetna dir hervor.
+
+Du beschaemst wie Morgenroete
+Jener Gipfel ernste Wand
+Und noch einmal fuehlet Hatem
+Fruehlingshauch und Sommerbrand.
+
+Schenke her! Noch eine Flasche!
+Diesen Becher bring ich ihr!
+Findet sie ein Haeufchen Asche,
+Sagt sie: Der verbrannte mir.
+
+
+Suleika
+
+
+Nimmer will ich dich verlieren!
+Liebe gibt der Liebe Kraft.
+Magst du meine Jugend zieren
+Mit gewaltger Leidenschaft!
+
+Ach! wie schmeichelt's meinem Triebe,
+Wenn man meinen Dichter preist!
+Denn das Leben ist die Liebe
+Und des Lebens Leben Geist.
+
+
+
+
+
+Buch Suleika--2
+
+
+
+
+
+Lass dein suessen Rubinenmund
+
+
+Lass deinen suessen Rubinenmund
+Zudringlichkeiten nicht verfluchen!
+Was hat Liebesschmerz andern Grund,
+Als seine Heilung zu suchen?
+
+
+Bist du von deiner Geliebten getrennt
+
+
+Bist du von deiner Geliebten getrennt
+Wie Orient vom Occident,
+Das Herz durch alle Wuesten rennt;
+Es gibt sich ueberall selbst das Geleit,
+Fuer Liebende ist Bagdad nicht weit.
+
+
+Mag sie sich immer ergaenzen,
+
+
+Mag sie sich immer ergaenzen,
+Eure bruechige Welt, in sich,
+Diese klaren Augen, sie glaenzen,
+Dieses Herz, es schlaegt fuer mich!
+
+
+O dass der Sinnen doch so viele sind
+
+
+O dass der Sinnen doch so viele sind!
+Verwirrung bringen sie ins Glueck herein.
+Wenn ich dich sehe, wuensch ich taub zu sein,
+Wenn ich dich hoere, blind.
+
+
+Auch in der Ferne dir so nah!
+
+
+Auch in der Ferne dir so nah!
+Und unerwartet kommt die Qual.
+Da hoer ich wieder dich einmal;
+Auf einmal bist du wieder da!
+
+
+Wie sollt ich heiter bleiben
+
+
+Wie sollt ich heiter bleiben,
+Entfernt von Tag und Licht?
+Nun aber will ich schreiben,
+Und trinken mag ich nicht.
+
+Wenn sie mich an sich lockte,
+War Rede nicht im Brauch,
+Und wie die Zunge stockte,
+So stockt die Feder auch.
+
+Nur zu! geliebter Schenke,
+Den Becher fuelle still!
+Ich sage nur: Gedenke!
+Schon weiss man, was ich will.
+
+
+Wenn ich dein gedenke
+
+
+Wenn ich dein gedenke,
+Fragt mich gleich der Schenke:
+"Herr, warum so still?
+Da von deinen Lehren
+Immer weiter hoeren
+Saki gerne will."
+
+Wenn ich mich vergesse
+Unter der Zypresse,
+Haelt er nichts davon;
+Und im stillen Kreise
+Bin ich doch so weise,
+Klug wie Salomon.
+
+
+Buch Suleika
+
+
+Ich moechte dieses Buch wohl gern zusammenschuerzen,
+Dass es den andern waere gleichgeschnuert.
+Allein, wie willst du Wort und Blatt verkuerzen,
+Wenn Liebeswahnsinn dich ins Weite fuehrt?
+
+
+An vollen Bueschelzweigen
+
+
+An vollen Bueschelzweigen,
+Geliebte, sieh nur hin!
+Lass dir die Fruechte zeigen,
+Umschalet stachlich gruen.
+
+Sie haengen laengst geballet,
+Still, unbekannt mit sich;
+Ein Ast, der schaukelnd wallet,
+Wiegt sie geduldiglich.
+
+Doch immer reift von innen
+Und schwillt der braune Kern;
+Er moechte Luft gewinnen
+Und saeh die Sonne gern.
+
+Die Schale platzt, und nieder
+Macht er sich freudig los;
+So fallen meine Lieder
+Gehaeuft in deinen Schoss.
+
+
+Suleika
+
+
+An des lustgen Brunnens Rand,
+Der in Wasserfaeden spielt,
+Wusst ich nicht, was fest mich hielt;
+Doch da war von deiner Hand
+Meine Chiffer leis gezogen;
+Nieder blickt ich, dir gewogen.
+
+Hier, am Ende des Kanals
+Der gereihten Hauptallee,
+Blick ich wieder in die Hoeh,
+Und da seh ich abermals
+Meine Lettern fein gezogen:
+Bleibe! bleibe mir gewogen!
+
+
+Hatem
+
+
+Moege Wasser, springend, wallend,
+Die Zypressen dir gestehn:
+Von Suleika zu Suleika
+Ist mein Kommen und mein Gehn.
+
+
+Suleika
+
+
+Kaum dass ich dich wieder habe,
+Dich mit Kuss und Liedern labe,
+Bist du still in dich gekehret;
+Was beengt und drueckt und stoeret?
+
+
+Hatem
+
+
+Ach, Suleika, soll ich's sagen?
+Statt zu loben, moecht ich klagen!
+Sangest sonst nur meine Lieder,
+Immer neu und immer wieder.
+
+Sollte wohl auch diese loben;
+Doch sie sind nur eingeschoben,
+Nicht von Hafis, nicht Nisami.
+Nicht Saadi, nicht von Dschami.
+
+Kenn ich doch der Vaeter Menge,
+Silb um Silbe, Klang um Klaenge,
+Im Gedaechtnis unverloren;
+Diese da sind neu geboren.
+
+Gestern wurden sie gedichtet.
+Sag, hast du dich neu verpflichtet?
+Hauchest du so froh verwegen
+Fremden Atem mir entgegen,
+
+Der dich eben so belebet,
+Eben so in Liebe schwebet,
+Lockend, ladend zum Vereine
+So harmonisch als der meine?
+
+
+Suleika
+
+
+War Hatem lange doch entfernt;
+Das Maedchen hatte was gelernt.
+Von ihm war sie so schoen gelobt;
+Da hat die Trennung sich erprobt.
+Wohl, dass sie dir nicht fremde scheinen;
+Sie sind Suleikas, sind die deinen!
+
+
+Behramgur, sagt man
+
+
+Behramgur, sagt man, hat den Reim erfunden;
+Er sprach entzueckt aus reiner Seele Drang;
+Dilaram schnell, die Freundin seiner Stunden,
+Erwiderte mit gleichem Wort und Klang.
+
+Und so, Geliebte, warst du mir beschieden,
+Des Reims zu finden holden Lustgebrauch,
+Dass auch Behramgur ich, den Sassaniden,
+Nicht mehr beneiden darf: mir ward es auch.
+
+Hast mir dies Buch geweckt, du hast's gegeben;
+Denn was ich froh aus vollem Herzen sprach,
+Das klang zurueck aus deinem holden Leben,
+Wie Blick dem Blick, so Reim dem Reime nach.
+
+Nun toen es fort zu dir, auch aus der Ferne,
+Das Wort erreicht, und schwaende Ton und Schall:
+Ist's nicht der Mantel noch gesaeter Sterne?
+Ist's nicht der Liebe hochverklaertes All?
+
+
+Deinem Blick mich zu bequemen
+
+
+Deinem Blick mich zu bequemen,
+Deinem Munde, deiner Brust,
+Deine Stimme zu vernehmen,
+War die letzt und erste Lust.
+
+Gestern, ach! war sie die letzte,
+Dann verlosch mir Leucht und Feuer;
+Jeder Scherz, der mich ergetzte,
+Wird nun schuldenschwer und teuer.
+
+Eh es Allah nicht gefaellt,
+Uns aufs neue zu vereinen,
+Gibt mir Sonne, Mond und Welt
+Nur Gelegenheit zum Weinen.
+
+
+Suleika
+
+
+Was bedeutet die Bewegung?
+Bringt der Ost mir frohe Kunde?
+Seiner Schwingen frische Regung
+Kuehlt des Herzens tiefe Wunde.
+
+Kosend spielt er mit dem Staube,
+Jagt ihn auf in leichten Woelkchen,
+Treibt zur sichern Rebenlaube
+Der Insekten frohes Voelkchen.
+
+Lindert sanft der Sonne Gluehen,
+Kuehlt auch mir die heissen Wangen,
+Kuesst die Reben noch im Fliehen,
+Die auf Feld und Huegel prangen.
+
+Und mich will sein leises Fluestern
+Von dem Freunde lieblich gruessen,
+Eh noch diese Huegel duestern,
+Sitz ich still zu seinen Fuessen.
+
+Und so kannst du weiter ziehen;
+Diene Freunden und Betruebten.
+Dort, wo hohe Mauern gluehen,
+Find ich bald den Vielgeliebten.
+
+Ach, die wahre Herzenskunde,
+Liebeshauch, erfrischtes Leben
+Wird mir nur aus seinem Munde,
+Kann mir nur sein Atem geben.
+
+
+Hochbild
+
+
+Die Sonne, Helios der Griechen,
+Faehrt praechtig auf der Himmelsbahn,
+Gewiss, das Weltall zu besiegen,
+Blickt er umher, hinab, hinan.
+
+Er sieht die schoenste Goettin weinen,
+Die Wolkentochter, Himmelskind,
+Ihr scheint er nur allein zu scheinen;
+Fuer alle heitre Raeume blind,
+
+Versenkt er sich in Schmerz und Schauer,
+Und haeufiger quillt ihr Traenenguss:
+Er sendet Lust in ihre Trauer
+Und jeder Perle Kuss auf Kuss.
+
+Nun fuehlt sie tief des Blicks Gewalten
+Und unverwandt schaut sie hinauf:
+Die Perlen wollen sich gestalten;
+Denn jede nahm sein Bildnis auf.
+
+Und so, umkraenzt von Farb und Bogen,
+Erheitert leuchtet ihr Gesicht,
+Entgegen kommt er ihr gezogen:
+Doch er, doch--ach! erreicht sie nicht.
+
+So, nach des Schicksals hartem Lose,
+Weichst du mir, Lieblichste davon;
+Und waer ich Helios, der Grosse,
+Was nuetzte mir der Wagenthron?
+
+
+Nachklang
+
+
+Es klingt so praechtig, wenn der Dichter
+Der Sonne, bald dem Kaiser sich vergleicht;
+Doch er verbirgt die traurigen Gesichter,
+Wenn er in duestern Naechten schleicht.
+
+Von Wolken streifenhaft befangen,
+Versank zu Nacht des Himmels reinstes Blau;
+Vermagert bleich sind meine Wangen
+Und meine Herzenstraenen grau.
+
+Lass mich nicht so der Nacht, dem Schmerze,
+Du Allerliebstes, du mein Mondgesicht!
+O du mein Phosphor, meine Kerze,
+Du meine Sonne, du mein Licht!
+
+
+Suleika
+
+
+Ach, um deine feuchten Schwingen,
+West, wie sehr ich dich beneide!
+Denn du kannst ihm Kunde bringen,
+Was ich in der Trennung leide.
+
+Die Bewegung deiner Fluegel
+Weckt im Busen stilles Sehnen;
+Blumen, Augen, Wald und Huegel
+Stehn bei deinem Hauch in Traenen.
+
+Doch dein mildes sanftes Wehen
+Kuehlt die wunden Augenlider;
+Ach, fuer Leid muesst ich vergehen,
+Hofft ich nicht zu sehn ihn wieder.
+
+Eile denn zu meinem Lieben,
+Spreche sanft zu seinem Herzen,
+Doch vermeid, ihn zu betrueben,
+Und verbirg ihm meine Schmerzen!
+
+Sag ihm, aber sag's bescheiden:
+Seine Liebe sei mein Leben!
+Freudiges Gefuehl von beiden
+Wird mir seine Naehe geben.
+
+
+Wiederfinden
+
+
+Ist es moeglich! Stern der Sterne,
+Drueck ich wieder dich ans Herz!
+Ach, was ist die Nacht der Ferne,
+Fuer ein Abgrund, fuer ein Schmerz!
+Ja, du bist es, meiner Freuden
+Suesser, lieber Widerpart!
+Eingedenk vergangner Leiden
+Schaudr ich vor der Gegenwart.
+
+Als die Welt im tiefsten Grunde
+Lag an Gottes ewger Brust,
+Ordnet' er die erste Stunde
+Mit erhabner Schoepfungslust.
+Und er sprach das Wort: "Es werde!"
+Da erklang ein schmerzlich Ach!
+Als das All mit Machtgebaerde
+In die Wirklichkeiten brach!
+
+Auf tat sich das Licht; so trennte
+Scheu sich Finsternis von ihm,
+Und sogleich die Elemente
+Scheidend auseinander fliehn.
+Rasch in wilden, wuesten Traeumen
+Jedes nach der Weite rang,
+Starr, in ungemessnen Raeumen,
+Ohne Sehnsucht, ohne Klang.
+
+Stumm war alles, still und oede,
+Einsam Gott zum ersten Mal!
+Da erschuf er Morgenroete,
+Die erbarmte sich der Qual;
+Sie entwickelte dem Trueben
+Ein erklingend Farbenspiel,
+Und nun konnte wieder lieben,
+Was erst auseinanderfiel.
+
+Und mit eiligem Bestreben
+Sucht sich, was sich angehoert;
+Und zu ungemessnem Leben
+Ist Gefuehl und Blick gekehrt.
+Sei's Ergreifen, sei es Raffen,
+Wenn es nur sich fasst und haelt!
+Allah braucht nicht mehr zu schaffen,
+Wir erschaffen seine Welt.
+
+So mit morgenroten Fluegeln
+Riss es mich an deinen Mund,
+Und die Nacht mit tausend Siegeln
+Kraeftigt sternenhell den Bund.
+Beide sind wir auf der Erde
+Musterhaft in Freud und Qual,
+Und ein zweites Wort: Es werde!
+Trennt uns nicht zum zweiten Mal.
+
+
+Vollmondnacht
+
+
+Herrin, sag, was heisst das Fluestern?
+Was bewegt dir leis die Lippen?
+Lispelst immer vor dich hin,
+Lieblicher als Weines Nippen!
+Denkst du deinen Mundgeschwistern
+Noch ein Paerchen herzuziehn?
+    "Ich will kuessen! Kuessen! sagt ich."
+
+Schau! Im zweifelhaften Dunkel
+Gluehen bluehend alle Zweige,
+Nieder spielet Stern auf Stern,
+Und smaragden durchs Gestraeuche
+Tausendfaeltiger Karfunkel;
+Doch dein Geist ist allem fern.
+    "Ich will kuessen! Kuessen! sagt ich."
+
+Dein Geliebter, fern, erprobet
+Gleicherweis im Sauersuessen
+Fuehlt ein unglueckselges Glueck,
+Euch im Vollmond zu begruessen,
+Habt ihr heilig angelobet,
+Dieses ist der Augenblick!
+    "Ich will kuessen! Kuessen! sagt ich."
+
+
+Geheimschrift
+
+
+Lasst euch, o Diplomaten,
+Recht angelegen sein,
+Und eure Potentaten
+Beraten rein und fein!
+Geheimer Chiffern Sendung
+Beschaeftige die Welt,
+Bis endlich jede Wendung
+Sich selbst ins gleiche stellt.
+
+Mir von der Herrin suesse
+Die Chiffer ist zur Hand,
+Woran ich schon geniesse,
+Weil sie die Kunst erfand.
+Es ist die Liebesfuelle
+Im lieblichsten Revier,
+Der holde, treue Wille,
+Wie zwischen mir und ihr.
+
+Von abertausend Blueten
+Ist es ein bunter Strauss,
+Von englischen Gemueten
+Ein vollbewohntes Haus;
+Von buntesten Gefiedern
+Der Himmel uebersaet,
+Ein klingend Meer von Liedern,
+Geruchvoll ueberweht.
+
+Ist unbedingten Strebens
+Geheime Doppelschrift,
+Die in das Mark des Lebens
+Wie Pfeil um Pfeile trifft.
+Was ich euch offenbaret,
+War laengst ein frommer Brauch,
+Und wenn ihr es gewahret,
+So schweigt und nutzt es auch.
+
+
+Abglanz
+
+
+Ein Spiegel, er ist mir geworden;
+Ich sehe so gerne hinein,
+Als hinge des Kaisers Orden
+An mir mit Doppelschein;
+Nicht etwa selbstgefaellig
+Such ich mich ueberall;
+Ich bin so gern gesellig,
+Und das ist hier der Fall.
+
+Wenn ich nun vorm Spiegel stehe
+Im stillen Witwerhaus,
+Gleich guckt, eh ich mich versehe,
+Das Liebchen mit heraus.
+Schnell kehr ich mich um, und wieder
+Verschwand sie, die ich sah;
+Dann blick ich in meine Lieder,
+Gleich ist sie wieder da.
+
+Die schreib ich immer schoener
+Und mehr nach meinem Sinn,
+Trotz Krittler und Verhoehner,
+Zu taeglichem Gewinn.
+Ihr Bild in reichen Schranken
+Verherrlichet sich nur,
+In goldnen Rosenranken
+Und Raehmchen von Lasur.
+
+
+Suleika
+
+
+Wie mit innigstem Behagen,
+Lied, empfind ich deinen Sinn!
+Liebevoll du scheinst zu sagen,
+Dass ich ihm zur Seite bin.
+
+Dass er ewig mein gedenket,
+Seiner Liebe Seligkeit
+Immerdar der Fernen schenket,
+Die ein Leben ihm geweiht.
+
+Ja, mein Herz, es ist der Spiegel,
+Freund, worin du dich erblickt;
+Diese Brust, wo deine Siegel
+Kuss auf Kuss hereingedrueckt.
+
+Suesses Dichten, lautre Wahrheit
+Fesselt mich in Sympathie!
+Rein verkoerpert Liebesklarheit
+Im Gewand der Poesie.
+
+
+Lass den Weltenspiegel Alexandern
+
+
+Lass den Weltenspiegel Alexandern;
+Denn was zeigt er?--Da und dort
+Stille Voelker, die er mit den andern
+Zwingend ruetteln moechte fort und fort.
+
+Du! nicht weiter, nicht zu Fremden strebe!
+Singe mir, die du dir eigen sangst.
+Denke, dass ich liebe, dass ich lebe,
+Denke, dass du mich bezwangst!
+
+
+Die Welt durchaus ist lieblich anzuschauen
+
+
+Die Welt durchaus ist lieblich anzuschauen,
+Vorzueglich aber schoen die Welt der Dichter;
+Auf bunten, hellen oder silbergrauen
+Gefilden, Tag und Nacht, erglaenzen Lichter.
+Heut ist mir alles herrlich; wenn's nur bliebe!
+Ich sehe heut durchs Augenglas der Liebe.
+
+
+In tausend Formen
+
+
+In tausend Formen magst du dich verstecken,
+Doch, Allerliebste, gleich erkenn ich dich;
+Du magst mit Zauberschleiern dich bedecken,
+Allgegenwaertge, gleich erkenn ich dich.
+
+An der Zypresse reinstem jungem Streben,
+Allschoengewachsne, gleich erkenn ich dich.
+In des Kanales reinem Wellenleben,
+Allschmeichelhafte, wohl erkenn ich dich.
+
+Wenn steigend sich der Wasserstrahl entfaltet,
+Allspielende, wie froh erkenn ich dich!
+Wenn Wolke sich gestaltend umgestaltet,
+Allmannigfaltge, dort erkenn ich dich.
+
+An des gebluemten Schleiers Wiesenteppich,
+Allbuntbesternte, schoen erkenn ich dich;
+Und greift umher ein tausendarmger Eppich,
+O Allumklammernde, da kenn ich dich.
+
+Wenn am Gebirg der Morgen sich entzuendet,
+Gleich, Allerheiternde, begruess ich dich,
+Dann ueber mir der Himmel rein sich ruendet,
+Allherzerweiternde, dann atm ich dich.
+
+Was ich mit aeusserm Sinn, mit innerm kenne,
+Du Allbelehrende, kenn ich durch dich;
+Und wenn ich Allahs Namenhundert nenne,
+Mit jedem klingt ein Name nach fuer dich.
+
+
+
+
+
+Das Schenkenbuch
+
+
+
+
+
+Saki Nameh: Das Schenkenbuch
+
+
+Ja, in der Schenke hab ich auch gesessen,
+Mir ward wie andern zugemessen;
+Sie schwatzten, schrieen, haendelten von heut,
+So froh und traurig, wie's der Tag gebeut,
+Ich aber sass, im Innersten erfreut;
+An meine Liebste dacht ich--wie sie liebt?
+Das weiss ich nicht; was aber mich bedraengt--
+Ich liebe sie, wie es ein Busen gibt,
+Der treu sich einer gab und knechtisch haengt.
+Wo war das Pergament, der Griffel, wo,
+Die alles fassten? Doch so war's! ja, so!
+
+
+Sitz ich allein
+
+
+Sitz ich allein,
+Wo kann ich besser sein?
+Meinen Wein
+Trink ich allein;
+Und niemand setzt mir Schranken;
+Ich hab so meine eignen Gedanken.
+
+
+So weit bracht es Muley
+
+
+So weit bracht es Muley, der Dieb,
+Dass er trunken schoene Lettern schrieb.
+
+
+Ob der Koran von Ewigkeit sei
+
+
+Ob der Koran von Ewigkeit sei?
+Darnach frag ich nicht!
+Ob der Koran geschaffen sei?
+Das weiss ich nicht!
+Dass er das Buch der Buecher sei,
+Glaub ich aus Mosleminen-Pflicht.
+
+Dass aber der Wein von Ewigkeit sei,
+Daran zweifl ich nicht;
+Oder dass er von den Engeln geschaffen sei,
+Ist vielleicht auch kein Gedicht.
+Der Trinkende, wie es auch immer sei,
+Blickt Gott frischer ins Angesicht.
+
+
+Trunken muessen wir alle sein
+
+
+Trunken muessen wir alle sein!
+Jugend ist Trunkenheit ohne Wein;
+Trinkt sich das Alter wieder zu Jugend,
+So ist es wundervolle Tugend.
+Fuer Sorgen sorgt das liebe Leben
+Und Sorgenbrecher sind die Reben.
+
+Da wird nicht mehr nachgefragt,
+Wein ist ernstlich untersagt.
+Soll denn doch getrunken sein,
+Trinke nur vom besten Wein!
+Doppelt waerst du ein Ketzer
+In Verdammnis um den Kraetzer.
+
+
+Solang man nuechtern ist
+
+
+Solang man nuechtern ist,
+Gefaellt das Schlechte;
+Wie man getrunken hat,
+Weiss man das Rechte;
+Nur ist das uebermass
+Auch gleich zu Handen,
+Hafis, o lehre mich,
+Wie du's verstanden!
+Denn meine Meinung ist
+Nicht uebertrieben:
+Wenn man nicht trinken kann,
+Soll man nicht lieben,
+Doch sollt ihr Trinker euch
+Nicht besser duenken:
+Wenn man nicht lieben kann,
+Soll man nicht trinken.
+
+
+Suleika
+
+
+Warum du nur oft so unhold bist?
+
+
+Hatem
+
+
+Du weisst, dass der Leib ein Kerker ist:
+Die Seele hat man hinein betrogen;
+Da hat sie nicht freie Ellenbogen.
+Will sie sich da- und dorthin retten,
+Schnuert man den Kerker selbst in Ketten;
+Da ist das Liebchen doppelt gefaehrdet;
+Deshalb sie sich oft so seltsam gebaerdet.
+
+
+Wenn der Koerper ein Kerker ist
+
+
+Wenn der Koerper ein Kerker ist,
+Warum nur der Kerker so durstig ist?
+Seele befindet sich wohl darinnen
+Und bliebe gern vergnuegt bei Sinnen,
+Nun aber soll eine Flasche Wein,
+Frisch eine nach der andern herein.
+Seele will's nicht laenger ertragen,
+Sie an der Tuere in Stuecke schlagen.
+
+
+Dem Kellner
+
+
+Setze mir nicht, du Grobian,
+Mir den Krug so derb vor die Nase!
+Wer mir Wein bringt, sehe mich freundlich an,
+Sonst truebt sich der Eilfer im Glase.
+
+
+Dem Schenken
+
+
+Du zierlicher Knabe, du komm herein!
+Was stehst du denn da auf der Schwelle?
+Du sollst mir kuenftig der Schenke sein;
+Jeder Wein ist schmackhaft und helle.
+
+
+Schenke spricht
+
+
+Du mit deinen braunen Locken,
+Geh mir weg, verschmitzte Dirne!
+Schenk ich meinem Herrn zu Danke,
+Nun, so kuesst er mir die Stirne.
+
+Aber du, ich wollte wetten,
+Bist mir nicht damit zufrieden,
+Deine Wangen, deine Brueste
+Werden meinen Freund ermueden.
+
+Glaubst du wohl mich zu betruegen,
+Dass du jetzt verschaemt entweichest?
+Auf der Schwelle will ich liegen
+Und erwachen, wenn du schleichest.
+
+
+Sie haben wegen der Trunkenheit
+
+
+Sie haben wegen der Trunkenheit
+Vielfaeltig uns verklagt
+Und haben von unsrer Trunkenheit
+Lange nicht genug gesagt.
+Gewoehnlich der Betrunkenheit
+Erliegt man, bis es tagt;
+Doch hat mich meine Betrunkenheit
+In der Nacht umhergejagt.
+Es ist die Liebestrunkenheit,
+Die mich erbaermlich plagt,
+Von Tag zu Nacht, von Nacht zu Tag
+In meinem Herzen zagt,
+Dem Herzen, das in Trunkenheit
+Der Lieder schwillt und ragt,
+Dass keine nuechterne Trunkenheit,
+Sich gleich zu heben wagt.
+Dass keine nuechterne Trunkenheit
+Ob's nachtet oder tagt,
+Die goettlichste Betrunkenheit,
+Die mich entzueckt und plagt.
+
+
+Du kleiner Schelm, du!
+
+
+Du kleiner Schelm, du!
+Dass ich mir bewusst sei,
+Darauf kommt es ueberall an.
+Und so erfreu ich mich
+Auch deiner Gegenwart,
+Du Allerliebster,
+Obgleich betrunken.
+
+
+Was in der Schenke waren heute
+
+
+Was in der Schenke waren heute
+Am fruehsten Morgen fuer Tumulte!
+Der Wirt und Maedchen! Fackeln, Leute!
+Was gab's fuer Haendel, fuer Insulte!
+Die Floete klang, die Trommel scholl!
+Es war ein wuestes Wesen--
+Doch bin ich, lust- und liebevoll,
+Auch selbst dabei gewesen.
+
+Dass ich von Sitte nichts gelernt,
+Darueber tadelt mich ein jeder;
+Doch bleib ich weislich weit entfernt
+Vom Streit der Schulen und Katheder.
+
+
+Schenke
+
+
+Welch ein Zustand! Herr, so spaete
+Schleichst du heut aus deiner Kammer;
+Perser nennen's Bidamag buden,
+Deutsche sagen Katzenjammer.
+
+
+Dichter
+
+
+Lass mich jetzt, geliebter Knabe!
+Mir will nicht die Welt gefallen,
+Nicht der Schein, der Duft der Rose,
+Nicht der Sang der Nachtigallen.
+
+
+Schenke
+
+
+Eben das will ich behandeln,
+Und ich denk, es soll mir klecken,
+Hier, geniess die frischen Mandeln,
+Und der Wein wird wieder schmecken.
+
+Dann will ich auf der Terrasse
+Dich mit frischen Lueften traenken;
+Wie ich dich ins Auge fasse,
+Gibst du einen Kuss dem Schenken.
+
+Schau, die Welt ist keine Hoehle,
+Immer reich an Brut und Nestern;
+Rosenduft und Rosenoele!
+Bulbul auch, sie singt wie gestern.
+
+
+Jene garstige Vettel
+
+
+Jene garstige Vettel,
+Die buhlerische,
+Welt heisst man sie,
+Mich hat sie betrogen,
+Wie die uebrigen alle.
+Glaube nahm sie mir weg,
+Dann die Hoffnung!
+Nun wollte sie
+An die Liebe;
+Da riss ich aus.
+Den geretteten Schatz
+Fuer ewig zu sichern,
+Teilt ich ihn weislich
+Zwischen Suleika und Saki.
+Jedes der beiden
+Beeifert sich um die Wette,
+Hoehere Zinsen zu entrichten.
+Und ich bin reicher als je,
+Den Glauben hab ich wieder!
+An ihre Liebe den Glauben!
+Er, im Becher, gewaehrt mir
+Herrliches Gefuehl der Gegenwart.
+Was will da die Hoffnung!
+
+
+Schenke
+
+
+Heute hast du gut gegessen,
+Doch du hast noch mehr getrunken;
+Was du bei dem Mahl vergessen,
+Ist in diesen Napf gesunken.
+
+Sieh, das nennen wir ein Schwaenchen,
+Wie's dem satten Gast geluestet;
+Dieses bring ich meinem Schwane,
+Der sich auf den Wellen bruestet.
+
+Doch vom Singschwan will man wissen,
+Dass er sich zu Grabe laeutet;
+Lass mich jedes Lied vermissen,
+Wenn es auf dein Ende deutet!
+
+
+Schenke
+
+
+Nennen dich den grossen Dichter,
+Wenn dich auf dem Markte zeigest;
+Gerne hoer ich, wenn du singest,
+Und ich horche, wenn du schweigest.
+
+Doch ich liebe dich noch lieber,
+Wenn du kuessest zum Erinnern;
+Denn die Worte gehn vorueber,
+Und der Kuss, der bleibt im Innern.
+
+Reim auf Reim will was bedeuten.
+Besser ist es, viel zu denken.
+Singe du den andern Leuten
+Und verstumme mit dem Schenken!
+
+
+Dichter
+
+
+Schenke, komm! Noch einen Becher!
+
+
+Schenke
+
+
+Herr, du hast genug getrunken;
+Nennen dich den wilden Zecher!
+
+
+Dichter
+
+
+Sah'st du je, dass ich gesunken?
+
+
+Schenke
+
+Mahomet verbietet's.
+
+
+Dichter
+
+
+    Liebchen!
+Hoert es niemand, will dir's sagen.
+
+
+Schenke
+
+
+Wenn du einmal gerne redest,
+Brauch ich gar nicht viel zu fragen.
+
+
+Dichter
+
+
+Horch! Wir andern Musulmanen,
+Nuechtern sollen wir gebueckt sein,
+Er, in seinem heilgen Eifer,
+Moechte gern allein verrueckt sein!
+
+
+Saki
+
+
+Denk, o Herr, wenn du getrunken,
+Sprueht um dich des Feuers Glast!
+Prasselnd blitzen tausend Funken,
+Und du weisst nicht, wo es fasst.
+
+Moenche seh ich in den Ecken,
+Wenn du auf die Tafel schlaegst,
+Die sich gleisnerisch verstecken,
+Wenn dein Herz du offen traegst.
+
+Sag mir nur, warum die Jugend,
+Noch von keinem Fehler frei,
+So ermangelnd jeder Tugend,
+Klueger als das Alter sei.
+
+Alles weisst du, was der Himmel,
+Alles, was die Erde traegt,
+Und verbirgst nicht das Gewimmel,
+Wie sich's dir im Busen regt.
+
+
+Hatem
+
+
+Eben drum, geliebter Knabe,
+Bleibe jung und bleibe klug!
+Dichten zwar ist Himmelsgabe,
+Doch im Erdenleben Trug.
+
+Erst sich im Geheimnis wiegen,
+Dann verplaudern frueh und spat!
+Dichter ist umsonst verschwiegen,
+Dichten selbst ist schon Verrat.
+
+
+Sommernacht
+
+
+Dichter
+
+Niedergangen ist die Sonne,
+Doch im Westen glaenzt es immer;
+Wissen moecht ich wohl, wie lange
+Dauert noch der goldne Schimmer?
+
+Schenke
+
+Willst du, Herr, so will ich bleiben,
+Warten ausser diesen Zelten;
+Ist die Nacht des Schimmers Herrin,
+Komm ich gleich, es dir zu melden.
+
+Denn ich weiss, du liebst, das Droben,
+Das Unendliche zu schauen,
+Wenn sie sich einander loben,
+Jene Feuer in dem Blauen.
+
+Und das hellste will nur sagen:
+"Jetzo glaenz ich meiner Stelle;
+Wollte Gott euch mehr betagen,
+Glaenztet ihr wie ich so helle."
+
+Denn vor Gott ist alles herrlich
+Eben, weil er ist der Beste;
+Und so schlaeft nun aller Vogel
+In dem gross und kleinen Neste.
+
+Einer sitzt auch wohl gestaengelt
+Auf den aesten der Zypresse,
+Wo der laue Wind ihn gaengelt,
+Bis zu Taues luftger Naesse.
+
+Solches hast du mich gelehret,
+Oder etwas auch dergleichen;
+Was ich je dir abgehoeret,
+Wird dem Herzen nicht entweichen.
+
+Eule will ich deinetwegen
+Kauzen hier auf der Terrasse,
+Bis ich erst des Nordgestirnes
+Zwillings-Wendung wohl erpasse.
+
+Und da wird es Mitternacht sein,
+Wo du oft zu frueh ermunterst,
+Und dann wird es eine Pracht sein,
+Wenn das All mit mir bewunderst.
+
+
+Dichter
+
+
+Zwar in diesem Duft und Garten
+Toenet Bulbul ganze Naechte,
+Doch du koenntest lange warten,
+Bis die Nacht so viel vermoechte.
+
+Denn in dieser Zeit der Flora,
+Wie das Griechenvolk sie nennet,
+Die Strohwitwe, die Aurora,
+Ist in Hesperus entbrennet.
+
+Sieh dich um, sie kommt! wie schnelle!
+ueber Blumenfelds Gelaenge!--
+Hueben hell und drueben helle,
+Ja, die Nacht kommt ins Gedraenge.
+
+Und auf roten, leichten Sohlen
+Ihn, der mit der Sonn entlaufen,
+Eilt sie irrig einzuholen;
+Fuehlst du nicht ein Liebe-Schnaufen?
+
+Geh nur, lieblichster der Soehne,
+Tief ins Innre, schliess die Tueren!
+Denn sie moechte deine Schoene
+Als den Hesperus entfuehren.
+
+
+Der Schenke (schlaefrig)
+
+
+So hab ich endlich von dir erharrt
+In allen Elementen Gottes Gegenwart,
+Wie du mir das so lieblich gibst!
+Am lieblichsten aber, dass du liebst.
+
+
+Hatem
+
+
+Der schlaeft recht suess und hat ein Recht, zu schlafen,
+Du guter Knabe, hast mir eingeschenkt,
+Vom Freund und Lehrer, ohne Zwang und Strafen,
+So jung vernommen, wie der Alte denkt.
+Nun aber kommt Gesundheit holder Fuelle
+Dir in die Glieder, dass du dich erneust.
+Ich trinke noch, bin aber stille, stille,
+Damit du mich, erwachend nicht, erfreust.
+
+
+
+
+
+Buch der Parabeln
+
+
+
+
+
+Mathal Nameh: Buch der Parabeln
+Vom Himmel sank
+
+
+Vom Himmel sank in wilder Meere Schauer
+Ein Tropfe bangend, graesslich schlug die Flut;
+Doch lohnte Gott bescheidnen Glaubensmut
+Und gab dem Tropfen Kraft und Dauer.
+Ihn schloss die stille Muschel ein.
+Und nun, zu ewgem Ruhm und Lohne,
+Die Perle glaenzt an unsers Kaisers Krone
+Mit holdem Blick und mildem Schein.
+
+
+Bulbuls Nachtlied
+
+
+Bulbuls Nachtlied durch die Schauer
+Drang zu Allahs lichtem Throne,
+Und dem Wohlgesang zu Lohne
+Sperrt er sie in goldnen Bauer.
+Dieser sind des Menschen Glieder.
+Zwar sie fuehlet sich beschraenket,
+Doch wenn sie es recht bedenket,
+Singt das Seelchen immer wieder.
+
+
+Wunderglaube
+
+
+Zerbrach einmal eine schoene Schal
+Und wollte schier verzweifeln;
+Unart und uebereil zumal
+Wuenscht ich zu allen Teufeln.
+
+Erst rast ich aus, dann weint ich weich
+Beim traurigen Scherbelesen.
+Das jammerte Gott, er schuf es gleich
+So ganz, als wie es gewesen.
+
+
+Die Perle, die der Muschel entrann
+
+
+Die Perle, die der Muschel entrann,
+Die schoenste, hochgeboren,
+Zum Juwelier, dem guten Mann,
+Sprach sie: "Ich bin verloren!
+Durchbohrst du mich, mein schoenes All,
+Es ist sogleich zerruettet;
+Mit Schwestern muss ich, Fall fuer Fall,
+Zu schlechten sein gekuettet."
+
+"Ich denke jetzt nur an Gewinn;
+Du musst es mir verzeihen;
+Denn wenn ich hier nicht grausam bin,
+Wie soll die Schnur sich reihen?"
+
+
+Pfauenfeder
+
+
+Ich sah mit Staunen und Vergnuegen
+Eine Pfauenfeder im Koran liegen,
+"Willkommen an dem heilgen Platz,
+Der Erdgebilde hoechster Schatz!
+An dir, wie an des Himmels Sternen
+Ist Gottes Groesse im kleinen zu lernen
+Dass er, der Welten ueberblickt,
+Sein Auge hier hat aufgedrueckt,
+Und so den leichten Flaum geschmueckt,
+Dass Koenige kaum unternahmen,
+Die Pracht des Vogels nachzuahmen.
+Bescheiden freue dich des Ruhms!
+So bist du wert des Heiligtums."
+
+
+Ein Kaiser hatte zwei Kassiere
+
+
+Ein Kaiser hatte zwei Kassiere,
+Einen zum Nehmen, einen zum Spenden;
+Diesem fiel's nur so aus den Haenden,
+Jener wusste nicht, woher zu nehmen.
+Der Spender starb. Der Herrscher wusste nicht gleich,
+Wem das Geberamt sei anzuvertrauen,
+Und wie man kaum taet um sich schauen,
+So war der Nehmer unendlich reich;
+Man wusste kaum vor Gold zu leben,
+Weil man einen Tag nichts ausgegeben.
+Da ward nun erst dem Kaiser klar,
+Was schuld an allem Unheil war.
+Den Zufall wusst er wohl zu schaetzen,
+Nie wieder die Stelle zu besetzen.
+
+
+Zum Kessel sprach der neue Topf
+
+
+Zum Kessel sprach der neue Topf:
+"Was hast du einen schwarzen Bauch!"
+"Das ist bei uns nun Kuechenbrauch!"
+Herbei, herbei, du glatter Tropf,
+Bald wird dein Stolz sich mindern.
+Behaelt der Henkel ein klar Gesicht,
+Darob erhebe du dich nicht,
+Besieh nur deinen Hintern."
+
+
+Alle Menschen, gross und klein
+
+
+Alle Menschen, gross und klein,
+Spinnen sich ein Gewebe fein,
+Wo sie mit ihrer Scheren Spitzen
+Gar zierlich in der Mitte sitzen.
+Wenn nun darein ein Besen faehrt,
+Sagen sie, es sei unerhoert,
+Man habe den groessten Palast zerstoert.
+
+
+Vom Himmel steigend Jesus bracht'
+
+
+Vom Himmel steigend Jesus bracht'
+Des Evangeliums ewige Schrift,
+Den Juengern las er sie Tag und Nacht,
+Ein goettlich Wort, es wirkt und trifft.
+Er stieg zurueck, nahm's wieder mit;
+Sie aber hatten's gut gefuehlt,
+Und jeder schrieb, so Schritt fuer Schritt,
+Wie er's in seinem Sinn behielt,
+Verschieden. Es hat nichts zu bedeuten:
+Sie hatten nicht gleiche Faehigkeiten;
+Doch damit koennen sich die Christen
+Bis zu dem Juengsten Tage fristen.
+
+
+Es ist gut
+
+
+Bei Mondenschein im Paradeis
+Fand Jehovah im Schlafe tief
+Adam versunken, legte leis
+Zur Seit ein Evchen, das auch entschlief.
+Da lagen nun in Erdeschranken
+Gottes zwei lieblichste Gedanken--
+"Gut!!!" rief er sich zum Meisterlohn,
+Er ging sogar nicht gern davon.
+
+Kein Wunder, dass es uns berueckt,
+Wenn Auge frisch in Auge blickt,
+Als haetten wir's so weit gebracht,
+Bei dem zu sein, der uns gedacht.
+Und ruft er uns, wohlan, es sei!
+Nur, das beding ich, alle zwei!
+Dich halten dieser Arme Schranken,
+Liebster von allen Gottesgedanken.
+
+
+
+
+
+Buch des Parsen
+
+
+
+
+
+Parsi Nameh: Buch des Parsen
+Vermaechtnis altpersischen Glaubens
+
+
+Welch Vermaechtnis, Brueder, sollt euch kommen
+Von dem Scheidenden, dem armen Frommen,
+Den ihr Juengeren geduldig naehrtet,
+Seine letzten Tage pflegend ehrtet?
+
+Wenn wir oft gesehn den Koenig reiten,
+Gold an ihm und Gold an allen Seiten,
+Edelstein' auf ihn und seine Grossen
+Ausgesaet wie dichte Hagelschlossen:
+
+Habt ihr jemals ihn darum beneidet?
+Und nicht herrlicher den Blick geweidet,
+Wenn die Sonne sich auf Morgenfluegeln
+Darnawends unzaehlgen Gipfelhuegeln
+
+Bogenhaft hervorhob? Wer enthielte
+Sich des Blicks dahin? Ich fuehlte, fuehlte
+Tausendmal in soviel Lebenstagen
+Mich mit ihr, der kommenden, getragen,
+
+Gott auf seinem Throne zu erkennen,
+Ihn den Herrn des Lebensquells zu nennen,
+Jenes hohen Anblicks wert zu handeln
+Und in seinem Lichte fortzuwandeln.
+
+Aber stieg der Feuerkreis vollendet,
+Stand ich als in Finsternis geblendet,
+Schlug den Busen, die erfrischten Glieder
+Warf ich, Stirn voran, zur Erde nieder.
+
+Und nun sei ein heiliges Vermaechtnis
+Bruederlichem Wollen und Gedaechtnis:
+Schwerer Dienste taegliche Bewahrung,
+Sonst bedarf es keiner Offenbarung.
+
+Regt ein Neugeborner fromme Haende,
+Dass man ihn sogleich zur Sonne wende,
+Tauche Leib und Geist im Feuerbade!
+Fuehlen wird er jeden Morgens Gnade.
+
+Dem Lebendgen uebergebt die Toten,
+Selbst die Tiere deckt mit Schutt und Boden,
+Und, so weit sich eure Kraft erstrecket,
+Was euch unrein duenkt, es sei bedecket!
+
+Grabet euer Feld ins zierlich Reine,
+Dass die Sonne gern den Fleiss bescheine;
+Wenn ihr Baeume pflanzt, so sei's in Reihen
+Denn sie laesst Geordnetes gedeihen.
+
+Auch dem Wasser darf es in Kanaelen
+Nie am Laufe, nie an Reine fehlen;
+Wie euch Senderud aus Bergrevieren
+Rein entspringt, soll er sich rein verlieren.
+
+Sanften Fall des Wassers nicht zu schwaechen,
+Sorgt, die Graeben fleissig auszustechen;
+Rohr und Binse, Molch und Salamander,
+Ungeschoepfe, tilgt sie miteinander!
+
+Habt ihr Erd und Wasser so im Reinen,
+Wird die Sonne gern durch Luefte scheinen,
+Wo sie, ihrer wuerdig aufgenommen,
+Leben wirkt, dem Leben Heil und Frommen.
+
+Ihr, von Mueh zu Muehe so gepeinigt,
+Seid getrost! nun ist das All gereinigt,
+Und nun darf der Mensch als Priester wagen,
+Gottes Gleichnis aus dem Stein zu schlagen.
+
+Wo die Flamme brennt, erkennet freudig:
+Hell ist Nacht, und Glieder sind geschmeidig,
+An des Herdes raschen Feuerkraeften
+Reift das Rohe Tier- und Pflanzensaeften.
+
+Schleppt ihr Holz herbei, so tuts mit Wonne!
+Denn ihr tragt den Samen irdscher Sonne,
+Pflueckt ihr Pambeh, moegt ihr traulich sagen:
+"Diese wird als Docht das Heilge tragen."
+
+Werdet ihr in jeder Lampe Brennen
+Fromm den Abglanz hoehern Lichts erkennen,
+Soll euch nie ein Missgeschick verwehren
+Gottes Thron am Morgen zu verehren.
+
+Da ist unsers Daseins Kaisersiegel,
+Uns und Engeln reiner Gottesspiegel,
+Und was nur am Lob des Hoechsten stammelt
+Ist in Kreis um Kreise dort versammelt.
+
+Will dem Ufer Senderuds entsagen,
+Auf zum Darnawend die Fluegel schlagen,
+Wie sie tagt, ihr freudig zu begegnen
+Und von dorther ewig euch zu segnen.
+
+Wenn der Mensch die Erde schaetzet
+
+Wenn der Mensch die Erde schaetzet,
+Weil die Sonne sie bescheinet,
+An der Rebe sich ergoetzet,
+Die dem scharfen Messer weinet,
+Da sie fuehlt, dass ihre Saefte,
+Wohlgekocht, die Welt erquickend,
+Werden regsam vielen Kraeften,
+Aber mehreren erstickend--
+Weiss er das der Glut zu danken,
+Die das alles laesst gedeihen,
+Wird Betrunkner stammelnd wanken,
+Maessger wird sich singend freuen.
+
+
+
+
+
+Buch des Paradieses
+
+
+
+
+
+Chuld Nameh: Buch des Paradieses
+Vorschmack
+
+
+Der echte Moslem spricht vom Paradiese,
+Als wenn er selbst allda gewesen waere;
+Er glaubt dem Koran, wie es der verhiesse:
+Hierauf begruendet sich die reine Lehre.
+
+Doch der Prophet, Verfasser jenes Buches,
+Weiss unsre Maengel droben auszuwittern,
+Und sieht, dass trotz dem Donner seines Fluches
+Die Zweifel oft den Glauben uns verbittern.
+
+Deshalb entsendet er den ewgen Raeumen
+Ein Jugendmuster, alles zu verjuengen;
+Sie schwebt heran und fesselt ohne Saeumen
+Um meinen Hals die allerliebsten Schlingen.
+
+Auf meinem Schoss, an meinem Herzen halt ich
+Das Himmelswesen, mag nichts weiter wissen,
+Und glaube nun ans Paradies gewaltig;
+Denn ewig moecht ich sie so treulich kuessen.
+
+
+Berechtigte Maenner
+
+(Nach der Schlacht von Bedr, unterm Sternenhimmel)
+
+Mahomet spricht:
+
+
+Seine Toten mag der Feind betrauern:
+Denn sie liegen ohne Wiederkehren;
+Unsre Brueder sollt ihr nicht bedauern:
+Denn sie wandeln ueber jenen Sphaeren.
+
+Die Planeten haben alle sieben
+Die metallnen Tore weit getan,
+Und schon klopfen die verklaerten Lieben
+Paradieses Pforten kuehnlich an.
+
+Finden, ungehofft und uebergluecklich,
+Herrlichkeiten, die mein Flug beruehrt,
+Als das Wunderpferd mich augenblicklich
+Durch die Himmel alle durchgefuehrt.
+
+Weisheitsbaum an Baum, zypresseragend,
+Heben aepfel goldner Zierd empor;
+Lebensbaeume, breite Schatten schlagend,
+Decken Blumensitz und Kraeuterflor.
+
+Und nun bringt ein suesser Wind von Osten
+Hergefuehrt die Himmels-Maedchen-Schar;
+Mit den Augen faengst du an zu kosten,
+Schon der Anblick saettigt ganz und gar.
+
+Forschend stehn sie, was du unternahmst?
+Grosse Plane? faehrlich blutgen Strauss?
+Dass du Held seist, sehn sie, weil du kamest;
+Welch ein Held du seist, sie forschen's aus.
+
+Und sie sehn es bald an deiner Wunden,
+Die sich selbst ein Ehrendenkmal schreibt.
+Glueck und Hoheit, alles ist verschwunden,
+Nur die Wunde fuer den Glauben bleibt.
+
+Fuehren zu Kiosken dich und Lauben,
+Saeulenreich von buntem Lichtgestein,
+Und zu edlem Saft verklaerter Trauben
+Laden sie mit Nippen freundlich ein.
+
+Juengling, mehr als Juengling, bist willkommen!
+Alle sind wie alle licht und klar;
+Hast du eine dir ans Herz genommen,
+Herrin, Freundin ist sie deiner Schar.
+
+Doch die allertrefflichste gefaellt sich
+Keineswegs in solchen Herrlichkeiten;
+Heiter, neidlos, redlich unterhaelt dich
+Von den mannigfaltgen Trefflichkeiten.
+
+Eine fuehrt dich zu der andern Schmause,
+Den sich jede aeusserst ausersinnt;
+Viele Frauen hast und Ruh im Hause,
+Wert, dass man darob das Paradies gewinnt,
+
+Und so schicke dich in diesen Frieden:
+Denn du kannst ihn weiter nicht vertauschen;
+Solche Maedchen werden nicht ermueden,
+Solche Weine werden nicht berauschen.
+
+Und so war das Wenige zu melden,
+Wie der selge Musulman sich bruestet:
+Paradies der Maenner Glaubenshelden
+Ist hiemit vollkommen ausgeruestet.
+
+
+Auserwaehlte Frauen
+
+
+Frauen sollen nichts verlieren,
+Reiner Treue ziemt zu hoffen;
+Doch wir wissen nur von vieren,
+Die alldort schon eingetroffen.
+
+Erst Suleika, Erdensonne,
+Gegen Jussuf ganz Begierde;
+Nun, des Paradieses Wonne,
+Glaenzt sie, der Entsagung Zierde.
+
+Dann die Allgebenedeite,
+Die den Heiden Heil geboren
+Und getaeuscht, in bittrem Leide
+Sah den Sohn am Kreuz verloren.
+
+Mahoms Gattin auch, sie baute
+Wohlfahrt ihm und Herrlichkeiten,
+Und empfahl bei Lebenszeiten
+Einen Gott und eine Traute.
+
+Kommt Fatima dann, die Holde,
+Tochter, Gattin sonder Fehle,
+Englisch allerreinste Seele
+In dem Leib von Honiggolde.
+
+Diese finden wir alldorten;
+Und wer Frauenlob gepriesen,
+Der verdient an ewgen Orten
+Lustzuwandeln wohl mit diesen.
+
+
+Einlass
+
+
+Huri
+
+Heute steh ich meine Wache
+Vor des Paradieses Thor;
+Weiss nicht grade, wie ich's mache;
+Kommst mir so verdaechtig vor!
+
+Ob du unsern Mosleminen
+Auch recht eigentlich verwandt?
+Ob dein Kaempfen, dein Verdienen
+Dich ans Paradies gesandt?
+
+Zaehlst du dich zu jenen Helden?
+Zeige deine Wunden an,
+Die mir Ruehmliches vermelden,
+Und ich fuehre dich heran.
+
+Dichter
+
+Nicht so vieles Federlesen!
+Lass mich immer nur herein:
+Denn ich bin ein Mensch gewesen
+Und das heisst ein Kaempfer sein.
+
+Schaerfe deine kraeftgen Blicke!
+Hier durchschaue diese Brust,
+Sieh der Lebenswunden Tuecke,
+Sieh der Liebeswunden Lust!
+
+Und doch sang ich glaeubger Weise,
+Dass mir die Geliebte treu,
+Dass die Welt, wie sie auch kreise,
+Liebevoll und dankbar sei.
+
+Mit den Trefflichsten zusammen
+Wirkt ich, bis ich mir erlangt,
+Dass mein Nam in Liebesflammen
+Von den schoensten Herzen prangt.
+
+Nein! du waehlst nicht den Geringern!
+Gib die Hand, dass Tag fuer Tag
+Ich an deinen zarten Fingern
+Ewigkeiten zaehlen mag.
+
+
+Anklang
+
+
+Huri
+
+Draussen am Orte,
+Wo ich dich zuerst sprach,
+Wacht ich oft an der Pforte,
+Dem Gebote nach.
+Da hoert ich ein wunderlich Gesaeusel,
+Ein Ton- und Silbengekraeusel;
+Das wollte herein,
+Niemand aber liess sich sehen,
+Da verklang es klein zu klein;
+Es klang aber fast wie deine Lieder,
+Das erinnr ich mich wieder.
+
+Dichter
+
+Ewig Geliebte! wie zart
+Erinnerst du dich deines Trauten!
+Was auch in irdischer Luft und Art
+Fuer Toene lauten,
+Die wollen alle herauf;
+Viele verklingen da unten zu Hauf;
+Andere mit Geistes Flug und Lauf,
+Wie das Fluegel-Pferd des Propheten,
+Steigen empor und floeten
+Draussen an dem Tor.
+Kommt deinen Gespielen so etwas vor,
+So sollen sie's freundlich vermerken,
+Das Echo lieblich verstaerken,
+Dass es wieder hinunter halle,
+Und sollen Acht haben,
+Dass in jedem Falle,
+Wenn er kommt, seine Gaben
+Jedem zugute kommen:
+Das wird beiden Welten frommen.
+
+Sie moegen's ihm freundlich lohnen,
+Auf liebliche Weise fuegsam;
+Sie lassen ihn mit sich wohnen:
+Alle Guten sind genuegsam.
+
+Du aber bist mir beschieden,
+Dich lass ich nicht aus dem ewigen Frieden;
+Auf die Wache sollst du nicht ziehn.
+Schick eine ledige Schwester dahin!
+
+Dichter
+
+Deine Liebe, dein Kuss mich entzueckt!
+Geheimnisse mag ich nicht erfragen;
+Doch sag mir, ob du an irdischen Tagen
+Jemals teilgenommen!
+Mir ist oft so vorgekommen.
+Ich wollt es beschwoeren, ich wollt es beweisen:
+Du hast einmal Suleika geheissen.
+
+Huri
+
+Wir sind aus den Elementen geschaffen,
+Aus Wasser, Feuer, Erd und Luft,
+Unmittelbar, und irdischer Duft
+Ist unserm Wesen ganz zuwider.
+Wir steigen nie zu euch hernieder;
+Doch wenn ihr kommt, bei uns zu ruhn,
+Da haben wir genug zu tun.
+
+Denn, siehst du, wie die Glaeubigen kamen,
+Von dem Propheten so wohl empfohlen,
+Besitz vom Paradiese nahmen,
+Da waren wir, wie er befohlen,
+So liebenswuerdig, so charmant,
+Wie uns die Engel selbst nicht gekannt.
+
+Allein der erste, zweite, dritte,
+Die hatten vorher eine Favorite;
+Gegen uns waren's garstige Dinger,
+Sie aber hielten uns doch geringer.
+Wir waren reizend, geistig, munter,
+Die Moslems wollten wieder hinunter.
+
+Nun war uns himmlisch Hochgebornen
+Ein solch Betragen ganz zuwider;
+Wir aufgewiegelten Verschwornen
+Besannen uns schon hin und wieder,
+Als der Prophet durch alle Himmel fuhr,
+Da passten wir auf seine Spur.
+Rueckkehrend hatt' er sich's nicht versehn,
+Das Fluegel-Pferd, es musste stehn.
+
+Da hatten wir ihn in der Mitte!--
+Freundlich ernst, nach Propheten-Sitte,
+Wurden wir kuerzlich von ihm beschieden;
+Wir aber waren sehr unzufrieden.
+Denn seine Zwecke zu erreichen,
+Sollten wir eben alles lenken;
+So wie ihr daechtet, sollten wir denken,
+Wir sollten euren Liebchen gleichen.
+
+Unsre Eigenliebe ging verloren,
+Die Maedchen krauten hinter den Ohren.
+Doch, dachten wir, im ewigen Leben
+Muss man sich eben in alles ergeben.
+
+Nun sieht ein jeder, was er sah,
+Und ihm geschieht, was ihm geschah.
+Wir sind die Blonden, wir sind die Braunen,
+Wir haben Grillen und haben Launen,
+
+Ja, wohl auch manchmal eine Flause,
+Ein jeder denkt, er sei zu Hause.
+Und wir darueber sind frisch und froh,
+Dass sie meinen, es waere so.
+
+Du aber bist von freiem Humor,
+Ich komme dir paradiesisch vor;
+Du gibst dem Blick, dem Kuss die Ehre,
+Und wenn ich auch nicht Suleika waere.
+Doch da sie gar zu lieblich war,
+So glich sie mir wohl auf ein Haar.
+
+Dichter
+
+Du blendest mich mit Himmelsklarheit;
+Es sei nun Taeuschung oder Wahrheit,
+Genug, ich bewundre dich vor allen.
+Um ihre Pflicht nicht zu versaeumen,
+Um einem Deutschen zu gefallen,
+Spricht eine Huri in Knittelreimen.
+
+Huri
+
+Ja, reim auch du nur unverdrossen,
+Wie es dir aus der Seele steigt!
+Wir paradiesische Genossen
+Sind Wort und Taten reinen Sinns geneigt.
+Die Tiere, weisst du, sind nicht ausgeschlossen,
+Die sich gehorsam, die sich treu erzeugt!
+Ein derbes Wort kann Huri nicht verdriessen;
+Wir fuehlen, was vom Herzen spricht,
+Und was aus frischer Quelle bricht,
+Das darf im Paradiese fliessen.
+
+Huri
+
+Wieder einen Finger schlaegst du mir ein!
+Weisst du denn, wie viel aeonen
+Wir vertraut schon zusammen wohnen?
+
+Dichter
+
+Nein!--Will's auch nicht wissen. Nein!
+Mannigfaltiger frischer Genuss,
+Ewig braeutlich keuscher Kuss!--
+Wenn jeder Augenblick mich durchschauert,
+Was soll ich fragen, wie lang es gedauert!
+
+Huri
+
+Abwesend bist denn doch auch einmal;
+Ich merk es wohl, ohne Mass und Zahl.
+Hast in dem Weltall nicht verzagt,
+An Gottes Tiefen dich gewagt.
+Nun sei der Liebsten auch gewaertig!
+Hast du nicht schon das Liedchen fertig?
+Wie klang es draussen an dem Tor?
+Wie klingt's?--Ich will nicht staerker in dich dringen,
+Sing mir die Lieder an Suleika vor:
+Denn weiter wirst du's doch im Paradies nicht bringen.
+
+
+Beguenstigte Tiere
+
+
+Vier Tieren auch verheissen war,
+Ins Paradies zu kommen.
+Dort leben sie das ew'ge Jahr
+Mit Heiligen und Frommen.
+
+Den Vortritt hier ein Esel hat;
+Er kommt mit muntern Schritten:
+Denn Jesus zur Prophetenstadt
+Auf ihm ist eingeritten.
+
+Halb schuechtern kommt ein Wolf sodann,
+Dem Mahomet befohlen:
+"Lass dieses Schaf dem armen Mann!
+Dem Reichen magst du's holen."
+
+Nun immer wedelnd, munter, brav,
+Mit seinem Herrn, dem braven,
+Das Huendlein, das den Siebenschlaf
+So treulich mit geschlafen.
+
+Abuherriras Katze hier
+Knurrt um den Herrn und schmeichelt.
+Denn immer ist's ein heilig Tier,
+Das der Prophet gestreichelt.
+
+
+Hoeheres und Hoechstes
+
+
+Dass wir solche Dinge lehren,
+Moege man uns nicht bestrafen:
+Wie das alles zu erklaeren,
+Duerft ihr euer Tiefstes fragen.
+
+Und so werdet ihr vernehmen,
+Dass der Mensch mit sich zufrieden,
+Gern sein Ich gerettet saehe,
+So dadroben wie hienieden.
+
+Und mein liebes Ich beduerfte
+Mancherlei Bequemlichkeiten;
+Freuden, wie ich hier sie schluerfte,
+Wuenscht ich auch fuer ewge Zeiten.
+
+So gefallen seine Gaerten,
+Blum und Frucht und huebsche Kinder,
+Die uns allen hier gefielen,
+Auch verjuengtem Geist nicht minder.
+
+Und so moecht ich alle Freunde,
+Jung und alt, in eins versammeln,
+Gar zu gern in deutscher Sprache
+Paradieses Worte stammeln.
+
+Doch man horcht nun Dialekten,
+Wie sich Mensch und Engel kosen,
+Der Grammatik, der versteckten,
+Deklinierend Mohn und Rosen.
+
+Mag man ferner auch in Blicken
+Sich rhetorisch gern ergehen
+Und zu himmlischem Entzuecken
+Ohne Klang und Ton erhoehen.
+
+Ton und Klang jedoch entbindet
+Sich dem Worte selbstverstaendlich,
+Und entschiedener empfindet
+Der Verklaerte sich unendlich.
+
+Ist somit dem Fuenf der Sinne
+Vorgesehn im Paradiese,
+Sicher ist es, ich gewinne
+Einen Sinn fuer alle diese.
+
+Und nun dring ich aller Orten
+Leichter durch die ewgen Kreise,
+Die durchdrungen sind vom Worte
+Gottes rein-lebendger Weise.
+
+Ungehemmt mit heissem Triebe
+Laesst sich da kein Ende finden,
+Bis im Anschaun ewger Liebe
+Wir verschweben, wir verschwinden.
+
+
+Siebenschlaefer
+
+
+Sechs Beguenstigte des Hofes
+Fliehen vor des Kaisers Grimme,
+Der als Gott sich laesst verehren,
+Doch als Gott sich nicht bewaehret:
+Denn ihn hindert eine Fliege,
+Guter Bissen sich zu freuen.
+Seine Diener scheuchen wedelnd,
+Nicht verjagen sie die Fliege.
+Sie umschwaermt ihn, sticht und irret
+Und verwirrt die ganze Tafel,
+Kehret wieder wie des haem'schen
+Fliegengottes Abgesandter.
+
+"Nun",--so sagen sich die Knaben--
+"Sollt ein Flieglein Gott verhindern?
+Sollt ein Gott auch trinken, speisen,
+Wie wir andern? Nein, der Eine,
+Der die Sonn erschuf, den Mond auch,
+Und der Sterne Glut uns woelbte,
+Dieser ist's, wir fliehn!"--Die zarten
+Leicht beschuht-beputzten Knaben
+Nimmt ein Schaefer auf, verbirgt sie
+Und sich selbst in Felsenhoehle.
+Schaeferhund, er will nicht weichen;
+Weggescheucht, den Fuss zerschmettert,
+Draengt er sich an seinen Herrn
+Und gesellt sich zum Verborgnen,
+Zu den Lieblingen des Schlafes.
+
+Und der Fuerst, dem sie entflohen,
+Liebentruestet, sinnt auf Strafen,
+Weiset ab so Schwert als Feuer;
+In die Hoehle sie mit Ziegeln
+Und mit Kalk sie laesst vermauern.
+
+Aber jene schlafen immer,
+Und der Engel, ihr Beschuetzer,
+Sagt vor Gottes Thron berichtend:
+"So zur Rechten, so zur Linken
+Hab ich immer sie gewendet,
+Dass die schoenen jungen Glieder
+Nicht des Moders Qualm verletze.
+Spalten riss ich in die Felsen,
+Dass die Sonne steigend, sinkend,
+Junge Wangen frisch erneute:
+Und so liegen sie beseligt.
+Auch, auf heilen Vorderpfoten,
+Schlaeft das Huendlein suessen Schlummer."
+
+Jahre fliehen, Jahre kommen,
+Wachen endlich auf die Knaben,
+Und die Mauer, die vermorschte,
+Altershalber ist gefallen.
+Und Jamblika sagt, der Schoene,
+Ausgebildete vor allen,
+Als der Schaefer fuerchtend zaudert:
+"Lauf ich hin und hol euch Speise,
+Leben wag ich und das Goldstueck!"--
+Ephesus gar manches Jahr schon
+Ehrt die Lehre des Propheten
+Jesus. (Friede sei dem Guten!)
+
+Und er lief, da war der Tore
+Wart' und Turm und alles anders.
+Doch zum naechsten Baeckerladen
+Wandt er sich nach Brot in Eile.
+"Schelm!" so rief der Baecker, "hast du,
+Juengling, einen Schatz gefunden?
+Gib mir, dich verraet das Goldstueck,
+Mir die Haelfte zum Versoehnen!"
+Und sie hadern.--Vor den Koenig
+Kommt der Handel; auch der Koenig
+Will nur teilen wie der Baecker.
+
+Nun betaetigt sich das Wunder
+Nach und nach aus hundert Zeichen.
+An dem selbsterbauten Palast
+Weiss er sich sein Recht zu sichern;
+Denn ein Pfeiler durchgegraben
+Fuehrt zu scharfbenamsten Schaetzen.
+Gleich versammeln sich Geschlechter,
+Ihre Sippschaft zu beweisen.
+Und als Ururvater prangend
+Steht Jamblikas Jugendfuelle.
+Wie von Ahnherrn hoert er sprechen
+Hier von seinem Sohn und Enkeln;
+Der Urenkel Schar umgibt ihn,
+Als ein Volk von tapfern Maennern,
+Ihn, den juengsten, zu verehren.
+Und ein Merkmal uebers andre
+Dringt sich auf, Beweis vollendend,
+Sich und den Gefaehrten hat er
+Die Persoenlichkeit bestaetigt.
+
+Nun zur Hoehle kehrt er wieder;
+Volk und Koenig ihn geleiten.--
+Nicht zum Koenig, nicht zum Volke
+Kehrt der Auserwaehlte wieder;
+Denn die Sieben, die von lang her
+(Achte waren's mit dem Hunde)
+Sich von aller Welt gesondert,
+Gabriels geheim Vermoegen
+Hat, gemaess dem Willen Gottes,
+Sie dem Paradies geeignet,
+Und die Hoehle schien vermauert.
+
+
+Gute Nacht!
+
+
+Nun, so legt euch, liebe Lieder,
+An den Busen meinem Volke!
+Und in einer Moschuswolke
+Huete Gabriel die Glieder
+Des Ermuedeten gefaellig,
+Dass er frisch und wohlerhalten,
+Froh, wie immer, gern gesellig,
+Moege Felsenkluefte spalten,
+Um des Paradieses Weiten
+Mit Heroen aller Zeiten
+Im Genusse zu durchschreiten,
+Wo das Schoene, stets das Neue,
+Immer waechst nach allen Seiten,
+Dass die Unzahl sich erfreue.
+Ja, das Huendlein gar, das treue,
+Darf die Herren hinbegleiten.
+
+
+
+
+
+End of The Project Gutenberg Etext of West-oestlicher Divan, by Goethe
+

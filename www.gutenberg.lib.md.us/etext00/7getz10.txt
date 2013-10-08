@@ -1,0 +1,5450 @@
+Project Gutenberg Etext Goetz von Berlichingen mit der eisernen Hand
+Ein Schauspiel
+by Johann Wolfgang Goethe
+
+#12 in our series by Johann Wolfgang Goethe
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfuegung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg.aol.de erreichbar.
+
+This work contains 7 bit ASCII characters to represent certain special
+German characters.  An alternate 8 bit version of this text which does
+use the high order ASCII characters is also available in this format.
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Goetz von Berlichingen mit der eisernen Hand
+Ein Schauspiel
+
+by Johann Wolfgang Goethe
+
+September, 2000  [Etext #2321]
+
+
+Project Gutenberg Etext Goetz von Berlichingen mit der eisernen Hand
+********This file should be named 7getz10.txt or 7getz10.zip********
+
+Corrected EDITIONS of our etexts get a new NUMBER, 7getz11.txt
+VERSIONS based on separate sources get new LETTER, 7getz10a.txt
+
+
+This etext was prepared by Michael Pullen, globaltraveler5565@yahoo.com.
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+This etext was prepared by Michael Pullen, globaltraveler5565@yahoo.com.
+
+
+
+
+
+Goetz von Berlichingen mit der eisernen Hand
+Ein Schauspiel
+
+Johann Wolfgang Goethe
+
+
+
+
+Inhalt
+
+Erster Akt
+Zweiter Akt
+Dritter Akt
+Vierter Akt
+Fuenfter Akt
+
+
+
+
+
+Personen:
+
+Kaiser Maximilian
+Goetz von Berlichingen
+Elisabeth, seine Frau
+Maria, seine Schwester
+Karl, sein Soehnchen
+Georg, sein Bube
+Bischof von Bamberg
+Weislingen, Adelheid von Walldorf, Liebetraut an des Bischofs Hofe
+Abt von Fulda
+Olearius, beider Rechte Doktor
+Bruder Martin
+Hans von Selbitz
+Franz von Sickingen
+Lerse
+Franz, Weislingens Bube
+Kammerfraeulein der Adelheid
+Metzler, Sievers, Link, Kohl, Wild, Anfuehrer der rebellischen Bauern
+Hoffrauen, Hofleute, am Bambergschen Hofe
+Kaiserliche Raete
+Ratsherrn von Heilbronn
+Richter des heimlichen Gerichts
+Zwei Nuernberger Kaufleute
+Max Stumpf, Pfalzgraeflicher Diener
+Ein Unbekannter
+Brautvater und Braeutigam, Bauern
+Berlichingsche, Weislingsche, Bambergsche Reiter
+Hauptleute, Offiziere, Knechte von der Reichsarmee
+Schenkwirt
+Gerichtsdiener
+Heilbronner Buerger
+Stadtwache
+Gefaengniswaerter
+Bauern
+Zigeunerhauptmann
+Zigeuner, Zigeunerinnen
+
+
+
+
+
+Erster Akt
+
+
+
+
+I. Akt, Szene 1
+
+
+
+Schwarzenberg in Franken Herberge
+
+Metzler, Sievers am Tische.  Zwei Reitersknechte beim Feuer.  Wirt.
+
+Sievers.  Haensel, noch ein Glas Branntwein, und mess christlich.
+
+Wirt.  Du bist der Nimmersatt.
+
+Metzler (leise zu Sievers).  Erzaehl das noch einmal vom Berlichingen!
+Die Bamberger dort aergern sich, sie moechten schwarz werden.
+
+Sievers.  Bamberger?  Was tun die hier?
+
+Metzler.  Der Weislingen ist oben auf'm Schloss beim Herrn Grafen schon
+zwei Tage; dem haben sie das Gleit geben.  Ich weiss nicht, wo er
+herkommt; sie warten auf ihn; er geht zurueck nach Bamberg.
+
+Sievers.  Wer ist der Weislingen?
+
+Metzler.  Des Bischofs rechte Hand, ein gewaltiger Herr, der dem Goetz
+auch auf'n Dienst lauert.
+
+Sievers.  Er mag sich in acht nehmen.
+
+Metzler (leise).  Nur immer zu!  (Laut.) Seit wann hat denn der Goetz
+wieder Haendel mit dem Bischof von Bamberg?  Es hiess ja, alles waere
+vertragen und geschlichtet.
+
+Sievers.  Ja, vertrag du mit den Pfaffen!  Wie der Bischof sah, er
+richt nichts aus und zieht immer den kuerzern, kroch er zum Kreuz und
+war geschaeftig, dass der Vergleich zustand kaem.  Und der getreuherzige
+Berlichingen gab unerhoert nach, wie er immer tut, wenn er im Vorteil
+ist.
+
+Metzler.  Gott erhalt ihn!  Ein rechtschaffener Herr!
+
+Sievers.  Nun denk, ist das nicht schaendlich?  Da werfen sie ihm einen
+Buben nieder, da er sich nichts weniger versieht.  Wird sie aber schon
+wieder dafuer lausen!
+
+Metzler.  Es ist doch dumm, dass ihm der letzte Streich missglueckt ist!
+Er wird sich garstig erbost haben.
+
+Sievers.  Ich glaub nicht, dass ihn lang was so verdrossen hat.  Denk
+auch: alles war aufs genaueste verkundschaft, wann der Bischof aus dem
+Bad kaem, mit wieviel Reitern, welchen Weg; und wenn's nicht waer durch
+falsche Leut verraten worden, wollt er ihm das Bad gesegnet und ihn
+ausgerieben haben.
+
+Erster Reiter.  Was raesoniert ihr von unserm Bischof?  Ich glaub, ihr
+sucht Haendel.
+
+Sievers.  Kuemmert euch um eure Sachen!  Ihr habt an unserm Tisch
+nichts zu suchen.
+
+Zweiter Reiter.  Wer heisst euch von unserm Bischof despektierlich
+reden?
+
+Sievers.  Hab ich euch Red und Antwort zu geben?  Seht doch den
+Fratzen!
+
+Erster Reiter (schlaegt ihn hinter die Ohren).
+
+Metzler.  Schlag den Hund tot!
+
+(Sie fallen uebereinander her.)
+
+Zweiter Reiter.  Komm her, wenn du 's Herz hast.
+
+Wirt (reisst sie voneinander).  Wollt ihr Ruh haben!  Tausend
+Schwerenot!  Schert euch 'naus, wenn ihr was auszumachen habt.  In
+meiner Stub soll's ehrlich und ordentlich zugehen.  (Schiebt die
+Reiter zur Tuer hinaus.) Und ihr Esel, was fanget ihr an?
+
+Metzler.  Nur nit viel geschimpft, Haensel, sonst kommen wir dir ueber
+die Glatze.  Komm, Kamerad, wollen die draussen bleuen.
+
+(Zwei Berlichingsche Reiter kommen.)
+
+Erster Reiter.  Was gibt's da?.
+
+Sievers.  Ei guten Tag, Peter!  Veit, guten Tag!  Woher?
+
+Zweiter Reiter.  Dass du dich nit unterstehst zu verraten, wem wir
+dienen.
+
+Sievers (leise).  Da ist euer Herr Goetz wohl auch nit weit?
+
+Erster Reiter.  Halt dein Maul!  Habt ihr Haendel?
+
+Sievers.  Ihr seid den Kerls begegnet draussen, sind Bamberger.
+
+Erster Reiter.  Was tun die hier?
+
+Metzler.  Der Weislingen ist droben auf'm Schloss, beim gnaedigen Herrn,
+den haben sie geleit.
+
+Erster Reiter.  Der Weislingen?
+
+Zweiter Reiter (leise).  Peter! das ist ein gefunden Fressen!  (Laut.)
+Wie lang ist er da?
+
+Metzler.  Schon zwei Tage.  Aber er will heut noch fort, hoert ich
+einen von den Kerls sagen.
+
+Erster Reiter (leise).  Sagt ich dir nicht, er waer daher!  Haetten wir
+dort drueben eine Weile passen koennen.  Komm, Veit.
+
+Sievers.  Helft uns doch erst die Bamberger auspruegeln.
+
+Zweiter Reiter.  Ihr seid ja auch zu zwei.  Wir muessen fort.  Adies!
+(Ab.)
+
+Sievers.  Lumpenhunde die Reiter! wann man sie nit bezahlt, tun sie
+dir keinen Streich.
+
+Metzler.  Ich wollt schwoeren, sie haben einen Anschlag.  Wem dienen
+sie?
+
+Sievers.  Ich soll's nit sagen.  Sie dienen dem Goetz.
+
+Metzler.  So!  Nun wollen wir ueber die draussen.  Komm! so lang ich
+einen Bengel hab, fuercht ich ihre Bratspiesse nicht.
+
+Sievers.  Duerften wir nur so einmal an die Fuersten, die uns die Haut
+ueber die Ohren ziehen.
+
+Herberge im Wald
+
+Goetz (vor der Tuer unter der Linde).  Wo meine Knechte bleiben!  Auf
+und ab muss ich gehen, sonst uebermannt mich der Schlaf.  Fuenf Tag und
+Naechte schon auf der Lauer.  Es wird einem sauer gemacht, das bisschen
+Leben und Freiheit.  Dafuer, wenn ich dich habe, Weislingen, will ich
+mir's wohl sein lassen.  (Schenkt ein.) Wieder leer!  Georg!  Solang's
+daran nicht mangelt und an frischem Mut, lach ich der Fuersten
+Herrschsucht und Raenke.--Georg!--Schickt ihr nur euern gefaelligen
+Weislingen herum zu Vettern und Gevattern, lasst mich anschwaerzen.  Nur
+immer zu.  Ich bin wach.  Du warst mir entwischt, Bischof!  So mag
+denn dein lieber Weislingen die Zeche bezahlen.--Georg!  Hoert der
+Junge nicht?  Georg!  Georg!
+
+Der Bube (im Panzer eines Erwachsenen).  Gestrenger Herr!
+
+Goetz.  Wo stickst du?  Hast du geschlafen?  Was zum Henker treibst du
+fuer Mummerei?  Komm her, du siehst gut aus.  Schaem dich nicht, Junge.
+Du bist brav!  Ja, wenn du ihn ausfuelltest!  Es ist Hansens Kuerass?
+
+Georg.  Er wollt ein wenig schlafen und schnallt' ihn aus.
+
+Goetz.  Er ist bequemer als sein Herr.
+
+Georg.  Zuernt nicht.  Ich nahm ihn leise weg und legt ihn an, und
+holte meines Vaters altes Schwert von der Wand, lief auf die Wiese und
+zog's aus.
+
+Goetz.  Und hiebst um dich herum?  Da wird's den Hecken und Dornen
+gutgegangen sein.  Schlaeft Hans?
+
+Georg.  Auf Euer Rufen sprang er auf und schrie mir, dass Ihr rieft.
+Ich wollt den Harnisch ausschnallen, da hoert ich Euch zwei-, dreimal.
+
+Goetz.  Geh! bring ihm seinen Panzer wieder und sag ihm, er soll bereit
+sein, soll nach den Pferden sehen.
+
+Georg.  Die hab ich recht ausgefuettert und wieder aufgezaeumt.  Ihr
+koennt aufsitzen, wann Ihr wollt.
+
+Goetz.  Bring mir einen Krug Wein, gib Hansen auch ein Glas, sag ihm,
+er soll munter sein, es gilt.  Ich hoffe jeden Augenblick, meine
+Kundschafter sollen zurueckkommen.
+
+Georg.  Ach gestrenger Herr!
+
+Goetz.  Was hast du?
+
+Georg.  Darf ich nicht mit?
+
+Goetz.  Ein andermal, Georg, wann wir Kaufleute fangen und Fuhren
+wegnehmen.
+
+Georg.  Ein andermal, das habt Ihr schon oft gesagt.  O diesmal!
+diesmal!  Ich will nur hintendreinlaufen, nur auf der Seite lauern.
+Ich will Euch die verschossenen Bolzen wiederholen.
+
+Goetz.  Das naechstemal, Georg.  Du sollst erst ein Wams haben, eine
+Blechhaube und einen Spiess.
+
+Georg.  Nehmt mich mit!  Waer ich letzt dabei gewesen, Ihr haettet die
+Armbrust nicht verloren.
+
+Goetz.  Weisst du das?
+
+Georg.  Ihr warft sie dem Feind an Kopf, und einer von den Fussknechten
+hob sie auf; weg war sie!  Gelt ich weiss?
+
+Goetz.  Erzaehlen dir das meine Knechte?
+
+Georg.  Wohl.  Dafuer pfeif ich ihnen auch, wann wir die Pferde
+striegeln, allerlei Weisen und lerne sie allerlei lustige Lieder.
+
+Goetz.  Du bist ein braver Junge.
+
+Georg.  Nehmt mich mit, dass ich's zeigen kann!
+
+Goetz.  Das naechstemal, auf mein Wort.  Unbewaffnet wie du bist, sollst
+du nicht in Streit.  Die kuenftigen Zeiten brauchen auch Maenner.  Ich
+sage dir, Knabe, es wird eine teure Zeit werden: Fuersten werden ihre
+Schaetze bieten um einen Mann, den sie jetzt hassen.  Geh, Georg, gib
+Hansen seinen Kuerass wieder und bring mir Wein.  (Georg ab.) Wo meine
+Knechte bleiben!  Es ist unbegreiflich.  Ein Moench!  Wo kommt der noch
+her?
+
+(Bruder Martin kommt.)
+
+Goetz.  Ehrwuerdiger Vater, guten Abend! woher so spaet?  Mann der
+heiligen Ruhe, Ihr beschaemt viel Ritter.
+
+Martin.  Dank Euch, edler Herr!  Und bin vor der Hand nur demuetiger
+Bruder, wenn's ja Titel sein soll.  Augustin mit meinem Klosternamen,
+doch hoer ich am liebsten Martin, meinen Taufnamen.
+
+Goetz.  Ihr seid muede, Bruder Martin, und ohne Zweifel durstig!  (Der
+Bub kommt.) Da kommt der Wein eben recht.
+
+Martin.  Fuer mich einen Trunk Wasser.  Ich darf keinen Wein trinken.
+
+Goetz.  Ist das Euer Geluebde?
+
+Martin.  Nein, gnaediger Herr, es ist nicht wider mein Geluebde, Wein zu
+trinken; weil aber der Wein wider mein Geluebde ist, so trinke ich
+keinen Wein.
+
+Goetz.  Wie versteht Ihr das?
+
+Martin.  Wohl Euch, dass Ihr's nicht versteht.  Essen und trinken, mein
+ich, ist des Menschen Leben.
+
+Goetz.  Wohl!
+
+Martin.  Wenn Ihr gegessen und getrunken habt, seid Ihr wie neu
+geboren; seid staerker, mutiger, geschickter zu Euerm Geschaeft.  Der
+Wein erfreut des Menschen Herz, und die Freudigkeit ist die Mutter
+aller Tugenden.  Wenn Ihr Wein getrunken habt, seid Ihr alles doppelt,
+was Ihr sein sollt, noch einmal so leicht denkend, noch einmal so
+unternehmend, noch einmal so schnell ausfuehrend.
+
+Goetz.  Wie ich ihn, trinke, ist es wahr.
+
+Martin.  Davon red ich auch.  Aber wir--(Georg mit Wasser.)
+
+Goetz (zu Georg heimlich).  Geh auf den Weg nach Dachsbach, und leg
+dich mit dem Ohr auf die Erde, ob du nicht Pferde kommen hoerst, und
+sei gleich wieder hier.
+
+Martin.  Aber wir, wenn wir gegessen und getrunken haben, sind wir
+grad das Gegenteil von dem, was wir sein sollen.  Unsere schlaefrige
+Verdauung stimmt den Kopf nach dem Magen, und in der Schwaeche einer
+ueberfuellten Ruhe erzeugen sich Begierden, die ihrer Mutter leicht ueber
+den Kopf wachsen.
+
+Goetz.  Ein Glas, Bruder Martin, wird Euch nicht im Schlaf stoeren.  Ihr
+seid heute viel gegangen.  (Bringt's ihm.) Alle Streiter!
+
+Martin.  In Gottes Namen!  (Sie stossen an.) Ich kann die muessigen Leute
+nicht ausstehen; und doch kann ich nicht sagen, dass alle Moenche muessig
+sind; sie tun, was sie koennen.  Da komm ich von St. Veit, wo ich die
+letzte Nacht schlief.  Der Prior fuehrte mich in den Garten; das ist
+nun ihr Bienenkorb.  Vortrefflicher Salat!  Kohl nach Herzens Lust!
+und besonders Blumenkohl und Artischocken, wie keine in Europa!
+
+Goetz.  Das ist also Eure Sache nicht.  (Er steht auf, sieht nach dem
+Jungen und kommt wieder.)
+
+Martin.  Wollte, Gott haette mich zum Gaertner oder Laboranten gemacht!
+Ich koennte gluecklich sein.  Mein Abt liebt mich, mein Kloster ist
+Erfurt in Sachsen; er weiss, ich kann nicht ruhn; da schickt er mich
+herum, wo was zu betreiben ist.  Ich geh zum Bischof von Konstanz.
+
+Goetz.  Noch eins!  Gute Verrichtung!
+
+Martin.  Gleichfalls.
+
+Goetz.  Was seht Ihr mich so an, Bruder?
+
+Martin.  Dass ich in Euern Harnisch verliebt bin.
+
+Goetz.  Haettet Ihr Lust zu einem?  Es ist schwer und beschwerlich ihn
+zu tragen.
+
+Martin.  Was ist nicht beschwerlich auf dieser Welt! und mir kommt
+nichts beschwerlicher vor, als nicht Mensch sein duerfen.  Armut,
+Keuschheit und Gehorsam--drei Geluebde, deren jedes, einzeln betrachtet,
+der Natur das Unausstehlichste scheint, so unertraeglich sind sie alle.
+Und sein ganzes Leben unter dieser Last, oder der weit drueckendern
+Buerde des Gewissens mutlos zu keuchen!  O Herr! was sind die
+Muehseligkeiten Eures Lebens, gegen die Jaemmerlichkeiten eines Standes,
+der die besten Triebe, durch die wir werden, wachsen und gedeihen, aus
+missverstandener Begierde Gott naeher zu ruecken, verdammt?
+
+Goetz.  Waer Euer Geluebde nicht so heilig, ich wollte Euch bereden,
+einen Harnisch anzulegen, wollt Euch ein Pferd geben, und wir zoegen
+miteinander.
+
+Martin.  Wollte Gott, meine Schultern fuehlten Kraft, den Harnisch zu
+ertragen, und mein Arm Staerke, einen Feind vom Pferd zu stechen!--Arme
+schwache Hand, von jeher gewohnt, Kreuze und Friedensfahnen zu fuehren
+und Rauchfaesser zu schwingen, wie wolltest du Lanze und Schwert
+regieren!  Meine Stimme, nur zu Ave und Halleluja gestimmt, wuerde dem
+Feind ein Herold meiner Schwaeche sein, wenn ihn die Eurige
+ueberwaeltigte.  Kein Geluebde sollte mich abhalten wieder in den Orden
+zu treten, den mein Schoepfer selbst gestiftet hat!
+
+Goetz.  Glueckliche Wiederkehr!
+
+Martin.  Das trinke ich nur fuer Euch.  Wiederkehr in meinen Kaefig ist
+allemal ungluecklich.  Wenn Ihr wiederkehrt, Herr, in Eure Mauern, mit
+dem Bewusstsein Eurer Tapferkeit und Staerke, der keine Muedigkeit etwas
+anhaben kann, Euch zum erstenmal nach langer Zeit, sicher vor
+feindlichem ueberfall, entwaffnet auf Euer Bette streckt und Euch nach
+dem Schlaf dehnt, der Euch besser schmeckt als mir der Trunk nach
+langem Durst: da koennt Ihr von Glueck sagen!
+
+Goetz.  Dafuer kommt's auch selten.
+
+Martin (feuriger).  Und ist, wenn's kommt, ein Vorschmack des Himmels.
+--Wenn Ihr zurueckkehrt, mit der Beute Eurer Feinde beladen, und Euch
+erinnert: den stach ich vom Pferd, eh er schiessen konnte, und den
+rannt ich samt dem Pferde nieder, und dann reitet Ihr zu Euerm Schloss
+hinauf, und-Goetz.  Was meint Ihr?
+
+Martin.  Und Eure Weiber!  (Er schenkt ein.) Auf Gesundheit Eurer Frau!
+(Er wischt sich die Augen.) Ihr habt doch eine?
+
+Goetz.  Ein edles vortreffliches Weib!
+
+Martin.  Wohl dem, der ein tugendsam Weib hat! des lebt er noch eins
+so lange.  Ich kenne keine Weiber, und doch war die Frau die Krone der
+Schoepfung!
+
+Goetz (vor sich).  Er dauert mich!  Das Gefuehl seines Standes frisst ihm
+das Herz.
+
+Georg (gesprungen).  Herr! ich hoere Pferde im Galopp!  Zwei!  Es sind
+sie gewiss.
+
+Goetz.  Fuehr mein Pferd heraus!  Hans soll aufsitzen.--Lebt wohl,
+teurer Bruder, Gott geleit Euch!  Seid mutig und geduldig.  Gott wird
+Euch Raum geben.
+
+Martin.  Ich bitt um Euern Namen.
+
+Goetz.  Verzeiht mir.  Lebt wohl!  (Er reicht ihm die linke Hand.)
+
+Martin.  Warum reicht Ihr mir die Linke?  Bin ich die ritterliche
+Rechte nicht wert?
+
+Goetz.  Und wenn Ihr der Kaiser waert, Ihr muesstet mit dieser
+vorliebnehmen.  Meine Rechte, obgleich im Kriege nicht unbrauchbar,
+ist gegen den Druck der Liebe unempfindlich: sie ist eins mit ihrem
+Handschuh; Ihr seht, er ist Eisen.
+
+Martin.  So seid Ihr Goetz von Berlichingen!  Ich danke dir, Gott, dass
+du mich ihn hast sehen lassen, diesen Mann, den die Fuersten hassen und
+zu dem die Bedraengten sich wenden!  (Er nimmt ihm die rechte Hand.)
+Lasst mir diese Hand, lasst mich sie kuessen!
+
+Goetz.  Ihr sollt nicht.
+
+Martin.  Lasst mich!  Du, mehr wert als Reliquienhand, durch die das
+heiligste Blut geflossen ist, totes Werkzeug, belebt durch des
+edelsten Geistes Vertrauen auf Gott!
+
+Goetz (setzt den Helm auf und nimmt die Lanze).
+
+Martin.  Es war ein Moench bei uns vor Jahr und Tag, der Euch besuchte,
+wie sie Euch abgeschossen ward vor Landshut.  Wie er uns erzaehlte, was
+Ihr littet, und wie sehr es Euch schmerzte, zu Eurem Beruf verstuemmelt
+zu sein, und wie Euch einfiel, von einem gehoert zu haben, der auch nur
+eine Hand hatte und als tapferer Reitersmann doch noch lange
+diente--ich werde das nie vergessen.
+
+(Die zwei Knechte kommen.)
+
+Goetz (zu ihnen.  Sie reden heimlich).
+
+Martin (faehrt inzwischen fort).  Ich werde das nie vergessen, wie er
+im edelsten einfaeltigsten Vertrauen auf Gott sprach: "Und wenn ich
+zwoelf Haend haette und deine Gnad wollt mir nicht, was wuerden sie mir
+fruchten?  So kann ich mit einer"-Goetz.  In den Haslacher Wald also.
+(Kehrt sich zu Martin.) Lebt wohl, werter Bruder Martin.  (Kuesst ihn.)
+
+Martin.  Vergesst mich nicht, wie ich Euer nicht vergesse.
+
+(Goetz ab.)
+
+Martin.  Wie mir's so eng ums Herz ward, da ich ihn sah.  Er redete
+nichts, und mein Geist konnte doch den seinigen unterscheiden.  Es ist
+eine Wollust, einen grossen Mann zu sehn.
+
+Georg.  Ehrwuerdiger Herr, Ihr schlaft doch bei uns?
+
+Martin.  Kann ich ein Bett haben?
+
+Georg.  Nein, Herr! ich kenne Betten nur vom Hoerensagen, in unsrer
+Herberg ist nichts als Stroh.
+
+Martin.  Auch gut.  Wie heisst du?
+
+Georg.  Georg, ehrwuerdiger Herr!
+
+Martin.  Georg! da hast du einen tapfern Patron.
+
+Georg.  Sie sagen, er sei ein Reiter gewesen; das will ich auch sein.
+
+Martin.  Warte!  (Zieht ein Gebetbuch hervor und gibt dem Buben einen
+Heiligen.) Da hast du ihn.  Folge seinem Beispiel, sei brav und
+fuerchte Gott!  (Martin geht.)
+
+Georg.  Ach ein schoener Schimmel! wenn ich einmal so einen haette!--und
+die goldene Ruestung!--Das ist ein garstiger Drach--Jetzt schiess ich
+nach Sperlingen--Heiliger Georg! mach mich gross und stark, gib mir so
+eine Lanze, Ruestung und Pferd, dann lass mir die Drachen kommen!
+
+
+
+
+I. Akt, Szene 2
+
+
+
+Jagsthausen.  Goetzens Burg
+
+Elisabeth.  Maria.  Karl, sein Soehnchen.
+
+Karl.  Ich bitte dich, liebe Tante, erzaehl mir das noch einmal vom
+frommen Kind, 's is gar zu schoen.
+
+Maria.  Erzaehl du mir's, kleiner Schelm, da will ich hoeren, ob du
+achtgibst.
+
+Karl.  Wart e bis, ich will mich bedenken.--Es war einmal--ja--es war
+einmal ein Kind, und sein Mutter war krank, da ging das Kind hin-Maria.
+Nicht doch.  Da sagte die Mutter: "Liebes Kind"-Karl.  "Ich bin
+krank"-Maria.  "Und kann nicht ausgehn"-Karl.  Und gab ihm Geld und
+sagte.  "Geh hin, und hol dir ein Fruehstueck."  Da kam ein armer
+Mann-Maria.  Das Kind ging, da begegnet' ihm ein alter Mann, der
+war--nun Karl!
+
+Karl.  Der war--alt-Maria.  Freilich! der kaum mehr gehen konnte, und
+sagte.  "Liebes Kind"-Karl.  "Schenk mir was, ich habe kein Brot
+gessen gestern und heut."  Da gab ihm 's Kind das Geld-Maria.  Das fuer
+sein Fruehstueck sein sollte.
+
+Karl.  Da sagte der alte Mann-Maria.  Da nahm der alte Mann das
+Kind-Karl.  Bei der Hand, und sagte--und ward ein schoener glaenzender
+Heiliger, und sagte:--"Liebes Kind"-Maria.  "Fuer deine Wohltaetigkeit
+belohnt dich die Mutter Gottes durch mich: welchen Kranken du an
+ruehrst"-Karl.  "Mit der Hand"--es war die rechte, glaub ich.
+
+Maria.  Ja.
+
+Karl.  "Der wird gleich gesund."
+
+Maria.  Da lief das Kind nach Haus und konnt fuer Freuden nichts reden.
+
+Karl.  Und fiel seiner Mutter um den Hals und weinte fuer Freuden-Maria.
+Da rief die Mutter: "Wie ist mir!" und war--nun Karl!
+
+Karl.  Und war--und war-Maria.  Du gibst schon nicht acht!--und war
+gesund.  Und das Kind kurierte Koenig und Kaiser, und wurde so reich,
+dass es ein grosses Kloster bauete.
+
+Elisabeth.  Ich kann nicht begreifen, wo mein Herr bleibt.  Schon fuenf
+Tag und Naechte, dass er weg ist, und er hoffte so bald seinen Streich
+auszufuehren.
+
+Maria.  Mich aengstigt's lang.  Wenn ich so einen Mann haben sollte,
+der sich immer Gefahren aussetzte, ich stuerbe im ersten Jahr.
+
+Elisabeth.  Dafuer dank ich Gott, dass er mich haerter zusammengesetzt
+hat.
+
+Karl.  Aber muss dann der Vater ausreiten, wenn's so gefaehrlich ist?
+
+Maria.  Es ist sein guter Wille so.
+
+Elisabeth.  Wohl muss er, lieber Karl.
+
+Karl.  Warum?
+
+Elisabeth.  Weisst du noch, wie er das letztemal ausritt, da er dir
+Weck mitbrachte?
+
+Karl.  Bringt er mir wieder mit?
+
+Elisabeth.  Ich glaub wohl.  Siehst du, da war ein Schneider von
+Stuttgart, der war ein trefflicher Bogenschuetz, und hatte zu Koeln
+auf'm Schiessen das Beste gewonnen.
+
+Karl.  War's viel?
+
+Elisabeth.  Hundert Taler.  Und darnach wollten sie's ihm nicht geben.
+
+Maria.  Gelt, das ist garstig, Karl?
+
+Karl.  Garstige Leut!
+
+Elisabeth.  Da kam der Schneider zu deinem Vater und bat ihn, er
+moechte ihm zu seinem Geld verhelfen.  Und da ritt er aus und nahm den
+Koelnern ein paar Kaufleute weg, und plagte sie so lang, bis sie das
+Geld herausgaben.  Waerst du nicht auch ausgeritten?
+
+Karl.  Nein! da muss man durch einen dicken, dicken Wald, sind Zigeuner
+und Hexen drin.
+
+Elisabeth.  Ist ein rechter Bursch, fuercht sich vor Hexen!
+
+Maria.  Du tust besser, Karl! leb du einmal auf deinem Schloss als ein
+frommer christlicher Ritter.  Auf seinen eigenen Guetern findet man zum
+Wohltun Gelegenheit genug.  Die rechtschaffensten Ritter begehen mehr
+Ungerechtigkeit als Gerechtigkeit auf ihren Zuegen.
+
+Elisabeth.  Schwester, du weisst nicht, was du redst.  Gebe nur Gott,
+dass unser Junge mit der Zeit braver wird, und dem Weislingen nicht
+nachschlaegt, der so treulos an meinem Mann handelt.
+
+Maria.  Wir wollen nicht richten, Elisabeth.  Mein Bruder ist sehr
+erbittert, du auch.  Ich bin bei der ganzen Sache mehr Zuschauer, und
+kann billiger sein.
+
+Elisabeth.  Er ist nicht zu entschuldigen.
+
+Maria.  Was ich von ihm gehoert, hat mich eingenommen.  Erzaehlte nicht
+selbst dein Mann so viel Liebes und Gutes von ihm!  Wie gluecklich war
+ihre Jugend, als sie zusammen Edelknaben des Markgrafen waren!
+
+Elisabeth.  Das mag sein.  Nur sag, was kann der Mensch je Gutes
+gehabt haben, der seinem besten treusten Freunde nachstellt, seine
+Dienste den Feinden meines Mannes verkauft, und unsern trefflichen
+Kaiser der uns so gnaedig ist, mit falschen widrigen Vorstellungen
+einzunehmen sucht.
+
+Karl.  Der Vater! der Vater!  Der Tuerner blaest 's Liedel: "Heisa, mach
+'s Tor auf."
+
+Elisabeth.  Da kommt er mit Beute.
+
+(Ein Reiter kommt.)
+
+Reiter.  Wir haben, gejagt! wir haben gefangen!  Gott gruess Euch, edle
+Frauen.
+
+Elisabeth.  Habt ihr den Weislingen?
+
+Reiter.  Ihn und drei Reiter.
+
+Elisabeth.  Wie ging's zu, dass ihr so lang ausbleibt?
+
+Reiter.  Wir lauerten auf ihn zwischen Nuernberg und Bamberg, er wollte
+nicht kommen, und wir wussten doch, er war auf dem Wege.  Endlich
+kundschaften wir ihn aus: er war seitwaerts gezogen, und sass geruhig
+beim Grafen auf dem Schwarzenberg.
+
+Elisabeth.  Den moechten sie auch gern meinem Mann feind haben.
+
+Reiter.  Ich sagt's gleich dem Herrn.  Auf! und wir ritten in
+Haslacher Wald.  Und da war's kurios: wie wir so in die Nacht reiten,
+huet just ein Schaefer da, und fallen fuenf Woelf in die Herd und packten
+weidlich an.  Da lachte unser Herr und sagte: "Glueck zu, liebe
+Gesellen!  Glueck ueberall und uns auch!"  Und es freuet' uns all das
+gute Zeichen.  Indem so kommt der Weislingen hergeritten mit vier
+Knechten.
+
+Maria.  Das Herz zittert mir im Leibe.
+
+Reiter.  Ich und mein Kamerad, wie's der Herr befohlen hatte,
+nistelten uns an ihn, als waeren wir zusammengewachsen, dass er sich
+nicht regen noch ruehren konnte, und der Herr und der Hans fielen ueber
+die Knechte her und nahmen sie in Pflicht.  Einer ist entwischt.
+
+Elisabeth.  Ich bin neugierig, ihn zu sehn.  Kommen sie bald?
+
+Reiter.  Sie reiten das Tal herauf, in einer Viertelstund sind sie
+hier.
+
+Maria.  Er wird niedergeschlagen sein.
+
+Reiter.  Finster genug sieht er aus.
+
+Maria.  Sein Anblick wird mir im Herzen weh tun.
+
+Elisabeth.  Ah!--Ich will gleich das Essen zurecht machen.  Hungrig
+werdet ihr doch alle sein.
+
+Reiter.  Rechtschaffen.
+
+Elisabeth.  Nimm den Kellerschluessel und hol vom besten Wein!  Sie
+haben ihn verdient.  (Ab.)
+
+Karl.  Ich will mit, Tante.
+
+Maria.  Komm, Bursch.  (Ab.)
+
+Reiter.  Der wird nicht sein Vater, sonst ging' er mit in Stall!
+
+(Goetz.  Weislingen.  Reitersknechte.)
+
+Goetz (Helm und Schwert auf den Tisch legend).  Schnallt mir den
+Harnisch auf, und gebt mir mein Wams.  Die Bequemlichkeit wird mir
+wohl tun.  Bruder Martin, du sagtest recht--Ihr habt uns in Atem
+erhalten, Weislingen.
+
+Weislingen (antwortet nichts, auf und ab gehend).
+
+Goetz.  Seid gutes Muts.  Kommt, entwaffnet Euch.  Wo sind Eure
+Kleider?  Ich hoffe, es soll nichts verlorengegangen sein.  (Zum
+Knecht.) Frag seine Knechte, und oeffnet das Gepaecke, und seht zu, dass
+nichts abhanden komme.  Ich koennt Euch auch von den meinigen borgen.
+
+Weislingen.  Lasst mich so, es ist all eins.
+
+Goetz.  Koennt Euch ein huebsches saubres Kleid geben, ist zwar nur
+leinen.  Mir ist's zu eng worden.  Ich hatt's auf der Hochzeit meines
+gnaedigen Herrn des Pfalzgrafen an, eben damals, als Euer Bischof so
+giftig ueber mich wurde.  Ich hatt' ihm, vierzehn Tag vorher, zwei
+Schiff auf dem Main niedergeworfen.  Und ich geh mit Franzen von
+Sickingen im Wirtshaus zum Hirsch in Heidelberg die Trepp hinauf.  Eh
+man noch ganz droben ist, ist ein Absatz und ein eisen Gelaenderlein,
+da stund der Bischof und gab Franzen die Hand, wie er vorbeiging, und
+gab sie mir auch, wie ich hintendrein kam.  Ich lacht in meinem Herzen,
+und ging zum Landgrafen von Hanau, der mir gar ein lieber Herr war,
+und sagte: "Der Bischof hat mir die Hand geben, ich wett, er hat mich
+nicht gekannt."  Das hoert' der Bischof, denn ich red't laut mit Fleiss,
+und kam zu uns trotzig--und sagte: "Wohl, weil ich Euch nicht kannt
+hab, gab ich Euch die Hand."  Da sagt ich: "Herre, ich merkt's wohl,
+dass Ihr mich nicht kanntet, und hiermit habt Ihr Eure Hand wieder."
+Da ward das Maennlein so rot am Hals wie ein Krebs vor Zorn und lief in
+die Stube zu Pfalzgraf Ludwig und dem Fuersten von Nassau und klagt's
+ihnen.  Wir haben nachher uns oft was drueber zugute getan.
+
+Weislingen.  Ich wollt, Ihr liesst mich allein.
+
+Goetz.  Warum das?  Ich bitt Euch, seid aufgeraeumt.  Ihr seid in meiner
+Gewalt, und ich werd sie nicht missbrauchen.
+
+Weislingen.  Dafuer war mir's noch nicht bange.  Das ist Eure
+Ritterpflicht.
+
+Goetz.  Und Ihr wisst, dass die mir heilig ist.
+
+Weislingen.  Ich bin gefangen; das uebrige ist eins.
+
+Goetz.  Ihr solltet nicht so reden.  Wenn Ihr's mit Fuersten zu tun
+haettet, und sie Euch in tiefen Turn an Ketten aufhingen, und der
+Waechter Euch den Schlaf wegpfeifen muesste!
+
+(Die Knechte mit den Kleidern.)
+
+Weislingen (zieht sich aus und an).
+
+(Karl kommt.)
+
+Karl.  Guten Morgen, Vater!
+
+Goetz (kuesst ihn).  Guten Morgen, Junge.  Wie habt ihr die Zeit gelebt?
+
+Karl.  Recht geschickt, Vater!  Die Tante sagt: ich sei recht
+geschickt.
+
+Goetz.  So!
+
+Karl.  Hast du mir was mitgebracht?
+
+Goetz.  Diesmal nicht.
+
+Karl.  Ich hab viel gelernt.
+
+Goetz.  Ei!
+
+Karl.  Soll ich dir vom frommen Kind erzaehlen?
+
+Goetz.  Nach Tische.
+
+Karl.  Ich weiss noch was.
+
+Goetz.  Was wird das sein?
+
+Karl.  Jagsthausen ist ein Dorf und Schloss an der Jagst, gehoert seit
+zweihundert Jahren den Herrn von Berlichingen erb- und eigentuemlich zu.
+
+
+Goetz.  Kennst du den Herrn von Berlichingen?
+
+Karl (sieht ihn starr an).
+
+Goetz (vor sich).  Er kennt wohl vor lauter Gelehrsamkeit seinen Vater
+nicht.--Wem gehoert Jagsthausen?
+
+Karl.  Jagsthausen ist ein Dorf und Schloss an der Jagst.
+
+Goetz.  Das frag ich nicht.--Ich kannte alle Pfade, Weg und Furten, eh
+ich wusste, wie Fluss, Dorf und Burg hiess.--Die Mutter ist in der Kueche?
+
+Karl.  Ja, Vater!  Sie kocht weisse Rueben und ein Lammsbraten.
+
+Goetz.  Weisst du's auch, Hans Kuechenmeister?
+
+Karl.  Und fuer mich zum Nachtisch hat die Tante einen Apfel gebraten.
+
+Goetz.  Kannst du sie nicht roh essen?
+
+Karl.  Schmeckt so besser.
+
+Goetz.  Du musst immer was Apartes haben.--Weislingen! ich bin gleich
+wieder bei Euch.  Ich muss meine Frau doch sehn.  Komm mit, Karl.
+
+Karl.  Wer ist der Mann?
+
+Goetz.  Gruess ihn.  Bitt ihn, er soll lustig sein.
+
+Karl.  Da, Mann! hast du eine Hand, sei lustig, das Essen ist bald
+fertig.
+
+Weislingen (hebt ihn in die Hoeh und kuesst ihn).  Glueckliches Kind! das
+kein uebel kennt, als wenn die Suppe lang ausbleibt.  Gott lass Euch
+viel Freud am Knaben erleben, Berlichingen.
+
+Goetz.  Wo viel Licht ist, ist starker Schatten--doch waer mir's
+willkommen.  Wollen sehn, was es gibt.
+
+(Sie gehn.)
+
+
+
+
+I. Akt, Szene 3
+
+
+
+Weislingen.  O dass ich aufwachte! und das alles waere ein Traum!  In
+Berlichingens Gewalt! von dem ich mich kaum losgearbeitet habe, dessen
+Andenken ich mied wie Feuer, den ich hoffte zu ueberwaeltigen!  Und
+er--der alte treuherzige Goetz!  Heiliger Gott, was will, will aus dem
+allen werden?  Rueckgefuehrt, Adelbert, in den Saal! wo wir als Buben
+unsere Jagd trieben--da du ihn liebtest, an ihm hingst wie an deiner
+Seele.  Wer kann ihm nahen und ihn hassen?  Ach! ich bin so ganz
+nichts hier!  Glueckselige Zeiten, ihr seid vorbei, da noch der alte
+Berlichingen hier am Kamin sass, da wir um ihn durcheinander spielten
+und uns liebten wie die Engel.  Wie wird sich der Bischof aengstigen,
+und meine Freunde.  Ich weiss, das ganze Land nimmt teil an meinem
+Unfall.  Was ist's!  Koennen sie mir geben, wornach ich strebe?
+
+Goetz (mit einer Flasche Wein und Becher).  Bis das Essen fertig wird,
+wollen wir eins trinken.  Kommt, setzt Euch, tut, als wenn Ihr zu
+Hause waert!  Denkt, Ihr seid einmal wieder beim Goetz.  Haben doch
+lange nicht beisammengesessen, lang keine Flasche miteinander
+ausgestochen.  (Bringt's ihm.) Ein froehlich Herz!
+
+Weislingen.  Die Zeiten sind vorbei.
+
+Goetz.  Behuete Gott!  Zwar vergnuegtere Tage werden wir wohl nicht
+wieder finden als an des Markgrafen Hof, da wir noch
+beisammenschliefen und miteinander umherzogen.  Ich erinnere mich mit
+Freuden meiner Jugend.  Wisst Ihr noch, wie ich mit dem Polacken Haendel
+kriegte, dem ich sein gepicht und gekraeuselt Haar von ungefaehr mit dem
+aermel verwischt?
+
+Weislingen.  Es war bei Tische, und er stach nach Euch mit dem Messer.
+
+Goetz.  Den schlug ich wacker aus dazumal, und darueber wurdet Ihr mit
+seinem Kameraden zu Unfried.  Wir hielten immer redlich zusammen als
+gute brave Jungen, dafuer erkennte uns auch jedermann.  (Schenkt ein
+und bringt's.) Kastor und Pollux!  Mir tat's immer im Herzen wohl,
+wenn uns der Markgraf so nannte.
+
+Weislingen.  Der Bischof von Wuerzburg hatte es aufgebracht.
+
+Goetz.  Das war ein gelehrter Herr, und dabei so leutselig.  Ich
+erinnere mich seiner, so lange ich lebe, wie er uns liebkoste, unsere
+Eintracht lobte und den Menschen gluecklich pries, der ein
+Zwillingsbruder seines Freundes waere.
+
+Weislingen.  Nichts mehr davon!
+
+Goetz.  Warum nicht?  Nach der Arbeit wuesst ich nichts Angenehmers, als
+mich des Vergangenen zu erinnern.  Freilich, wenn ich wieder so
+bedenke, wie wir Liebs und Leids zusammen trugen, einander alles waren,
+und wie ich damals waehnte, so sollt's unser ganzes Leben sein!  War
+das nicht all mein Trost,, wie mir diese Hand weggeschossen ward vor
+Landshut, und du mein pflegtest und mehr als Bruder fuer mich sorgtest?
+Ich hoffte, Adelbert wird kuenftig meine rechte Hand sein.  Und
+nun-Weislingen.  Oh!
+
+Goetz.  Wenn du mir damals gefolgt haettest, da ich dir anlag, mit nach
+Brabant zu ziehen, es waere alles gut geblieben.  Da hielt dich das
+unglueckliche Hofleben und das Schlenzen und Scherwenzen mit den
+Weibern.  Ich sagt es dir immer, wenn du dich mit den eiteln garstigen
+Vetteln abgabst und ihnen erzaehltest von missvergnuegten Ehen,
+verfuehrten Maedchen, der rauhen Haut einer Dritten, oder was sie sonst
+gerne hoeren: "Du wirst ein Spitzbub", sagt ich, "Adelbert."
+
+Weislingen.  Wozu soll das alles?
+
+Goetz.  Wollte Gott, ich koennt's vergessen, oder es waer anders!  Bist
+du nicht ebenso frei, so edel geboren als einer in Deutschland,
+unabhaengig, nur dem Kaiser untertan, und du schmiegst dich unter
+Vasallen?  Was hast du von dem Bischof?  Weil er dein Nachbar ist?
+dich necken koennte?  Hast du nicht Arme und Freunde, ihn wieder zu
+necken?  Verkennst den Wert eines freien Rittersmanns, der nur abhaengt
+von Gott, seinem Kaiser und sich selbst!  Verkriechst dich zum ersten
+Hofschranzen eines eigensinnigen neidischen Pfaffen!
+
+Weislingen.  Lasst mich reden.
+
+Goetz.  Was hast du zu sagen?
+
+Weislingen.  Du siehst die Fuersten an, wie der Wolf den Hirten.  Und
+doch, darfst du sie schelten, dass sie ihrer Leut und Laender Bestes
+wahren?  Sind sie denn einen Augenblick vor den ungerechten Rittern
+sicher, die ihre Untertanen auf allen Strassen anfallen, ihre Doerfer
+und Schloesser verheeren?  Wenn nun auf der andern Seite unsers teuern
+Kaisers Laender der Gewalt des Erbfeindes ausgesetzt sind, er von den
+Staenden Huelfe begehrt, und sie sich kaum ihres Lebens erwehren: ist's
+nicht ein guter Geist, der ihnen einraet, auf Mittel zu denken,
+Deutschland zu beruhigen, Recht und Gerechtigkeit zu handhaben, um
+einen jeden, Grossen und Kleinen, die Vorteile des Friedens geniessen zu
+machen?  Und uns verdenkst du's, Berlichingen, dass wir uns in ihren
+Schutz begeben, deren Huelfe uns nah ist, statt dass die entfernte
+Majestaet sich selbst nicht beschuetzen kann.
+
+Goetz.  Ja! ja!  Ich versteh!  Weislingen, waeren die Fuersten, wie Ihr
+sie schildert, wir haetten alle, was wir begehren.  Ruh und Frieden!
+Ich glaub's wohl!  Den wuenscht jeder Raubvogel, die Beute nach
+Bequemlichkeit zu verzehren.  Wohlsein eines jeden!  Dass sie sich nur
+darum graue Haare wachsen liessen!  Und mit unserm Kaiser spielen sie
+auf eine unanstaendige Art.  Er meint's gut und moecht gern bessern.  Da
+kommt denn alle Tage ein neuer Pfannenflicker und meint so und so.
+Und weil der Herr geschwind etwas begreift, und nur reden darf, um
+tausend Haende in Bewegung zu setzen, so denkt er, es waer auch alles so
+geschwind und leicht ausgefuehrt.  Nun ergehn Verordnungen ueber
+Verordnungen, und wird eine ueber die andere vergessen; und was den
+Fuersten in ihren Kram dient, da sind sie hinterher, und gloriieren von
+Ruh und Sicherheit des Reichs, bis sie die Kleinen unterm Fuss haben.
+Ich will darauf schwoeren, es dankt mancher in seinem Herzen Gott, dass
+der Tuerk dem Kaiser die Waage haelt.
+
+Weislingen.  Ihr seht's von Eurer Seite.
+
+Goetz.  Das tut jeder.  Es ist die Frage, auf welcher Licht und Recht
+ist, und eure Gaenge scheuen wenigstens den Tag.
+
+Weislingen.  Ihr duerft reden, ich bin der Gefangne.
+
+Goetz.  Wenn Euer Gewissen rein ist, so seid Ihr frei.  Aber wie war's
+um den Landfrieden?  Ich weiss noch, als ein Bub von sechzehn Jahren
+war ich mit dem Markgrafen auf dem Reichstag.  Was die Fuersten da fuer
+weite Maeuler machten, und die Geistlichen am aergsten.  Euer Bischof
+laermte dem Kaiser die Ohren voll, als wenn ihm wunder wie! die
+Gerechtigkeit ans Herz gewachsen waere; und jetzt wirft er mir selbst
+einen Buben nieder, zur Zeit da unsere Haendel vertragen sind, ich an
+nichts Boeses denke.  Ist nicht alles zwischen uns geschlichtet?  Was
+hat er mit dem Buben?
+
+Weislingen.  Es geschah ohne sein Wissen.
+
+Goetz.  Warum gibt er ihn nicht wieder los?
+
+Weislingen.  Er hat sich nicht aufgefuehrt, wie er sollte.
+
+Goetz.  Nicht wie er sollte?  Bei meinem Eid, er hat getan, wie er
+sollte, so gewiss er mit Eurer und des Bischofs Kundschaft gefangen ist.
+Meint Ihr, ich komm erst heut auf die Welt, dass ich nicht sehen soll,
+wo alles hinaus will?
+
+Weislingen.  Ihr seid argwoehnisch und tut uns unrecht.
+
+Goetz.  Weislingen, soll ich von der Leber weg reden?  Ich bin euch ein
+Dorn in den Augen, so klein ich bin, und der Sickingen und Selbitz
+nicht weniger, weil wir fest entschlossen sind, zu sterben eh, als
+jemanden die Luft zu verdanken, ausser Gott, und unsere Treu und Dienst
+zu leisten, als dem Kaiser.  Da ziehen sie nun um mich herum,
+verschwaerzen mich bei Ihro Majestaet und ihren Freunden und meinen
+Nachbarn, und spionieren nach Vorteil ueber mich.  Aus dem Wege wollen
+sie mich haben, wie's waere.  Darum nahmt ihr meinen Buben gefangen,
+weil ihr wusstet, ich hatt' ihn auf Kundschaft ausgeschickt; und darum
+tat er nicht, was er sollte, weil er mich nicht an euch verriet.  Und
+du, Weislingen, bist ihr Werkzeug!
+
+Weislingen.  Berlichingen!
+
+Goetz.  Kein Wort mehr davon!  Ich bin ein Feind von Explikationen; man
+betriegt sich oder den andern, und meist beide.
+
+Karl.  Zu Tisch, Vater.
+
+Goetz.  Froehliche Botschaft!--Kommt! ich hoffe, meine Weibsleute sollen
+Euch munter machen.  Ihr wart sonst ein Liebhaber, die Fraeulein wussten
+von Euch zu erzaehlen.  Kommt!  (Ab.)
+
+Im bischoeflichen Palaste zu Bamberg Der Speisesaal
+
+Bischof von Bamberg.  Abt von Fulda.  Olearius.  Liebetraut.  Hofleute.
+An Tafel.  Der Nachtisch und die grossen Pokale werden aufgetragen.
+
+Bischof.  Studieren jetzt viele Deutsche von Adel zu Bologna?
+
+Olearius.  Vom Adel- und Buergerstande.  Und ohne Ruhm zu melden,
+tragen sie das groesste Lob davon.  Man pflegt im Sprichwort auf der
+Akademie zu sagen: "So fleissig wie ein Deutscher von Adel."  Denn
+indem die Buergerlichen einen ruehmlichen Fleiss anwenden, durch Talente
+den Mangel der Geburt zu ersetzen, so bestreben sich jene, mit
+ruehmlicher Wetteiferung, ihre angeborne Wuerde durch die glaenzendsten
+Verdienste zu erhoehen.
+
+Abt.  Ei!
+
+Liebetraut.  Sag einer, was man, nicht erlebet.  So fleissig wie ein
+Deutscher von Adel!  Das hab ich mein Tage nicht gehoert.
+
+Olearius.  Ja, sie sind die Bewunderung der ganzen Akademie.  Es
+werden ehestens einige von den aeltesten und geschicktesten als
+Doktores zurueckkommen.  Der Kaiser wird gluecklich sein, die ersten
+Stellen damit besetzen zu koennen.
+
+Bischof.  Das kann nicht fehlen.
+
+Abt.  Kennen Sie nicht zum Exempel einen Junker?--Er ist aus
+Hessen-Olearius.  Es sind viel Hessen da.
+
+Abt.  Er heisst--er ist--Weiss es keiner von euch?--Seine Mutter war
+eine von--Oh!  Sein Vater hatte nur ein Aug--und war Marschall.
+
+Liebetraut.  Von Wildenholz?
+
+Abt.  Recht--von Wildenholz.
+
+Olearius.  Den kenn ich wohl, ein junger Herr von vielen Faehigkeiten.
+Besonders ruehmt man ihn wegen seiner Staerke im Disputieren.
+
+Abt.  Das hat er von seiner Mutter.
+
+Liebetraut.  Nur wollte sie ihr Mann niemals drum ruehmen.
+
+Bischof.  Wie sagtet Ihr, dass der Kaiser hiess, der Euer "Corpus Juris"
+geschrieben hat?
+
+Olearius.  Justinianus.
+
+Bischof.  Ein trefflicher Herr! er soll leben!
+
+Olearius.  Sein Andenken!
+
+(Sie trinken.)
+
+Abt.  Es mag ein schoen Buch sein.
+
+Olearius.  Man moecht's wohl ein Buch aller Buecher nennen; eine
+Sammlung aller Gesetze; bei jedem Fall der Urteilsspruch bereit; und
+was ja noch abgaengig oder dunkel waere, ersetzen die Glossen, womit die
+gelehrtesten Maenner das vortrefflichste Werk geschmueckt haben.
+
+Abt.  Eine Sammlung aller Gesetze!  Potz!  Da muessen wohl auch die
+Zehn Gebote drin sein.
+
+Olearius.  Implicite wohl, nicht explicite.
+
+Abt.  Das mein ich auch, an und vor sich, ohne weitere Explikation.
+
+Bischof.  Und was das Schoenste ist, so koennte, wie Ihr sagt, ein Reich
+in sicherster Ruhe und Frieden leben, wo es voellig eingefuehrt und
+recht gehandhabt wuerde.
+
+Olearius.  Ohne Frage.
+
+Bischof.  Alle Doctores Juris!
+
+Olearius.  Ich werd's zu ruehmen wissen.  (Sie trinken.) Wollte Gott,
+man spraeche so in meinem Vaterlande!
+
+Abt.  Wo seid Ihr her, hochgelahrter Herr?
+
+Olearius.  Von Frankfurt am Main, Ihro Eminenz zu dienen.
+
+Bischof.  Steht ihr Herrn da nicht wohl angeschrieben?  Wie kommt das?
+
+Olearius.  Sonderbar genug.  Ich war da, meines Vaters Erbschaft
+abzuholen; der Poebel haette mich fast gesteinigt, wie er hoerte, ich sei
+ein Jurist.
+
+Abt.  Behuete Gott!
+
+Olearius.  Aber das kommt daher: Der Schoeppenstuhl, der in grossem
+Ansehn weit umher steht, ist mit lauter Leuten besetzt, die der
+Roemischen Rechte unkundig sind.  Man glaubt, es sei genug, durch Alter
+und Erfahrung sich eine genaue Kenntnis des innern und aeussern
+Zustandes der Stadt zu erwerben.  So werden, nach altem Herkommen und
+wenigen Statuten, die Buerger und die Nachbarschaft gerichtet.
+
+Abt.  Das ist wohl gut.
+
+Olearius.  Aber lange nicht genug.  Der Menschen Leben ist kurz, und
+in einer Generation kommen nicht alle Kasus vor.  Eine Sammlung
+solcher Faelle von vielen Jahrhunderten ist unser Gesetzbuch.  Und dann
+ist der Wille und die Meinung der Menschen schwankend; dem deucht
+heute das recht, was der andere morgen missbilliget; und so ist
+Verwirrung und Ungerechtigkeit unvermeidlich.  Das alles bestimmen die
+Gesetze; und die Gesetze sind unveraenderlich.
+
+Abt.  Das ist freilich besser.
+
+Olearius.  Das erkennt der Poebel nicht, der, so gierig er auf
+Neuigkeiten ist, das Neue hoechst verabscheuet, das ihn aus seinem
+Gleise leiten will, und wenn er sich noch so sehr dadurch verbessert.
+Sie halten den Juristen so arg, als einen Verwirrer des Staats, einen
+Beutelschneider, und sind wie rasend, wenn einer dort sich
+niederzulassen gedenkt.
+
+Liebetraut.  Ihr seid von Frankfurt!  Ich bin wohl da bekannt.  Bei
+Kaiser Maximilians Kroenung haben wir Euern Braeutigams was
+vorgeschmaust.  Euer Name ist Olearius?  Ich kenne so niemanden.
+
+Olearius.  Mein Vater hiess oehlmann.  Nur, den Missstand auf dem Titel
+meiner lateinischen Schriften zu vermeiden, nenn ich mich, nach dem
+Beispiel und auf Anraten wuerdiger Rechtslehrer, Olearius.
+
+Liebetraut.  Ihr tatet wohl, dass Ihr Euch uebersetztet.  Ein Prophet
+gilt nichts in seinem Vaterlande, es haett' Euch in Eurer Muttersprache
+auch so gehen koennen.
+
+Olearius.  Es war nicht darum.
+
+Liebetraut.  Alle Dinge haben ein paar Ursachen.
+
+Abt.  Ein Prophet gilt nichts in seinem Vaterlande!
+
+Liebetraut.  Wisst Ihr auch warum, hochwuerdiger Herr?
+
+Abt.  Weil er da geboren und erzogen ist.
+
+Liebetraut.  Wohl!  Das mag die eine Ursache sein.  Die andere ist:
+Weil, bei einer naeheren Bekanntschaft mit den Herrn, der Nimbus von
+Ehrwuerdigkeit und Heiligkeit wegschwindet, den uns eine neblichte
+Ferne um sie herumluegt; und dann sind sie ganz kleine Stuempfchen
+Unschlitt.
+
+Olearius.  Es scheint, Ihr seid dazu bestellt, Wahrheiten, zu sagen.
+
+Liebetraut.  Weil ich 's Herz dazu hab, so fehlt mir's nicht am Maul.
+
+Olearius.  Aber doch an Geschicklichkeit, sie wohl anzubringen.
+
+Liebetraut.  Schroepfkoepfe sind wohl angebracht, wo sie ziehen.
+
+Olearius.  Bader erkennt man an der Schuerze und nimmt in ihrem Amte
+ihnen nichts uebel.  Zur Vorsorge taetet Ihr wohl, wenn Ihr eine
+Schellenkappe truegt.
+
+Liebetraut.  Wo habt Ihr promoviert?  Es ist nur zur Nachfrage, wenn
+mir einmal der Einfall kaeme, dass ich gleich vor die rechte Schmiede
+ginge.
+
+Olearius.  Ihr seid verwegen.
+
+Liebetraut.  Und Ihr sehr breit.
+
+(Bischof und Abt lachen.)
+
+Bischof.  Von was anders!--Nicht so hitzig, ihr Herrn.  Bei Tisch geht
+alles drein--Einen andern Diskurs, Liebetraut!
+
+Liebetraut.  Gegen Frankfurt liegt ein Ding ueber, heisst
+Sachsenhausen-Olearius (zum Bischof).  Was spricht man vom Tuerkenzug,
+Ihro Fuerstliche Gnaden?
+
+Bischof.  Der Kaiser hat nichts Angelegners, als vorerst das Reich zu
+beruhigen, die Fehden abzuschaffen und das Ansehn der Gerichte zu
+befestigen.  Dann, sagt man, wird er persoenlich gegen die Feinde des
+Reichs und der Christenheit ziehen.  Jetzt machen ihm seine
+Privathaendel noch zu tun, und das Reich ist, trotz ein vierzig
+Landfrieden, noch immer eine Moerdergrube.  Franken, Schwaben, der
+Oberrhein und die angrenzenden Laender werden von uebermuetigen und
+kuehnen Rittern verheeret.  Sickingen, Selbitz mit einem Fuss,
+Berlichingen mit der eisernen Hand spotten in diesen Gegenden des
+kaiserlichen Ansehens-Abt.  Ja, wenn Ihro Majestaet nicht bald dazu tun,
+so stecken einen die Kerl am End in Sack.
+
+Liebetraut.  Das muesst ein Kerl sein, der das Weinfass von Fuld in den
+Sack schieben wollte.
+
+Bischof.  Besonders ist der letzte seit vielen Jahren mein
+unversoehnlicher Feind, und molestiert mich unsaeglich; aber es soll
+nicht lang mehr waehren, hoff ich.  Der Kaiser haelt jetzt seinen Hof zu
+Augsburg.  Wir haben unsere Massregeln genommen, es kann uns nicht
+fehlen.--Herr Doktor, kennt Ihr Adelberten von Weislingen?
+
+Olearius.  Nein, Ihro Eminenz.
+
+Bischof.  Wenn Ihr die Ankunft dieses Mannes erwartet, werdet Ihr Euch
+freuen, den edelsten, verstaendigsten und angenehmsten Ritter in einer
+Person zu sehen.
+
+Olearius.  Es muss ein vortrefflicher Mann sein, der solche
+Lobeserhebungen aus solch einem Munde verdient.
+
+Liebetraut.  Er ist auf keiner Akademie gewesen.
+
+Bischof.  Das wissen wir.  (Die Bedienten laufen ans Fenster.) Was
+gibt's?
+
+Ein Bedienter.  Eben reit Faerber, Weislingens Knecht, zum Schlosstor
+herein.
+
+Bischof.  Seht, was er bringt, er wird ihn melden.
+
+(Liebetraut geht.  Sie stehn auf und trinken noch eins.--Liebetraut
+kommt zurueck.)
+
+Bischof.  Was fuer Nachrichten?
+
+Liebetraut.  Ich wollt, es muesst sie Euch ein andrer sagen.  Weislingen
+ist gefangen.
+
+Bischof.  Oh!
+
+Liebetraut.  Berlichingen hat ihn und drei Knechte bei Haslach
+weggenommen.  Einer ist entronnen, Euch's anzusagen.
+
+Abt.  Eine Hiobspost.
+
+Olearius.  Es tut mir von Herzen leid.
+
+Bischof.  Ich will den Knecht sehn, bringt ihn herauf--Ich will ihn
+selbst sprechen.  Bringt ihn in mein Kabinett.  (Ab.)
+
+Abt (setzt sich).  Noch einen Schluck.
+
+(Die Knechte schenken ein.)
+
+Olearius.  Belieben Ihro Hochwuerden nicht eine kleine Promenade in den
+Garten zu machen?  Post coenam stabis seu passus mille meabis.
+
+Liebetraut.  Wahrhaftig, das Sitzen ist Ihnen nicht gesund.  Sie
+kriegen noch einen Schlagfluss.
+
+Abt (hebt sich auf).
+
+Liebetraut (vor sich).  Wann ich ihn nur draussen hab, will ich ihm
+fuers Exerzitium sorgen.
+
+(Gehn ab.)
+
+
+
+
+I. Akt, Szene 4
+
+
+
+Jagsthausen
+
+Maria.  Weislingen.
+
+Maria.  Ihr liebt mich, sagt Ihr.  Ich glaub es gerne und hoffe, mit
+Euch gluecklich zu sein und Euch gluecklich zu machen.
+
+Weislingen.  Ich fuehle nichts, als nur dass ich ganz dein bin.  (Er
+umarmt sie.)
+
+Maria.  Ich bitte Euch, lasst mich.  Einen Kuss hab ich Euch zum
+Gottespfennig erlaubt; Ihr scheint aber schon von dem Besitz nehmen zu
+wollen, was nur unter Bedingungen Euer ist.
+
+Weislingen.  Ihr seid zu streng, Maria!  Unschuldige Liebe erfreut die
+Gottheit, statt sie zu beleidigen.
+
+Maria.  Es sei!  Aber ich bin nicht dadurch erbaut.  Man lehrte mich:
+Liebkosungen sein wie Ketten, stark durch ihre Verwandtschaft, und
+Maedchen, wenn sie liebten, sein schwaecher als Simson nach Verlust
+seiner Locken.
+
+Weislingen.  Wer lehrte Euch das?
+
+Maria.  Die aebtissin meines Klosters.  Bis in mein sechzehntes Jahr
+war ich bei ihr, und nur mit Euch empfind ich das Glueck, das ich in
+ihrem Umgang genoss.  Sie hatte geliebt und durfte reden.  Sie hatte
+ein Herz voll Empfindung!  Sie war eine vortreffliche Frau.
+
+Weislingen.  Da glich sie dir!  (Er nimmt ihre Hand.) Wie wird mir's
+werden, wenn ich Euch verlassen soll!
+
+Maria (zieht ihre Hand zurueck).  Ein bisschen eng, hoff ich, denn ich
+weiss, wie's mir sein wird.  Aber Ihr sollt fort.
+
+Weislingen.  Ja, meine Teuerste, und ich will.  Denn ich fuehle, welche
+Seligkeiten ich mir durch dies Opfer erwerbe.  Gesegnet sei dein
+Bruder, und der Tag, an dem er auszog, mich zu fangen!
+
+Maria.  Sein Herz war voll Hoffnung fuer ihn und dich.  "Lebt wohl!"
+sagt' er beim Abschied, "ich will sehen, dass ich ihn wiederfinde."
+
+Weislingen.  Er hat's.  Wie wuenscht ich, die Verwaltung meiner Gueter
+und ihre Sicherheit nicht durch das leidige Hofleben so versaeumt zu
+haben!  Du koenntest gleich die Meinige sein.
+
+Maria.  Auch der Aufschub hat seine Freuden.
+
+Weislingen.  Sage das nicht, Maria, ich muss sonst fuerchten, du
+empfindest weniger stark als ich.  Doch ich buesse verdient; und welche
+Hoffnungen werden mich auf jedem Schritt begleiten!  Ganz der Deine zu
+sein, nur in dir und dem Kreise von Guten zu leben, von der Welt
+entfernt, getrennt, alle Wonne zu geniessen, die so zwei Herzen,
+einander gewaehren!  Was ist die Gnade des Fuersten, was der Beifall der
+Welt gegen diese einfache Glueckseligkeit?  Ich habe viel gehofft und
+gewuenscht, das widerfaehrt mir ueber alles Hoffen und Wuenschen.
+
+(Goetz kommt.)
+
+Goetz.  Euer Knab ist wieder da.  Er konnte vor Muedigkeit und Hunger
+kaum etwas vorbringen.  Meine Frau gibt ihm zu essen.  So viel hab ich
+verstanden: der Bischof will den Knaben nicht herausgeben, es sollen
+Kaiserliche Kommissarien ernannt und ein Tag ausgesetzt werden, wo die
+Sache dann verglichen werden mag.  Dem sei, wie ihm wolle, Adelbert,
+Ihr seid frei; ich verlange weiter nichts als Eure Hand, dass Ihr ins
+kuenftige meinen Feinden weder oeffentlich noch heimlich Vorschub tun
+wollt.
+
+Weislingen.  Hier fass ich Eure Hand.  Lasst, von diesem Augenblick an,
+Freundschaft und Vertrauen, gleich einem ewigen Gesetz der Natur,
+unveraenderlich unter uns sein!  Erlaubt mir zugleich, diese Hand zu
+fassen (er nimmt Mariens Hand) und den Besitz des edelsten Fraeuleins.
+
+Goetz.  Darf ich ja fuer Euch sagen?
+
+Maria.  Wenn Ihr es mit mir sagt.
+
+Goetz.  Es ist ein Glueck, dass unsere Vorteile diesmal miteinander gehn.
+Du brauchst nicht rot zu werden.  Deine Blicke sind Beweis genug.  Ja
+denn, Weislingen!  Gebt Euch die Haende, und so sprech ich Amen!--Mein
+Freund und Bruder!--Ich danke dir, Schwester!  Du kannst mehr als Hanf
+spinnen.  Du hast einen Faden gedreht, diesen Paradiesvogel zu fesseln.
+Du siehst nicht ganz frei, Adelbert!  Was fehlt dir?  Ich--bin ganz
+gluecklich; was ich nur traeumend hoffte, seh ich, und bin wie traeumend.
+Ach! nun ist mein Traum aus.  Mir war's heute nacht, ich gaeb dir
+meine rechte eiserne Hand, und du hieltest mich so fest, dass sie aus
+den Armschienen ging wie abgebrochen.  Ich erschrak und wachte drueber
+auf.  Ich haette nur forttraeumen sollen, da wuerd ich gesehen haben, wie
+du mir eine neue lebendige Hand ansetztest--Du sollst mir jetzo fort,
+dein Schloss und deine Gueter in vollkommenen Stand zu setzen.  Der
+verdammte Hof hat dich beides versaeumen machen.  Ich muss meiner Frau
+rufen.  Elisabeth!
+
+Maria.  Mein Bruder ist in voller Freude.
+
+Weislingen.  Und doch darf ich ihm den Rang streitig machen.
+
+Goetz.  Du wirst anmutig wohnen.
+
+Maria.  Franken ist ein gesegnetes Land.
+
+Weislingen.  Und ich darf wohl sagen, mein Schloss liegt in der
+gesegnetsten und anmutigsten Gegend.
+
+Goetz.  Das duerft Ihr, und ich will's behaupten.  Hier fliesst der Main,
+und allmaehlich hebt der Berg an, der, mit aeckern und Weinbergen
+bekleidet, von Euerm Schloss gekroent wird, dann biegt sich der Fluss
+schnell um die Ecke hinter dem Felsen Eures Schlosses hin.  Die
+Fenster des grossen Saals gehen steil herab aufs Wasser, eine Aussicht
+viel Stunden weit.
+
+(Elisabeth kommt.)
+
+Elisabeth.  Was schafft ihr?
+
+Goetz.  Du sollst deine Hand auch dazu geben und sagen: "Gott segne
+euch!"  Sie sind ein Paar.
+
+Elisabeth.  So geschwind!
+
+Goetz.  Aber nicht unvermutet.
+
+Elisabeth.  Moeget Ihr Euch so immer nach ihr sehnen als bisher, da ihr
+um sie warbt!  Und dann!  Moechtet Ihr so gluecklich sein, als Ihr sie
+lieb behaltet!
+
+Weislingen.  Amen!  Ich begehre kein Glueck als unter diesem Titel.
+
+Goetz.  Der Braeutigam, meine liebe Frau, tut eine kleine Reise; denn
+die grosse Veraenderung zieht viel geringe nach sich.  Er entfernt sich
+zuerst vom Bischoeflichen Hof, um diese Freundschaft nach und nach
+erkalten zu lassen.  Dann reisst er seine Gueter eigennuetzigen Pachtern
+aus den Haenden.  Und--kommt, Schwester, komm, Elisabeth!  Wir wollen
+ihn allein lassen.  Sein Knab hat ohne Zweifel geheime Auftraege an ihn.
+
+
+Weislingen.  Nichts, als was Ihr wissen duerft.
+
+Goetz.  Braucht's nicht.--Franken und Schwaben!  Ihr seid nun
+verschwisterter als jemals.  Wie wollen wir den Fuersten den Daumen auf
+dem Aug halten!
+
+(Die drei gehn.)
+
+Weislingen.  Gott im Himmel!  Konntest du mir Unwuerdigem solch eine
+Seligkeit bereiten?  Es ist zu viel fuer mein Herz.  Wie ich von den
+elenden Menschen abhing, die ich zu beherrschen glaubte, von den
+Blicken des Fuersten, von dem ehrerbietigen Beifall umher!  Goetz,
+teurer Goetz, du hast mich mir selbst wiedergegeben, und, Maria, du
+vollendest meine Sinnesaenderung.  Ich fuehle mich so frei wie in
+heiterer Luft.  Bamberg will ich nicht mehr sehen, will all die
+schaendlichen Verbindungen durchschneiden, die mich unter mir selbst
+hielten.  Mein Herz erweitert sich, hier ist kein beschwerliches
+Streben nach versagter Groesse.  So gewiss ist der allein gluecklich und
+gross, der weder zu herrschen noch zu gehorchen braucht, um etwas zu
+sein!
+
+(Franz tritt auf.)
+
+Franz.  Gott gruess Euch, gestrenger Herr!  Ich bring Euch so viel Gruesse,
+dass ich nicht weiss, wo anzufangen.  Bamberg und zehn Meilen in die
+Runde entbieten Euch ein tausendfaches: Gott gruess Euch!
+
+Weislingen.  Willkommen, Franz!  Was bringst du mehr?
+
+Franz.  Ihr steht in einem Andenken bei Hof und ueberall, dass es nicht
+zu sagen ist.
+
+Weislingen.  Das wird nicht lange dauern.
+
+Franz.  So lang Ihr lebt! und nach Eurem Tod wird's heller blinken als
+die messingenen Buchstaben auf einem Grabstein.  Wie man sich Euern
+Unfall zu Herzen nahm!
+
+Weislingen.  Was sagte der Bischof?
+
+Franz.  Er war so begierig zu wissen, dass er mit geschaeftiger
+Geschwindigkeit der Fragen meine Antwort verhinderte.  Er wusst es zwar
+schon; denn Faerber, der von Haslach entrann, brachte ihm die Botschaft.
+Aber er wollte alles wissen.  Er fragte so aengstlich, ob Ihr nicht
+versehrt waeret?  Ich sagte: "Er ist ganz, von der aeussersten Haarspitze
+bis zum Nagel des kleinen Zehs."
+
+Weislingen.  Was sagte er zu den Vorschlaegen?
+
+Franz.  Er wollte gleich alles herausgeben, den Knaben und noch Geld
+darauf, nur Euch zu befreien.  Da er aber hoerte, Ihr solltet ohne das
+loskommen und nur Euer Wort das aequivalent gegen den.  Buben sein, da
+wollte er absolut den Berlichingen vertagt haben.  Er sagte mir
+hundert Sachen an Euch--ich hab sie wieder vergessen.  Es war eine
+lange Predigt ueber die Worte: "Ich kann Weislingen nicht entbehren."
+
+Weislingen.  Er wird's lernen muessen!
+
+Franz.  Wie meint Ihr?  Er sagte: "Mach ihn eilen, es wartet alles auf
+ihn."
+
+Weislingen.  Es kann warten.  Ich gehe nicht nach Hof.
+
+Franz.  Nicht nach Hof?  Herr!  Wie kommt Euch das?  Wenn Ihr wuesstet,
+was ich weiss.  Wenn Ihr nur traeumen koenntet, was ich gesehen habe.
+
+Weislingen.  Wie wird dir's?
+
+Franz.  Nur von der blossen Erinnerung komm ich ausser mir.  Bamberg ist
+nicht mehr Bamberg, ein Engel in Weibesgestalt macht es zum Vorhofe
+des Himmels.
+
+Weislingen.  Nichts weiter?
+
+Franz.  Ich will ein Pfaff werden, wenn Ihr sie sehet und nicht ausser
+Euch kommt.
+
+Weislingen.  Wer ist's denn?
+
+Franz.  Adelheid von Walldorf.
+
+Weislingen.  Die!  Ich habe viel von ihrer Schoenheit gehoert.
+
+Franz.  Gehoert?  Das ist eben, als wenn Ihr sagtet: "Ich hab die Musik
+gesehen."  Es ist der Zunge so wenig moeglich, eine Linie ihrer
+Vollkommenheiten auszudruecken, da das Aug sogar in ihrer Gegenwart
+sich nicht selbst genug ist.
+
+Weislingen.  Du bist nicht gescheit.
+
+Franz.  Das kann wohl sein.  Das letztemal, da ich sie sahe, hatte ich
+nicht mehr Sinne als ein Trunkener.  Oder vielmehr, kann ich sagen,
+ich fuehlte in dem Augenblick, wie's den Heiligen bei himmlischen
+Erscheinungen sein mag.  Alle Sinne staerker, hoeher, vollkommener, und
+doch den Gebrauch von keinem.
+
+Weislingen.  Das ist seltsam.
+
+Franz.  Wie ich von dem Bischof Abschied nahm, sass sie bei ihm.  Sie
+spielten Schach.  Er war sehr gnaedig, reichte mir seine Hand zu kuessen,
+und sagte mir vieles, davon ich nichts vernahm.  Denn ich sah seine
+Nachbarin, sie hatte ihr Auge aufs Brett geheftet, als wenn sie einem
+grossen Streich nachsaenne.  Ein feiner lauernder Zug um Mund und Wange!
+Ich haett' der elfenbeinerne Koenig sein moegen.  Adel und
+Freundlichkeit herrschten auf ihrer Stirn.  Und das blendende Licht
+des Angesichts und des Busens, wie es von den finstern Haaren erhoben
+ward!
+
+Weislingen.  Du bist drueber gar zum Dichter geworden.
+
+Franz.  So fuehl ich denn in dem Augenblick, was den Dichter macht, ein
+volles, ganz von einer Empfindung volles Herz!  Wie der Bischof
+endigte und ich mich neigte, sah sie mich an und sagte: "Auch von mir
+einen Gruss unbekannterweise!  Sag ihm, er mag ja bald kommen.  Es
+warten neue Freunde auf ihn; er soll sie nicht verachten, wenn er
+schon an alten so reich ist."--Ich wollte was antworten, aber der Pass
+vom Herzen nach der Zunge war versperrt, ich neigte mich.  Ich haette
+mein Vermoegen gegeben, die Spitze ihres kleinen Fingers kuessen zu
+duerfen!  Wie ich so stund, warf der Bischof einen Bauern herunter, ich
+fuhr darnach und ruehrte im Aufheben den Saum ihres Kleides, das fuhr
+mir durch alle Glieder, und ich weiss nicht, wie ich zur Tuer
+hinausgekommen bin.
+
+Weislingen.  Ist ihr Mann bei Hofe?
+
+Franz.  Sie ist schon vier Monat Witwe.  Um sich zu zerstreuen, haelt
+sie sich in Bamberg auf.  Ihr werdet sie sehen.  Wenn sie einen
+ansieht, ist's, als wenn man in der Fruehlingssonne stuende.
+
+Weislingen.  Es wuerde eine schwaechere Wirkung auf mich haben.
+
+Franz.  Ich hoere, Ihr seid so gut als verheiratet.
+
+Weislingen.  Wollte, ich waer's.  Meine sanfte Marie wird das Glueck
+meines Lebens machen.  Ihre suesse Seele bildet sich in ihren blauen
+Augen.  Und weiss wie ein Engel des Himmels, gebildet aus Unschuld und
+Liebe, leitet sie mein Herz zur Ruhe und Glueckseligkeit.  Pack
+zusammen! und dann auf mein Schloss!  Ich will Bamberg nicht sehen, und
+wenn Sankt Veit in Person meiner begehrte.  (Geht ab.)
+
+Franz.  Da sei Gott vor!  Wollen das Beste hoffen!  Maria ist
+liebreich und schoen, und einem Gefangenen und Kranken kann ich's nicht
+uebelnehmen, der sich in sie verliebt.  In ihren Augen ist Trost,
+gesellschaftliche Melancholie.--Aber um dich, Adelheid, ist Leben,
+Feuer, Mut--Ich wuerde!--Ich bin ein Narr--dazu machte mich ein Blick
+von ihr.  Mein Herr muss hin!  Ich muss hin!  Und da will ich mich
+wieder gescheit oder voellig rasend gaffen.
+
+
+
+
+Zweiter Akt
+
+
+
+
+II. Akt, Szene 1
+
+
+
+Bamberg.  Ein Saal
+
+Bischof, Adelheid spielen Schach.  Liebetraut mit einer Zither.
+Frauen, Hofleute um ihn herum am Kamin.
+
+Liebetraut (spielt und singt).
+
+Mit Pfeilen und Bogen Cupido geflogen, Die Fackel in Brand, Wollt
+mutilich kriegen Und maennilich siegen Mit stuermender Hand.
+
+Auf!  Auf!
+
+An!  An!  Die Waffen erklirrten, Die Fluegelein schwirrten, Die Augen
+entbrannt.
+
+Da fand er die Busen Ach leider so bloss, Sie nahmen so willig Ihn all
+auf den Schoss.  Er schuettet' die Pfeile Zum Feuer hinein, Sie herzten
+und drueckten Und wiegten ihn ein.
+
+Hei ei o!  Popeio!
+
+
+Adelheid.  Ihr seid nicht bei Eurem Spiele.  Schach dem Koenig!
+
+Bischof.  Es ist noch Auskunft.
+
+Adelheid.  Lange werdet Ihr's nicht mehr treiben.  Schach dem Koenig!
+
+Liebetraut.  Dies Spiel spielt ich nicht, wenn ich ein grosser Herr waer,
+und verboet's am Hofe und im ganzen Land.
+
+Adelheid.  Es ist wahr, dies Spiel ist ein Probierstein des Gehirns.
+
+Liebetraut.  Nicht darum!  Ich wollte lieber das Geheul der
+Totenglocke und ominoeser Voegel, lieber das Gebell des knurrischen
+Hofhunds Gewissen, lieber wollt ich sie durch den tiefsten Schlaf
+hoeren, als von Laufern, Springern und andern Bestien das ewige:
+"Schach dem Koenig!"
+
+Bischof.  Wem wird auch das einfallen!
+
+Liebetraut.  Einem zum Exempel, der schwach waere und ein stark
+Gewissen haette, wie denn das meistenteils beisammen ist.  Sie nennen's
+ein koeniglich Spiel und sagen, es sei fuer einen Koenig erfunden worden,
+der den Erfinder mit einem Meer von ueberfluss belohnt habe.  Wenn das
+wahr ist, so ist mir's, als wenn ich ihn saehe.  Er war minorenn an
+Verstand oder an Jahren, unter der Vormundschaft seiner Mutter oder
+seiner Frau, hatte Milchhaare im Bart und Flachshaare um die Schlaefe,
+er war so gefaellig wie ein Weidenschoessling und spielte gern Dame und
+mit den Damen, nicht aus Leidenschaft, behuete Gott! nur zum
+Zeitvertreib.  Sein Hofmeister, zu taetig, um ein Gelehrter, zu
+unlenksam, ein Weltmann zu sein, erfand das Spiel in usum Delphini,
+das so homogen mit Seiner Majestaet war--und so ferner.
+
+Adelheid.  Matt!  Ihr solltet die Luecken unsrer Geschichtsbuecher
+ausfuellen, Liebetraut.
+
+(Sie stehen auf.)
+
+Liebetraut.  Die Luecken unsrer Geschlechtsregister, das waere
+profitabler.  Seitdem die Verdienste unserer Vorfahren mit ihren
+Portraets zu einerlei Gebrauch dienen, die leeren Seiten naemlich unsrer
+Zimmer und unsers Charakters zu tapezieren; da waere was zu verdienen.
+
+Bischof.  Er will nicht kommen, sagtet Ihr!
+
+Adelheid.  Ich bitt Euch, schlagt's Euch aus dem Sinn.
+
+Bischof.  Was das sein mag?
+
+Liebetraut.  Was?  Die Ursachen lassen sich herunterbeten wie ein
+Rosenkranz.  Er ist in eine Art von Zerknirschung gefallen, von der
+ich ihn leicht kurieren wollt.
+
+Bischof.  Tut das, reitet zu ihm.
+
+Liebetraut.  Meinen Auftrag!
+
+Bischof.  Er soll unumschraenkt sein.  Spare nichts, wenn du ihn
+zurueckbringst.
+
+Liebetraut.  Darf ich Euch auch hineinmischen, gnaedige Frau?
+
+Adelheid.  Mit Bescheidenheit.
+
+Liebetraut.  Das ist eine weitlaeufige Kommission.
+
+Adelheid.  Kennt Ihr mich so wenig, oder seid Ihr so jung, um nicht zu
+wissen, in welchem Ton Ihr mit Weislingen von mir zu reden habt?
+
+Liebetraut.  Im Ton einer Wachtelpfeife, denk ich.
+
+Adelheid.  Ihr werdet nie gescheit werden!
+
+Liebetraut.  Wird man das, gnaedige Frau?
+
+Bischof.  Geht, geht.  Nehmt das beste Pferd aus meinem Stall, waehlt
+Euch Knechte, und schafft mir ihn her!
+
+Liebetraut.  Wenn ich ihn nicht herbanne, so sagt: ein altes Weib, das
+Warzen und Sommerflecken vertreibt, verstehe mehr von der Sympathie
+als ich.
+
+Bischof.  Was wird das helfen!  Berlichingen hat ihn ganz eingenommen.
+Wenn er herkommt, wird er wieder fort wollen.
+
+Liebetraut.  Wollen, das ist keine Frage, aber ob er kann.  Der
+Haendedruck eines Fuersten, und das Laecheln einer schoenen Frau!  Da
+reisst sich kein Weisling los.  Ich eile und empfehle mich zu Gnaden.
+
+Bischof.  Reist wohl.
+
+Adelheid.  Adieu.
+
+(Er geht.)
+
+Bischof.  Wenn er einmal hier ist, verlass ich mich auf Euch.
+
+Adelheid.  Wollt Ihr mich zur Leimstange brauchen?
+
+Bischof.  Nicht doch.
+
+Adelheid.  Zum Lockvogel denn?
+
+Bischof.  Nein, den spielt Liebetraut.  Ich bitt Euch, versagt mir
+nicht, was mir sonst niemand gewaehren kann.
+
+Adelheid.  Wollen sehn.
+
+Jagsthausen
+
+Hans von Selbitz.  Goetz.
+
+Selbitz.  Jedermann wird Euch loben, dass Ihr denen von Nuernberg Fehd
+angekuendigt habt.
+
+Goetz.  Es haette mir das Herz abgefressen, wenn ich's ihnen haette lang
+schuldig bleiben sollen.  Es ist am Tag, sie haben den Bambergern
+meinen Buben verraten.  Sie sollen an mich denken!
+
+Selbitz.  Sie haben einen alten Groll gegen Euch.
+
+Goetz.  Und ich wider sie; mir ist gar recht, dass sie angefangen haben.
+
+Selbitz.  Die Reichsstaedte und Pfaffen halten doch von jeher zusammen.
+
+Goetz.  Sie haben's Ursach.
+
+Selbitz.  Wir wollen ihnen die Hoelle heiss machen.
+
+Goetz.  Ich zaehlte auf Euch.  Wollte Gott, der Burgemeister von
+Nuernberg, mit der gueldenen Kett um den Hals, kaem uns in Wurf, er sollt
+sich mit all seinem Witz verwundern.
+
+Selbitz.  Ich hoere, Weislingen ist wieder auf Eurer Seite.  Tritt er
+zu uns?
+
+Goetz.  Noch nicht; es hat seine Ursachen, warum er uns noch nicht
+oeffentlich Vorschub tun darf; doch ist's eine Weile genug, dass er
+nicht wider uns ist.  Der Pfaff ist ohne ihn, was das Messgewand ohne
+den Pfaffen.
+
+Selbitz.  Wann ziehen wir aus?
+
+Goetz.  Morgen oder uebermorgen.  Es kommen nun bald Kaufleute von
+Bamberg und Nuernberg aus der Frankfurter Messe.  Wir werden einen
+guten Fang tun.
+
+Selbitz.  Will's Gott.  (Ab.)
+
+Bamberg.  Zimmer der Adelheid
+
+Adelheid.  Kammerfraeulein.
+
+Adelheid.  Er ist da! sagst du.  Ich glaub es kaum.
+
+Fraeulein.  Wenn ich ihn nicht selbst gesehn haette, wuerd ich sagen, ich
+zweifle.
+
+Adelheid.  Den Liebetraut mag der Bischof in Gold einfassen: er hat
+ein Meisterstueck gemacht.
+
+Fraeulein.  Ich sah ihn, wie er zum Schloss hereinreiten wollte, er sass
+auf einem Schimmel.  Das Pferd scheute, wie's an die Bruecke kam, und
+wollte nicht von der Stelle.  Das Volk war aus allen Strassen gelaufen,
+ihn zu sehn.  Sie freuten sich ueber des Pferds Unart.  Von allen
+Seiten ward er gegruesst, und er dankte allen.  Mit einer angenehmen
+Gleichgueltigkeit sass er droben, und mit Schmeicheln und Drohen bracht
+er es endlich zum Tor herein, der Liebetraut mit, und wenig Knechte.
+
+Adelheid.  Wie gefaellt er dir?
+
+Fraeulein.  Wie mir nicht leicht ein Mann gefallen hat.  Er glich dem
+Kaiser hier (deutet auf Maximilians Portraet), als wenn er sein Sohn
+waere.  Die Nase nur etwas kleiner, ebenso freundliche lichtbraune
+Augen, ebenso ein blondes schoenes Haar, und gewachsen wie eine Puppe.
+Ein halb trauriger Zug auf seinem Gesicht--ich weiss nicht--gefiel mir
+so wohl!
+
+Adelheid.  Ich bin neugierig, ihn zu sehen.
+
+Fraeulein.  Das waer ein Herr fuer Euch.
+
+Adelheid.  Naerrin!
+
+Fraeulein.  Kinder und Narren-(Liebetraut kommt.)
+
+Liebetraut.  Nun, gnaedige Frau, was verdien ich?
+
+Adelheid.  Hoerner von deinem Weibe.  Denn nach dem zu rechnen, habt
+Ihr schon manches Nachbars ehrliches Hausweib aus ihrer Pflicht
+hinausgeschwatzt.
+
+Liebetraut.  Nicht doch, gnaedige Frau!  Auf ihre Pflicht, wollt Ihr
+sagen; denn wenn's ja geschah, schwatzt ich sie auf ihres Mannes Bette.
+
+
+Adelheid.  Wie habt Ihr's gemacht, ihn herzubringen?
+
+Liebetraut.  Ihr wisst zu gut, wie man Schnepfen faengt; soll ich Euch
+meine Kunststueckchen noch dazu lehren?--Erst tat ich, als wuesst ich
+nichts, verstuend nichts von seiner Auffuehrung, und setzt ihn dadurch
+in den Nachteil, die ganze Historie zu erzaehlen.  Die sah ich nun
+gleich von einer ganz andern Seite an als er, konnte nicht
+finden--nicht einsehen--und so weiter.  Dann redete ich von Bamberg
+allerlei durcheinander, Grosses und Kleines, erweckte gewisse alte
+Erinnerungen, und wie ich seine Einbildungskraft beschaeftigt hatte,
+knuepfte ich wirklich eine Menge Faedchen wieder an, die ich zerrissen
+fand.  Er wusste nicht, wie ihm geschah, fuehlte einen neuen Zug nach
+Bamberg, er wollte--ohne zu wollen.  Wie er nun in sein Herz ging und
+das zu entwickeln suchte, und viel zu sehr mit sich beschaeftigt war,
+um auf sich achtzugeben, warf ich ihm ein Seil um den Hals, aus drei
+maechtigen Stricken, Weiber-, Fuerstengunst und Schmeichelei, gedreht,
+und so hab ich ihn hergeschleppt.
+
+Adelheid.  Was sagtet Ihr von mir?
+
+Liebetraut.  Die lautre Wahrheit.  Ihr haettet wegen Eurer Gueter
+Verdriesslichkeiten--haettet gehofft, da er beim Kaiser so viel gelte,
+werde er das leicht enden koennen.
+
+Adelheid.  Wohl.
+
+Liebetraut.  Der Bischof wird ihn Euch bringen.
+
+Adelheid.  Ich erwarte sie.  (Liebetraut ab.) Mit einem Herzen, wie
+ich selten Besuch erwarte.
+
+Im Spessart
+
+Berlichingen.  Selbitz.  Georg als Reitersknecht.
+
+Goetz.  Du hast ihn nicht angetroffen, Georg!
+
+Georg.  Er war tags vorher mit Liebetraut nach Bamberg geritten und
+zwei Knechte mit.
+
+Goetz.  Ich seh nicht ein, was das geben soll.
+
+Selbitz.  Ich wohl.  Eure Versoehnung war ein wenig zu schnell, als dass
+sie dauerhaft haette sein sollen.  Der Liebetraut ist ein pfiffiger
+Kerl; von dem hat er sich beschwaetzen lassen.
+
+Goetz.  Glaubst du, dass er bundbruechig werden wird?
+
+Selbitz.  Der erste Schritt ist getan.
+
+Goetz.  Ich glaub's nicht.  Wer weiss, wie noetig es war, an Hof zu gehen;
+man ist ihm noch schuldig; wir wollen das Beste hoffen.
+
+Selbitz.  Wollte Gott, er verdient' es und taete das Beste!
+
+Goetz.  Mir faellt eine List ein.  Wir wollen Georgen des Bamberger
+Reiters erbeuteten Kittel anziehen und ihm das Geleitzeichen geben; er
+mag nach Bamberg reiten und sehen, wie's steht.
+
+Georg.  Da hab ich lange drauf gehofft.
+
+Goetz.  Es ist dein erster Ritt.  Sei vorsichtig, Knabe!  Mir waere leid,
+wenn dir ein Unfall begegnen sollt.
+
+Georg.  Lasst nur, mich irrt's nicht, wenn noch so viel um mich
+herumkrabbeln, mir ist's, als wenn's Ratten und Maeuse waeren.  (Ab.)
+
+Bamberg
+
+Bischof.  Du willst dich nicht laenger halten lassen!
+
+Weislingen.  Ihr werdet nicht verlangen, dass ich meinen Eid brechen
+soll.
+
+Bischof.  Ich haette verlangen koennen, du solltest ihn nicht schwoeren.
+Was fuer ein Geist regierte dich?  Konnt ich dich ohne das nicht
+befreien?  Gelt ich so wenig am Kaiserlichen Hofe?
+
+Weislingen.  Es ist geschehen; verzeiht mir, wenn Ihr koennt.
+
+Bischof.  Ich begreif nicht, was nur im geringsten dich noetigte, den
+Schritt zu tun!  Mir zu entsagen?  Waren denn nicht hundert andere
+Bedingungen, loszukommen?  Haben wir nicht seinen Buben?  Haett ich
+nicht Gelds genug gegeben und ihn wieder beruhigt?  Unsere Anschlaege
+auf ihn und seine Gesellen waeren fortgegangen--Ach ich denke nicht,
+dass ich mit seinem Freunde rede, der nun wider mich arbeitet und die
+Minen leicht entkraeften kann, die er selbst gegraben hat.
+
+Weislingen.  Gnaediger Herr!
+
+Bischof.  Und doch--wenn ich wieder dein Angesicht sehe, deine Stimme
+hoere.  Es ist nicht moeglich, nicht moeglich.
+
+Weislingen.  Lebt wohl, gnaediger Herr.
+
+Bischof.  Ich gebe dir meinen Segen.  Sonst, wenn du gingst, sagt ich:
+"Auf Wiedersehn!"  Jetzt--Wollte Gott, wir saehen einander nie wieder!
+
+Weislingen.  Es kann sich vieles aendern.
+
+Bischof.  Vielleicht seh ich dich noch einmal, als Feind vor meinen
+Mauern, die Felder verheeren, die ihren bluehenden Zustand dir jetzo
+danken.
+
+Weislingen.  Nein, gnaediger Herr.
+
+Bischof.  Du kannst nicht nein sagen.  Die weltlichen Staende, meine
+Nachbarn, haben alle einen Zahn auf mich.  Solang ich dich hatte--Geht,
+Weislingen!  Ich habe Euch nichts mehr zu sagen.  Ihr habt vieles
+zunichte gemacht.  Geht!
+
+Weislingen.  Und ich weiss nicht, was ich sagen soll.
+
+(Bischof ab.--Franz tritt auf.)
+
+Franz.  Adelheid erwartet Euch.  Sie ist nicht wohl.  Und doch will
+sie Euch ohne Abschied nicht lassen.
+
+Weislingen.  Komm.
+
+Franz.  Gehn wir denn gewiss?
+
+Weislingen.  Noch diesen Abend.-Franz.  Mir ist, als wenn ich aus der
+Welt sollte.
+
+Weislingen.  Mir auch, und noch darzu, als wuesst ich nicht wohin.
+
+
+
+
+II. Akt, Szene 2
+
+
+
+Adelheidens Zimmer
+
+Adelheid.  Fraeulein.
+
+Fraeulein.  Ihr seht blass, gnaedige Frau.
+
+Adelheid.--Ich lieb ihn nicht, und wollte doch, dass er bliebe.  Siehst
+du, ich koennte mit ihm leben, ob ich ihn gleich nicht zum Manne haben
+moechte.
+
+Fraeulein.  Glaubt Ihr, er geht?
+
+Adelheid.  Er ist zum Bischof, um Lebewohl zu sagen.
+
+Fraeulein.  Er hat darnach noch einen schweren Stand.
+
+Adelheid.  Wie meinst du?
+
+Fraeulein.  Was fragt Ihr, gnaedige Frau?  Ihr habt sein Herz geangelt,
+und wenn er sich losreissen will, verblutet er.
+
+(Adelheid.  Weislingen.)
+
+Weislingen.  Ihr seid nicht wohl, gnaedige Frau?
+
+Adelheid.  Das kann Euch einerlei sein.  Ihr verlasst uns, verlasst uns
+auf immer.  Was fragt Ihr, ob wir leben oder sterben.
+
+Weislingen.  Ihr verkennt mich.
+
+Adelheid.  Ich nehme Euch, wie Ihr Euch gebt.
+
+Weislingen.  Das Ansehn truegt.
+
+Adelheid.  So seid Ihr ein Chamaeleon?
+
+Weislingen.  Wenn Ihr mein Herz sehen koenntet!
+
+Adelheid.  Schoene Sachen wuerden mir vor die Augen kommen.
+
+Weislingen.  Gewiss!  Ihr wuerdet Euer Bild drin finden.
+
+Adelheid.  In irgendeinem Winkel bei den Portraeten ausgestorbener
+Familien.  Ich bitt Euch, Weislingen, bedenkt, Ihr redet mit mir.
+Falsche Worte gelten zum hoechsten, wenn sie Masken unserer Taten sind.
+Ein Vermummter, der kenntlich ist, spielt eine armselige Rolle.  Ihr
+leugnet Eure Handlungen nicht und redet das Gegenteil; was soll man
+von Euch halten?
+
+Weislingen.  Was Ihr wollt.  Ich bin so geplagt mit dem, was ich bin,
+dass mir wenig bang ist, fuer was man mich nehmen mag.
+
+Adelheid.  Ihr kommt, um Abschied zu nehmen.
+
+Weislingen.  Erlaubt mir, Eure Hand zu kuessen, und ich will sagen.
+Lebt wohl.  Ihr erinnert mich!  Ich bedachte nicht--Ich bin
+beschwerlich, gnaedige Frau.
+
+Adelheid.  Ihr legt's falsch aus: ich wollte Euch forthelfen; denn Ihr
+wollt fort.
+
+Weislingen.  O sagt: ich muss.  Zoege mich nicht die Ritterpflicht, der
+heilige Handschlag-Adelheid.  Geht!  Geht!  Erzaehlt das Maedchen, die
+den "Theuerdank" lesen und sich so einen Mann wuenschen.  Ritterpflicht!
+Kinderspiel!
+
+Weislingen.  Ihr denkt nicht so.
+
+Adelheid.  Bei meinem Eid, Ihr verstellt Euch!  Was habt Ihr
+versprochen?  Und wem?  Einem Mann, der seine Pflicht gegen den Kaiser
+und das Reich verkennt, in eben dem Augenblick Pflicht zu leisten, da
+er durch Eure Gefangennehmung in die Strafe der Acht verfaellt.
+Pflicht zu leisten! die nicht gueltiger sein kann als ungerechter
+gezwungener Eid.  Entbinden nicht unsere Gesetze von solchen Schwueren?
+Macht das Kindern weis, die den Ruebezahl glauben.  Es stecken andere
+Sachen dahinter.  Ein Feind des Reichs zu werden, ein Feind der
+buergerlichen Ruh und Glueckseligkeit!  Ein Feind des Kaisers!  Geselle
+eines Raeubers! du, Weislingen, mit deiner sanften Seele!
+
+Weislingen.  Wenn Ihr ihn kenntet-Adelheid.  Ich wollt ihm
+Gerechtigkeit widerfahren lassen.  Er hat eine hohe unbaendige Seele.
+Eben darum wehe dir, Weislingen!  Geh und bilde dir ein, Geselle von
+ihm zu sein.  Geh! und lass dich beherrschen.  Du bist freundlich,
+gefaellig-Weislingen.  Er ist's auch.
+
+Adelheid.  Aber du bist nachgebend und er nicht!  Unversehens wird er
+dich wegreissen, du wirst ein Sklave eines Edelmanns werden, da du Herr
+von Fuersten sein koenntest.--Doch es ist Unbarmherzigkeit, dir deinen
+zukuenftigen Stand zu verleiden.
+
+Weislingen.  Haettest du gefuehlt, wie liebreich er mir begegnete.
+
+Adelheid.  Liebreich!  Das rechnest du ihm an?  Es war seine
+Schuldigkeit; und was haettest du verloren, wenn er widerwaertig gewesen
+waere?  Mir haette das willkommner sein sollen.  Ein uebermuetiger Mensch
+wie der-Weislingen.  Ihr redet von Euerm Feind.
+
+Adelheid.  Ich redete fuer Eure Freiheit--Und weiss ueberhaupt nicht, was
+ich vor einen Anteil dran nehme.  Lebt wohl.
+
+Weislingen.  Erlaubt noch einen Augenblick.  (Er nimmt ihre Hand und
+schweigt.)
+
+Adelheid.  Habt Ihr mir noch was zu sagen?
+
+Weislingen.--Ich muss fort.
+
+Adelheid.  So geht.
+
+Weislingen.  Gnaedige Frau!--Ich kann nicht.
+
+Adelheid.  Ihr muesst.
+
+Weislingen.  Soll das Euer letzter Blick sein?
+
+Adelheid.  Geht, ich bin krank, sehr zur ungelegnen Zeit.
+
+Weislingen.  Seht mich nicht so an.
+
+Adelheid.  Willst du unser Feind sein, und wir sollen dir laecheln?
+Geh!
+
+Weislingen.  Adelheid!
+
+Adelheid.  Ich hasse Euch!
+
+(Franz kommt.)
+
+Franz.  Gnaediger Herr!  Der Bischof laesst Euch rufen.
+
+Adelheid.  Geht!  Geht!
+
+Franz.  Er bittet Euch, eilend zu kommen.
+
+Adelheid.  Geht!  Geht!
+
+Weislingen.  Ich nehme nicht Abschied, ich sehe Euch wieder!  (Ab.)
+
+Adelheid.  Mich wieder?  Wir wollen dafuer sein.  Margarete, wenn er
+kommt, weis ihn ab.  Ich bin krank, habe Kopfweh, ich schlafe--Weis
+ihn ab.  Wenn er noch zu gewinnen ist, so ist's auf diesem Wege.  (Ab.
+)
+
+Vorzimmer
+
+Weislingen.  Franz.
+
+Weislingen.  Sie will mich nicht sehn?
+
+Franz.  Es wird Nacht, soll ich die Pferde satteln?
+
+Weislingen.  Sie will mich nicht sehn?
+
+Franz.  Wann befehlen Ihro Gnaden die Pferde?
+
+Weislingen.  Es ist zu spaet!  Wir bleiben hier.
+
+Franz.  Gott sei Dank!  (Ab.)
+
+Weislingen.  Du bleibst!  Sei auf, deiner Hut, die Versuchung ist gross.
+Mein Pferd scheute, wie ich zum Schlosstor herein wollte, mein guter
+Geist stellte sich ihm entgegen, er kannte die Gefahren, die mein hier
+warteten.--Doch ist's nicht recht, die vielen Geschaefte, die ich dem
+Bischof unvollendet liegen liess, nicht wenigstens so zu ordnen, dass
+ein Nachfolger da anfangen kann, wo ich's gelassen habe.  Das kann ich
+doch alles tun, unbeschadet Berlichingen und unserer Verbindung.  Denn
+halten sollen sie mich hier nicht.--Waere doch besser gewesen, wenn ich
+nicht gekommen waere.  Aber ich will fort--morgen oder uebermorgen.
+(Geht ab.)
+
+Im Spessart
+
+Goetz.  Selbitz.  Georg.
+
+Selbitz.  Ihr seht, es ist gegangen, wie ich gesagt habe.
+
+Goetz.  Nein!  Nein!  Nein!
+
+Georg.  Glaubt, ich berichte Euch mit der Wahrheit.  Ich tat, wie Ihr
+befahlt, nahm den Kittel des Bambergischen und sein Zeichen, und damit
+ich doch mein Essen und Trinken verdiente, geleitete ich Reineckische
+Bauern hinauf nach Bamberg.
+
+Selbitz.  In der Verkappung?  Das haette dir uebel geraten koennen.
+
+Georg.  So denk ich auch hintendrein.  Ein Reitersmann, der das voraus
+denkt, wird keine weiten Spruenge machen.  Ich kam nach Bamberg, und
+gleich im Wirtshaus hoerte ich erzaehlen: Weislingen und der Bischof
+seien ausgesoehnt, und man redte viel von einer Heirat mit der Witwe
+des von Walldorf.
+
+Goetz.  Gespraeche.
+
+Georg.  Ich sah ihn, wie er sie zur Tafel fuehrte.  Sie ist schoen, bei
+meinem Eid, sie ist schoen.  Wir bueckten uns alle, sie dankte uns allen,
+er nickte mit dem Kopf, sah sehr vergnuegt, sie gingen vorbei, und das
+Volk murmelte: "Ein schoenes Paar!"
+
+Goetz.  Das kann sein.
+
+Georg.  Hoert weiter.  Da er des andern Tags in die Messe ging, passt
+ich meine Zeit ab.  Er war allein mit einem Knaben.  Ich stund unten
+an der Treppe und sagte leise zu ihm: "Ein paar Worte von Euerm
+Berlichingen."  Er ward bestuerzt; ich sahe das Gestaendnis seines
+Lasters in seinem Gesicht, er hatte kaum das Herz, mich anzusehen,
+mich, einen schlechten Reitersjungen.
+
+Selbitz.  Das macht, sein Gewissen war schlechter als dein Stand.
+
+Georg.  "Du bist Bambergisch?" sagt' er.--"Ich bring einen Gruss vom
+Ritter Berlichingen", sagt ich, "und soll fragen--"--"Komm morgen
+frueh", sagt' er, "an mein Zimmer, wir wollen weiterreden."
+
+Goetz.  Kamst du?
+
+Georg.  Wohl kam ich, und musst im Vorsaal stehn, lang, lang.  Und die
+seidnen Buben beguckten mich von vorn und hinten.  Ich dachte, guckt
+ihr--Endlich fuehrte man mich hinein, er schien boese, mir war's
+einerlei.  Ich trat zu ihm und legte meine Kommission ab.  Er tat
+feindlich boese, wie einer, der kein Herz hat und 's nit will merken
+lassen.  Er verwunderte sich, dass Ihr ihn durch einen Reitersjungen
+zur Rede setzen liesst.  Das verdross mich.  Ich sagte, es gaebe nur
+zweierlei Leut, brave und Schurken, und ich diente Goetzen von
+Berlichingen.  Nun fing er an, schwatzte allerlei verkehrtes Zeug, das
+darauf hinausging: Ihr haettet ihn uebereilt, er sei Euch keine Pflicht
+schuldig und wolle nichts mit Euch zu tun haben.
+
+Goetz.  Hast du das aus seinem Munde?
+
+Georg.  Das und noch mehr--Er drohte mir-Goetz.  Es ist genug!  Der
+waere nun auch verloren!  Treu und Glaube, du hast mich wieder betrogen.
+Arme Marie!  Wie werd ich dir's beibringen!
+
+Selbitz.  Ich wollte lieber mein ander Bein dazu verlieren, als so ein
+Hundsfott sein.  (Ab.)
+
+Bamberg
+
+Adelheid.  Weislingen.
+
+Adelheid.  Die Zeit faengt mir an unertraeglich lang zu werden; reden
+mag ich nicht, und ich schaeme mich, mit Euch zu spielen.  Langeweile,
+du bist aerger als ein kaltes Fieber.
+
+Weislingen.  Seid Ihr mich schon muede?
+
+Adelheid.  Euch nicht sowohl als Euern Umgang.  Ich wollte, Ihr waert,
+wo Ihr hinwolltet, und wir haetten Euch nicht gehalten.
+
+Weislingen.  Das ist Weibergunst!  Erst bruetet sie, mit Mutterwaerme,
+unsere liebsten Hoffnungen an; dann, gleich einer unbestaendigen Henne,
+verlaesst sie das Nest und uebergibt ihre schon keimende Nachkommenschaft
+dem Tode und der Verwesung.
+
+Adelheid.  Scheltet die Weiber!  Der unbesonnene Spieler zerbeisst und
+zerstampft die Karten, die ihn unschuldigerweise verlieren machten.
+Aber lasst mich Euch was von Mannsleuten erzaehlen.  Was seid denn ihr,
+um von Wankelmut zu sprechen?  Ihr, die ihr selten seid, was ihr sein
+wollt, niemals, was ihr sein solltet.  Koenige im Festtagsornat, vom
+Poebel beneidet.  Was gaeb eine Schneidersfrau drum, eine Schnur Perlen
+um ihren Hals zu haben, von dem Saum eures Kleids, den eure Absaetze
+veraechtlich zurueckstossen!
+
+Weislingen.  Ihr seid bitter.
+
+Adelheid.  Es ist die Antistrophe von Eurem Gesang.  Eh ich Euch
+kannte, Weislingen, ging mir's wie der Schneidersfrau.  Der Ruf,
+hundertzuengig, ohne Metapher gesprochen, hatte Euch so zahnarztmaessig
+herausgestrichen, dass ich mich ueberreden liess zu wuenschen: moechtest du
+doch diese Quintessenz des maennlichen Geschlechts, den Phoenix
+Weislingen zu Gesicht kriegen!  Ich ward meines Wunsches gewaehrt.
+
+Weislingen.  Und der Phoenix praesentierte sich als ein ordinaerer
+Haushahn.
+
+Adelheid.  Nein, Weislingen, ich nahm Anteil an Euch.
+
+Weislingen.  Es schien so-Adelheid.  Und war.  Denn wirklich, ihr
+uebertraft Euern Ruf.  Die Menge schaetzt nur den Widerschein des
+Verdienstes.  Wie mir's denn nun geht, dass ich ueber die Leute nicht
+denken mag, denen ich wohlwill; so lebten wir eine Zeitlang
+nebeneinander, es fehlte mir was, und ich wusste nicht, was ich an Euch
+vermisste.  Endlich gingen mir die Augen auf.  Ich sah statt des
+aktiven Mannes, der die Geschaefte eines Fuerstentums belebte, der sich
+und seinen Ruhm dabei nicht vergass, der auf hundert grossen
+Unternehmungen, wie auf uebereinander gewaelzten Bergen, zu den Wolken
+hinaufgestiegen war: den sah ich auf einmal, jammernd wie einen
+kranken Poeten, melancholisch wie ein gesundes Maedchen und muessiger als
+einen alten Junggesellen.  Anfangs schrieb ich's Euerm Unfall zu, der
+Euch noch neu auf dem Herzen lag, und entschuldigte Euch, so gut ich
+konnte.  Jetzt, da es von Tag zu Tage schlimmer mit Euch zu werden
+scheint, muesst Ihr mir verzeihen, wenn ich Euch meine Gunst entreisse.
+Ihr besitzt sie ohne Recht, ich schenkte sie einem andern auf
+Lebenslang, der sie Euch nicht uebertragen konnte.
+
+Weislingen.  So lasst mich los.
+
+Adelheid.  Nicht, bis alle Hoffnung verloren ist.  Die Einsamkeit ist
+in diesen Umstaenden gefaehrlich.--Armer Mensch!  Ihr seid so missmuetig,
+wie einer, dem sein erstes Maedchen untreu wird, und eben darum geb ich
+Euch nicht auf.  Gebt mir die Hand, verzeiht mir, was ich aus Liebe
+gesagt habe.
+
+Weislingen.  Koenntest du mich lieben, koenntest du meiner heissen
+Leidenschaft einen Tropfen Linderung gewaehren!  Adelheid! deine
+Vorwuerfe sind hoechst ungerecht.  Koenntest du den hundertsten Teil
+ahnen von dem, was die Zeit her in mir arbeitet, du wuerdest mich nicht
+mit Gefaelligkeit, Gleichgueltigkeit und Verachtung so unbarmherzig hin
+und her zerrissen haben--Du laechelst!--Nach dem uebereilten Schritt
+wieder mit mir selbst einig zu werden, kostete mehr als einen Tag.
+Wider den Menschen zu arbeiten, dessen Andenken so lebhaft neu in
+Liebe bei mir ist.
+
+Adelheid.  Wunderlicher Mann, der du den lieben kannst, den du
+beneidest!  Das ist, als wenn ich meinem Feinde Proviant zufuehrte.
+
+Weislingen.  Ich fuehl's wohl, es gilt hier, kein Saeumen.  Er ist
+berichtet, dass ich wieder Weislingen bin, und er wird sich seines
+Vorteils ueber uns ersehen.  Auch, Adelheid, sind wir nicht so traeg,
+als du meinst.  Unsere Reiter sind verstaerkt und wachsam, unsere
+Unterhandlungen gehen fort, und der Reichstag zu Augsburg soll
+hoffentlich unsere Projekte zur Reife bringen.
+
+Adelheid.  Ihr geht hin?
+
+Weislingen.  Wenn ich eine Hoffnung mitnehmen koennte!  (Kuesst ihre Hand.
+)
+
+Adelheid.  O ihr Unglaeubigen!  Immer Zeichen und Wunder!  Geh,
+Weislingen, und vollende das Werk.  Der Vorteil des Bischofs, der
+deinige, der meinige, sie sind so verwebt, dass, waere es auch nur der
+Politik wegen-Weislingen.  Du kannst scherzen.
+
+Adelheid.  Ich scherze nicht.  Meine Gueter hat der stolze Herzog inne,
+die deinigen wird Goetz nicht lange ungeneckt lassen; und wenn wir
+nicht zusammenhalten wie unsere Feinde und den Kaiser auf unsere Seite
+lenken, sind wir verloren.
+
+Weislingen.  Mir ist's nicht bange.  Der groesste Teil der Fuersten ist
+unserer Gesinnung.  Der Kaiser verlangt Huelfe gegen die Tuerken, und
+dafuer ist's billig, dass er uns wieder beisteht.  Welche Wollust wird
+mir's sein, deine Gueter von uebermuetigen Feinden zu befreien, die
+unruhigen Koepfe in Schwaben aufs Kissen zu bringen, die Ruhe des
+Bistums, unser aller herzustellen.  Und dann--?
+
+Adelheid.  Ein Tag bringt den andern, und beim Schicksal steht das
+Zukuenftige.
+
+Weislingen.  Aber wir muessen wollen.
+
+Adelheid.  Wir wollen ja.
+
+Weislingen.  Gewiss?
+
+Adelheid.  Nun ja.  Geht.
+
+Weislingen.  Zauberin!
+
+Herberge Bauernhochzeit.  Musik und Tanz draussen
+
+Der Brautvater, Goetz, Selbitz am Tische.  Braeutigam tritt zu ihnen.
+
+Goetz.  Das Gescheitste war, dass ihr euern Zwist so gluecklich und
+froehlich durch eine Heirat endigt.
+
+Brautvater.  Besser, als ich mir's haette traeumen lassen.  In Ruh und
+Fried mit meinem Nachbar, und eine Tochter wohl versorgt dazu!
+
+Braeutigam.  Und ich im Besitz des strittigen Stuecks, und drueber den
+huebschten Backfisch im ganzen Dorf.  Wollte Gott, Ihr haettet Euch eher
+drein geben.
+
+Selbitz.  Wie lange habt ihr prozessiert?
+
+Brautvater.  An die acht Jahre.  Ich wollte lieber noch einmal so lang
+das Frieren haben, als von vorn anfangen.  Das ist ein Gezerre, Ihr
+glaubt's nicht, bis man den Peruecken ein Urteil vom Herzen reisst; und
+was hat man darnach?  Der Teufel hol den Assessor Sapupi!  's is ein
+verfluchter schwarzer Italiener.
+
+Braeutigam.  Ja, das ist ein toller Kerl.  Zweimal war ich dort.
+
+Brautvater.  Und ich dreimal.  Und seht, ihr Herrn: kriegen wir ein
+Urteil endlich, wo ich so viel Recht hab als er, und er so viel als
+ich, und wir eben stunden wie die Maulaffen, bis mir unser Herrgott
+eingab, ihm meine Tochter zu geben und das Zeug dazu.
+
+Goetz (trinkt).  Gut Vernehmen kuenftig.
+
+Brautvater.  Geb's Gott!  Geh aber, wie's will, prozessieren tu ich
+mein Tag nit mehr.  Was das ein Geldspiel kost!  Jeden Reverenz, den
+euch ein Prokurator macht, muesst ihr bezahlen.
+
+Selbitz.  Sind ja jaehrlich Kaiserliche Visitationen da.
+
+Brautvater.  Hab nichts davon gehoert.  Ist mir mancher schoene Taler
+nebenaus gangen.  Das unerhoerte Blechen!
+
+Goetz.  Wie meint Ihr?
+
+Brautvater.  Ach, da macht alles hohle Pfoetchen.  Der Assessor allein,
+Gott verzeih's ihm, hat mir achtzehn Goldgulden abgenommen.
+
+Braeutigam.  Wer?
+
+Brautvater.  Wer anders als der Sapupi?
+
+Goetz.  Das ist schaendlich.
+
+Brautvater.  Wohl, ich musst ihm zwanzig erlegen.  Und da ich sie ihm
+hingezahlt hatte, in seinem Gartenhaus, das praechtig ist, im grossen
+Saal, wollt mir vor Wehmut fast das Herz brechen.  Denn seht, eines
+Haus und Hof steht gut, aber wo soll bar Geld herkommen?  Ich stund da,
+Gott weiss, wie mir's war.  Ich hatte keinen roten Heller Reisegeld im
+Sack.  Endlich nahm ich mir 's Herz und stellt's ihm vor.  Nun er sah,
+dass mir 's Wasser an die Seele ging, da warf er mir zwei davon zurueck
+und schickt' mich fort.
+
+Braeutigam.  Es ist nicht moeglich!  Der Sapupi?
+
+Brautvater.  Wie stellst du dich!  Freilich!  Kein andrer!
+
+Braeutigam.  Den soll der Teufel holen, er hat mir auch funfzehn
+Goldguelden abgenommen.
+
+Brautvater.  Verflucht!
+
+Selbitz.  Goetz!  Wir sind Raeuber!
+
+Brautvater.  Drum fiel das Urteil so scheel aus.  Du Hund!
+
+Goetz.  Das muesst ihr nicht ungeruegt lassen.
+
+Brautvater.  Was sollen wir tun?
+
+Goetz.  Macht euch auf nach Speier, es ist eben Visitationszeit,
+zeigt's an, sie muessen's untersuchen und euch zu dem Eurigen helfen.
+
+Braeutigam.  Denkt Ihr, wir treiben's durch?
+
+Goetz.  Wenn ich ihm ueber die Ohren duerfte, wollt ich's euch
+versprechen.
+
+Selbitz.  Die Summe ist wohl einen Versuch wert.
+
+Goetz.  Bin ich wohl eher um des vierten Teils willen ausgeritten.
+
+Brautvater.  Wie meinst du?
+
+Braeutigam.  Wir wollen, geh's wie's geh.
+
+(Georg kommt.)
+
+Georg.  Die Nuernberger sind im Anzug.
+
+Goetz.  Wo?
+
+Georg.  Wenn wir ganz sachte reiten, packen wir sie zwischen Beerheim
+und Muehlbach im Wald.
+
+Selbitz.  Trefflich!
+
+Goetz.  Kommt, Kinder.  Gott gruess euch!  Helf uns allen zum Unsrigen!
+
+Bauer.  Grossen Dank!  Ihr wollt nicht zum Nacht-Ims bleiben?
+
+Goetz.  Koennen nicht.  Adies.
+
+
+
+
+Dritter Akt
+
+
+
+
+III. Akt, Szene 1
+
+
+
+Augsburg.  Ein Garten
+
+Zwei Nuernberger Kaufleute.
+
+Erster Kaufmann.  Hier wollen wir stehn, denn da muss der Kaiser vorbei.
+Er kommt eben den langen Gang herauf.
+
+Zweiter Kaufmann.  Wer ist bei ihm?
+
+Erster Kaufmann.  Adelbert von Weislingen!
+
+Zweiter Kaufmann.  Bambergs Freund!  Das ist gut.
+
+Erster Kaufmann.  Wir wollen einen Fussfall tun, und ich will reden.
+
+Zweiter Kaufmann.  Wohl, da kommen sie.
+
+(Kaiser.  Weislingen.)
+
+Erster Kaufmann.  Er sieht verdriesslich aus.
+
+Kaiser.  Ich bin unmutig, Weislingen, und wenn ich auf mein
+vergangenes Leben zuruecksehe, moecht ich verzagt werden; so viel halbe,
+so viel verunglueckte Unternehmungen! und das alles, weil kein Fuerst im
+Reich so klein ist, dem nicht mehr an seinen Grillen gelegen waere als
+an meinen Gedanken.
+
+(Die Kaufleute werfen sich ihm zu Fuessen.)
+
+Kaufmann.  Allerdurchlauchtigster!  Grossmaechtigster!
+
+Kaiser.  Wer seid ihr?  Was gibt's?
+
+Kaufmann.  Arme Kaufleute von Nuernberg, Eurer Majestaet Knechte, und
+flehen um Huelfe.  Goetz von Berlichingen und Hans von Selbitz haben
+unser dreissig, die von der Frankfurter Messe kamen, im Bambergischen
+Geleite niedergeworfen und beraubt; wir bitten Eure Kaiserliche
+Majestaet um Huelfe, um Beistand, sonst sind wir alle verdorbene Leute,
+genoetigt, unser Brot zu betteln.
+
+Kaiser.  Heiliger Gott!  Heiliger Gott!  Was ist das?  Der eine hat
+nur eine Hand, der andere nur ein Bein; wenn sie denn erst zwei Haende
+haetten, und zwei Beine, was wolltet ihr dann tun?
+
+Kaufmann.  Wir bitten Eure Majestaet untertaenigst, auf unsere
+bedraengten Umstaende ein mitleidiges Auge zu werfen.
+
+Kaiser.  Wie geht's zu!  Wenn ein Kaufmann einen Pfeffersack verliert,
+soll man das ganze Reich aufmahnen; und wenn Haendel vorhanden sind,
+daran Kaiserlicher Majestaet und dem Reich viel gelegen ist, dass es
+Koenigreich, Fuerstentum, Herzogtum und anders betrifft, so kann euch
+kein Mensch zusammenbringen.
+
+Weislingen.  Ihr kommt zur ungelegnen Zeit.  Geht und verweilt einige
+Tage hier.
+
+Kaufleute.  Wir empfehlen uns zu Gnaden.  (Ab.)
+
+Kaiser.  Wieder neue Haendel.  Sie wachsen nach wie die Koepfe der Hydra.
+
+
+Weislingen.  Und sind nicht auszurotten als mit Feuer und Schwert und
+einer mutigen Unternehmung.
+
+Kaiser.  Glaubt Ihr?
+
+Weislingen.  Ich halte nichts fuer tunlicher, wenn Eure Majestaet und
+die Fuersten sich ueber andern unbedeutenden Zwist vereinigen koennten.
+Es ist mit nichten ganz Deutschland, das ueber Beunruhigung klagt.
+Franken und Schwaben allein glimmt noch von den Resten des innerlichen
+verderblichen Buergerkriegs.  Und auch da sind viele der Edeln und
+Freien, die sich nach Ruhe sehnen.  Haetten wir einmal diesen Sickingen,
+Selbitz--Berlichingen auf die Seite geschafft, das uebrige wuerde bald
+von sich selbst zerfallen.  Denn sie sind's, deren Geist die
+aufruehrische Menge belebt.
+
+Kaiser.  Ich moechte die Leute gerne schonen, sie sind tapfer und edel.
+Wenn ich Krieg fuehrte, muessten sie mit mir zu Felde.
+
+Weislingen.  Es waere zu wuenschen, dass sie von jeher gelernt haetten,
+ihrer Pflicht zu gehorchen.  Und dann waer es hoechst gefaehrlich, ihre
+aufruehrischen Unternehmungen durch Ehrenstellen zu belohnen.  Denn
+eben diese kaiserliche Mild und Gnade ist's, die sie bisher so
+ungeheuer missbrauchten, und ihr Anhang, der sein Vertrauen und
+Hoffnung darauf setzt, wird nicht ehe zu baendigen sein, bis wir sie
+ganz vor den Augen der Welt zunichte gemacht und ihnen alle Hoffnung,
+jemals wieder emporzukommen, voellig abgeschnitten haben.
+
+Kaiser.  Ihr ratet also zur Strenge?
+
+Weislingen.  Ich sehe kein ander Mittel, den Schwindelgeist, der ganze
+Landschaften ergreift, zu bannen.  Hoeren wir nicht schon hier und da
+die bittersten Klagen der Edeln, dass ihre Untertanen, ihre Leibeignen
+sich gegen sie auflehnen und mit ihnen rechten, ihnen die hergebrachte
+Oberherrschaft zu schmaelern drohen, so dass die gefaehrlichsten Folgen
+zu fuerchten sind?
+
+Kaiser.  Jetzt waer eine schoene Gelegenheit wider den Berlichingen und
+Selbitz; nur wollt ich nicht, dass ihnen was zuleid geschehe.  Gefangen
+moecht ich sie haben, und dann muessten sie Urfehde schwoeren, auf ihren
+Schloessern ruhig zu bleiben und nicht aus ihrem Bann zu gehen.  Bei
+der naechsten Session will ich's vortragen.
+
+Weislingen.  Ein freudiger beistimmender Zuruf wird Eurer Majestaet das
+Ende der Rede ersparen.  (Ab.)
+
+Jagsthausen
+
+Sickingen.  Berlichingen.
+
+Sickingen.  Ja, ich komme, Eure edle Schwester um ihr Herz und ihre
+Hand zu bitten.
+
+Goetz.  So wollt ich, Ihr waert eher kommen.  Ich muss Euch sagen:
+Weislingen hat waehrend seiner Gefangenschaft ihre Liebe gewonnen, um
+sie angehalten, und ich sagt sie ihm zu.  Ich hab ihn losgelassen, den
+Vogel, und er verachtet die guetige Hand, die ihm in der Not Futter
+reichte.  Er schwirrt herum, weiss Gott auf welcher Hecke seine Nahrung
+zu suchen.
+
+Sickingen.  Ist das so?
+
+Goetz.  Wie ich sage.
+
+Sickingen.  Er hat ein doppeltes Band zerrissen.  Wohl Euch, dass Ihr
+mit dem Verraeter nicht naeher verwandt worden.
+
+Goetz.  Sie sitzt, das arme Maedchen, verjammert und verbetet ihr Leben.
+
+Sickingen.  Wir wollen sie singen machen.
+
+Goetz.  Wie!  Entschliesset Ihr Euch, eine Verlassne zu heiraten?
+
+Sickingen.  Es macht euch beiden Ehre, von ihm betrogen worden zu sein.
+Soll darum das arme Maedchen in ein Kloster gehn, weil der erste Mann,
+den sie kannte, ein Nichtswuerdiger war?  Nein doch! ich bleibe darauf,
+sie soll Koenigin von meinen Schloessern werden.
+
+Goetz.  Ich sage Euch, sie war nicht gleichgueltig gegen ihn.
+
+Sickingen.  Traust du mir nicht zu, dass ich den Schatten eines Elenden
+sollte verjagen koennen?  Lass uns zu ihr!  (Ab.)
+
+Lager der Reichsexekution
+
+Hauptmann.  Offiziere.
+
+Hauptmann.  Wir muessen behutsam gehn und unsere Leute so viel moeglich
+schonen.  Auch ist unsere gemessene Order, ihn in die Enge zu treiben
+und lebendig gefangenzunehmen.  Es wird schwerhalten, denn wer mag
+sich an ihn machen?
+
+Erster Offizier.  Freilich!  Und er wird sich wehren wie ein wildes
+Schwein. Ueberhaupt hat er uns sein Lebelang nichts zuleid getan, und
+jeder wird's von sich schieben, Kaiser und Reich zu Gefallen Arm und
+Bein daranzusetzen.
+
+Zweiter Offizier.  Es waere eine Schande, wenn wir ihn nicht kriegten.
+Wenn ich ihn nur einmal beim Lappen habe, er soll nicht loskommen.
+
+Erster Offizier.  Fasst ihn nur nicht mit Zaehnen, er moechte Euch die
+Kinnbacken ausziehen.  Guter junger Herr, dergleichen Leut packen sich
+nicht wie ein fluechtiger Dieb.
+
+Zweiter Offizier.  Wollen sehn.
+
+Hauptmann.  Unsern Brief muss er nun haben.  Wir wollen nicht saeumen
+und einen Trupp ausschicken, der ihn beobachten soll.
+
+Zweiter Offizier.  Lasst mich ihn fuehren.
+
+Hauptmann.  Ihr seid der Gegend unkundig.
+
+Zweiter Offizier.  Ich hab einen Knecht, der hier geboren und erzogen
+ist.
+
+Hauptmann.  Ich bin's zufrieden.  (Ab.)
+
+Jagsthausen
+
+Sickingen.
+
+Sickingen.  Es geht alles nach Wunsch; sie war etwas bestuerzt ueber
+meinen Antrag und sah mich vom Kopf bis auf die Fuesse an; ich wette,
+sie verglich mich mit ihrem Weissfisch.  Gott sei Dank, dass ich mich
+stellen darf.  Sie antwortete wenig und durcheinander; desto besser!
+Es mag eine Zeit kochen.  Bei Maedchen, die durch Liebesunglueck gebeizt
+sind, wird ein Heiratsvorschlag bald gar.
+
+(Goetz kommt.)
+
+Sickingen.  Was bringt Ihr, Schwager?
+
+Goetz.  In die Acht erklaert!
+
+Sickingen.  Was?
+
+Goetz.  Da lest den erbaulichen Brief.  Der Kaiser hat Exekution gegen
+mich verordnet, die mein Fleisch den Voegeln unter dem Himmel und den
+Tieren auf dem Felde zu fressen vorschneiden soll.
+
+Sickingen.  Erst sollen sie dran.  Just zur gelegenen Zeit bin ich
+hier.
+
+Goetz.  Nein, Sickingen, Ihr sollt fort.  Eure grossen Anschlaege koennten
+darueber zugrunde gehn, wenn Ihr zu so ungelegner Zeit des Reichs Feind
+werden wolltet.  Auch mir werdet Ihr weit mehr nutzen, wenn Ihr
+neutral zu sein scheint.  Der Kaiser liebt Euch, und das Schlimmste,
+das mir begegnen kann, ist, gefangen zu werden; dann braucht Euer
+Vorwort und reisst mich aus einem Elend, in das unzeitige Huelfe uns
+beide stuerzen koennte.  Denn was waer's?  Jetzo geht der Zug gegen mich;
+erfahren sie, du bist bei mir, so schicken sie mehr, und wir sind um
+nichts gebessert.  Der Kaiser sitzt an der Quelle, und ich waer schon
+jetzt unwiederbringlich verloren, wenn man Tapferkeit so geschwind
+einblasen koennte, als man einen Haufen zusammenblasen kann.
+
+Sickingen.  Doch kann ich heimlich ein zwanzig Reiter zu Euch stossen
+lassen.
+
+Goetz.  Gut.  Ich hab schon Georgen nach dem Selbitz geschickt, und
+meine Knechte in der Nachbarschaft herum.  Lieber Schwager, wenn meine
+Leute beisammen sind, es wird ein Haeufchen sein, dergleichen wenig
+Fuersten beisammen gesehen haben.
+
+Sickingen.  Ihr werdet gegen die Menge wenig sein.
+
+Goetz.  Ein Wolf ist einer ganzen Herde Schafe zu viel.
+
+Sickingen.  Wenn sie aber einen guten Hirten haben?
+
+Goetz.  Sorg du.  Es sind lauter Mietlinge.  Und dann kann der beste
+Ritter nichts machen, wenn er nicht Herr von seinen Handlungen ist.
+So kamen sie mir auch einmal, wie ich dem Pfalzgrafen zugesagt hatte,
+gegen Konrad Schotten zu dienen; da legt' er mir einen Zettel aus der
+Kanzlei vor, wie ich reiten und mich halten sollt; da warf ich den
+Raeten das Papier wieder dar und sagt: ich wuesst nicht darnach zu
+handlen, ich weiss nicht, was mir begegnen mag, das steht nicht im
+Zettel, ich muss die Augen selbst auftun und sehn, was ich zu schaffen
+hab.
+
+Sickingen.  Glueck zu, Bruder!  Ich will gleich fort und dir schicken,
+was ich in der Eil zusammentreiben kann.
+
+Goetz.  Komm noch zu den Frauen, ich liess sie beisammen.  Ich wollte,
+dass du ihr Wort haettest, ehe du gingst.  Dann schick mir die Reiter,
+und komm heimlich wieder, Marien abzuholen, denn mein Schloss, fuercht
+ich, wird bald kein Aufenthalt fuer Weiber mehr sein.
+
+Sickingen.  Wollen das Beste hoffen.  (Ab.)
+
+Bamberg.  Adelheidens Zimmer
+
+Adelheid.  Franz.
+
+Adelheid.  So sind die beiden Exekutionen schon aufgebrochen?
+
+Franz.  Ja, und mein Herr hat die Freude, gegen Eure Feinde zu ziehen.
+Ich wollte gleich mit, so gern ich zu Euch gehe.  Auch will ich jetzt
+wieder fort, um bald mit froehlicher Botschaft wiederzukehren.  Mein
+Herr hat mir's erlaubt.
+
+Adelheid.  Wie steht's mit ihm?
+
+Franz.  Er ist munter.  Mir befahl er, Eure Hand zu kuessen.
+
+Adelheid.  Da--deine Lippen sind warm.
+
+Franz (vor sich, auf die Brust deutend).  Hier ist's noch waermer!
+(Laut.) Gnaedige Frau, Eure Diener sind die gluecklichsten Menschen
+unter der Sonne.
+
+Adelheid.  Wer fuehrt gegen Berlichingen?
+
+Franz.  Der von Sirau.  Lebt wohl, beste gnaedige Frau!  Ich will
+wieder fort.  Vergesst mich nicht.
+
+Adelheid.  Du musst was essen, trinken, und rasten.
+
+Franz.  Wozu das?  Ich hab Euch ja gesehen.  Ich bin nicht mued noch
+hungrig.
+
+Adelheid.  Ich kenne deine Treu.
+
+Franz.  Ach, gnaedige Frau!
+
+Adelheid.  Du haeltst's nicht aus, beruhige dich, und nimm was zu dir.
+
+Franz.  Eure Sorgfalt fuer einen armen Jungen!  (Ab.)
+
+Adelheid.  Die Traenen stehn ihm in den Augen.  Ich lieb ihn von Herzen.
+So wahr und warm hat noch niemand an mir gehangen.  (Ab.)
+
+Jagsthausen
+
+Goetz.  Georg.
+
+Georg.  Er will selbst mit Euch sprechen.  Ich kenn ihn nicht; es ist
+ein stattlicher Mann, mit schwarzen feurigen Augen.
+
+Goetz.  Bring ihn herein.
+
+(Lerse kommt.)
+
+Goetz.  Gott gruess Euch!  Was bringt Ihr?
+
+Lerse.  Mich selbst, das ist nicht viel, doch alles, was es ist, biet
+ich Euch an.
+
+Goetz.  Ihr seid mir willkommen, doppelt willkommen, ein braver Mann,
+und zu dieser Zeit, da ich nicht hoffte, neue Freunde zu gewinnen,
+eher den Verlust der alten stuendlich fuerchtete.  Gebt mir Euern Namen.
+
+Lerse.  Franz Lerse.
+
+Goetz.  Ich danke Euch, Franz, dass Ihr mich mit einem braven Mann
+bekannt macht.
+
+Lerse.  Ich machte Euch schon einmal mit mir bekannt, aber damals
+danktet Ihr mir nicht dafuer.
+
+Goetz.  Ich erinnere mich Eurer nicht.
+
+Lerse.  Es waere mir leid.  Wisst Ihr noch, wie Ihr um des Pfalzgrafen
+willen Konrad Schotten feind wart und nach Hassfurt auf die Fastnacht
+reiten wolltet?
+
+Goetz.  Wohl weiss ich es.
+
+Lerse.  Wisst Ihr, wie Ihr unterwegs bei einem Dorf fuenfundzwanzig
+Reitern entgegenkamt?
+
+Goetz.  Richtig.  Ich hielt sie anfangs nur fuer zwoelfe und teilt meinen
+Haufen, waren unser sechzehn, und hielt am Dorf hinter der Scheuer, in
+willens, sie sollten bei mir vorbeiziehen.  Dann wollt ich ihnen
+nachrucken, wie ich's mit dem andern Haufen abgeredt hatte.
+
+Lerse.  Aber wir sahn Euch und zogen auf eine Hoehe am Dorf.  Ihr zogt
+herbei und hieltet unten.  Wie wir sahn, Ihr wolltet nicht
+heraufkommen, ritten wir herab.
+
+Goetz.  Da sah ich erst, dass ich mit der Hand in die Kohlen geschlagen
+hatte.  Fuenfundzwanzig gegen acht!  Da galt's kein Feiern.  Erhard
+Truchsess durchstach mir einen Knecht, dafuer rannt ich ihn vom Pferde.
+Haetten sie sich alle gehalten wie er und ein Knecht, es waere mein und
+meines kleinen Haeufchens uebel gewahrt gewesen.
+
+Lerse.  Der Knecht, wovon Ihr sagtet-Goetz.  Es war der bravste, den
+ich gesehen habe.  Er setzte mir heiss zu.  Wenn ich dachte, ich haett
+ihn von mir gebracht, wollte mit andern zu schaffen haben, war er
+wieder an mir und schlug feindlich zu.  Er hieb mir auch durch den
+Panzeraermel hindurch, dass es ein wenig gefleischt hatte.
+
+Lerse.  Habt Ihr's ihm verziehen?
+
+Goetz.  Er gefiel mir mehr als zu wohl.
+
+Lerse.  Nun, so hoff ich, dass Ihr mit mir zufrieden sein werdet; ich
+hab mein Probstueck an Euch selbst abgelegt.
+
+Goetz.  Bist du's?  O willkommen, willkommen!  Kannst du sagen,
+Maximilian, du hast unter deinen Dienern einen so geworben!
+
+Lerse.  Mich wundert, dass Ihr nicht eh auf mich gefallen seid.
+
+Goetz.  Wie sollte mir einkommen, dass der mir seine Dienste anbieten
+wuerde, der auf das feindseligste mich zu ueberwaeltigen trachtete?
+
+Lerse.  Eben das, Herr!  Von Jugend auf dien ich als Reitersknecht,
+und hab's mit manchem Ritter aufgenommen.  Da wir auf Euch stiessen,
+freut ich mich.  Ich kannte Euern Namen, und da lernt ich Euch kennen.
+Ihr wisst, ich hielt nicht stand; Ihr saht, es war nicht Furcht, denn
+ich kam wieder.  Kurz, ich lernt Euch kennen, und von Stund an
+beschloss ich, Euch zu dienen.
+
+Goetz.  Wie lange wollt Ihr bei mir aushalten?
+
+Lerse.  Auf ein Jahr.  Ohne Entgelt.
+
+Goetz.  Nein, Ihr sollt gehalten werden wie ein anderer, und drueber,
+wie der, der mir bei Remlin zu schaffen machte.
+
+(Georg kommt.)
+
+Georg.  Hans von Selbitz laesst Euch gruessen.  Morgen ist er hier mit
+funfzig Mann.
+
+Goetz.  Wohl.
+
+Georg.  Es zieht am Kocher ein Trupp Reichsvoelker herunter; ohne
+Zweifel, Euch zu beobachten.
+
+Goetz.  Wieviel?
+
+Georg.  Ihrer funfzig.
+
+Goetz.  Nicht mehr!  Komm, Lerse, wir wollen sie zusammenschmeissen,
+wenn Selbitz kommt, dass er schon ein Stueck Arbeit getan findet.
+
+Lerse.  Das soll eine reichliche Vorlese werden.
+
+Goetz.  Zu Pferde!  (Ab.)
+
+
+
+
+III. Akt, Szene 2
+
+
+
+Wald an einem Morast
+
+Zwei Reichsknechte begegnen einander.
+
+Erster Knecht.  Was machst du hier?
+
+Zweiter Knecht.  Ich hab Urlaub gebeten, meine Notdurft zu verrichten.
+Seit dem blinden Laermen gestern abends ist mir's in die Gedaerme
+geschlagen, dass ich alle Augenblicke vom Pferd muss.
+
+Erster Knecht.  Haelt der Trupp hier in der Naehe?
+
+Zweiter Knecht.  Wohl eine Stunde den Wald hinauf.
+
+Erster Knecht.  Wie verlaeufst du dich denn hieher?
+
+Zweiter Knecht.  Ich bitte dich, verrat mich nicht.  Ich will aufs
+naechste Dorf und sehn, ob ich nit mit warmen ueberschlaegen meinem uebel
+abhelfen kann.  Wo kommst du her?
+
+Erster Knecht.  Vom naechsten Dorf.  Ich hab unserm Offizier Wein und
+Brot geholt.
+
+Zweiter Knecht.  So, er tut sich was zugut vor unserm Angesicht, und
+wir sollen fasten!  Schoen Exempel!
+
+Erster Knecht.  Komm mit zurueck, Schurke.
+
+Zweiter Knecht.  Waer ich ein Narr!  Es sind noch viele unterm Haufen,
+die gern fasteten, wenn sie so weit davon waeren als ich.
+
+Erster Knecht.  Hoerst du!  Pferde!
+
+Zweiter Knecht.  O weh!
+
+Erster Knecht.  Ich klettere auf den Baum.
+
+Zweiter Knecht.  Ich steck mich ins Rohr.
+
+(Goetz, Lerse, Georg, Knechte zu Pferde.)
+
+Goetz.  Hier am Teich weg und linker Hand in den Wald, so kommen wir
+ihnen in Ruecken.
+
+(Sie ziehen vorbei.)
+
+Erster Knecht (steigt vom Baum).  Da ist nicht gut sein.  Michel!  Er
+antwortet nicht?  Michel, sie sind fort!  (Er geht nach dem Sumpf.)
+Michel!  O weh, er ist versunken.  Michel!  Er hoert mich nicht, er ist
+erstickt.  Bist doch krepiert, du Memme.--Wir sind geschlagen.  Feinde,
+ueberall Feinde!
+
+(Goetz, Georg zu Pferde.)
+
+Goetz.  Halt, Kerl, oder du bist des Todes!
+
+Knecht.  Schont meines Lebens!
+
+Goetz.  Dein Schwert!  Georg, fuehr ihn zu den andern Gefangenen, die
+Lerse dort unten am Wald hat.  Ich muss ihren fluechtigen Fuehrer
+erreichen.  (Ab.)
+
+Knecht.  Was ist aus unserm Ritter geworden, der uns fuehrte?
+
+Georg.  Unterst zu oberst stuerzt' ihn mein Herr vom Pferd, dass der
+Federbusch im Kot stak.  Seine Reiter huben ihn aufs Pferd und fort,
+wie besessen.  (Ab.)
+
+Lager
+
+Hauptmann.  Erster Ritter.
+
+Erster Ritter.  Sie fliehen von weitem dem Lager zu.
+
+Hauptmann.  Er wird ihnen an den Fersen sein.  Lasst ein funfzig
+ausruecken bis an die Muehle; wenn er sich zu weit verliert, erwischt
+Ihr ihn vielleicht.
+
+(Ritter ab.--Zweiter Ritter gefuehrt.)
+
+Hauptmann.  Wie geht's, junger Herr?  Habt Ihr ein paar Zinken
+abgerennt?
+
+Ritter.  Dass dich die Pest!  Das staerkste Geweih waere gesplittert wie
+Glas.  Du Teufel!  Er rannt auf mich los, es war mir, als wenn mich
+der Donner in die Erd hineinschlueg.
+
+Hauptmann.  Dankt Gott, dass Ihr noch davongekommen seid.
+
+Ritter.  Es ist nichts zu danken, ein paar Rippen sind entzwei.  Wo
+ist der Feldscher?  (Ab.)
+
+Jagsthausen
+
+Goetz.  Selbitz.
+
+Goetz.  Was sagst du zu der Achtserklaerung, Selbitz?
+
+Selbitz.  Es ist ein Streich von Weislingen.
+
+Goetz.  Meinst du?
+
+Selbitz.  Ich meine nicht, ich weiss.
+
+Goetz.  Woher?
+
+Selbitz.  Er war auf dem Reichstag, sag ich dir, er war um den Kaiser.
+
+Goetz.  Wohl, so machen wir ihm wieder einen Anschlag zunichte.
+
+Selbitz.  Hoff's.
+
+Goetz.  Wir wollen fort! und soll die Hasenjagd angehn.
+
+Lager
+
+Hauptmann.  Ritter.
+
+Hauptmann.  Dabei kommt nichts heraus, ihr Herrn.  Er schlaegt uns
+einen Haufen nach dem andern, und was nicht umkommt und gefangen wird,
+das laeuft in Gottes Namen lieber nach der Tuerkei als ins Lager zurueck.
+So werden wir alle Tag schwaecher.  Wir muessen einmal fuer allemal ihm
+zu Leib gehen, und das mit Ernst; ich will selbst dabei sein, und er
+soll sehn, mit wem er zu tun hat.
+
+Ritter.  Wir sind's all zufrieden; nur ist er der Landsart so kundig,
+weiss alle Gaenge und Schliche im Gebirg, dass er so wenig zu fangen ist
+wie eine Maus auf dem Kornboden.
+
+Hauptmann.  Wollen ihn schon kriegen.  Erst auf Jagsthausen zu.  Mag
+er wollen oder nicht, er muss herbei, sein Schloss zu verteidigen.
+
+Ritter.  Soll unser ganzer Hauf marschieren?
+
+Hauptmann.  Freilich!  Wisst Ihr, dass wir schon um hundert geschmolzen
+sind?
+
+Ritter.  Drum geschwind, eh der ganze Eisklumpen auftaut; es macht
+warm in der Naehe, und wir stehn da wie Butter an der Sonne.  (Ab.)
+
+Gebirg und Wald
+
+Goetz.  Selbitz.  Trupp.
+
+Goetz.  Sie kommen mit hellem Hauf.  Es war hohe Zeit, dass Sickingens
+Reiter zu uns stiessen.
+
+Selbitz.  Wir wollen uns teilen.  Ich will linker Hand um die Hoehe
+ziehen.
+
+Goetz.  Gut.  Und du, Franz, fuehre mir die funfzig rechts durch den
+Wald hinauf; sie kommen ueber die Heide, ich will gegen ihnen halten.
+Georg, du bleibst um mich.  Und wenn Ihr seht, dass sie mich angreifen,
+so fallt ungesaeumt in die Seiten.  Wir wollen sie patschen.  Sie
+denken nicht, dass wir ihnen die Spitze bieten koennen.  (Ab.)
+
+Heide
+
+Auf der einen Seite eine Hoehe, auf der andern Wald.
+
+Hauptmann.  Exekutionszug.
+
+Hauptmann.  Er haelt auf der Heide!  Das ist impertinent.  Er soll's
+buessen.  Was!  Den Strom nicht zu fuerchten, der auf ihn losbraust?
+
+Ritter.  Ich wollt nicht, dass Ihr an der Spitze rittet; er hat das
+Ansehn, als ob er den ersten, der ihn anstossen moechte, umgekehrt in
+die Erde pflanzen wollte.  Reitet hinterdrein.
+
+Hauptmann.  Nicht gern.
+
+Ritter.  Ich bitt Euch.  Ihr seid noch der Knoten von diesem Buendel
+Haselruten; loest ihn auf, so knickt er sie Euch einzeln wie Riedgras.
+
+Hauptmann.  Trompeter, blas!  Und ihr blast ihn weg!  (Ab.)
+
+(Selbitz hinter der Hoehe hervor im Galopp.)
+
+Selbitz.  Mir nach!  Sie sollen zu ihren Haenden rufen: "Multipliziert
+euch!"  (Ab.)
+
+(Lerse aus dem Wald.)
+
+Lerse.  Goetzen zu Huelf!  Er ist fast umringt.  Braver Selbitz, du hast
+schon Luft gemacht.  Wir wollen die Heide mit ihren Distelkoepfen
+besaeen.  (Vorbei.)
+
+(Getuemmel.)
+
+Eine Hoehe mit einem Wartturn
+
+Selbitz verwundet.  Knechte.
+
+Selbitz.  Legt mich hieher und kehrt zu Goetzen.
+
+Erster Knecht.  Lasst uns bleiben, Herr, Ihr braucht unser.
+
+Selbitz.  Steig einer auf die Warte und seh, wie's geht.
+
+Erster Knecht.  Wie will ich hinaufkommen?
+
+Zweiter Knecht.  Steig auf meine Schultern, da kannst du die Luecke
+reichen und dir bis zur oeffnung hinaufhelfen.
+
+Erster Knecht (steigt hinauf).  Ach, Herr!
+
+Selbitz.  Was siehest du?
+
+Erster Knecht.  Eure Reiter fliehen der Hoehe zu.
+
+Selbitz.  Hoellische Schurken!  Ich wollt, sie stuenden und ich haett
+eine Kugel vorm Kopf.  Reit einer hin! und fluch und wetter sie zurueck.
+(Knecht ab.) Siehest du Goetzen?
+
+Knecht.  Die drei schwarzen Federn seh ich mitten im Getuemmel.
+
+Selbitz.  Schwimm, braver Schwimmer.  Ich liege hier!
+
+Knecht.  Ein weisser Federbusch, wer ist das?
+
+Selbitz.  Der Hauptmann.
+
+Knecht.  Goetz draengt sich an ihn--Bauz!  Er stuerzt.
+
+Selbitz.  Der Hauptmann?
+
+Knecht.  Ja, Herr.
+
+Selbitz.  Wohl!  Wohl!
+
+Knecht.  Weh!  Weh!  Goetzen seh ich nicht mehr.
+
+Selbitz.  So stirb, Selbitz!
+
+Knecht.  Ein fuerchterlich Gedraeng, wo er stund.  Georgs blauer Busch
+verschwindt auch.
+
+Selbitz.  Komm herunter.  Siehst du Lersen nicht?
+
+Knecht.  Nichts.  Es geht alles drunter und drueber.
+
+Selbitz.  Nichts mehr.  Komm!  Wie halten sich Sickingens Reiter?
+
+Knecht.  Gut.--Da flieht einer nach dem Wald.  Noch einer!  Ein ganzer
+Trupp!  Goetz ist hin.
+
+Selbitz.  Komm herab.
+
+Knecht.  Ich kann nicht.--Wohl!  Wohl!  Ich sehe Goetzen!  Ich sehe
+Georgen!
+
+Selbitz.  Zu Pferd?
+
+Knecht.  Hoch zu Pferd!  Sieg!  Sieg!  Sie fliehn.
+
+Selbitz.  Die Reichstruppen?
+
+Knecht.  Die Fahne mittendrin, Goetz hintendrein.  Sie zerstreuen sich.
+Goetz erreicht den Faehndrich--Er hat die Fahn--Er haelt.  Eine Handvoll
+Menschen um ihn herum.  Mein Kamerad erreicht ihn--Sie ziehn herauf.
+
+(Goetz.  Georg.  Lerse.  Ein Trupp.)
+
+Selbitz.  Glueck zu, Goetz!  Sieg!  Sieg!
+
+Goetz (steigt vom Pferd).  Teuer!  Teuer!  Du bist verwundt, Selbitz?
+
+Selbitz.  Du lebst und siegst!  Ich habe wenig getan.  Und meine Hunde
+von Reitern!  Wie bist du davongekommen?
+
+Goetz.  Diesmal galt's!  Und hier Georgen dank ich das Leben, und hier
+Lersen dank ich's.  Ich warf den Hauptmann vom Gaul.  Sie stachen mein
+Pferd nieder und drangen auf mich ein.  Georg hieb sich zu mir und
+sprang ab, ich wie der Blitz auf seinen Gaul, wie der Donner sass er
+auch wieder.  Wie kamst du zum Pferd?
+
+Georg.  Einem, der nach Euch hieb, stiess ich meinen Dolch in die
+Gedaerme, wie sich sein Harnisch in die Hoehe zog.  Er stuerzt', und ich
+half Euch von einem Feind und mir zu einem Pferde.
+
+Goetz.  Nun staken wir, bis sich Franz zu uns hereinschlug, und da
+maehten wir von innen heraus.
+
+Lerse.  Die Hunde, die ich fuehrte, sollten von aussen hineinmaehen, bis
+sich unsere Sensen begegnet haetten; aber sie flohen wie Reichsknechte.
+
+Goetz.  Es flohe Freund und Feind.  Nur du kleiner Hauf hieltest mir
+den Ruecken frei; ich hatte mit den Kerls vor mir genug zu tun.  Der
+Fall ihres Hauptmanns half mir sie schuetteln, und sie flohen.  Ich
+habe ihre Fahne und wenig Gefangene.
+
+Selbitz.  Der Hauptmann ist Euch entwischt?
+
+Goetz.  Sie hatten ihn inzwischen gerettet.  Kommt, Kinder! kommt,
+Selbitz!--Macht eine Bahre von aesten;--du kannst nicht aufs Pferd.
+Kommt in mein Schloss.  Sie sind zerstreut.  Aber unser sind wenig, und
+ich weiss nicht, ob sie Truppen nachzuschicken haben.  Ich will euch
+bewirten, meine Freunde.  Ein Glas Wein schmeckt auf so einen Strauss.
+
+Lager
+
+Hauptmann.
+
+Hauptmann.  Ich moecht euch alle mit eigner Hand umbringen!  Was,
+fortlaufen!  Er hatte keine Handvoll Leute mehr!  Fortzulaufen, vor
+einem Mann!  Es wird's niemand glauben, als wer ueber uns zu lachen
+Lust hat.--Reit herum, Ihr, und Ihr, und Ihr.  Wo ihr von unsern
+zerstreuten Knechten findt, bringt sie zurueck oder stecht sie nieder.
+Wir muessen diese Scharten auswetzen, und wenn die Klingen drueber
+zugrunde gehen sollten.
+
+Jagsthausen
+
+Goetz.  Lerse.  Georg.
+
+Goetz.  Wir duerfen keinen Augenblick saeumen!  Arme Jungen, ich darf
+euch keine Rast goennen.  Jagt geschwind herum und sucht noch Reiter
+aufzutreiben.  Bestellt sie alle nach Weilern, da sind sie am
+sichersten.  Wenn wir zoegern, so ziehen sie mir vors Schloss.  (Die
+zwei ab.) Ich muss einen auf Kundschaft ausjagen.  Es faengt an heiss zu
+werden.  Und wenn es nur noch brave Kerls waeren!  Aber so ist's die
+Menge.  (Ab.)
+
+(Sickingen.  Maria.)
+
+Maria.  Ich bitte Euch, lieber Sickingen, geht nicht von meinem Bruder!
+Seine Reiter, Selbitzens, Eure sind zerstreut; er ist allein,
+Selbitz ist verwundet auf sein Schloss gebracht, und ich fuerchte alles.
+
+Sickingen.  Seid ruhig, ich gehe nicht weg.
+
+(Goetz kommt.)
+
+Goetz.  Kommt in die Kirch, der Pater wartet.  Ihr sollt mir in einer
+Viertelstund ein Paar sein.
+
+Sickingen.  Lasst mich hier.
+
+Goetz.  In die Kirch sollt Ihr jetzt.
+
+Sickingen.  Gern--und darnach?
+
+Goetz.  Darnach sollt Ihr Eurer Wege gehn.
+
+Sickingen.  Goetz!
+
+Goetz.  Wollt Ihr nicht in die Kirche?
+
+Sickingen.  Kommt, kommt!
+
+Lager
+
+Hauptmann.  Ritter.
+
+Hauptmann.  Wie viel sind's in allem?
+
+Ritter.  Hundertundfunfzig.
+
+Hauptmann.  Von vierhunderten!  Das ist arg.  Jetzt gleich auf und
+grad gegen Jagsthausen zu, eh er sich erholt und sich uns wieder in
+Weg stellt.
+
+
+
+
+III. Akt, Szene 3
+
+
+
+Jagsthausen
+
+Goetz.  Elisabeth.  Maria.  Sickingen.
+
+Goetz.  Gott segne euch, geb euch glueckliche Tage, und behalte die, die
+er euch abzieht, fuer eure Kinder.
+
+Elisabeth.  Und die lass er sein, wie ihr seid: rechtschaffen!  Und
+dann lasst sie werden, was sie wollen.
+
+Sickingen.  Ich dank euch.  Und dank Euch, Maria.  Ich fuehrte Euch an
+den Altar, und Ihr sollt mich zur Glueckseligkeit fuehren.
+
+Maria.  Wir wollen zusammen eine Pilgrimschaft nach diesem fremden
+gelobten Lande antreten.
+
+Goetz.  Glueck auf die Reise!
+
+Maria.  So ist's nicht gemeint, wir verlassen Euch nicht.
+
+Goetz.  Ihr sollt, Schwester.
+
+Maria.  Du bist sehr unbarmherzig, Bruder!
+
+Goetz.  Und Ihr zaertlicher als vorsehend.
+
+(Georg kommt.)
+
+Georg (heimlich).  Ich kann niemand auftreiben.  Ein einziger war
+geneigt; darnach veraenderte er sich und wollte nicht.
+
+Goetz.  Gut, Georg.  Das Glueck faengt mir an wetterwendisch zu werden.
+Ich ahnt's aber.  (Laut.) Sickingen, ich bitt Euch, geht noch diesen
+Abend.  Beredet Marie.  Sie ist Eure Frau.  Lasst sie's fuehlen.  Wenn
+Weiber quer in unsere Unternehmung treten, ist unser Feind im freien
+Feld sichrer als sonst in der Burg.
+
+(Knecht kommt.)
+
+Knecht (leise).  Herr, das Reichsfaehnlein ist auf dem Marsch, grad
+hieher, sehr schnell.
+
+Goetz.  Ich hab sie mit Rutenstreichen geweckt!  Wieviel sind ihrer?
+
+Knecht.  Ungefaehr zweihundert.  Sie koennen nicht zwei Stunden mehr von
+hier sein.
+
+Goetz.  Noch ueberm Fluss?
+
+Knecht.  Ja, Herr.
+
+Goetz.  Wenn ich nur funfzig Mann haette, sie sollten mir nicht herueber.
+Hast du Lersen nicht gesehen?
+
+Knecht.  Nein, Herr.
+
+Goetz.  Biet allen, sie sollen sich bereit halten.--Es muss geschieden
+sein, meine Lieben.  Weine, meine gute Marie, es werden Augenblicke
+kommen, wo du dich freuen wirst.  Es ist besser, du weinst an deinem
+Hochzeittag, als dass uebergrosse Freude der Vorbote kuenftigen Elends
+waere.  Lebt wohl, Marie.  Lebt wohl, Bruder.
+
+Maria.  Ich kann nicht von Euch, Schwester.  Lieber Bruder, lass uns.
+Achtest du meinen Mann so wenig, dass du in dieser Extremitaet seine
+Huelfe verschmaehst?
+
+Goetz.  Ja, es ist weit mit mir gekommen.  Vielleicht bin ich meinem
+Sturz nahe.  Ihr beginnt zu leben, und ihr sollt euch von meinem
+Schicksal trennen.  Ich hab eure Pferde zu satteln befohlen.  Ihr muesst
+gleich fort.
+
+Maria.  Bruder!  Bruder!
+
+Elisabeth (zu Sickingen).  Gebt ihm nach!  Geht!
+
+Sickingen.  Liebe Marie, lasst uns gehen.
+
+Maria.  Du auch?  Mein Herz wird brechen.
+
+Goetz.  So bleib denn.  In wenigen Stunden wird meine Burg umringt sein.
+
+
+Maria.  Weh!  Weh!
+
+Goetz.  Wir werden uns verteidigen, so gut wir koennen.
+
+Maria.  Mutter Gottes, hab Erbarmen mit uns!
+
+Goetz.  Und am Ende werden wir sterben, oder uns ergeben.--Du wirst
+deinen edeln Mann mit mir in ein Schicksal geweint haben.
+
+Maria.  Du marterst mich.
+
+Goetz.  Bleib!  Bleib!  Wir werden zusammen gefangen werden.  Sickingen,
+du wirst mit mir in die Grube fallen!  Ich hoffte, du solltest mir
+heraushelfen.
+
+Maria.  Wir wollen fort.  Schwester, Schwester!
+
+Goetz.  Bringt sie in Sicherheit, und dann erinnert Euch meiner.
+
+Sickingen.  Ich will ihr Bette nicht besteigen, bis ich Euch ausser
+Gefahr weiss.
+
+Goetz.  Schwester--liebe Schwester!  (Kuesst sie.)
+
+Sickingen.  Fort, fort!
+
+Goetz.  Noch einen Augenblick--Ich seh Euch wieder.  Troestet Euch.  Wir
+sehn uns wieder.
+
+(Sickingen, Maria ab.)
+
+Goetz.  Ich trieb sie, und da sie geht, moecht ich sie halten.
+Elisabeth, du bleibst bei mir!
+
+Elisabeth.  Bis in den Tod.  (Ab.)
+
+Goetz.  Wen Gott lieb hat, dem geb er so eine Frau!
+
+(Georg kommt.)
+
+Georg.  Sie sind in der Naehe, ich habe sie vom Turn gesehen.  Die
+Sonne ging auf, und ich sah ihre Piken blinken.  Wie ich sie sah,
+wollt mir's nicht baenger werden, als einer Katze vor einer Armee Maeuse.
+Zwar wir spielen die Ratten.
+
+Goetz.  Seht nach den Torriegeln.  Verrammelt's inwendig mit Balken und
+Steinen.  (Georg ab.) Wir wollen ihre Geduld fuer'n Narren halten, und
+ihre Tapferkeit sollen sie mir an ihren eigenen Naegeln verkaeuen.
+(Trompeter von aussen.) Aha! ein rotroeckiger Schurke, der uns die Frage
+vorlegen wird, ob wir Hundsfoetter sein wollen.  (Er geht ans Fenster.)
+Was soll's?
+
+(Man hoert in der Ferne reden.)
+
+Goetz (in seinen Bart).  Einen Strick um deinen Hals.
+
+(Trompeter redet fort.)
+
+Goetz.  "Beleidiger der Majestaet!"--Die Aufforderung hat ein Pfaff
+gemacht.
+
+(Trompeter endet.)
+
+Goetz (antwortet).  Mich ergeben!  Auf Gnad und Ungnad!  Mit wem redet
+Ihr!  Bin ich ein Raeuber!  Sag deinem Hauptmann: Vor Ihro Kaiserliche
+Majestaet hab ich, wie immer, schuldigen Respekt.  Er aber, sag's ihm,
+er kann mich--(Schmeisst das Fenster zu.)
+
+Belagerung.  Kueche
+
+Elisabeth.  Goetz zu ihr.
+
+Goetz.  Du hast viel Arbeit, arme Frau.
+
+Elisabeth.  Ich wollt, ich haette sie lang.  Wir werden schwerlich lang
+aushalten koennen.
+
+Goetz.  Wir hatten nicht Zeit, uns zu versehen.
+
+Elisabeth.  Und die vielen Leute, die Ihr zeither gespeist habt.  Mit
+dem Wein sind wir auch schon auf der Neige.
+
+Goetz.  Wenn wir nur auf einen gewissen Punkt halten, dass sie
+Kapitulation vorschlagen.  Wir tun ihnen brav Abbruch.  Sie schiessen
+den ganzen Tag und verwunden unsere Mauern und knicken unsere Scheiben.
+Lerse ist ein braver Kerl; er schleicht mit seiner Buechse herum; wo
+sich einer zu nahe wagt, blaff, liegt er.
+
+Knecht.  Kohlen, gnaedige Frau.
+
+Goetz.  Was gibt's?
+
+Knecht.  Die Kugeln sind alle, wir wollen neue giessen.
+
+Goetz.  Wie steht's Pulver?
+
+Knecht.  So ziemlich.  Wir sparen unsere Schuesse wohl aus.
+
+Saal
+
+Lerse mit einer Kugelform.  Knecht mit Kohlen.
+
+Lerse.  Stell sie daher, und seht, wo ihr im Hause Blei kriegt.
+Inzwischen will ich hier zugreifen.  (Hebt ein Fenster aus und schlaegt
+die Scheiben ein.) Alle Vorteile gelten.--So geht's in der Welt, weiss
+kein Mensch, was aus den Dingen werden kann.  Der Glaser, der die
+Scheiben fasste, dachte gewiss nicht, dass das Blei einem seiner Urenkel
+garstiges Kopfweh machen koennte!  Und da mich mein Vater zeugte,
+dachte er nicht, welcher Vogel unter dem Himmel, welcher Wurm auf der
+Erde mich fressen moechte.
+
+(Georg kommt mit einer Dachrinne.)
+
+Georg.  Da hast du Blei.  Wenn du nur mit der Haelfte triffst, so
+entgeht keiner, der Ihro Majestaet ansagen kann: "Herr, wir haben
+schlecht bestanden."
+
+Lerse (haut davon).  Ein brav Stueck.
+
+Georg.  Der Regen mag sich einen andern Weg suchen!  Ich bin nicht
+bang davor; ein braver Reiter und ein rechter Regen kommen ueberall
+durch.
+
+Lerse.  (Er giesst.) Halt den Loeffel.  (Geht ans Fenster.) Da zieht so
+ein Reichsknappe mit der Buechse herum; sie denken, wir haben uns
+verschossen.  Er soll die Kugel versuchen, warm wie sie aus der Pfanne
+kommt.  (Laedt.)
+
+Georg (lehnt den Loeffel an).  Lass mich sehn.
+
+Lerse (schiesst).  Da liegt der Spatz.
+
+Georg.  Der schoss vorhin nach mir (sie giessen), wie ich zum
+Dachfenster hinausstieg und die Rinne holen wollte.  Er traf eine
+Taube, die nicht weit von mir sass, sie stuerzt' in die Rinne; ich dankt
+ihm fuer den Braten und stieg mit der doppelten Beute wieder herein.
+
+Lerse.  Nun wollen wir wohl laden und im ganzen Schloss herumgehen,
+unser Mittagessen verdienen.
+
+(Goetz kommt.)
+
+Goetz.  Bleib, Lerse!  Ich habe mit dir zu reden!  Dich, Georg, will
+ich nicht von der Jagd abhalten.
+
+(Georg ab.)
+
+Goetz.  Sie entbieten mir einen Vertrag.
+
+Lerse.  Ich will zu ihnen hinaus und hoeren, was es soll.
+
+Goetz.  Es wird sein: ich soll mich auf Bedingungen in ritterlich
+Gefaengnis stellen.
+
+Lerse.  Das ist nichts.  Wie waer's, wenn sie uns freien Abzug
+eingestuenden, da Ihr doch von Sickingen keinen Entsatz erwartet?  Wir
+vergrueben Geld und Silber, wo sie's mit keiner Wuenschelrute finden
+sollten, ueberliessen ihnen das Schloss, und kaemen mit Manier davon.
+
+Goetz.  Sie lassen uns nicht.
+
+Lerse.  Es kommt auf eine Prob an.  Wir wollen um sicher Geleit rufen,
+und ich will hinaus.  (Ab.)
+
+Saal
+
+Goetz, Elisabeth, Georg, Knechte bei Tische.
+
+Goetz.  So bringt uns die Gefahr zusammen.  Lasst's euch schmecken,
+meine Freunde!  Vergesst das Trinken nicht.  Die Flasche ist leer.
+Noch eine, liebe Frau.  (Elisabeth zuckt die Achsel.) Ist keine mehr
+da?
+
+Elisabeth (leise).  Noch eine; ich hab sie fuer dich beiseite gesetzt.
+
+Goetz.  Nicht doch, Liebe!  Gib sie heraus.  Sie brauchen Staerkung,
+nicht ich; es ist ja meine Sache.
+
+Elisabeth.  Holt sie draussen im Schrank!
+
+Goetz.  Es ist die letzte.  Und mir ist's, als ob wir nicht zu sparen
+Ursach haetten.  Ich bin lange nicht so vergnuegt gewesen.  (Schenkt ein.
+) Es lebe der Kaiser!
+
+Alle.  Er lebe!
+
+Goetz.  Das soll unser vorletztes Wort sein, wenn wir sterben!  Ich
+lieb ihn, denn wir haben einerlei Schicksal.  Und ich bin noch
+gluecklicher als er.  Er muss den Reichsstaenden die Maeuse fangen,
+inzwischen die Ratten seine Besitztuemer annagen.  Ich weiss, er wuenscht
+sich manchmal lieber tot, als laenger die Seele eines so krueppligen
+Koerpers zu sein.  (Schenkt ein.) Es geht just noch ein mal herum.  Und
+wenn unser Blut anfaengt, auf die Neige zu gehen, wie der Wein in
+dieser Flasche erst schwach, dann tropfenweise rinnt (troepfelt das
+Letzte in sein Glas), was soll unser letztes Wort sein?
+
+Georg.  Es lebe die Freiheit!
+
+Goetz.  Es lebe die Freiheit!
+
+Alle.  Es lebe die Freiheit!
+
+Goetz.  Und wenn die uns ueberlebt, koennen wir ruhig sterben.  Denn wir
+sehen im Geist unsere Enkel gluecklich und die Kaiser unsrer Enkel
+gluecklich.  Wenn die Diener der Fuersten so edel und frei dienen wie
+ihr mir, wenn die Fuersten dem Kaiser dienen, wie ich ihm dienen
+moechte-Georg.  Da muesst's viel anders werden.
+
+Goetz.  So viel nicht, als es scheinen moechte.  Hab ich nicht unter den
+Fuersten treffliche Menschen gekannt, und sollte das Geschlecht
+ausgestorben sein?  Gute Menschen, die in sich und ihren Untertanen
+gluecklich waren; die einen edeln freien Nachbar neben sich leiden
+konnten und ihn weder fuerchteten noch beneideten; denen das Herz
+aufging, wenn sie viel ihresgleichen bei sich zu Tisch sahen und nicht
+erst die Ritter zu Hofschranzen umzuschaffen brauchten, um mit ihnen
+zu leben.
+
+Georg.  Habt Ihr solche Herrn gekannt?,
+
+Goetz.  Wohl.  Ich erinnere mich zeitlebens, wie der Landgraf von Hanau
+eine Jagd gab und die Fuersten und Herrn, die zugegen waren, unter
+freiem Himmel speisten und das Landvolk all herbeilief, sie zu sehen.
+Das war keine Maskerade, die er sich selbst zu Ehren angestellt hatte.
+Aber die vollen runden Koepfe der Bursche und Maedel, die roten Backen
+alle, und die wohlhaebigen Maenner und stattlichen Greise, und alles
+froehliche Gesichter, und wie sie teilnahmen an der Herrlichkeit ihres
+Herrn, der auf Gottes Boden unter ihnen sich ergetzte!
+
+Georg.  Das war ein Herr, vollkommen wie Ihr.
+
+Goetz.  Sollten wir nicht hoffen, dass mehr solcher Fuersten auf einmal
+herrschen koennen?  Dass Verehrung des Kaisers, Fried und Freundschaft
+der Nachbarn und Lieb der Untertanen der kostbarste Familienschatz
+sein wird, der auf Enkel und Urenkel erbt?  Jeder wuerde das Seinige
+erhalten und in sich selbst vermehren, statt dass sie jetzo nicht
+zuzunehmen glauben, wenn sie nicht andere verderben.
+
+Georg.  Wuerden wir hernach auch reiten?
+
+Goetz.  Wollte Gott, es gaebe keine unruhige Koepfe in ganz Deutschland!
+Wir wuerden noch immer zu tun genug finden.  Wir wollten die Gebirge
+von Woelfen saeubern, wollten unserm ruhig ackernden Nachbar einen
+Braten aus dem Wald holen und dafuer die Suppe mit ihm essen.  Waer uns
+das nicht genug, wir wollten uns mit unsern Bruedern, wie Cherubim mit
+flammenden Schwertern, vor die Grenzen des Reichs gegen die Woelfe die
+Tuerken, gegen die Fuechse die Franzosen lagern und zugleich unsers
+teuern Kaisers sehr ausgesetzte Laender und die Ruhe des Reichs
+beschuetzen.  Das waere ein Leben!  Georg! wenn man seine Haut fuer die
+allgemeine Glueckseligkeit dransetzte.  (Georg springt auf.) Wo willst
+du hin?
+
+Georg.  Ach ich vergass, dass wir eingesperrt sind--und der Kaiser hat
+uns eingesperrt--und unsere Haut davonzubringen, setzen wir unsere
+Haut dran?
+
+Goetz.  Sei gutes Muts.
+
+(Lerse kommt.)
+
+Lerse.  Freiheit!  Freiheit!  Das sind schlechte Menschen,
+unschluessige bedaechtige Esel.  Ihr sollt abziehen mit Gewehr, Pferden
+und Ruestung.  Proviant sollt Ihr dahintenlassen.
+
+Goetz.  Sie werden sich kein Zahnweh dran kauen.
+
+Lerse (heimlich).  Habt Ihr das Silber versteckt?
+
+Goetz.  Nein!  Frau, geh mit Franzen, er hat dir was zu sagen.
+
+(Alle ab.)
+
+Schlosshof
+
+Georg (im Stall, singt).
+
+Es fing ein Knab ein Voegelein,
+
+Hm!  Hm!  Da lacht' er in den Kaefig 'nein,
+
+Hm!  Hm!
+
+So!  So!
+
+Hm!  Hm!
+
+Der freut' sich traun so laeppisch,
+
+Hm!  Hm!  Und griff hinein so taeppisch,
+
+Hm!  Hm!
+
+So!  So!
+
+Hm!  Hm!
+
+Da flog das Meislein auf ein Haus,
+
+Hm!  Hm!  Und lacht' den dummen Buben aus,
+
+Hm!  Hm!
+
+So!  So!
+
+Hm!  Hm!
+
+
+Goetz.  Wie steht's?
+
+Georg (fuehrt sein Pferd heraus).  Sie sind gesattelt.
+
+Goetz.  Du bist fix.
+
+Georg.  Wie der Vogel aus dem Kaefig.
+
+(Alle die Belagerten.)
+
+Goetz.  Ihr habt eure Buechsen?  Nicht doch!  Geht hinauf und nehmt die
+besten aus dem Ruestschrank, es geht in einem hin.  Wir wollen
+vorausreiten.
+
+Georg.
+
+Hm!  Hm!
+
+So!  So!
+
+Hm!  Hm!  (Ab.)
+
+
+Saal
+
+Zwei Knechte am Ruestschrank.
+
+Erster Knecht.  Ich nehm die.
+
+Zweiter Knecht.  Ich die.  Da ist noch eine schoenere.
+
+Erster Knecht.  Nicht doch!  Mach, dass du fortkommst.
+
+Zweiter Knecht.  Horch!
+
+Erster Knecht (springt ans Fenster).  Hilf, heiliger Gott! sie
+ermorden unsern Herrn.  Er liegt vom Pferd!  Georg stuerzt!
+
+Zweiter Knecht.  Wo retten wir uns!  An der Mauer den Nussbaum hinunter
+ins Feld.  (Ab.)
+
+Erster Knecht.  Franz haelt sich noch, ich will zu ihm.  Wenn sie
+sterben, mag ich nicht leben.  (Ab.)
+
+
+
+
+Vierter Akt
+
+
+
+
+IV. Akt
+
+
+
+Wirtshaus zu Heilbronn
+
+Goetz.
+
+Goetz.  Ich komme mir vor wie der boese Geist, den der Kapuziner in
+einen Sack beschwur.  Ich arbeite mich ab und fruchte mir nichts.  Die
+Meineidigen!
+
+(Elisabeth kommt.)
+
+Goetz.  Was fuer Nachrichten, Elisabeth, von meinen lieben Getreuen?
+
+Elisabeth.  Nichts Gewisses.  Einige sind erstochen, einige liegen im
+Turn.  Es konnte oder wollte niemand mir sie naeher bezeichnen.
+
+Goetz.  Ist das Belohnung der Treue? des kindlichen Gehorsams?--Auf dass
+dir's wohl gehe und du lange lebest auf Erden!
+
+Elisabeth.  Lieber Mann, schilt unsern himmlischen Vater nicht.  Sie
+haben ihren Lohn, er ward mit ihnen geboren, ein freies edles Herz.
+Lass sie gefangen sein, sie sind frei!  Gib auf die deputierten Raete
+acht, die grossen goldnen Ketten stehen ihnen zu Gesicht-Goetz.  Wie dem
+Schwein das Halsband.  Ich moechte Georgen und Franzen geschlossen sehn!
+
+
+Elisabeth.  Es waere ein Anblick, um Engel weinen zu machen.
+
+Goetz.  Ich wollt nicht weinen.  Ich wollte die Zaehne zusammenbeissen
+und an meinem Grimm kauen.  In Ketten meine Augaepfel!  Ihr lieben
+Jungen, haettet ihr mich nicht geliebt!--Ich wuerde mich nicht satt an
+ihnen sehen koennen.--Im Namen des Kaisers ihr Wort nicht zu halten!
+
+Elisabeth.  Entschlagt Euch dieser Gedanken.  Bedenkt, dass Ihr vor den
+Raeten erscheinen sollt.  Ihr seid nicht gestellt, ihnen wohl zu
+begegnen, und ich fuerchte alles.
+
+Goetz.  Was wollen sie mir anhaben?
+
+Elisabeth.  Der Gerichtsbote!
+
+Goetz.  Esel der Gerechtigkeit!  Schleppt ihre Saecke zur Muehle, und
+ihren Kehrig aufs Feld.  Was gibt's?
+
+(Gerichtsdiener kommt.)
+
+Gerichtsdiener.  Die Herren Kommissarii sind auf dem Rathause
+versammelt und schicken nach Euch.
+
+Goetz.  Ich komme.
+
+Gerichtsdiener.  Ich werde Euch begleiten.
+
+Goetz.  Viel Ehre.
+
+Elisabeth.  Maessigt Euch.
+
+Goetz.  Sei ausser Sorgen.  (Ab.)
+
+Rathaus
+
+Kaiserliche Raete.  Hauptmann.  Ratsherren von Heilbronn.
+
+Ratsherr.  Wir haben auf Euern Befehl die staerksten und tapfersten
+Buerger versammelt; sie warten hier in der Naehe auf Euern Wink, um sich
+Berlichingens zu bemeistern.
+
+Erster Rat.  Wir werden Ihro Kaiserlichen Majestaet Eure
+Bereitwilligkeit, Ihrem hoechsten Befehl zu gehorchen, mit vielem
+Vergnuegen zu ruehmen wissen.--Es sind Handwerker?
+
+Ratsherr.  Schmiede, Weinschroeter, Zimmerleute, Maenner mit geuebten
+Faeusten und hier wohl beschlagen (auf die Brust deutend).
+
+Rat.  Wohl.
+
+(Gerichtsdiener kommt.)
+
+Gerichtsdiener.  Goetz von Berlichingen wartet vor der Tuer.
+
+Rat.  Lasst ihn herein.
+
+(Goetz kommt.)
+
+Goetz.  Gott gruess euch, ihr Herrn, was wollt ihr mit mir?
+
+Rat.  Zuerst, dass Ihr bedenkt: wo Ihr seid? und vor wem?
+
+Goetz.  Bei meinem Eid, ich verkenn euch nicht, meine Herrn.
+
+Rat.  Ihr tut Eure Schuldigkeit.
+
+Goetz.  Von ganzem Herzen.
+
+Rat.  Setzt Euch.
+
+Goetz.  Da unten hin?  Ich kann stehn.  Das Stuehlchen riecht so nach
+armen Suendern, wie ueberhaupt die ganze Stube.
+
+Rat.  So steht!
+
+Goetz.  Zur Sache, wenn's gefaellig ist.
+
+Rat.  Wir werden in der Ordnung verfahren.
+
+Goetz.  Bin's wohl zufrieden, wollt, es waer von jeher geschehen.
+
+Rat.  Ihr wisst, wie Ihr auf Gnad und Ungnad in unsere Haende kamt.
+
+Goetz.  Was gebt Ihr mir, wenn ich's vergesse?
+
+Rat.  Wenn ich Euch Bescheidenheit geben koennte, wuerd ich Eure Sache
+gut machen.
+
+Goetz.  Gut machen!  Wenn Ihr das koenntet!  Dazu gehoert freilich mehr
+als zum Verderben.
+
+Schreiber.  Soll ich das alles protokollieren?
+
+Rat.  Was zur Handlung gehoert.
+
+Goetz.  Meinetwegen duerft Ihr's drucken lassen.
+
+Rat.  Ihr wart in der Gewalt des Kaisers, dessen vaeterliche Gnade an
+den Platz der majestaetischen Gerechtigkeit trat, Euch anstatt eines
+Kerkers Heilbronn, eine seiner geliebten Staedte, zum Aufenthalt anwies.
+Ihr verspracht mit einem Eid, Euch, wie es einem Ritter geziemt, zu
+stellen und das Weitere demuetig zu erwarten.
+
+Goetz.  Wohl, und ich bin hier und warte.
+
+Rat.  Und wir sind hier, Euch Ihro Kaiserlichen Majestaet Gnade und
+Huld zu verkuendigen.  Sie verzeiht Euch Eure uebertretungen, spricht
+Euch von der Acht und aller wohlverdienten Strafe los, welches Ihr mit
+untertaenigem Dank erkennen und dagegen die Urfehde abschwoeren werdet,
+welche Euch hiermit vorgelesen werden soll.
+
+Goetz.  Ich bin Ihro Majestaet treuer Knecht wie immer.  Noch ein Wort,
+eh Ihr weitergeht: Meine Leute, wo sind die?  Was soll mit ihnen
+werden?
+
+Rat.  Das geht Euch nichts an.
+
+Goetz.  So wende der Kaiser sein Angesicht von Euch, wenn Ihr in Not
+steckt!  Sie waren meine Gesellen, und sind's.  Wo habt Ihr sie
+hingebracht?
+
+Rat.  Wir sind Euch davon keine Rechnung schuldig.
+
+Goetz.  Ah!  Ich dachte nicht, dass Ihr nicht einmal zu dem verbunden
+seid, was Ihr versprecht, geschweige-Rat.  Unsere Kommission ist, Euch
+die Urfehde vorzulegen.  Unterwerft Euch dem Kaiser, und Ihr werdet
+einen Weg finden, um Eurer Gesellen Leben und Freiheit zu flehen.
+
+Goetz.  Euern Zettel.
+
+Rat.  Schreiber, leset!
+
+Schreiber.  "Ich Goetz von Berlichingen bekenne oeffentlich durch diesen
+Brief: Dass, da ich mich neulich gegen Kaiser und Reich
+rebellischerweise aufgelehnt"-Goetz.  Das ist nicht wahr.  Ich bin kein
+Rebell, habe gegen Ihro Kaiserliche Majestaet nichts verbrochen, und
+das Reich geht mich nichts an.
+
+Rat.  Maessigt Euch und hoert weiter.
+
+Goetz.  Ich will nichts weiter hoeren.  Tret einer auf und zeuge!  Hab
+ich wider den Kaiser, wider das Haus oesterreich nur einen Schritt
+getan?  Hab ich nicht von jeher durch alle Handlungen bewiesen, dass
+ich besser als einer fuehle, was Deutschland seinen Regenten schuldig
+ist? und besonders was die Kleinen, die Ritter und Freien, ihrem
+Kaiser schuldig sind?  Ich muesste ein Schurke sein, wenn ich mich
+koennte bereden lassen, das zu unterschreiben.
+
+Rat.  Und doch haben wir gemessene Ordre, Euch in der Guete zu
+ueberreden, oder im Entstehungsfall Euch in den Turn zu werfen.
+
+Goetz.  In Turn? mich?
+
+Rat.  Und daselbst koennt Ihr Euer Schicksal von der Gerechtigkeit
+erwarten, wenn Ihr es nicht aus den Haenden der Gnade empfangen wollt.
+
+Goetz.  In Turn!  Ihr missbraucht die Kaiserliche Gewalt.  In Turn!  Das
+ist sein Befehl nicht.  Was! mir erst, die Verraeter! eine Falle zu
+stellen, und ihren Eid, ihr ritterlich Wort zum Speck drin aufzuhaengen!
+Mir dann ritterlich Gefaengnis zusagen, und die Zusage wieder brechen.
+
+
+Rat.  Einem Raeuber sind wir keine Treue schuldig.
+
+Goetz.  Truegst du nicht das Ebenbild des Kaisers, das ich in dem
+gesudeltsten Konterfei verehre, du solltest mir den Raeuber fressen
+oder dran erwuergen!  Ich bin in einer ehrlichen Fehd begriffen.  Du
+koenntest Gott danken und dich vor der Welt gross machen, wenn du in
+deinem Leben eine so edle Tat getan haettest, wie die ist, um welcher
+willen ich gefangen sitze.
+
+Rat (winkt dem Ratsherrn, der zieht die Schelle).
+
+Goetz.  Nicht um des leidigen Gewinsts willen, nicht um Land und Leute
+unbewehrten Kleinen wegzukapern, bin ich ausgezogen.  Meinen Jungen zu
+befreien, und mich meiner Haut zu wehren!  Seht Ihr was Unrechts dran?
+Kaiser und Reich haetten unsere Not nicht in ihrem Kopfkissen gefuehlt.
+Ich habe Gott sei Dank noch eine Hand, und habe wohl getan, sie zu
+brauchen.
+
+(Buerger treten herein, Stangen in der Hand, Wehren an der Seite.)
+
+Goetz.  Was soll das?
+
+Rat.  Ihr wollt nicht hoeren.  Fangt ihn!
+
+Goetz.  Ist das die Meinung?  Wer kein ungrischer Ochs ist, komm mir
+nicht zu nah!  Er soll von dieser meiner rechten eisernen Hand eine
+solche Ohrfeige kriegen, die ihm Kopfweh, Zahnweh und alles Weh der
+Erden aus dem Grund kurieren soll.  (Sie machen sich an ihn, er
+schlaegt den einen zu Boden, und reisst einem andern die Wehre von der
+Seite, sie weichen.) Kommt!  Kommt!  Es waere mir angenehm, den
+Tapfersten unter euch kennenzulernen.
+
+Rat.  Gebt Euch.
+
+Goetz.  Mit dem Schwert in der Hand!  Wisst Ihr, dass es jetzt nur an mir
+laege, mich durch alle diese Hasenjaeger durchzuschlagen und das weite
+Feld zu gewinnen?  Aber ich will Euch lehren, wie man Wort haelt.
+Versprecht mir ritterlich Gefaengnis, und ich gebe mein Schwert weg und
+bin wie vorher Euer Gefangener.
+
+Rat.  Mit dem Schwert in der Hand wollt Ihr mit dem Kaiser rechten?
+
+Goetz.  Behuete Gott!  Nur mit Euch und Eurer edlen Kompanie.--Ihr koennt
+nach Hause gehn, gute Leute.  Fuer die Versaeumnis kriegt ihr nichts,
+und zu holen ist hier nichts als Beulen.
+
+Rat.  Greift ihn.  Gibt euch eure Liebe zu euerm Kaiser nicht mehr
+Mut?
+
+Goetz.  Nicht mehr, als ihnen der Kaiser Pflaster gibt, die Wunden zu
+heilen, die sich ihr Mut holen koennte.
+
+(Gerichtsdiener kommt.)
+
+Gerichtsdiener.  Eben ruft der Tuerner: es zieht ein Trupp von mehr als
+zweihunderten nach der Stadt zu.  Unversehens sind sie hinter der
+Weinhoehe hervorgedrungen und drohen unsern Mauern.
+
+Ratsherr.  Weh uns! was ist das?
+
+(Wache kommt.)
+
+Wache.  Franz von Sickingen haelt vor dem Schlag und laesst euch sagen:
+Er habe gehoert, wie unwuerdig man an seinem Schwager bundbruechig
+geworden sei, wie die Herrn von Heilbronn allen Vorschub taeten.  Er
+verlange Rechenschaft, sonst wolle er binnen einer Stunde die Stadt an
+vier Ecken anzuenden und sie der Pluenderung preisgeben.
+
+Goetz.  Braver Schwager!
+
+Rat.  Tretet ab, Goetz!--Was ist zu tun?
+
+Ratsherr.  Habt Mitleiden mit uns und unserer Buergerschaft!  Sickingen
+ist unbaendig in seinem Zorn, er ist Mann, es zu halten.
+
+Rat.  Sollen wir uns und dem Kaiser die Gerechtsame vergeben?
+
+Hauptmann.  Wenn wir nur Leute haetten, sie zu behaupten.  So aber
+koennten wir umkommen, und die Sache waere nur desto schlimmer.  Wir
+gewinnen im Nachgeben.
+
+Ratsherr.  Wir wollen Goetzen ansprechen, fuer uns ein gut Wort
+einzulegen.  Mir ist's, als wenn ich die Stadt schon in Flammen saehe.
+
+Rat.  Lasst Goetzen herein.
+
+Goetz.  Was soll's?
+
+Rat.  Du wuerdest wohl tun, deinen Schwager von seinem rebellischen
+Vorhaben abzumahnen.  Anstatt dich vom Verderben zu retten, stuerzt er
+dich tiefer hinein, indem er sich zu deinem Falle gesellt.
+
+Goetz (sieht Elisabeth an der Tuer, heimlich zu ihr).  Geh hin!  Sag ihm:
+er soll unverzueglich hereinbrechen, soll hieher kommen, nur der Stadt
+kein Leids tun.  Wenn sich die Schurken hier widersetzen, soll er
+Gewalt brauchen.  Es liegt mir nichts dran umzukommen, wenn sie nur
+alle mit erstochen werden.
+
+Ein grosser Saal auf dem Rathaus
+
+Sickingen.  Goetz.  Das ganze Rathaus ist mit Sickingens Reitern
+besetzt.
+
+Goetz.  Das war Huelfe vom Himmel!  Wie kommst du so erwuenscht und
+unvermutet, Schwager?
+
+Sickingen.  Ohne Zauberei.  Ich hatte zwei, drei Boten ausgeschickt,
+zu hoeren, wie dir's ginge?  Auf die Nachricht von ihrem Meineid macht
+ich mich auf den Weg. Nun haben wir sie.
+
+Goetz.  Ich verlange nichts als ritterliche Haft.
+
+Sickingen.  Du bist zu ehrlich.  Dich nicht einmal des Vorteils zu
+bedienen, den der Rechtschaffene ueber den Meineidigen hat!  Sie sitzen
+im Unrecht, wir wollen ihnen keine Kissen unterlegen.  Sie haben die
+Befehle des Kaisers schaendlich missbraucht.  Und wie ich Ihro Majestaet
+kenne, darfst du sicher auf mehr dringen.  Es ist zu wenig.
+
+Goetz.  Ich bin von jeher mit wenigem zufrieden gewesen.
+
+Sickingen.  Und bist von jeher zu kurz gekommen.  Meine Meinung ist:
+sie sollen deine Knechte aus dem Gefaengnis und dich zusamt ihnen auf
+deinen Eid nach deiner Burg ziehen lassen.  Du magst versprechen,
+nicht aus deiner Terminei zu gehen, und wirst immer besser sein als
+hier.
+
+Goetz.  Sie werden sagen: Meine Gueter seien dem Kaiser heimgefallen.
+
+Sickingen.  So sagen wir: Du wolltest zur Miete drin wohnen, bis sie
+dir der Kaiser wieder zu Lehn gaebe.  Lass sie sich wenden wie Aale in
+der Reuse, sie sollen uns nicht entschluepfen.  Sie werden von
+Kaiserlicher Majestaet reden, von ihrem Auftrag.  Das kann uns einerlei
+sein.  Ich kenne den Kaiser auch und gelte was bei ihm.  Er hat immer
+gewuenscht, dich unter seinem Heer zu haben.  Du wirst nicht lang auf
+deinem Schlosse sitzen, so wirst du aufgerufen werden.
+
+Goetz.  Wollte Gott bald, eh ich 's Fechten verlerne.
+
+Sickingen.  Der Mut verlernt sich nicht, wie er sich nicht lernt.
+Sorge fuer nichts!  Wenn deine Sachen in der Ordnung sind, geh ich nach
+Hof, denn meine Unternehmung faengt an reif zu werden.  Guenstige
+Aspekten deuten mir: "Brich auf!"  Es ist mir nichts uebrig, als die
+Gesinnung des Kaisers zu sondieren.  Trier und Pfalz vermuten eher des
+Himmels Einfall, als dass ich ihnen uebern Kopf kommen werde.  Und ich
+will kommen wie ein Hagelwetter!  Und wenn wir unser Schicksal machen
+koennen, so sollst du bald der Schwager eines Kurfuersten sein.  Ich
+hoffte auf deine Faust bei dieser Unternehmung.
+
+Goetz (besieht seine Hand).  Oh! das deutete der Traum, den ich hatte,
+als ich tags darauf Marien an Weislingen versprach.  Er sagte mir Treu
+zu, und hielt meine rechte Hand so fest, dass sie aus den Armschienen
+ging, wie abgebrochen.  Ach!  Ich bin in diesem Augenblick wehrloser,
+als ich war, da sie mir abgeschossen wurde.  Weislingen!  Weislingen!
+
+Sickingen.  Vergiss einen Verraeter.  Wir wollen seine Anschlaege
+vernichten, sein Ansehn untergraben, und Gewissen und Schande sollen
+ihn zu Tode fressen.  Ich seh, ich seh im Geist meine Feinde, deine
+Feinde niedergestuerzt.  Goetz, nur noch ein halb Jahr!
+
+Goetz.  Deine Seele fliegt hoch.  Ich weiss nicht; seit einiger Zeit
+wollen sich in der meinigen keine froehlichen Aussichten eroeffnen.--Ich
+war schon mehr im Unglueck, schon einmal gefangen, und so, wie mir's
+jetzt ist, war mir's niemals.
+
+Sickingen.  Glueck macht Mut.  Kommt zu den Peruecken!  Sie haben lang
+genug den Vortrag gehabt, lass uns einmal die Mueh uebernehmen.  (Ab.)
+
+Adelheidens Schloss
+
+Adelheid.  Weislingen.
+
+Adelheid.  Das ist verhasst!
+
+Weislingen.  Ich hab die Zaehne zusammengebissen.  Ein so schoener
+Anschlag, so gluecklich vollfuehrt, und am Ende ihn auf sein Schloss zu
+lassen!  Der verdammte Sickingen!
+
+Adelheid.  Sie haetten's nicht tun sollen.
+
+Weislingen.  Sie sassen fest.  Was konnten sie machen?  Sickingen
+drohte mit Feuer und Schwert, der hochmuetige jaehzornige Mann!  Ich hass
+ihn.  Sein Ansehn nimmt zu wie ein Strom, der nur einmal ein paar
+Baeche gefressen hat, die uebrigen folgen von selbst.
+
+Adelheid.  Hatten sie keinen Kaiser?
+
+Weislingen.  Liebe Frau!  Er ist nur der Schatten davon, er wird alt
+und missmutig.  Wie er hoerte, was geschehen war, und ich nebst den
+uebrigen Regimentsraeten eiferte, sagte er: "Lasst ihnen Ruh!  Ich kann
+dem alten Goetz wohl das Plaetzchen goennen, und wenn er da still ist,
+was habt ihr ueber ihn zu klagen?"  Wir redeten vom Wohl des Staats.
+"Oh!" sagt' er, "haett' ich von jeher Raete gehabt, die meinen unruhigen
+Geist mehr auf das Glueck einzelner Menschen gewiesen haetten!"
+
+Adelheid.  Er verliert den Geist eines Regenten.
+
+Weislingen.  Wir zogen auf Sickingen los.--"Er ist mein treuer Diener",
+sagt' er; "hat er's nicht auf meinen Befehl getan, so tat er doch
+besser meinen Willen als meine Bevollmaechtigten, und ich kann's
+gutheissen, vor oder nach."
+
+Adelheid.  Man moechte sich zerreissen.
+
+Weislingen.  Ich habe deswegen noch nicht alle Hoffnung aufgegeben.
+Er ist auf sein ritterlich Wort auf sein Schloss gelassen, sich da
+still zu halten.  Das ist ihm unmoeglich; wir wollen bald eine Ursach
+wider ihn haben.
+
+Adelheid.  Und desto eher, da wir hoffen koennen, der Kaiser werde bald
+aus der Welt gehn, und Karl, sein trefflicher Nachfolger,
+majestaetischere Gesinnungen verspricht.
+
+Weislingen.  Karl?  Er ist noch weder gewaehlt noch gekroent.
+
+Adelheid.  Wer wuenscht und hofft es nicht?
+
+Weislingen.  Du hast einen grossen Begriff von seinen Eigenschaften;
+fast sollte man denken, du saehest sie mit andern Augen.
+
+Adelheid.  Du beleidigst mich, Weislingen.  Kennst du mich fuer das?
+
+Weislingen.  Ich sagte nichts dich zu beleidigen.  Aber schweigen kann
+ich nicht dazu.  Karls ungewoehnliche Aufmerksamkeit fuer dich
+beunruhigt mich.
+
+Adelheid.  Und mein Betragen?
+
+Weislingen.  Du bist ein Weib.  Ihr hasst keinen, der euch hofiert.
+
+Adelheid.  Aber ihr?
+
+Weislingen.  Er frisst mir am Herzen, der fuerchterliche Gedanke!
+Adelheid!
+
+Adelheid.  Kann ich deine Torheit kurieren?
+
+Weislingen.  Wenn du wolltest!  Du koenntest dich vom Hof entfernen.
+
+Adelheid.  Sage Mittel und Art.  Bist du nicht bei Hofe?  Soll ich
+dich lassen und meine Freunde, um auf meinem Schloss mich mit den Uhus
+zu unterhalten?  Nein, Weislingen, daraus wird nichts.  Beruhige dich,
+du weisst, wie ich dich liebe.
+
+Weislingen.  Der heilige Anker in diesem Sturm, solang der Strick
+nicht reisst.  (Ab.)
+
+Adelheid.  Faengst du's so an!  Das fehlte noch.  Die Unternehmungen
+meines Busens sind zu gross, als dass du ihnen im Wege stehen solltest.
+Karl!  Grosser trefflicher Mann, und Kaiser dereinst!  Und sollte er
+der einzige sein unter den Maennern, dem der Besitz meiner Gunst nicht
+schmeichelte?  Weislingen, denke nicht mich zu hindern, sonst musst du
+in den Boden, mein Weg geht ueber dich hin.
+
+(Franz kommt mit einem Brief.)
+
+Franz.  Hier, gnaedige Frau.
+
+Adelheid.  Gab dir Karl ihn selbst?
+
+Franz.  Ja.
+
+Adelheid.  Was hast du?  Du siehst so kummervoll.
+
+Franz.  Es ist Euer Wille, dass ich mich totschmachten soll; in den
+Jahren der Hoffnung macht Ihr mich verzweifeln.
+
+Adelheid.  Er dauert mich--und wie wenig kostet's mich, ihn gluecklich
+zu machen!  Sei gutes Muts, Junge.  Ich fuehle deine Lieb und Treu, und
+werde nie unerkenntlich sein.
+
+Franz (beklemmt).  Wenn Ihr das faehig waert, ich muesste vergehn.  Mein
+Gott, ich habe keinen Blutstropfen in mir, der nicht Euer waere, keinen
+Sinn, als Euch zu lieben und zu tun, was Euch gefaellt!
+
+Adelheid.  Lieber Junge!
+
+Franz.  Ihr schmeichelt mir.  (In Traenen ausbrechend.) Wenn diese
+Ergebenheit nichts mehr verdient, als andere sich vorgezogen zu sehn,
+als Eure Gedanken alle nach dem Karl gerichtet zu sehn-Adelheid.  Du
+weisst nicht, was du willst, noch weniger, was du redst.
+
+Franz (vor Verdruss und Zorn mit dem Fuss stampfend).  Ich will auch
+nicht mehr.  Will nicht mehr den Unterhaendler abgeben.
+
+Adelheid.  Franz!  Du vergisst dich.
+
+Franz.  Mich aufzuopfern!  Meinen lieben Herrn!
+
+Adelheid.  Geh mir aus dem Gesicht.
+
+Franz.  Gnaedige Frau!
+
+Adelheid.  Geh, entdecke deinem lieben Herrn mein Geheimnis.  Ich war
+die Naerrin, dich fuer was zu halten, das du nicht bist.
+
+Franz.  Liebe gnaedige Frau, Ihr wisst, dass ich Euch liebe.
+
+Adelheid.  Und du warst mein Freund, meinem Herzen so nahe.  Geh,
+verrat mich.
+
+Franz.  Eher wollt ich mir das Herz aus dem Leibe reissen!  Verzeiht
+mir, gnaedige Frau.  Mein Herz ist zu voll, meine Sinnen halten's nicht
+aus.
+
+Adelheid.  Lieber warmer Junge!  (Fasst ihn bei den Haenden, zieht ihn
+zu sich, und ihre Kuesse begegnen einander; er faellt ihr weinend um den
+Hals.)
+
+Adelheid.  Lass mich!
+
+Franz (erstickend in Traenen an ihrem Hals).  Gott!  Gott!
+
+Adelheid.  Lass mich, die Mauern sind Verraeter.  Lass mich.  (Macht sich
+los.) Wanke nicht von deiner Lieb und Treu, und der schoenste Lohn soll
+dir werden.  (Ab.)
+
+Franz.  Der schoenste Lohn!  Nur bis dahin lass mich leben!  Ich wollte
+meinen Vater ermorden, der mir diesen Platz streitig machte.
+
+Jagsthausen
+
+Goetz an einem Tisch.  Elisabeth bei ihm mit der Arbeit; es steht ein
+Licht auf dem Tisch und Schreibzeug.
+
+Goetz.  Der Muessiggang will mir gar nicht schmecken, und meine
+Beschraenkung wird mir von Tag zu Tag enger; ich wollt, ich koennt
+schlafen, oder mir nur einbilden, die Ruhe sei was Angenehmes.
+
+Elisabeth.  So schreib doch deine Geschichte aus, die du angefangen
+hast.  Gib deinen Freunden ein Zeugnis in die Hand, deine Feinde zu
+beschaemen; verschaff einer edlen Nachkommenschaft die Freude, dich
+nicht zu verkennen.
+
+Goetz.  Ach!  Schreiben ist geschaeftiger Muessiggang, es kommt mir sauer
+an.  Indem ich schreibe, was ich getan, aerger ich mich ueber den
+Verlust der Zeit, in der ich etwas tun koennte.
+
+Elisabeth (nimmt die Schrift).  Sei nicht wunderlich.  Du bist eben an
+deiner ersten Gefangenschaft in Heilbronn.
+
+Goetz.  Das war mir von jeher ein fataler Ort.
+
+Elisabeth (liest).  "Da waren selbst einige von den Buendischen, die zu
+mir sagten: ich habe toerig getan, mich meinen aergsten Feinden zu
+stellen, da ich doch vermuten konnte, sie wuerden nicht glimpflich mit
+mir umgehn; da antwortet ich:" Nun, was antwortetest du?  Schreibe
+weiter.
+
+Goetz.  Ich sagte: "Setz ich so oft meine Haut an anderer Gut und Geld,
+sollt ich sie nicht an mein Wort setzen?"
+
+Elisabeth.  Diesen Ruf hast, du.
+
+Goetz.  Den sollen sie mir nicht nehmen!  Sie haben mir alles genommen,
+Gut, Freiheit-Elisabeth.  Es faellt in die Zeiten, wie ich die von
+Miltenberg und Singlingen in der Wirtsstube fand, die mich nicht
+kannten.  Da hatt' ich eine Freude, als wenn ich einen Sohn geboren
+haette.  Sie ruehmten dich untereinander und sagten: "Er ist das Muster
+eines Ritters, tapfer und edel in seiner Freiheit" und gelassen und
+treu im Unglueck."
+
+Goetz.  Sie sollen mir einen stellen, dem ich mein Wort gebrochen!  Und
+Gott weiss, dass ich mehr geschwitzt hab, meinem Naechsten zu dienen, als
+mir, dass ich um den Namen eines tapfern und treuen Ritters gearbeitet
+habe, nicht um hohe Reichtuemer und Rang zu gewinnen.  Und Gott sei
+Dank, worum ich warb, ist mir worden.
+
+(Lerse.  Georg mit Wildbret.)
+
+Goetz.  Glueck zu, brave Jaeger!
+
+Georg.  Das sind wir aus braven Reitern geworden.  Aus Stiefeln machen
+sich leicht Pantoffeln.
+
+Lerse.  Die Jagd ist doch immer was, und eine Art von Krieg.
+
+Georg.  Wenn man nur hierzulande nicht immer mit Reichsknechten zu tun
+haette.  Wisst Ihr, gnaediger Herr, wie Ihr uns prophezeitet: wenn sich
+die Welt umkehrte, wuerden wir Jaeger werden.  Da sind wir's ohne das.
+
+Goetz.  Es kommt auf eins hinaus, wir sind aus unserm Kreise gerueckt.
+
+Georg.  Es sind bedenkliche Zeiten.  Schon seit acht Tagen laesst sich
+ein fuerchterlicher Komet sehen, und ganz Deutschland ist in Angst, es
+bedeute den Tod des Kaisers, der sehr krank ist.
+
+Goetz.  Sehr krank!  Unsere Bahn geht zu Ende.
+
+Lerse.  Und hier in der Naehe gibt's noch schrecklichere Veraenderungen.
+Die Bauern haben einen entsetzlichen Aufstand erregt.
+
+Goetz.  Wo?
+
+Lerse.  Im Herzen von Schwaben.  Sie sengen, brennen und morden.  Ich
+fuerchte, sie verheeren das ganze Land.
+
+Georg.  Einen fuerchterlichen Krieg gibt's.  Es sind schon an die
+hundert Ortschaften aufgestanden, und taeglich mehr.  Der Sturmwind
+neulich hat ganze Waelder ausgerissen, und kurz darauf hat man in der
+Gegend, wo der Aufstand begonnen, zwei feurige Schwerter kreuzweis in
+der Luft gesehn.
+
+Goetz.  Da leiden von meinen guten Herrn und Freunden gewiss unschuldig
+mit!
+
+Georg.  Schade, dass wir nicht reiten duerfen!
+
+
+
+
+Fuenfter Akt
+
+
+
+
+V. Akt, Szene 1
+
+
+
+Bauernkrieg. Tumult in einem Dorf und Pluenderung
+
+Weiber und Alte mit Kindern und Gepaecke.  Flucht.
+
+Alter.  Fort!  Fort! dass wir den Mordhunden entgehen.
+
+Weib.  Heiliger Gott, wie blutrot der Himmel ist, die untergehende
+Sonne blutrot!
+
+Mutter.  Das bedeut Feuer.
+
+Weib.  Mein Mann!  Mein Mann!
+
+Alter.  Fort!  Fort!  In Wald!
+
+(Ziehen vorbei.--Link.)
+
+Link.  Was sich widersetzt, niedergestochen!  Das Dorf ist unser.  Dass
+von Fruechten nichts umkommt, nichts zurueckbleibt.  Pluendert rein aus
+und schnell!  Wir zuenden gleich an.
+
+(Metzler vom Huegel heruntergelaufen.)
+
+Metzler.  Wie geht's Euch, Link?
+
+Link.  Drunter und drueber, siehst du, du kommst zum Kehraus.  Woher?
+
+Metzler.  Von Weinsberg.  Da war ein Fest.
+
+Link.  Wie?
+
+Metzler.  Wir haben sie zusammengestochen, dass eine Lust war.
+
+Link.  Wen alles?
+
+Metzler.  Dietrich von Weiler tanzte vor.  Der Fratz!  Wir waren mit
+hellem wuetigem Hauf herum, und er oben auf'm Kirchturn wollt guetlich
+mit uns handeln.  Paff!  Schoss ihn einer vorn Kopf.  Wir hinauf wie
+Wetter, und zum Fenster herunter mit dem Kerl.
+
+Link.  Ah!
+
+Metzler (zu den Bauern).  Ihr Hund', soll ich euch Bein' machen!  Wie
+sie zaudern und trenteln, die Esel.
+
+Link.  Brennt an! sie moegen drin braten!  Fort!  Fahrt zu, ihr
+Schlingel!
+
+Metzler.  Darnach fuehrten wir heraus den Helfenstein, den Eltershofen,
+an die dreizehn von Adel, zusammen auf achtzig.  Herausgefuehrt auf die
+Ebne gegen Heilbronn.  Das war ein Jubilieren und ein Tumultuieren von
+den Unsrigen, wie die lange Reih arme reiche Suender daherzog, einander
+anstarrten, und Erd und Himmel!  Umringt waren sie, ehe sie sich's
+versahen, und alle mit Spiessen niedergestochen.
+
+Link.  Dass ich nicht dabei war!
+
+Metzler.  Hab mein Tag so kein Gaudium gehabt.
+
+Link.  Fahrt zu!  Heraus!
+
+Bauer.  Alles ist leer.
+
+Link.  So brennt an allen Ecken.
+
+Metzler.  Wird ein huebsch Feuerchen geben.  Siehst du, wie die Kerls
+uebereinanderpurzelten und quiekten wie die Froesche!  Es lief mir so
+warm uebers Herz wie ein Glas Branntwein!  Da war ein Rixinger, wenn
+der Kerl sonst auf die Jagd ritt, mit dem Federbusch und weiten
+Nasloechern, und uns vor sich hertrieb mit den Hunden und wie die Hunde.
+Ich hatt' ihn die Zeit nicht gesehen, sein Fratzengesicht fiel mir
+recht auf.  Hasch! den Spiess ihm zwischen die Rippen, da lag er,
+streckt' alle vier ueber seine Gesellen.  Wie die Hasen beim Treibjagen
+zuckten die Kerls uebereinander.
+
+Link.  Raucht schon brav.
+
+Metzler.  Dort hinten brennt's.  Lass uns mit der Beute gelassen zu dem
+grossen Haufen ziehen.
+
+Link.  Wo haelt er?
+
+Metzler.  Von Heilbronn hieher zu.  Sie sind um einen Hauptmann
+verlegen, vor dem alles Volk Respekt haett'.  Denn wir sind doch nur
+ihresgleichen, das fuehlen sie und werden schwuerig.
+
+Link.  Wen meinen sie?
+
+Metzler.  Max Stumpf oder Goetz von Berlichingen.
+
+Link.  Das waer gut, gaeb auch der Sache einen Schein, wenn's der Goetz
+taet; er hat immer fuer einen rechtschaffnen Ritter gegolten.  Auf!  Auf!
+wir ziehen nach Heilbronn zu!  Ruft's herum.
+
+Metzler.  Das Feuer leucht uns noch eine gute Strecke.  Hast du den
+grossen Kometen gesehen?
+
+Link.  Ja.  Das ist ein grausam erschrecklich Zeichen!  Wenn wir die
+Nacht durch ziehen, koennen wir ihn recht sehen.  Er geht gegen eins
+auf.
+
+Metzler.  Und bleibt nur fuenf Viertelstunden.  Wie ein gebogner Arm
+mit einem Schwert sieht er aus, so blutgelbrot.
+
+Link.  Hast du die drei Stern gesehen an des Schwerts Spitze und
+Seite?
+
+Metzler.  Und der breite wolkenfaerbige Streif, mit tausend und tausend
+Striemen wie Spiess', und dazwischen wie kleine Schwerter.
+
+Link.  Mir hat's gegraust.  Wie das alles so bleichrot, und darunter
+viel feurige helle Flamme, und dazwischen die grausamen Gesichter mit
+rauchen Haeuptern und Baerten!
+
+Metzler.  Hast du die auch gesehen?  Und das zwitzert alles so
+durcheinander, als laeg's in einem blutigen Meere, und arbeitet
+durcheinander, dass einem die Sinne vergehn!
+
+Link.  Auf!  Auf!  (Ab.)
+
+Feld
+
+Man sieht in der Ferne zwei Doerfer brennen und ein Kloster.
+
+Kohl.  Wild.  Max Stumpf.  Haufen.
+
+Max Stumpf.  Ihr koennt nicht verlangen, dass ich euer Hauptmann sein
+soll.  Fuer mich und euch waer's nichts nuetze.  Ich bin Pfalzgraefischer
+Diener; wie sollt ich gegen meinen Herrn fuehren?  Ihr wuerdet immer
+waehnen, ich raet nicht von Herzen.
+
+Kohl.  Wussten wohl, du wuerdest Entschuldigung finden.
+
+(Goetz, Lerse, Georg kommen.)
+
+Goetz.  Was wollt ihr mit mir?
+
+Kohl.  Ihr sollt unser Hauptmann sein.
+
+Goetz.  Soll ich mein ritterlich Wort dem Kaiser brechen und aus meinem
+Bann gehen?
+
+Wild.  Das ist keine Entschuldigung.
+
+Goetz.  Und wenn ich ganz frei waere, und ihr wollt handeln wie bei
+Weinsberg an den Edeln und Herrn, und so forthausen, wie rings herum
+das Land brennt und blutet, und ich sollt euch behuelflich sein zu
+euerm schaendlichen rasenden Wesen--eher sollt ihr mich totschlagen wie
+einen wuetigen Hund, als dass ich euer Haupt wuerde!
+
+Kohl.  Waere das nicht geschehen, es geschaehe vielleicht nimmermehr.
+
+Stumpf.  Das war eben das Unglueck, dass sie keinen Fuehrer hatten, den
+sie geehrt, und der ihrer Wut Einhalt tun koennen.  Nimm die
+Hauptmannschaft an, ich bitte dich, Goetz.  Die Fuersten werden dir Dank
+wissen, ganz Deutschland.  Es wird zum Besten und Frommen aller sein.
+Menschen und Laender werden geschont werden.
+
+Goetz.  Warum uebernimmst du's nicht?
+
+Stumpf.  Ich hab mich von ihnen losgesagt.
+
+Kohl.  Wir haben nicht Sattelhenkens Zeit, und langer unnoetiger
+Diskurse.  Kurz und gut.  Goetz, sei unser Hauptmann, oder sieh zu
+deinem Schloss und deiner Haut.  Und hiermit zwei Stunden Bedenkzeit.
+Bewacht ihn.
+
+Goetz.  Was braucht's das!  Ich bin so gut entschlossen--jetzt als
+darnach.  Warum seid ihr ausgezogen?  Eure Rechte und Freiheiten
+wiederzuerlangen?  Was wuetet ihr und verderbt das Land!  Wollt ihr
+abstehen von allen uebeltaten und handeln als wackre Leute, die wissen,
+was sie wollen, so will ich euch behuelflich sein zu euern Forderungen
+und auf acht Tag euer Hauptmann sein.
+
+Wild.  Was geschehen ist, ist in der ersten Hitz geschehen, und
+braucht's deiner nicht, uns kuenftig zu hindern.
+
+Kohl.  Auf ein Vierteljahr wenigstens musst du uns zusagen.
+
+Stumpf.  Macht vier Wochen, damit koennt ihr beide zufrieden sein.
+
+Goetz.  Meinetwegen.
+
+Kohl.  Eure Hand!
+
+Goetz.  Und gelobt mir, den Vertrag, den ihr mit mir gemacht,
+schriftlich an alle Haufen zu senden, ihm bei Strafe streng
+nachzukommen.
+
+Wild.  Nun ja!  Soll geschehen.
+
+Goetz.  So verbind ich mich euch auf vier Wochen.
+
+Stumpf.  Glueck zu!  Was du tust, schon unsern gnaedigen Herrn den
+Pfalzgrafen.
+
+Kohl (leise).  Bewacht ihn.  Dass niemand mit ihm rede ausser eurer
+Gegenwart.
+
+Goetz.  Lerse!  Kehr zu meiner Frau.  Steh ihr bei.  Sie soll bald
+Nachricht von mir haben.
+
+(Goetz, Stumpf, Georg, Lerse, einige Bauern ab.--Metzler, Link kommen.)
+
+Metzler.  Was hoeren wir von einem Vertrag?  Was soll der Vertrag?
+
+Link.  Es ist schaendlich, so einen Vertrag einzugehen.
+
+Kohl.  Wir wissen so gut, was wir wollen, als ihr, und haben zu tun
+und zu lassen.
+
+Wild.  Das Rasen und Brennen und Morden musste doch einmal aufhoeren,
+heut oder morgen! so haben wir noch einen braven Hauptmann dazu
+gewonnen.
+
+Metzler.  Was aufhoeren!  Du Verraeter!  Warum sind wir da?  Uns an
+unsern Feinden zu raechen, uns emporzuhelfen!--Das hat euch ein
+Fuerstenknecht geraten.
+
+Kohl.  Komm, Wild, er ist wie ein Vieh.  (Ab.)
+
+Metzler.  Geht nur!  Wird euch kein Haufen zustehn.  Die Schurken!
+Link, wir wollen die andern aufhetzen, Miltenberg dort drueben anzuenden,
+und wenn's Haendel setzt wegen des Vertrags, schlagen wir den
+Vertraegern zusammen die Koepf ab.
+
+Link.  Wir haben doch den grossen Haufen auf unsrer Seite.
+
+Berg und Tal.  Eine Muehle in der Tiefe
+
+Ein Trupp Reiter.  Weislingen kommt aus der Muehle mit Franzen und
+einem Boten.
+
+Weislingen.  Mein Pferd!--Ihr habt's den andern Herrn auch angesagt?
+
+Bote.  Wenigstens sieben Faehnlein werden mit Euch eintreffen, im Wald
+hinter Miltenberg.  Die Bauern ziehen unten herum. Ueberall sind Boten
+ausgeschickt, der ganze Bund wird in kurzem zusammen sein.  Fehlen
+kann's nicht; man sagt, es sei Zwist unter ihnen.
+
+Weislingen.  Desto besser!--Franz!
+
+Franz.  Gnaediger Herr?
+
+Weislingen.  Richt es puenktlich aus.  Ich bind es dir auf deine Seele.
+Gib ihr den Brief.  Sie soll vom Hof auf mein Schloss!  Sogleich!  Du
+sollst sie abreisen sehn, und mir's dann melden.
+
+Franz.  Soll geschehen, wie Ihr befehlt.
+
+Weislingen.  Sag ihr, sie soll wollen.  (Zum Boten.) Fuehrt uns nun den
+naechsten und besten Weg.
+
+Bote.  Wir muessen umziehen.  Die Wasser sind von den entsetzlichen
+Regen alle ausgetreten.
+
+Jagsthausen
+
+Elisabeth.  Lerse.
+
+Lerse.  Troestet Euch, gnaedige Frau!
+
+Elisabeth.  Ach, Lerse, die Traenen stunden ihm in den Augen, wie er
+Abschied von mir nahm.  Es ist grausam, grausam!
+
+Lerse.  Er wird zurueckkehren.
+
+Elisabeth.  Es ist nicht das.  Wenn er auszog, ruehmlichen Sieg zu
+erwerben, da war mir's nicht weh ums Herz.  Ich freute mich auf seine
+Rueckkunft, vor der mir jetzt bang ist.
+
+Lerse.  Ein so edler Mann-Elisabeth.  Nenn ihn nicht so, das macht neu
+Elend.  Die Boesewichter!  Sie drohten, ihn zu ermorden, und sein
+Schloss anzuzuenden.--Wenn er wiederkommen wird--ich seh ihn finster,
+finster.  Seine Feinde werden luegenhafte Klagartikel schmieden, und er
+wird nicht sagen koennen: Nein!
+
+Lerse.  Er wird und kann.
+
+Elisabeth.  Er hat seinen Bann gebrochen.  Sag Nein!
+
+Lerse.  Nein!  Er ward gezwungen; wo ist der Grund, ihn zu verdammen?
+
+Elisabeth.  Die Bosheit sucht keine Gruende, nur Ursachen.  Er hat sich
+zu Rebellen, Missetaetern, Moerdern gesellt, ist an ihrer Spitze gezogen.
+Sage Nein!
+
+Lerse.  Lasst ab, Euch zu quaelen und mich.  Haben sie ihm nicht
+feierlich zugesagt, keine Tathandlungen mehr zu unternehmen, wie die
+bei Weinsberg?  Hoert ich sie nicht selbst halbreuig sagen: Wenn's
+nicht geschehen waer, geschaeh's vielleicht nie?  Muessten nicht Fuersten
+und Herrn ihm Dank wissen, wenn er freiwillig Fuehrer eines unbaendigen
+Volks geworden waere, um ihrer Raserei Einhalt zu tun und so viel
+Menschen und Besitztuemer zu schonen?
+
+Elisabeth.  Du bist ein liebevoller Advokat.--Wenn sie ihn
+gefangennaehmen, als Rebell behandelten, und sein graues Haupt--Lerse,
+ich moechte von Sinnen kommen.
+
+Lerse.  Sende ihrem Koerper Schlaf, lieber Vater der Menschen, wenn du
+ihrer Seele keinen Trost geben willst!
+
+Elisabeth.  Georg hat versprochen, Nachricht zu bringen.  Er wird auch
+nicht duerfen, wie er will.  Sie sind aerger als gefangen.  Ich weiss,
+man bewacht sie wie Feinde.  Der gute Georg!  Er wollte nicht von
+seinem Herrn weichen.
+
+Lerse.  Das Herz blutete mir, wie er mich von sich schickte.  Wenn Ihr
+nicht meiner Huelfe beduerftet, alle Gefahren des schmaehlichsten Todes
+sollten mich nicht von ihm getrennt haben.
+
+Elisabeth.  Ich weiss nicht, wo Sickingen ist.  Wenn ich nur Marien
+einen Boten schicken koennte.
+
+Lerse.  Schreibt nur, ich will dafuer sorgen.  (Ab.)
+
+Bei einem Dorf
+
+Goetz.  Georg.
+
+Goetz.  Geschwind zu Pferde, Georg!  Ich sehe Miltenberg brennen.
+Halten sie so den Vertrag?  Reit hin, sag ihnen die Meinung.  Die
+Mordbrenner!  Ich sage mich von ihnen los.  Sie sollen einen Zigeuner
+zum Hauptmann machen, nicht mich.  Geschwind, Georg.  (Georg ab.)
+Wollt, ich waere tausend Meilen davon, und laeg im tiefsten Turn, der in
+der Tuerkei steht.  Koennt ich mit Ehren von ihnen kommen!  Ich fahr
+ihnen alle Tag durch den Sinn, sag ihnen die bittersten Wahrheiten,
+dass sie mein muede werden und mich erlassen sollen.
+
+(Ein Unbekannter.)
+
+Unbekannter.  Gott gruess Euch, sehr edler Herr.
+
+Goetz.  Gott dank Euch.  Was bringt Ihr?  Euern Namen?
+
+Unbekannter.  Der tut nichts zur Sache.  Ich komme, Euch zu sagen, dass
+Euer Kopf in Gefahr ist.  Die Anfuehrer sind muede, sich von Euch so
+harte Worte geben zu lassen, haben beschlossen, Euch aus dem Weg zu
+raeumen.  Maessigt Euch oder seht zu entwischen, und Gott geleit Euch.
+(Ab.)
+
+Goetz.  Auf diese Art dein Leben zu lassen, Goetz, und so zu enden!  Es
+sei drum!  So ist mein Tod der Welt das sicherste Zeichen, dass ich
+nichts Gemeines mit den Hunden gehabt habe.
+
+(Einige Bauern.)
+
+Erster Bauer.  Herr, Herr!  Sie sind geschlagen, sie sind gefangen.
+
+Goetz.  Wer?
+
+Zweiter Bauer.  Die Miltenberg verbrannt haben.  Es zog sich ein
+Buendischer Trupp hinter dem Berg hervor und ueberfiel sie auf einmal.
+
+Goetz.  Sie erwartet ihr Lohn.--O Georg!  Georg!--Sie haben ihn mit den
+Boesewichtern gefangen--Mein Georg!  Mein Georg!-(Anfuehrer kommen.)
+
+Link.  Auf, Herr Hauptmann, auf!  Es ist nicht Saeumens Zeit.  Der
+Feind ist in der Naehe und maechtig.
+
+Goetz.  Wer verbrannte Miltenberg?
+
+Metzler.  Wenn Ihr Umstaende machen wollt, so wird man Euch weisen, wie
+man keine macht.
+
+Kohl.  Sorgt fuer unsere Haut und Eure.  Auf!  Auf!
+
+Goetz (zu Metzler).  Drohst du mir!  Du Nichtswuerdiger!  Glaubst du,
+dass du mir fuerchterlicher bist, weil des Grafen von Helfenstein Blut
+an deinen Kleidern klebt?
+
+Metzler.  Berlichingen!
+
+Goetz.  Du darfst meinen Namen nennen, und meine Kinder werden sich
+dessen nicht schaemen.
+
+Metzler.  Mit dir feigem Kerl!  Fuerstendiener!
+
+Goetz (haut ihn ueber den Kopf, dass er stuerzt.  Die andern treten
+dazwischen).
+
+Kohl.  Ihr seid rasend.  Der Feind bricht auf allen Seiten 'rein, und
+ihr hadert!
+
+Link.  Auf!  Auf!
+
+(Tumult und Schlacht.--Weislingen.  Reiter.)
+
+Weislingen.  Nach!  Nach!  Sie fliehen.  Lasst euch Regen und Nacht
+nicht abhalten.  Goetz ist unter ihnen, hoer ich.  Wendet Fleiss an, dass
+ihr ihn erwischt.  Er ist schwer verwundet, sagen die Unsrigen.  (Die
+Reiter ab.) Und wenn ich dich habe!--Es ist noch Gnade, wenn wir
+heimlich im Gefaengnis dein Todesurteil vollstrecken.--So verlischt er
+vor dem Andenken der Menschen, und du kannst freier atmen, toerichtes
+Herz.  (Ab.)
+
+Nacht, im wilden Wald.  Zigeunerlager
+
+Zigeunermutter am Feuer.
+
+Mutter.  Flick das Strohdach ueber der Grube, Tochter, gibt hint nacht
+noch Regen genug.
+
+(Knab kommt.)
+
+Knab.  Ein Hamster, Mutter.  Da!  Zwei Feldmaeus.
+
+Mutter.  Will sie dir abziehen und braten, und sollst eine Kapp haben
+von den Fellchen.--Du blutst?
+
+Knab.  Hamster hat mich bissen.
+
+Mutter.  Hol mir duerr Holz, dass das Feuer loh brennt wenn dein Vater
+kommt, wird nass sein durch und durch.
+
+(Andre Zigeunerin, ein Kind auf dem Ruecken.)
+
+Erste Zigeunerin.  Hast du brav geheischen?
+
+Zweite Zigeunerin.  Wenig genug.  Das Land ist voll Tumult herum, dass
+man seins Lebens nicht sicher ist.  Brennen zwei Doerfer lichterloh.
+
+Erste Zigeunerin.  Ist das dort drunten Brand, der Schein?  Seh ihm
+schon lang zu.  Man ist die Feuerzeichen am Himmel zeither so gewohnt
+worden.
+
+(Zigeunerhauptmann, drei Gesellen kommen.)
+
+Hauptmann.  Hoert ihr den wilden Jaeger?
+
+Erster Zigeuner.  Er zieht grad ueber uns hin.
+
+Hauptmann.  Wie die Hunde bellen!  Wau!  Wau!
+
+Zweiter Zigeuner.  Die Peitschen knallen.
+
+Dritter Zigeuner.  Die Jaeger jauchzen holla ho!
+
+Mutter.  Bringt ja des Teufels sein Gepaeck!
+
+Hauptmann.  Haben im Trueben gefischt.  Die Bauern rauben selbst, ist's
+uns wohl vergoennt.
+
+Zweite Zigeunerin.  Was hast du, Wolf?
+
+Wolf.  Einen Hasen, da, und einen Hahn; ein Bratspiess; ein Buendel
+Leinwand; drei Kochloeffel und ein Pferdzaum.
+
+Sticks.  Ein wullen Deck hab ich, ein Paar Stiefeln, und Zunder und
+Schwefel.
+
+Mutter.  Ist alles pudelnass, wollen's trocknen, gebt her.
+
+Hauptmann.  Horch, ein Pferd!  Geht!  Seht, was ist.  (Goetz zu Pferd.)
+
+Goetz.  Gott sei Dank!  Dort seh ich Feuer, sind Zigeuner.  Meine
+Wunden verbluten, die Feinde hinterher.  Heiliger Gott, du endigst
+graesslich mit mir!
+
+Hauptmann.  Ist's Friede dass du kommst?
+
+Goetz.  Ich flehe Huelfe von euch.  Meine Wunden ermatten mich.  Helft
+mir vom Pferd!
+
+Hauptmann.  Helf ihm!  Ein edler Mann, an Gestalt und Wort.
+
+Wolf (leise).  Es ist Goetz von Berlichingen.
+
+Hauptmann.  Seid willkommen!  Alles ist Euer, was wir haben.
+
+Goetz.  Dank Euch.
+
+Hauptmann.  Kommt in mein Zelt.
+
+
+
+
+V. Akt, Szene 2
+
+
+
+Hauptmanns Zelt
+
+Hauptmann.  Goetz.
+
+Hauptmann.  Ruft der Mutter, sie soll Blutwurzel bringen und Pflaster.
+
+Goetz (legt den Harnisch ab).
+
+Hauptmann.  Hier ist mein Feiertagswams.
+
+Goetz.  Gott lohn's.
+
+(Mutter verbindt ihn.)
+
+Hauptmann.  Ist mir herzlich lieb, Euch zu haben.
+
+Goetz.  Kennt Ihr mich?
+
+Hauptmann.  Wer sollte Euch nicht kennen!  Goetz, unser Leben und Blut
+lassen wir fuer Euch.
+
+(Schricks.)
+
+Schricks.  Kommen durch den Wald Reiter.  Sind Buendische.
+
+Hauptmann.  Eure Verfolger!  Sie sollen nit bis zu Euch kommen!  Auf,
+Schricks!  Biete den andern!  Wir kennen die Schliche besser als sie,
+wir schiessen sie nieder, eh sie uns gewahr werden.
+
+Goetz (allein).  O Kaiser!  Kaiser!  Raeuber beschuetzen deine Kinder.
+(Man hoert scharf schiessen.) Die wilden Kerls, starr und treu!
+
+(Zigeunerin.)
+
+Zigeunerin.  Rettet Euch!  Die Feinde ueberwaeltigen.
+
+Goetz.  Wo ist mein Pferd?
+
+Zigeunerin.  Hierbei.
+
+Goetz (guertet sich und sitzt auf ohne Harnisch).  Zum letztenmal sollen
+sie meinen Arm fuehlen.  Ich bin so schwach noch nicht.  (Ab.)
+
+Zigeunerin.  Er sprengt zu den Unsrigen.
+
+(Flucht.)
+
+Wolf.  Fort, fort!  Alles verloren.  Unser Hauptmann erschossen.  Goetz
+gefangen.
+
+(Geheul der Weiber und Flucht.)
+
+Adelheidens Schlafzimmer
+
+Adelheid mit einem Brief.
+
+Adelheid.  Er, oder ich!  Der uebermuetige!  Mir drohen!--Wir wollen dir
+zuvorkommen.  Was schleicht durch den Saal?  (Es klopft.) Wer ist
+draussen?
+
+(Franz leise.)
+
+Franz.  Macht mir auf, gnaedige Frau.
+
+Adelheid.  Franz!  Er verdient wohl, dass ich ihm aufmache.  (Laesst ihn
+ein.)
+
+Franz (faellt ihr um den Hals).  Liebe gnaedige Frau.
+
+Adelheid.  Unverschaemter!  Wenn dich jemand gehoert haette.
+
+Franz.  O es schlaeft alles, alles!
+
+Adelheid.  Was willst du?
+
+Franz.  Mich laesst's nicht ruhen.  Die Drohungen meines Herrn, Euer
+Schicksal, mein Herz.
+
+Adelheid.  Er war sehr zornig, als du Abschied nahmst?
+
+Franz.  Als ich ihn nie gesehen.  Auf ihre Gueter soll sie, sagt' er,
+sie soll wollen.
+
+Adelheid.  Und wir folgen?
+
+Franz.  Ich weiss nichts, gnaedige Frau.
+
+Adelheid.  Betrogener toerichter Junge, du siehst nicht, wo das hinaus
+will.  Hier weiss er mich in Sicherheit.  Denn lange steht's ihm schon
+nach meiner Freiheit.  Er will mich auf seine Gueter.  Dort hat er
+Gewalt, mich zu behandeln, wie sein Hass ihm eingibt.
+
+Franz.  Er soll nicht!
+
+Adelheid.  Wirst du ihn hindern?
+
+Franz.  Er soll nicht!
+
+Adelheid.  Ich seh mein ganzes Elend voraus.  Von seinem Schloss wird
+er mich mit Gewalt reissen, wird mich in ein Kloster sperren.
+
+Franz.  Hoelle und Tod!
+
+Adelheid.  Wirst du mich retten?
+
+Franz.  Eh alles! alles!
+
+Adelheid (die weinend ihn umhalst).  Franz, ach uns zu retten!
+
+Franz.  Er soll nieder, ich will ihm den Fuss auf den Nacken setzen.
+
+Adelheid.  Keine Wut!  Du sollst einen Brief an ihn haben, voll Demut,
+dass ich gehorche.  Und dieses Flaeschchen giess ihm unter das Getraenk.
+
+Franz.  Gebt.  Ihr sollt frei sein!
+
+Adelheid.  Frei!  Wenn du nicht mehr zitternd auf deinen Zehen zu mir
+schleichen wirst--nicht mehr ich aengstlich zu dir sage: "Brich auf,
+Franz, der Morgen kommt."
+
+Heilbronn, vorm Turn
+
+Elisabeth.  Lerse.
+
+Lerse.  Gott nehm das Elend von Euch, gnaedige Frau.  Marie ist hier.
+
+Elisabeth.  Gott sei Dank!  Lerse, wir sind in entsetzliches Elend
+versunken.  Da ist's nun, wie mir alles ahnete!  Gefangen, als Meuter,
+Missetaeter in den tiefsten Turn geworfen
+
+Lerse.  Ich weiss alles.
+
+Elisabeth.  Nichts, nichts weisst du, der Jammer ist zu gross!  Sein
+Alter, seine Wunden, ein schleichend Fieber und, mehr als alles das,
+die Finsternis seiner Seele, dass es so mit ihm enden soll.
+
+Lerse.  Auch, und dass der Weislingen Kommissar ist.
+
+Elisabeth.  Weislingen?
+
+Lerse.  Man hat mit unerhoerten Exekutionen verfahren.  Metzler ist
+lebendig verbrannt, zu Hunderten geraedert, gespiesst, gekoepft,
+geviertelt.  Das Land umher gleicht einer Metzge, wo Menschenfleisch
+wohlfeil ist.
+
+Elisabeth.  Weislingen Kommissar!  O Gott!  Ein Strahl von Hoffnung.
+Marie soll mir zu ihm, er kann ihr nichts abschlagen.  Er hatte immer
+ein weiches Herz, und wenn er sie sehen wird, die er so liebte, die so
+elend durch ihn ist--Wo ist sie?
+
+Lerse.  Noch im Wirtshaus.
+
+Elisabeth.  Fuehre mich zu ihr.  Sie muss gleich fort.  Ich fuerchte
+alles.
+
+Weislingens Schloss
+
+Weislingen.
+
+Weislingen.  Ich bin so krank, so schwach.  Alle meine Gebeine sind
+hohl.  Ein elendes Fieber hat das Mark ausgefressen.  Keine Ruh und
+Rast, weder Tag noch Nacht.  Im halben Schlummer giftige Traeume.  Die
+vorige Nacht begegnete ich Goetzen im Wald.  Er zog sein Schwert und
+forderte mich heraus.  Ich fasste nach meinem, die Hand versagte mir.
+Da stiess er's in die Scheide, sah mich veraechtlich an und ging hinter
+mich.--Er ist gefangen, und ich zittre vor ihm.  Elender Mensch!  Dein
+Wort hat ihn zum Tode verurteilt, und du bebst vor seiner Traumgestalt
+wie ein Missetaeter!--Und soll er sterben?--Goetz!  Goetz!--Wir Menschen
+fuehren uns nicht selbst; boesen Geistern ist Macht ueber uns gelassen,
+dass sie ihren hoellischen Mutwillen an unserm Verderben ueben.  (Setzt
+sich.)--Matt!  Matt!  Wie sind meine Naegel so blau!--Ein kalter,
+kalter, verzehrender Schweiss laehmt mir jedes Glied.  Es dreht mir
+alles vorm Gesicht.  Koennt ich schlafen.  Ach-(Maria tritt auf.)
+
+Weislingen.  Jesus Marie!--Lass mir Ruh!  Lass mir Ruh!--Die Gestalt
+fehlte noch!  Sie stirbt, Marie stirbt, und zeigt sich mir an.--Verlass
+mich, seliger Geist, ich bin elend genug.
+
+Maria.  Weislingen, ich bin kein Geist.  Ich bin Marie.
+
+Weislingen.  Das ist ihre Stimme.
+
+Maria.  Ich komme, meines Bruders Leben von dir zu erflehen.  Er ist
+unschuldig, so strafbar er scheint.
+
+Weisling.  Still, Marie!  Du Engel des Himmels bringst die Qualen der
+Hoelle mit dir.  Rede nicht fort.
+
+Maria.  Und mein Bruder soll sterben?  Weislingen, es ist entsetzlich,
+dass ich dir zu sagen brauche: er ist unschuldig; dass ich jammern muss,
+dich von dem abscheulichsten Morde zurueckzuhalten.  Deine Seele ist
+bis in ihre innersten Tiefen von feindseligen Maechten besessen.  Das
+ist Adelbert!
+
+Weislingen.  Du siehst, der verzehrende Atem des Todes hat mich
+angehaucht, meine Kraft sinkt nach dem Grabe.  Ich stuerbe als ein
+Elender, und du kommst, mich in Verzweiflung zu stuerzen.  Wenn ich
+reden koennte, dein hoechster Hass wuerde in Mitleid und Jammer
+zerschmelzen.  O Marie!  Marie!
+
+Maria.  Weislingen, mein Bruder verkranket im Gefaengnis.  Seine
+schweren Wunden, sein Alter.  Und wenn du faehig waerst, sein graues
+Haupt--Weislingen, wir wuerden verzweifeln.
+
+Weislingen.  Genug.  (Zieht die Schelle.)
+
+(Franz in aeusserster Bewegung.)
+
+Franz.  Gnaediger Herr.
+
+Weislingen.  Die Papiere dort, Franz!
+
+Franz (bringt sie).
+
+Weislingen (reisst ein Paket auf und zeigt Marien ein Papier).  Hier
+ist deines Bruders Todesurteil unterschrieben.
+
+Maria.  Gott im Himmel!
+
+Weislingen.  Und so zerreiss ich's!  Er lebt.  Aber kann ich wieder
+schaffen, was ich zerstoert habe?  Weine nicht so, Franz!  Guter Junge,
+dir geht mein Elend tief zu Herzen.
+
+Franz (wirft sich vor ihm nieder und fasst seine Knie).
+
+Maria (vor sich).  Er ist sehr krank.  Sein Anblick zerreisst mir das
+Herz.  Wie liebt ich ihn! und nun ich ihm nahe, fuehl ich, wie lebhaft.
+
+Weislingen.  Franz, steh auf und lass das Weinen!  Ich kann wieder
+aufkommen.  Hoffnung ist bei den Lebenden.
+
+Franz.  Ihr werdet nicht.  Ihr muesst sterben.
+
+Weislingen.  Ich muss?
+
+Franz (ausser sich).  Gift!  Gift!  Von Euerm Weibe!--Ich!  Ich!
+(Rennt davon.)
+
+Weislingen.  Marie, geh ihm nach.  Er verzweifelt.  (Maria ab.) Gift
+von meinem Weibe!  Weh!  Weh!  Ich fuehl's.  Marter und Tod!
+
+Maria (inwendig).  Huelfe!  Huelfe!
+
+Weislingen (will aufstehn).  Gott, vermag ich das nicht!
+
+Maria (kommt).  Er ist hin.  Zum Saalfenster hinaus stuerzt' er wuetend
+in den Main hinunter.
+
+Weislingen.  Ihm ist wohl.--Dein Bruder ist ausser Gefahr.  Die uebrigen
+Kommissarien, Seckendorf besonders, sind seine Freunde.  Ritterlich
+Gefaengnis werden sie ihm auf sein Wort gleich gewaehren.  Leb wohl,
+Maria, und geh.
+
+Maria.  Ich will bei dir bleiben, armer Verlassner.
+
+Weislingen.  Wohl verlassen und arm!  Du bist ein furchtbarer Raecher,
+Gott!--Mein Weib-Maria.  Entschlage dich dieser Gedanken.  Kehre dein
+Herz zu dem Barmherzigen.
+
+Weislingen.  Geh, liebe Seele, ueberlass mich meinem Elend.--Entsetzlich!
+Auch deine Gegenwart, Marie, der letzte Trost, ist Qual.
+
+Maria (vor sich).  Staerke mich, o Gott!  Meine Seele erliegt mit der
+seinigen.
+
+Weislingen.  Weh!  Weh!  Gift von meinem Weibe!--Mein Franz verfuehrt
+durch die Abscheuliche!  Wie sie wartet, horcht auf den Boten, der ihr
+die Nachricht bringe: er ist tot.  Und du, Marie!  Marie, warum bist
+du gekommen, dass du jede schlafende Erinnerung meiner Suenden wecktest!
+Verlass mich!  Verlass mich, dass ich sterbe.
+
+Maria.  Lass mich bleiben.  Du bist allein.  Denk, ich sei deine
+Waerterin.  Vergiss alles.  Vergesse dir Gott so alles, wie ich dir
+alles vergesse.
+
+Weislingen.  Du Seele voll Liebe, bete fuer mich, bete fuer mich!  Mein
+Herz ist verschlossen.
+
+Maria.  Er wird sich deiner erbarmen.--Du bist matt.
+
+Weislingen.  Ich sterbe, sterbe und kann nicht ersterben.  Und in dem
+fuerchterlichen Streit des Lebens und Todes sind die Qualen der Hoelle.
+
+Maria.  Erbarmer, erbarme dich seiner!  Nur einen Blick deiner Liebe
+an sein Herz, dass es sich zum Trost oeffne, und sein Geist Hoffnung,
+Lebenshoffnung in den Tod hinueberbringe!
+
+In einem finstern engen Gewoelbe
+
+Die Richter des heimlichen Gerichts.  Alle vermummt.
+
+aeltester.  Richter des heimlichen Gerichts, schwurt auf Strang und
+Schwert, unstraeflich zu sein, zu richten im Verborgnen, zu strafen im
+Verborgnen Gott gleich!  Sind eure Herzen rein und eure Haende, hebt
+die Arme empor, ruft ueber die Missetaeter: "Wehe!  Wehe!"
+
+Alle.  Wehe!  Wehe!
+
+aeltester.  Rufer, beginne das Gericht!
+
+Rufer.  Ich, Rufer, rufe die Klag gegen den Missetaeter.  Des Herz rein
+ist, dessen Haend rein sind zu schwoeren auf Strang und Schwert, der
+klage bei Strang und Schwert! klage! klage!
+
+Klaeger (tritt vor).  Mein Herz ist rein von Missetat, meine Haende von
+unschuldigem Blut.  Verzeih mir Gott boese Gedanken und hemme den Weg
+zum Willen!  Ich hebe meine Hand auf und klage! klage! klage!
+
+aeltester.  Wen klagst du an?
+
+Klaeger.  Klage an auf Strang und Schwert Adelheiden von Weislingen.
+Sie hat Ehebruchs sich schuldig gemacht, ihren Mann vergiftet durch
+ihren Knaben.  Der Knab hat sich selbst gerichtet, der Mann ist tot.
+
+aeltester.  Schwoerst du zu dem Gott der Wahrheit, dass du Wahrheit
+klagst?
+
+Klaeger.  Ich schwoere.
+
+aeltester.  Wuerd es falsch befunden, beutst du deinen Hals der Strafe
+des Mords und des Ehebruchs?
+
+Klaeger.  Ich biete.
+
+aeltester.  Eure Stimmen.
+
+(Sie reden heimlich zu ihm.)
+
+Klaeger.  Richter des heimlichen Gerichts, was ist euer Urteil ueber
+Adelheiden von Weislingen, bezuechtigt des Ehebruchs und Mords?
+
+aeltester.  Sterben soll sie! sterben des bittern doppelten Todes; mit
+Strang und Dolch buessen doppelt doppelte Missetat.  Streckt eure Haende
+empor, und rufet Weh ueber sie!  Weh!  Weh!  In die Haende des Raechers.
+
+Alle.  Weh!  Weh!  Weh!
+
+aeltester.  Raecher!  Raecher, tritt auf.
+
+Raecher (tritt vor).
+
+aeltester.  Fass hier Strang und Schwert, sie zu tilgen von dem
+Angesicht des Himmels, binnen acht Tage Zeit.  Wo du sie findest,
+nieder mit ihr in Staub!--Richter, die ihr richtet im Verborgenen und
+strafet im Verborgenen Gott gleich, bewahrt euer Herz vor Missetat und
+eure Haende vor unschuldigem Blut.
+
+Hof einer Herberge
+
+Maria.  Lerse.
+
+Maria.  Die Pferde haben genug gerastet.  Wir wollen fort, Lerse.
+
+Lerse.  Ruht doch bis an Morgen.  Die Nacht ist gar zu unfreundlich.
+
+Maria.  Lerse, ich habe keine Ruhe, bis ich meinen Bruder gesehen habe.
+Lass uns fort.  Das Wetter hellt sich aus, wir haben einen schoenen
+Tag zu gewarten.
+
+Lerse.  Wie Ihr befehlt.
+
+Heilbronn, im Turn
+
+Goetz.  Elisabeth.
+
+Elisabeth.  Ich bitte dich, lieber Mann, rede mit mir.  Dein
+Stillschweigen aengstet mich.  Du vergluehst in dir selbst.  Komm, lass
+uns nach deinen Wunden sehen; sie bessern sich um vieles.  In der
+mutlosen Finsternis erkenn ich dich nicht mehr.
+
+Goetz.  Suchtest du den Goetz?  Der ist lang hin.  Sie haben mich nach
+und nach verstuemmelt, meine Hand, meine Freiheit, Gueter und guten
+Namen.  Mein Kopf, was ist an dem?--Was hoert Ihr von Georgen?  Ist
+Lerse nach Georgen?
+
+Elisabeth.  Ja, Lieber!  Richtet Euch auf, es kann sich vieles wenden.
+
+Goetz.  Wen Gott niederschlaegt, der richtet sich selbst nicht auf.  Ich
+weiss am besten, was auf meinen Schultern liegt.  Unglueck bin ich
+gewohnt zu dulden.  Und jetzt ist's nicht Weislingen allein, nicht die
+Bauern allein, nicht der Tod des Kaisers und meine Wunden--Es ist
+alles zusammen.  Meine Stunde ist kommen.  Ich hoffte, sie sollte sein
+wie mein Leben.  Sein Wille geschehe.
+
+Elisabeth.  Willt du nicht was essen?
+
+Goetz.  Nichts, meine Frau.  Sieh, wie die Sonne draussen scheint.
+
+Elisabeth.  Ein schoener Fruehlingstag.
+
+Goetz.  Meine Liebe, wenn du den Waechter bereden koenntest, mich in sein
+klein Gaertchen zu lassen auf eine halbe Stunde, dass ich der lieben
+Sonne genoesse, des heitern Himmels und der reinen Luft.
+
+Elisabeth.  Gleich! und er wird's wohl tun.
+
+Gaertchen am Turn
+
+Maria.  Lerse.
+
+Maria.  Geh hinein und sieh, wie's steht.
+
+(Lerse ab.--Elisabeth.  Waechter.)
+
+Elisabeth.  Gott vergelt Euch die Lieb und Treu an meinem Herrn.
+(Waechter ab.) Maria, was bringst du?
+
+Maria.  Meines Bruders Sicherheit.  Ach, aber mein Herz ist zerrissen.
+Weislingen ist tot, vergiftet von seinem Weibe.  Mein Mann ist in
+Gefahr.  Die Fuersten werden ihm zu maechtig, man sagt, er sei
+eingeschlossen und belagert.
+
+Elisabeth.  Glaubt dem Geruechte nicht.  Und lasst Goetzen nichts merken.
+
+Maria.  Wie steht's um ihn?
+
+Elisabeth.  Ich fuerchtete, er wuerde deine Rueckkunft nicht erleben.
+Die Hand des Herrn liegt schwer auf ihm.  Und Georg ist tot.
+
+Maria.  Georg! der goldne Junge!
+
+Elisabeth.  Als die Nichtswuerdigen Miltenberg verbrannten, sandte ihn
+sein Herr, ihnen Einhalt zu tun.  Da fiel ein Trupp Buendischer auf sie
+los.--Georg! haetten sie sich alle gehalten wie er, sie haetten alle das
+gute Gewissen haben muessen.  Viel wurden erstochen, und Georg mit: er
+starb einen Reiterstod.
+
+Maria.  Weiss es Goetz?
+
+Elisabeth.  Wir verbergen's vor ihm.  Er fragt mich zehnmal des Tags,
+und schickt mich zehnmal des Tags zu forschen, was Georg macht.  Ich
+fuerchte seinem Herzen diesen letzten Stoss zu geben.
+
+Maria.  O Gott, was sind die Hoffnungen dieser Erden!
+
+(Goetz.  Lerse.  Waechter.)
+
+Goetz.  Allmaechtiger Gott!  Wie wohl ist's einem unter deinem Himmel!
+Wie frei!--Die Baeume treiben Knospen, und alle Welt hofft.  Lebt wohl,
+meine Lieben; meine Wurzeln sind abgehauen, meine Kraft sinkt nach dem
+Grabe.
+
+Elisabeth.  Darf ich Lersen nach deinem Sohn ins Kloster schicken, dass
+du ihn noch einmal siehst und segnest?
+
+Goetz.  Lass ihn, er ist heiliger als ich, er braucht meinen Segen nicht.
+--An unsrem Hochzeittag, Elisabeth, ahnte mir's nicht, dass ich so
+sterben wuerde.--Mein alter Vater segnete uns, und eine
+Nachkommenschaft von edeln tapfern Soehnen quoll aus seinem Gebet.--Du
+hast ihn nicht erhoert, und ich bin der Letzte.--Lerse, dein Angesicht
+freut mich in der Stunde des Todes mehr als im mutigsten Gefecht.
+Damals fuehrte mein Geist den eurigen; jetzt haeltst du mich aufrecht.
+Ach dass ich Georgen noch einmal saehe, mich an seinem Blick waermte!
+--Ihr seht zur Erden und weint--Er ist tot--Georg ist tot.--Stirb,
+Goetz--Du hast dich selbst ueberlebt, die Edeln ueberlebt.--Wie starb
+er?--Ach fingen sie ihn unter den Mordbrennern, und er ist
+hingerichtet?
+
+Elisabeth.  Nein, er wurde bei Miltenberg erstochen.  Er wehrte sich
+wie ein Loew um seine Freiheit.
+
+Goetz.  Gott sei Dank!--Er war der beste Junge unter der Sonne und
+tapfer.--Loese meine Seele nun!--Arme Frau!  Ich lasse dich in einer
+verderbten Welt.  Lerse, verlass sie nicht.--Schliesst eure Herzen
+sorgfaeltiger als eure Tore.  Es kommen die Zeiten des Betrugs, es ist
+ihm Freiheit gegeben.  Die Nichtswuerdigen werden regieren mit List,
+und der Edle wird in ihre Netze fallen.  Maria, gebe dir Gott deinen
+Mann wieder.  Moege er nicht so tief fallen, als er hoch gestiegen ist!
+Selbitz starb, und der gute Kaiser, und mein Georg.--Gebt mir einen
+Trunk Wasser.--Himmlische Luft--Freiheit!  Freiheit!  (Er stirbt.)
+
+Elisabeth.  Nur droben, droben bei dir.  Die Welt ist ein Gefaengnis.
+
+Maria.  Edler Mann!  Edler Mann!  Wehe dem Jahrhundert, das dich von
+sich stiess!
+
+Lerse.  Wehe der Nachkommenschaft, die dich verkennt!
+
+
+
+
+
+Ende Project Gutenberg Etextes "Goetz von Berlichingen mit der eisernen Hand"
+von Johann Wolfgang Goethe
+End of Project Gutenberg Etext Goetz von Berlichingen mit der eisernen Hand
+

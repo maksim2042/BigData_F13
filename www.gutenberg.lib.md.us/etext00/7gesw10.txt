@@ -1,0 +1,1086 @@
+The Project Gutenberg Etext of Die Geschwister
+by Johann Wolfgang von Goethe
+
+#25 in our series by Johann Wolfgang von Goethe
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfuegung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg.aol.de erreichbar.
+
+This work contains 7 bit ASCII characters to represent certain special
+German characters.  An alternate 8 bit version of this text which does
+use the high order ASCII characters is also available in this format.
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Die Geschwister
+
+by Johann Wolfgang von Goethe
+
+November, 2000  [Etext #2406]
+
+
+The Project Gutenberg Etext of Die Geschwister
+******This file should be named 7gesw10.txt or 7gesw10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 7gesw11.txt
+VERSIONS based on separate sources get new LETTER, 7gesw10a.txt
+
+
+This etext was prepared by Michael Pullen, globaltraveler5565@yahoo.com.
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note: neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001. [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P.  O.  Box 2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S.  Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.?? [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S.  Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1] Only give exact copies of it.  Among other things, this
+   requires that you do not remove, alter or modify the
+   etext or this "small print!" statement.  You may however,
+   if you wish, distribute this etext in machine readable
+   binary, compressed, mark-up, or proprietary form,
+   including any form resulting from conversion by word pro-
+   cessing or hypertext software, but only so long as
+   *EITHER*:
+
+   [*] The etext, when displayed, is clearly readable, and
+     does *not* contain characters other than those
+     intended by the author of the work, although tilde
+     (~), asterisk (*) and underline (_) characters may
+     be used to convey punctuation intended by the
+     author, and additional characters may be used to
+     indicate hypertext links; OR
+
+   [*] The etext may be readily converted by the reader at
+     no expense into plain ASCII, EBCDIC or equivalent
+     form by the program that displays the etext (as is
+     the case, for instance, with most word processors);
+     OR
+
+   [*] You provide, or agree to also provide on request at
+     no additional cost, fee or expense, a copy of the
+     etext in its original plain ASCII form (or in EBCDIC
+     or other equivalent proprietary form).
+
+[2] Honor the etext refund and replacement provisions of this
+   "Small Print!" statement.
+
+[3] Pay a trademark license fee to the Project of 20% of the
+   net profits you derive calculated using the method you
+   already use to calculate your applicable taxes.  If you
+   don't derive profits, no royalty is due.  Royalties are
+   payable to "Project Gutenberg Association/Carnegie-Mellon
+   University" within the 60 days following each
+   date you prepare (or were legally required to prepare)
+   your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT!  FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+This etext was prepared by Michael Pullen,
+globaltraveler5565@yahoo.com.
+
+
+
+
+
+Die Geschwister
+(1776)
+Ein Schauspiel in einem Akt
+Johann Wolfgang Goethe
+
+
+
+Personen:
+Wilhelm, ein Kaufmann
+Marianne, seine Schwester
+Fabrice
+Brieftraeger
+
+
+
+
+
+
+
+WILHELM (an einem Pult mit Handelsbuechern und Papieren).  Diese
+Woche  wieder zwei neue Kunden!  Wenn man sich ruehrt, gibt's doch
+immer etwas;  sollt' es auch nur wenig sein, am Ende summiert sich's
+doch, und wer klein  Spiel spielt, hat immer Freude, auch am kleinen
+Gewinn, und der kleine  Verlust ist zu verschmerzen.  Was gibt's?
+
+(Brieftraeger kommt.)
+
+BRIEFTRaeGER.  Einen beschwerten Brief, zwanzig Dukaten, franko halb.
+
+WILHELM.  Gut! sehr gut!  Notier Er mir's zum uebrigen.
+
+(Brieftraeger ab.)
+
+WILHELM (den Brief ansehend).  Ich wollte mir heute den ganzen Tag
+nicht  sagen, dass ich sie erwartete.  Nun kann ich Fabricen gerade
+bezahlen und  missbrauche seine Gutheit nicht weiter.  Gestern sagte er
+mir: Morgen komm'  ich zu dir!  Es war mir nicht recht.  Ich wusste,
+dass er mich nicht mahnen  wuerde, und so mahnt mich seine Gegenwart
+just doppelt.  (Indem der die  Schatulle aufmacht und zaehlt).  In
+vorigen Zeiten, wo ich ein bisschen  bunter wirtschaftete, konnt' ich
+die stillen Glaeubiger am wenigsten  leiden.  Gegen einen, der mich
+ueberlaeuft, belagert, gegen den gilt  Unverschaemtheit und alles, was
+dran haengt; der andere, der schweigt,  geht gerade ans Herz und
+fordert am dringendsten, da er mir sein  Anliegen ueberlaesst.  (Er legt
+Geld zusammen auf den Tisch.) Lieber Gott,  wie dank' ich dir, dass ich
+aus der Wirtschaft heraus und wieder geborgen  bin!  (Er hebt ein Buch
+auf.) Deinen Segen im kleinen! mir, der ich  deine Gaben im grossen
+verschleuderte.--Und so--Kann ich's ausdruecken?--Doch du tust nichts
+fuer mich, wie ich nichts fuer mich tue.  Wenn das  holde liebe Geschoepf
+nicht waere, saess' ich hier und verglich' Brueche?--O Marianne! wenn du
+wuesstest, dass der, den du fuer deinen Bruder haeltst,  dass der mit ganz
+anderm Herzen, ganz andern Hoffnungen fuer dich  arbeitet!--Vielleicht!
+--ach!--es ist doch bitter--Sie liebt mich--ja, als Bruder--Nein,
+pfui! das ist wieder Unglaube, und der hat nie  was Gutes gestiftet.
+--Marianne! ich werde gluecklich sein, du wirst's  sein, Marianne!
+
+(Marianne kommt.)
+
+MARIANNE.   Was willst du, Bruder?  Du riefst mich.
+
+WILHELM.  Ich nicht, Marianne.
+
+MARIANNE.   Stiert dich der Mutwille, dass du mich aus der Kueche
+hereinvexierst?
+
+WILHELM.  Du siehst Geister.
+
+MARIANNE.   Sonst wohl.  Nur deine Stimme kenn' ich zu gut, Wilhelm!
+
+WILHELM.  Nun, was machst du draussen?
+
+MARIANNE.   Ich habe nur ein paar Tauben gerupft, weil doch wohl
+Fabrice  heut abend mitessen wird.
+
+WILHELM.  Vielleicht.
+
+MARIANNE.   Sie sind bald fertig, du darfst es nachher nur sagen.  Er
+muss  mich auch sein neues Liedchen lehren.
+
+WILHELM.  Du lernst wohl gern was von ihm?
+
+MARIANNE.   Liedchen kann er recht huebsch.  Und wenn du hernach bei
+Tische  sitzest und den Kopf haengst, da fang' ich gleich an.  Denn ich
+weiss doch,  dass du lachst, wenn ich ein Liedchen anfange, das dir lieb
+ist.
+
+WILHELM.  Hast du mir's abgemerkt?
+
+MARIANNE.   Ja, wer euch Mannsleuten auch nichts abmerkte!--Wenn du
+sonst  nichts hast, so geh' ich wieder; denn ich habe noch allerlei zu
+tun.  Adieu.--Nun gib mir noch einen Kuss.
+
+WILHELM.  Wenn die Tauben gut gebraten sind, sollst du einen zum
+Nachtisch haben.
+
+MARIANNE.   Es ist doch verwuenscht, was die Brueder grob sind!  Wenn
+Fabrice  oder sonst ein guter Junge einen Kuss nehmen duerfte, die
+spraengen  waendehoch, und der Herr da verschmaeht einen, den ich geben
+will.--Jetzt  verbrenn' ich die Tauben.  (Ab.)
+
+WILHELM.  Engel! lieber Engel! dass ich mich halte, dass ich ihr nicht
+um  den Hals falle, ihr alles entdecke!--Siehst du denn auf uns
+herunter,  heilige Frau, die du mir diesen Schatz aufzuheben
+gabst?--Ja, sie  wissen von uns droben! sie wissen von uns!--Charlotte,
+du konntest  meine Liebe zu dir nicht herrlicher, heiliger belohnen,
+als dass du mir  scheidend deine Tochter anvertrautest!  Du gabst mir
+alles, was ich  bedurfte, knuepftest mich ans Leben!  Ich liebte sie
+als dein Kind--und  nun!--Noch ist mir's Taeuschung.  Ich glaube dich
+wiederzusehen,  glaube, dass mir das Schicksal verjuengt dich
+wiedergegeben hat, dass ich  nun mit dir vereinigt bleiben und wohnen
+kann, wie ich's in jenem ersten  Traum des Lebens nicht konnte! nicht
+sollte!--Gluecklich! gluecklich!  All  deinen Segen, Vater im Himmel!
+
+(Fabrice kommt.)
+
+FABRICE.   Guten Abend.
+
+WILHELM.  Lieber Fabrice, ich bin gar gluecklich; es ist alles Gute
+ueber  mich gekommen diesen Abend.  Nun, nichts von Geschaeften!  Da
+liegen deine  dreihundert Taler!  Frisch in die Tasche!  Meinen Schein
+gibst du mir  gelegentlich wieder.  Und lass uns eins plaudern!
+
+FABRICE.   Wenn du sie weiter brauchst--
+
+WILHELM.  Wenn ich sie wieder brauche, gut!  Ich bin dir immer
+dankbar,  nur jetzt nimm sie zu dir.--Hoere, Charlottens Andenken ist
+diesen Abend  wieder unendlich neu und lebendig vor mir geworden.
+
+FABRICE.   Das tut's wohl oefters.
+
+WILHELM.  Du haettest sie kennen sollen!  Ich sage dir, es war eins
+der  herrlichsten Geschoepfe.
+
+FABRICE.   Sie war Witwe, wie du sie kennenlerntest?
+
+WILHELM.  So rein und gross!  Da las ich gestern noch einen ihrer
+Briefe.  Du bist der einzige Mensch, der je was davon gesehen hat.
+(Er geht nach  der Schatulle.)
+
+FABRICE (fuer sich).  Wenn er mich nur jetzt verschonte!  Ich habe
+die  Geschichte schon so oft gehoert!  Ich hoere ihm sonst auch gern zu,
+denn es  geht ihm immer vom Herzen; nur heute hab' ich ganz andere
+Sachen im  Kopf, und just moecht' ich ihn in guter Laune erhalten.
+
+WILHELM.  Es war in den ersten Tagen unserer Bekanntschaft.  "Die
+Welt  wird mir wieder lieb", schreibt sie, "ich hatte mich so los von
+ihr  gemacht, wieder lieb durch Sie.  Mein Herz macht mir Vorwuerfe;
+ich fuehle,  dass ich Ihnen und mir Qualen zubereite.  Vor einem halben
+Jahre war ich  so bereit, zu sterben, und bin's nicht mehr."
+
+FABRICE.   Eine schoene Seele!
+
+WILHELM.  Die Erde war sie nicht wert.  Fabrice, ich hab' dir schon
+oft  gesagt, wie ich durch sie ein ganz anderer Mensch wurde.
+Beschreiben  kann ich die Schmerzen nicht, wenn ich dann zurueck und
+mein vaeterliches  Vermoegen von mir verschwendet sah!  Ich durfte ihr
+meine Hand nicht  anbieten, konnte ihren Zustand nicht ertraeglicher
+machen.  Ich fuehlte zum  erstenmal den Trieb, mir einen noetigen
+schicklichen Unterhalt zu  erwerben; aus der Verdrossenheit, in der
+ich einen Tag nach dem andern  kuemmerlich hingelebt hatte, mich
+herauszureissen.  Ich arbeitete--aber  was war das?--Ich hielt an,
+brachte so ein muehseliges Jahr durch;  endlich kam mir ein Schein von
+Hoffnung; mein Weniges vermehrte sich  zusehends--und sie starb--Ich
+konnte nicht bleiben.  Du ahnest nicht,  was ich litt.  Ich konnte die
+Gegend nicht mehr sehen, wo ich mit ihr  gelebt hatte, und den Boden
+nicht verlassen, wo sie ruhte.  Sie schrieb  mir kurz vor ihrem
+Ende--(Er nimmt einen Brief aus der Schatulle.)
+
+FABRICE.   Es ist ein herrlicher Brief, du hast ihn mir neulich
+gelesen.--Hoere, Wilhelm--
+
+WILHELM.  Ich kann ihn auswendig und les' ihn immer.  Wenn ich ihre
+Schrift sehe, das Blatt, wo ihre Hand geruht hat, mein' ich wieder,
+sie  sei noch da--Sie ist auch noch da!--(Man hoert ein Kind schreien.)
+Dass doch Marianne nicht ruhen kann!  Da hat sie wieder den Jungen
+unseres  Nachbars; mit dem treibt sie sich taeglich herum und stoert
+mich zur  unrechten Zeit.  (An der Tuer).  Marianne, sei still mit dem
+Jungen, oder  schick ihn fort, wenn er unartig ist.  Wir haben zu
+reden.  (Er steht in  sich gekehrt.)
+
+FABRICE.   Du solltest diese Erinnerungen nicht so oft reizen.
+
+WILHELM.  Diese Zeilen sind's! diese letzten! der Abschiedshauch des
+scheidenden Engels.  (Er legt den Brief wieder zusammen.) Du hast
+recht,  es ist suendlich.  Wie selten sind wir wert, die vergangenen
+selig-elenden  Augenblicke unseres Lebens wieder zu fuehlen!
+
+FABRICE.   Dein Schicksal geht mir immer zu Herzen.  Sie hinterliess
+eine  Tochter, erzaehltest du mir, die ihrer Mutter leider bald folgte.
+Wenn  die nur leben geblieben waere, du haettest wenigstens etwas von
+ihr  uebrig gehabt, etwas gehabt, woran sich deine Sorgen und dein
+Schmerz  geheftet haetten.
+
+WILHELM (sich lebhaft nach ihm wendend).  Ihre Tochter?  Es war ein
+holdes  Bluetchen.  Sie uebergab mir's--Es ist zu viel, was das
+Schicksal fuer mich  getan hat!--Fabrice, wenn ich dir alles sagen
+koennte--
+
+FABRICE.   Wenn dir's einmal ums Herz ist.
+
+WILHELM.  Warum sollt' ich nicht--
+
+(Marianne mit einem Knaben.)
+
+MARIANNE.   Er will noch Gutenacht sagen, Bruder.  Du musst ihm kein
+finster  Gesicht machen, und mir auch nicht.  Du sagst immer, du
+wolltest heiraten  und moechtest gerne viel Kinder haben.  Die hat man
+nicht immer so am  Schnuerchen, dass sie nur schreien, wenn's dich nicht
+stoert.
+
+WILHELM.  Wenn's meine Kinder sind.
+
+MARIANNE.   Das mag wohl auch ein Unterschied sein.
+
+FABRICE.   Meinen Sie, Marianne?
+
+MARIANNE.   Das muss gar zu gluecklich sein!  (Sie kauert sich zum
+Knaben und  kuesst ihn.) Ich habe Christeln so lieb!  Wenn er erst mein
+waere!--Er kann  schon buchstabieren; er lernt's bei mir.
+
+WILHELM.  Und da meinst du, deiner koennte schon lesen?
+
+MARIANNE.   Jawohl!  Denn da taet' ich mich den ganzen Tag mit nichts
+abgeben, als ihn aus--und anziehen, und lehren, und zu essen geben,
+und  putzen, und allerlei sonst.
+
+FABRICE.   Und der Mann?
+
+MARIANNE.   Der taete mitspielen: der wuerd' ihn ja wohl so liebhaben
+wie  ich.  Christel muss nach Haus und empfiehlt sich.  (Sie fuehrt ihn
+zu  Wilhelmen.) Hier, gib eine schoene Hand, eine rechte Patschhand!
+
+FABRICE.   (fuer sich).  Sie ist gar zu lieb; ich muss mich erklaeren.
+
+MARIANNE.   (das Kind zu Fabricen fuehrend).  Hier dem Herrn auch.
+
+WILHELM (fuer sich).  Sie wird dein sein!  Du wirst--Es ist zu viel,
+ich  verdien's nicht.--(Laut).  Marianne, schaff das Kind weg;
+unterhalt  Herrn Fabricen bis zum Nachtessen; ich will nur ein paar
+Gassen auf und  ab laufen; ich habe den ganzen Tag gesessen.
+(Marianne ab.) Unter dem  Sternhimmel nur einen freien Atemzug!--Mein
+Herz ist so voll.--Ich bin  gleich wieder da!  (Ab.)
+
+(Fabrice allein.)
+
+FABRICE.   Mach der Sache ein Ende, Fabrice.  Wenn du's nun immer
+laenger  und laenger traegst, wird's doch nicht reifer.  Du hast's
+beschlossen.  Es  ist gut, es ist trefflich!  Du hilfst ihrem Bruder
+weiter, und sie--sie  liebt mich nicht, wie ich sie liebe.  Aber sie
+kann auch nicht heftig  lieben, sie soll nicht heftig lieben!--Liebes
+Maedchen!--Sie vermutet  wohl keine andere als freundschaftliche
+Gesinnungen in mir!--Es wird  uns wohlgehen, Marianne!--Ganz erwuenscht
+und wie bestellt, die  Gelegenheit!  Ich muss mich ihr entdecken--und
+wenn mich ihr Herz nicht  verschmaeht--von dem Herzen des Bruders bin
+ich sicher.
+
+(Marianne kommt.)
+
+FABRICE.   Haben Sie den Kleinen weggeschafft?
+
+MARIANNE.   Ich haett' ihn gern dabehalten; ich weiss nur, der Bruder
+hat's  nicht gern, und da unterlass' ich's.  Manchmal erbettelt sich
+der kleine  Dieb selbst die Erlaubnis von ihm, mein Schlafkamerad zu
+sein.
+
+FABRICE.   Ist er Ihnen denn nicht laestig?
+
+MARIANNE.   Ach, gar nicht.  Er ist so wild den ganzen Tag, und wenn
+ich zu  ihm ins Bette komm', ist er so gut wie ein Laemmchen!  Ein
+Schmeichelkaetzchen! und herzt mich, was er kann; manchmal kann ich ihn
+gar nicht zum Schlafen bringen.
+
+FABRICE (halb fuer sich).  Die liebe Natur.
+
+MARIANNE.   Er hat mich auch lieber als seine Mutter.
+
+FABRICE.   Sie sind ihm auch Mutter.  (Marianne steht in Gedanken,
+Fabrice  sieht sie eine Zeitlang an.) Macht Sie der Name Mutter
+traurig?
+
+MARIANNE.  Nicht traurig, ich denke nur so.
+
+FABRICE.  Was, suesse Marianne?
+
+MARIANNE.  Ich denke--ich denke auch nichts.  Es ist mir nur manchmal
+so  wunderbar.
+
+FABRICE.  Sollten Sie nie gewuenscht haben--?
+
+MARIANNE.  Was tun Sie fuer Fragen?
+
+FABRICE.  Fabrice wird's doch duerfen?
+
+MARIANNE.  Gewuenscht nie, Fabrice.  Und wenn mir auch einmal so ein
+Gedanke durch den Kopf fuhr, war er gleich wieder weg. Meinen Bruder
+zu  verlassen, waere mir unertraeglich--unmoeglich--, alle uebrige
+Aussicht  moechte auch noch so reizend sein.
+
+FABRICE.  Das ist doch wunderbar!  Wenn Sie in einer Stadt
+beieinander  wohnten, hiesse das ihn verlassen?
+
+MARIANNE.  O nimmermehr!  Wer sollte seine Wirtschaft fuehren? wer fuer
+ihn  sorgen?--Mit einer Magd?--oder gar heiraten?--Nein, das geht
+nicht!
+
+FABRICE.  Koennte er nicht mit Ihnen ziehen?  Koennte Ihr Mann nicht
+sein  Freund sein?  Koennten Sie drei nicht ebenso eine glueckliche,
+eine  gluecklichere Wirtschaft fuehren?  Koennte Ihr Bruder nicht dadurch
+in  seinen sauern Geschaeften erleichtert werden?--Was fuer ein Leben
+koennte  das sein!
+
+MARIANNE.  Man sollt's denken.  Wenn ich's ueberlege, ist's wohl wahr.
+Und  hernach ist mir's wieder so, als wenn's nicht anginge.
+
+FABRICE.  Ich begreife Sie nicht.
+
+MARIANNE.  Es ist nun so.--Wenn ich aufwache, horch' ich, ob der
+Bruder  schon auf ist; ruehrt sich nichts, hui bin ich aus dem Bette in
+der  Kueche, mache Feuer an, dass das Wasser ueber und ueber kocht, bis
+die Magd  aufsteht und er seinen Kaffee hat, wie er die Augen auftut.
+
+FABRICE.  Hausmuetterchen.
+
+MARIANNE.  Und dann setze ich mich hin und stricke Struempfe fuer
+meinen  Bruder, und hab' eine Wirtschaft, und messe sie ihm zehnmal an,
+ob sie  auch lang genug sind, ob die Wade recht sitzt, ob der Fuss
+nicht zu kurz  ist, dass er manchmal ungeduldig wird.  Es ist mir auch
+nicht ums Messen,  es ist mir nur, dass ich was um ihn zu tun habe, dass
+er mich einmal  ansehen muss, wenn er ein paar Stunden geschrieben hat,
+und er mir nicht  Hypochonder wird.  Denn es tut ihm doch wohl, wenn
+er mich ansieht; ich  seh's ihm an den Augen ab, wenn er mir's gleich
+sonst nicht will merken  lassen.  Ich lache manchmal heimlich, dass er
+tut, als wenn er ernst waere  oder boese.  Er tut wohl; ich peinigte ihn
+sonst den ganzen Tag.
+
+FABRICE.  Er ist gluecklich.
+
+MARIANNE.  Nein, ich bin's.  Wenn ich ihn nicht haette, wuesst' ich
+nicht,  was ich in der Welt anfangen sollte.  Ich tue doch auch alles
+fuer mich,  und mir ist, als wenn ich alles fuer ihn taete, weil ich auch
+bei dem, was  ich fuer mich tue, immer an ihn denke.
+
+FABRICE.  Und wenn Sie nun das alles fuer einen Gatten taeten, wie ganz
+gluecklich wuerde er sein!  Wie dankbar wuerde er sein, und welch ein
+haeuslich Leben wuerde das werden!
+
+MARIANNE.  Manchmal stell' ich mir's auch vor und kann mir ein langes
+Maerchen erzaehlen, wenn ich so sitze und stricke oder naehe, wie alles
+gehen koennte und gehen moechte.  Komm' ich aber hernach aufs Wahre
+zurueck,  so will's immer nicht werden.
+
+FABRICE.  Warum?
+
+MARIANNE.  Wo wollt' ich einen Gatten finden, der zufrieden waere,
+wenn  ich sagte: "Ich will Euch liebhaben", und muesste gleich
+dazusetzen:  "Lieber als meinen Bruder kann ich Euch nicht haben, fuer
+den muss ich  alles tun duerfen, wie bisher."--Ach, Sie sehen, dass das
+nicht geht!
+
+FABRICE.  Sie wuerden nachher einen Teil fuer den Mann tun, Sie wuerden
+die  Liebe auf ihn uebertragen.--
+
+MARIANNE.  Da sitzt der Knoten!  Ja, wenn sich Liebe herueber und
+hinueber  zahlen liesse wie Geld, oder den Herrn alle Quartal veraenderte
+wie eine  schlechte Dienstmagd.  Bei einem Manne wuerde das alles erst
+werden  muessen, was hier schon ist, was nie so wieder werden kann.
+
+FABRICE.  Es macht sich viel.
+
+MARIANNE.  Ich weiss nicht.  Wenn er so bei Tische sitzt und den Kopf
+auf  die Hand stemmt, niedersieht und still ist in Sorgen--ich kann
+halbe  Stunden lang sitzen und ihn ansehen.  Er ist nicht schoen, sag'
+ich  manchmal so zu mir selbst, und mir ist's so wohl, wenn ich ihn
+ansehe.--Freilich fuehl' ich nun wohl, dass es mit fuer mich ist, wenn
+er sorgt;  freilich sagt mir das der erste Blick, wenn er wieder
+aufsieht, und das  tut ein Grosses.
+
+FABRICE.  Alles, Marianne.  Und ein Gatte, der fuer Sie sorgte!--
+
+MARIANNE.  Da ist noch eins; da sind eure Launen.  Wilhelm hat auch
+seine  Launen; von ihm druecken sie mich nicht, von jedem andern waeren
+sie mir  unertraeglich.  Er hat leise Launen, ich fuehl' sie doch
+manchmal.  Wenn er  in unholden Augenblicken eine gute teilnehmende
+liebevolle Empfindung  wegstoesst--es trifft mich! freilich nur einen
+Augenblick; und wenn ich  auch ueber ihn knurre, so ist's mehr, dass er
+meine Liebe nicht erkennt,  als dass ich ihn weniger liebe.
+
+FABRICE.  Wenn sich nun aber einer faende, der es auf alles das hin
+wagen  sollte, Ihnen seine Hand anzubieten?
+
+MARIANNE.  Er wird sich nicht finden!  Und dann waere die Frage, ob
+ich's  mit ihm wagen duerfte.
+
+FABRICE.  Warum nicht?
+
+MARIANNE.  Er wird sich nicht finden!
+
+FABRICE.  Marianne, Sie haben ihn!
+
+MARIANNE.  Fabrice!
+
+FABRICE.  Sie sehen ihn vor sich.  Soll ich eine lange Rede halten?
+Soll  ich Ihnen hinschuetten, was mein Herz so lange bewahrt?  Ich
+liebe Sie,  das wissen Sie lange; ich biete Ihnen meine Hand an, das
+vermuteten Sie  nicht.  Nie hab' ich ein Maedchen gesehen, das so wenig
+dachte, dass es  Gefuehle dem, der sie sieht, erregen muss, als dich.
+--Marianne, es ist  nicht ein feuriger, unbedachter Liebhaber, der mit
+Ihnen spricht; ich  kenne Sie, ich habe Sie erkoren, mein Haus ist
+eingerichtet; wollen Sie  mein sein?--Ich habe in der Liebe mancherlei
+Schicksale gehabt, war  mehr als einmal entschlossen, mein Leben als
+Hagestolz zu enden.  Sie  haben mich nun--Widerstehen Sie nicht!--Sie
+kennen mich; ich bin eins  mit Ihrem Bruder; Sie koennen kein reineres
+Band denken.--oeffnen Sie Ihr  Herz!--Ein Wort, Marianne!
+
+MARIANNE.  Lieber Fabrice, lassen Sie mir Zeit, ich bin Ihnen gut.
+
+FABRICE.  Sagen Sie, dass Sie mich lieben!  Ich lasse Ihrem Bruder
+seinen  Platz; ich will Bruder Ihres Bruders sein, wir wollen vereint
+fuer ihn  sorgen.  Mein Vermoegen, zu dem seinen geschlagen, wird ihn
+mancher  kummervollen Stunde ueberheben, er wird Mut kriegen, er
+wird--Marianne,  ich moechte Sie nicht gern ueberreden.  (Er fasste ihre
+Hand.)
+
+MARIANNE.  Fabrice, es ist mir nie eingefallen--In welche
+Verlegenheit  setzen Sie mich!--
+
+FABRICE.  Nur ein Wort!  Darf ich hoffen?
+
+MARIANNE.  Reden Sie mit meinem Bruder!
+
+FABRICE (kniet).  Engel!  Allerliebste!
+
+MARIANNE (einen Augenblick still).  Gott! was hab' ich gesagt!  (Ab.
+)
+
+(Fabrice allein.)
+
+FABRICE.  Sie ist dein!--Ich kann dem lieben kleinen Narren wohl die
+Taendelei mit dem Bruder erlauben; das wird sich so nach und nach
+herueber  begeben, wenn wir einander naeher kennenlernen, und er soll
+nichts dabei  verlieren.  Es tut mir gar wohl, wieder so zu lieben und
+gelegentlich  wieder so geliebt zu werden!  Es ist doch eine Sache,
+woran man nie den  Geschmack verliert.--Wir wollen zusammen wohnen.
+Ohne das haett' ich des  guten Menschen gewissenhafte Haeuslichkeit
+zeither schon gern ein bisschen  ausgeweitet; als Schwager wird's schon
+gehen.  Er wird sonst ganz  Hypochonder mit seinen ewigen Erinnerungen,
+Bedenklichkeiten,  Nahrungssorgen und Geheimnissen.  Es wird alles
+huebsch!  Er soll freiere  Luft atmen; das Maedchen soll einen Mann
+haben--das nicht wenig ist; und  du kriegst noch mit Ehren eine
+Frau--das viel ist!
+
+(Wilhelm kommt.)
+
+FABRICE.  Ist dein Spaziergang zu Ende?
+
+WILHELM.  Ich ging auf den Markt und die Pfarrgasse hinauf und an der
+Boerse zurueck.  Mir ist's eine wunderliche Empfindung, nachts durch
+die  Stadt zu gehen.  Wie von der Arbeit des Tages alles teils zur
+Ruh' ist,  teils darnach eilt, und man nur noch die Emsigkeit des
+kleinen Gewerbes  in Bewegung sieht!  Ich hatte meine Freude an einer
+alten Kaesefrau, die,  mit der Brille auf der Nase, beim Stuempfchen
+Licht ein Stueck nach dem  andern auf die Waage legte und ab--und
+zuschnitt, bis die Kaeuferin ihr  Gewicht hatte.
+
+FABRICE.  Jeder bemerkt in seiner Art.  Ich glaub', es sind viele die
+Strasse gegangen, die nicht nach den Kaesemuettern und ihren Brillen
+geguckt haben.
+
+WILHELM.  Was man treibt, kriegt man lieb, und der Erwerb im kleinen
+ist  mir ehrwuerdig, seit ich weiss, wie sauer ein Taler wird, wenn man
+ihn  groschenweise verdienen soll.  (Steht einige Augenblicke in sich
+gekehrt.) Mir ist ganz wunderbar geworden auf dem Wege.  Es sind mir
+so  viel Sachen auf einmal und durcheinander eingefallen--und das, was
+mich  im Tiefsten meiner Seele beschaeftigt--(Er wird nachdenkend).
+
+FABRICE (fuer sich).  Es geht mir naerrisch; sobald er gegenwaertig ist,
+untersteh' ich mich nicht recht, zu bekennen, dass ich Mariannen
+liebe.--Ich muss ihm doch erzaehlen, was vorgegangen ist.--(Laut.)
+Wilhelm! sag  mir! du wolltest hier ausziehen?  Du hast wenig Gelass
+und sitzest teuer.  Weisst du ein ander Quartier?
+
+WILHELM (zerstreut).  Nein.
+
+FABRICE.  Ich daechte, wir koennten uns beide erleichtern.  Ich habe da
+mein  vaeterliches Haus und bewohne nur den obern Stock, und den untern
+koenntest du einnehmen; du verheiratest dich doch so bald nicht.--Du
+hast den Hof und eine kleine Niederlage fuer deine Spedition und gibst
+mir einen leidlichen Hauszins, so ist uns beiden geholfen.
+
+WILHELM.  Du bist gar gut.  Es ist mir wahrlich auch manchmal
+eingefallen,  wenn ich zu dir kam und so viel leer stehen sah, und ich
+muss mich so  aengstlich behelfen.--Dann sind wieder andere Sachen--Man
+muss es  eben sein lassen, es geht doch nicht.
+
+FABRICE.  Warum nicht?
+
+WILHELM.  Wenn ich nun heirate?
+
+FABRICE.  Dem waere zu helfen.  Ledig haettest du mit deiner Schwester
+Platz, und mit einer Frau ging's ebensowohl.
+
+WILHELM (laechelnd).  Und meine Schwester?
+
+FABRICE.  Die naehm' ich allenfalls zu mir.  (Wilhelm ist still.) Und
+auch  ohne das.  Lass uns ein klug Wort reden.--Ich liebe Mariannen;
+gib mir  sie zur Frau!
+
+WILHELM.  Wie?
+
+FABRICE.  Warum nicht?  Gib dein Wort!  Hoere mich, Bruder!  Ich liebe
+Mariannen!  Ich hab's lang ueberlegt: sie allein, du allein, ihr koennt
+mich so gluecklich machen, als ich auf der Welt noch sein kann.  Gib
+mir  sie!  Gib mir sie!
+
+WILHELM (verworren).  Du weisst nicht, was du willst.
+
+FABRICE.  Ach, wie weiss ich's!  Soll ich dir alles erzaehlen, was mir
+fehlt  und was ich haben werde, wenn sie meine Frau und du mein
+Schwager werden  wirst?
+
+WILHELM (aus Gedanken auffahrend, hastig).  Nimmermehr! nimmermehr!
+
+FABRICE.  Was hast du?--Mir tut's weh!--Den Abscheu!--Wenn du einen
+Schwager haben sollst, wie sich's doch frueh oder spaet macht, warum
+mich nicht? den du so kennst, den du liebst!  Wenigstens glaubt' ich--
+
+
+WILHELM.  Lass mich!--ich hab' keinen Verstand.
+
+FABRICE.  Ich muss alles sagen.  Von dir allein haengt mein Schicksal
+ab.  Ihr Herz ist mir geneigt, das musst du gemerkt haben.  Sie liebt
+dich  mehr, als sie mich liebt; ich bin's zufrieden.  Den Mann wird
+sie mehr  als den Bruder lieben; ich werde in deine Rechte treten, du
+in meine,  und wir werden alle vergnuegt sein.  Ich habe noch keinen
+Knoten gesehen,  der sich so menschlich schoen knuepfte.  (Wilhelm stumm.
+) Und was alles  fest macht--Bester, gib du nur dein Wort, deine
+Einwilligung! sag ihr,  dass dich's freut, dass dich's gluecklich macht!
+--Ich hab' ihr Wort.
+
+WILHELM.  Ihr Wort?
+
+FABRICE.  Sie warf's hin, wie einen scheidenden Blick, der mehr sagte,
+als alles Bleiben gesagt haette.  Ihre Verlegenheit und ihre Liebe,
+ihr  Wollen und Zittern, es war so schoen!
+
+WILHELM.  Nein! nein!
+
+FABRICE.  Ich versteh' dich nicht.  Ich fuehle, du hast keinen
+Widerwillen  gegen mich, und bist mir so entgegen?  Sei's nicht!  Sei
+ihrem Gluecke, sei  meinem nicht hinderlich!--Und ich denke immer, du
+sollst mit uns  gluecklich sein!--Versag meinen Wuenschen dein Wort
+nicht! dein  freundlich Wort!  (Wilhelm stumm in streitenden Qualen.)
+Ich begreife  dich nicht--
+
+WILHELM.  Sie?--du willst sie haben?
+
+FABRICE.  Was ist das?
+
+WILHELM.  Und sie dich?
+
+FABRICE.  Sie antwortete, wie's einem Maedchen ziemt.
+
+WILHELM.  Geh! geh!--Marianne!--Ich ahnt' es! ich fuehlt' es!
+
+FABRICE.  Sag mir nur--
+
+WILHELM.  Was sagen!--Das war's, was mir auf der Seele lag diesen
+Abend,  wie eine Wetterwolke.  Es zuckt, es schlaegt!--Nimm sie!--Nimm
+sie!--Mein Einziges--mein Alles!  (Fabrice ihn stumm ansehend.) Nimm
+sie!--Und dass du weisst, was du mir nimmst--(Pause.  Er rafft sich
+zusammen.)  Von Charlotten erzaehlt' ich dir, dem Engel, der meinen
+Haenden entwich  und mir sein Ebenbild, eine Tochter, hinterliess--und
+diese Tochter--ich habe dich belogen--sie ist nicht tot; diese
+Tochter ist Marianne!--Marianne ist nicht meine Schwester.
+
+FABRICE.  Darauf war ich nicht vorbereitet.
+
+WILHELM.  Und von dir haett' ich das fuerchten sollen!--Warum folgt'
+ich  meinem Herzen nicht und verschloss dir mein Haus wie jedem in den
+ersten  Tagen, da ich herkam?  Dir allein vergoennt' ich einen Zutritt
+in dies  Heiligtum, und du wusstest mich durch Guete, Freundschaft,
+Unterstuetzung,  scheinbare Kaelte gegen die Weiber einzuschlaefern.  Wie
+ich dem Schein  nach ihr Bruder war, hielt ich dein Gefuehl fuer sie fuer
+das wahre  bruederliche, und wenn mir ja auch manchmal ein Argwohn
+kommen wollte,  warf ich ihn weg als unedel, schrieb ihre Gutheit fuer
+dich auf Rechnung  des Engelherzens, das eben alle Welt mit einem
+liebevollen Blick  ansieht.--Und du!--Und sie!--
+
+FABRICE.  Ich mag nichts weiter hoeren, und zu sagen hab' ich auch
+nichts.  Also adieu!  (Ab.)
+
+WILHELM.  Geh nur!--Du traegst sie alle mit dir weg, meine ganze
+Seligkeit.  So weggeschnitten, weggebrochen alle Aussichten--die
+naechsten--auf einmal--Am Abgrunde!  Und zusammengestuerzt die goldne
+Zauberbruecke, die mich in die Wonne der Himmel hinueberfuehren sollte--
+Weg! und durch ihn, den Verraeter, der so missbraucht hat die Offenheit,
+das Zutrauen!--O Wilhelm!  Wilhelm! du bist so weit gebracht, dass du
+gegen den guten Menschen ungerecht sein musst?--Was hat er
+verbrochen?----Du liegst schwer ueber mir und bist gerecht,
+vergeltendes Schicksal!--Warum stehst du da? und du?  Just in dem
+Augenblicke!--Verzeiht mir!  Hab' ich nicht gelitten dafuer?--Verzeiht!
+es ist lange!--Ich habe unendlich  gelitten.  Ich schien euch zu
+lieben, ich glaubte euch zu lieben; mit  leichtsinnigen Gefaelligkeiten
+schloss ich euer Herz auf und machte euch  elend!--Verzeiht und lasst
+mich--Soll ich so gestraft werden?--Soll ich Mariannen verlieren,
+die letzte meiner Hoffnungen, den  Inbegriff meiner Sorgen?--Es kann
+nicht! es kann nicht!  (Er bleibt  stille.)
+
+(Marianne kommt.)
+
+MARIANNE (naht verlegen).  Bruder!
+
+WILHELM.  Ah!
+
+MARIANNE.  Lieber Bruder, du musst mir vergeben, ich bitte dich um
+alles.  Du bist boese, ich dacht' es wohl.  Ich habe eine Torheit
+begangen--es  ist mir ganz wunderlich.
+
+WILHELM (sich zusammennehmend).  Was hast du, Maedchen?
+
+MARIANNE.  Ich wollte, dass ich dir's erzaehlen koennte.--Mir geht's so
+konfus im Kopf herum.--Fabrice will mich zur Frau, und ich--
+
+WILHELM (halb bitter).  Sag's heraus, du schlaegst ein?
+
+MARIANNE.  Nein, nicht ums Leben!  Nimmermehr werd' ich ihn heiraten!
+ich kann ihn nicht heiraten.
+
+WILHELM.  Wie anders klingt das!
+
+MARIANNE.  Wunderlich genug.  Du bist gar unhold, Bruder; ich ginge
+gern  und wartete eine gute Stunde ab, wenn mir's nicht gleich vom
+Herzen  muesste.  Ein fuer allemal, ich kann Fabricen nicht heiraten.
+
+WILHELM (steht auf und nimmt sie bei der Hand.) Wie, Marianne?
+
+MARIANNE.  Er war da und redete so viel und stellte mir so allerlei
+vor,  dass ich mir einbildete, es waere moeglich.  Er drang so, und in
+der  Unbesonnenheit sagt' ich, er sollte mit dir reden.--Er nahm das
+als  Jawort, und im Augenblicke fuehlt' ich, dass es nicht werden konnte.
+
+
+WILHELM.  Er hat mit mir gesprochen.
+
+MARIANNE.  Ich bitte dich, was ich kann und mag, mit all der Liebe,
+die ich  zu dir habe, bei all der Liebe, mit  der du mich liebst, mach
+es wieder gut, bedeut ihn.
+
+WILHELM (fuer sich).  Ewiger Gott!
+
+MARIANNE.  Sei nicht boese!  Er soll auch nicht boese sein.  Wir wollen
+wieder leben wie vorher und immer so fort.--Denn nur mit dir kann ich
+leben, mit dir allein mag ich leben.  Es liegt von jeher in meiner
+Seele,  und dieses hat's herausgeschlagen, gewaltsam
+herausgeschlagen--Ich  liebe nur dich!
+
+WILHELM.  Marianne!
+
+MARIANNE.  Bester Bruder!  Diese Viertelstunde ueber--ich kann dir
+nicht  sagen, was in meinem Herzen auf--und abgerannt ist.--Es ist mir
+wie  neulich, da es auf dem Markte brannte und erst Rauch und Dampf
+ueber  alles zog, bis auf einmal das Feuer das Dach hob und das ganze
+Haus in  einer Flamme stand.--Verlass mich nicht! stoss mich nicht von
+dir,  Bruder!
+
+WILHELM.  Es kann doch nicht immer so bleiben.
+
+MARIANNE.  Das eben aengstet mich so!--Ich will dir gern versprechen,
+nicht zu heiraten, ich will immer fuer dich sorgen, immer, immer so
+fort.--Da drueben wohnen so ein paar alte Geschwister zusammen; da
+denk' ich  manchmal zum Spass: wenn du so alt und schrumpflich bist,
+wenn ihr nur  zusammen seid!
+
+WILHELM (sein Herz haltend, halb fuer sich).  Wenn du das aushaeltst,
+bist  du nie wieder zu enge.
+
+MARIANNE.  Dir ist's nun wohl nicht so; du nimmst doch wohl eine Frau
+mit  der Zeit, und es wuerde mir immer leid tun, wenn ich sie auch noch
+so  gern lieben wollte--Es hat dich niemand so lieb wie ich; es kann
+dich  niemand so lieb haben.  (Wilhelm versucht zu reden.) Du bist
+immer so  zurueckhaltend, und ich hab's immer im Munde, dir ganz zu
+sagen, wie  mir's ist, und wag's nicht.  Gott sei Dank, dass mir der
+Zufall die Zunge  loest.
+
+WILHELM.  Nichts weiter.  Marianne!
+
+MARIANNE.  Du sollst mich nicht hindern, lass mich alles sagen!  Dann
+will  ich in die Kueche gehen und tagelang an meiner Arbeit sitzen, nur
+manchmal dich ansehen, als wollt' ich sagen: du weisst's!--(Wilhelm
+stumm in dem Umfange seiner Freuden.) Du konntest es lange wissen, du
+weisst's auch, seit dem Tod unserer Mutter, wie ich aufkam aus der
+Kindheit und immer mit dir war.--Sieh, ich fuehle mehr Vergnuegen, bei
+dir zu sein, als Dank fuer deine mehr als bruederliche Sorgfalt.  Und
+nach  und nach nahmst du so mein ganzes Herz, meinen ganzen Kopf ein,
+dass  jetzt noch etwas anders Muehe hat, ein Plaetzchen drin zu gewinnen.
+Ich  weiss wohl noch, dass du manchmal lachtest, wenn ich Romanen las;
+es  geschah einmal mit der Julie Mandeville, und ich fragte, ob der
+Heinrich, oder wie er heisst, nicht ausgesehen habe wie du?--Du
+lachtest--das gefiel mir nicht.  Da schwieg ich ein andermal still.
+Mir war's  aber ganz ernsthaft; denn was die liebsten, die besten
+Menschen waren,  die sahen bei mir alle aus wie du.  Dich sah ich in
+den grossen Gaerten  spazieren, und reiten, und reisen, und sich
+duellieren--(Sie lacht  fuer sich.)
+
+WILHELM.  Wie ist dir?
+
+MARIANNE.  Dass ich's ebensomehr auch gestehe: wenn eine Dame recht
+huebsch  war und recht gut und recht geliebt--und recht verliebt--das
+war ich  immer selbst.--Nur zuletzt, wenn's an die Entwicklung kam und
+sie sich  nach allen Hindernissen noch heirateten--Ich bin doch auch
+gar ein  treuherziges, gutes, geschwaetziges Ding!
+
+WILHELM.  Fahr fort!  (Weggewendet.) Ich muss den Freudenkelch
+austrinken.  Erhalte mich bei Sinnen, Gott im Himmel!
+
+MARIANNE.  Unter allem konnt' ich am wenigsten leiden, wenn sich ein
+paar  Leute liebhaben, und endlich kommt heraus, dass sie verwandt sind,
+oder  Geschwister sind--Die Miss Fanny haett' ich verbrennen koennen!
+--Ich habe  so viel geweint!  Es ist so ein gar erbaermlich Schicksal!
+
+(Sie wendet sich und weint bitterlich.)
+
+WILHELM (auffahrend an ihrem Hals).  Marianne! meine Marianne!
+
+MARIANNE.  Wilhelm! nein! nein!  Ewig lass' ich dich nicht!  Du bist
+mein!--Ich halte dich! ich kann dich nicht lassen!
+
+(Fabrice tritt auf.)
+
+MARIANNE.  Ha, Fabrice, Sie kommen zur rechten Zeit!  Mein Herz ist
+offen  und stark, dass ich's sagen kann.  Ich habe Ihnen nichts
+zugesagt, Sei'n  Sie unser Freund! heiraten werd' ich Sie nie.
+
+FABRICE (kalt und bitter).  Ich dacht' es, Wilhelm, wenn du dein
+ganzes  Gewicht auf die Schale legtest, musst' ich zu leicht erfunden
+werden.  Ich  komme zurueck, dass ich mir vom Herzen schaffe, was doch
+herunter muss.  Ich  gebe alle Ansprueche auf und sehe, die Sachen haben
+sich schon gemacht;  mir ist wenigstens lieb, dass ich unschuldige
+Gelegenheit dazu gegeben  habe.
+
+WILHELM.  Laestre nicht in dem Augenblick und raub dir nicht ein
+Gefuehl,  um das du vergebens in die weite Welt wallfahrtetest!  Siehe
+hier das  Geschoepf--sie ist ganz mein--und sie weiss nicht--
+
+FABRICE (halb spottend).  Sie weiss nicht?
+
+MARIANNE.  Was weiss ich nicht?
+
+WILHELM.  Hier luegen, Fabrice--?
+
+FABRICE (getroffen).  Sie weiss nicht?
+
+WILHELM.  Ich sag's.
+
+FABRICE.  Behaltet einander, ihr seid einander wert!
+
+MARIANNE.  Was ist das?
+
+WILHELM (ihr um den Hals fallend).  Du bist mein, Marianne!
+
+MARIANNE.  Gott! was ist das?--Darf ich dir diesen Kuss zurueckgeben?--
+Welch ein Kuss war das, Bruder?
+
+WILHELM.  Nicht des zurueckhaltenden, kaltscheinenden Bruders, der Kuss
+eines ewig einzig gluecklichen Liebhabers.--(Zu ihren Fuessen.) Marianne,
+du bist nicht meine Schwester!  Charlotte war deine Mutter, nicht
+meine.
+
+MARIANNE.  Du! du!
+
+WILHELM.  Dein Geliebter!--von dem Augenblicke an dein Gatte, wenn du
+ihn nicht verschmaehst.
+
+MARIANNE.  Sag mir, wie war's moeglich?--
+
+FABRICE.  Geniesst, was euch Gott selbst nur einmal geben kann!  Nimm
+es  an, Marianne, und frag nicht.--Ihr werdet noch Zeit genug finden,
+euch  zu erklaeren.
+
+MARIANNE (ihn ansehend).  Nein, es ist nicht moeglich!
+
+WILHELM.  Meine Geliebte! meine Gattin!
+
+MARIANNE (an seinem Hals).  Wilhelm, es ist nicht moeglich!
+
+Ende dieses Projekt Gutenberg Etextes "Die Geschwister" von Johann
+Wolfgang von Goethe.
+

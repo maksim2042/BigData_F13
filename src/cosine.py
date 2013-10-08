@@ -19,12 +19,7 @@ def get_cosine(vec1, vec2):
 def text_to_vector(text):
      words = WORD.findall(text)
      return Counter(words)
-     
-def cosine_doc(text1,text2):
-    vector1 = text_to_vector(text1)
-    vector2 = text_to_vector(text2)
-
-    cosine = get_cosine(vector1, vector2)
+        
 
 
 

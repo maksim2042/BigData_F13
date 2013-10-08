@@ -1,0 +1,1330 @@
+The Project Gutenberg Etext of Novelle, by Johann Wolfgang Goethe
+#11 in our series by Goethe
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfuegung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg.aol.de erreichbar.
+
+This work contains 7 bit ASCII characters to represent certain special
+German characters.  An alternate 8 bit version of this text which does
+use the high order ASCII characters is also available in this format.
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Novelle
+
+by Johann Wolfgang Goethe
+
+September, 2000  [Etext #2320]
+
+
+The Project Gutenberg Etext of Novelle, by Johann Wolfgang Goethe
+*******This file should be named 7nvll10.txt or 7nvll10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 7nvll11.txt
+VERSIONS based on separate sources get new LETTER, 7nvll10a.txt
+
+
+This etext was prepared by Michael Pullen, globaltraveler5565@yahoo.com.
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+This etext was prepared by Michael Pullen, globaltraveler5565@yahoo.com.
+
+
+
+
+
+Novelle
+
+by Johann Wolfgang von Goethe
+
+
+
+
+Novelle, Kapitel 1
+
+
+Ein dichter Herbstnebel verhuellte noch in der Fruehe die weiten Raeume
+des fuerstlichen Schlosshofes, als man schon mehr oder weniger durch den
+sich lichtenden Schleier die ganze Jaegerei zu Pferde und zu Fuss
+durcheinander bewegt sah.
+
+Die eiligen Beschaeftigungen der Naechsten liessen sich erkennen: man
+verlaengerte, man verkuerzte die Steigbuegel, man reichte sich Buechse und
+Patrontaeschchen, man schob die Dachsranzen zurecht, indes die Hunde
+ungeduldig am Riemen den Zurueckhaltenden mit fortzuschleppen drohten.
+
+Auch hie und da gebaerdete ein Pferd sich mutiger, von feuriger Natur
+getrieben oder von dem Sporn des Reiters angeregt, der selbst hier in
+der Halbhelle eine gewisse Eitelkeit, sich zu zeigen, nicht verleugnen
+konnte.
+
+Alle jedoch warteten auf den Fuersten, der, von seiner jungen Gemahlin
+Abschied nehmend, allzulange zauderte.
+
+Erst vor kurzer Zeit zusammen getraut, empfanden sie schon das Glueck
+uebereinstimmender Gemueter; beide waren von taetig lebhaftem Charakter,
+eines nahm gern an des andern Neigungen und Bestrebungen Anteil.
+
+Des Fuersten Vater hatte noch den Zeitpunkt erlebt und genutzt, wo es
+deutlich wurde, dass alle Staatsglieder in gleicher Betriebsamkeit ihre
+Tage zubringen, in gleichem Wirken und Schaffen jeder nach seiner Art
+erst gewinnen und dann geniessen sollte.
+
+Wie sehr dieses gelungen war, liess sich in diesen Tagen gewahr werden,
+als eben der Hauptmarkt sich versammelte, den man gar wohl eine Masse
+nennen konnte.
+
+Der Fuerst hatte seine Gemahlin gestern durch das Gewimmel der
+aufgehaeuften Waren zu Pferde gefuehrt und sie bemerken lassen, wie
+gerade hier das Gebirgsland mit dem flachen Lande einen gluecklichen
+Umtausch treffe; er wusste sie an Ort und Stelle auf die Betriebsamkeit
+seines Laenderkreises aufmerksam zu machen.
+
+Wenn sich nun der Fuerst fast ausschliesslich in diesen Tagen mit den
+Seinigen ueber diese zudringenden Gegenstaende unterhielt, auch
+besonders mit dem Finanzminister anhaltend arbeitete, so behielt doch
+auch der Landjaegermeister sein Recht, auf dessen Vorstellung es
+unmoeglich war, der Versuchung zu widerstehen, an diesen guenstigen
+Herbsttagen eine schon verschobene Jagd zu unternehmen, sich selbst
+und den vielen angekommenen Fremden ein eignes und seltnes Fest zu
+eroeffnen.
+
+Die Fuerstin blieb ungern zurueck; man hatte sich vorgenommen, weit in
+das Gebirg hineinzudringen, um die friedlichen Bewohner der dortigen
+Waelder durch einen unerwarteten Kriegszug zu beunruhigen.
+
+Scheidend versaeumte der Gemahl nicht, einen Spazierritt vorzuschlagen,
+den sie im Geleit Friedrichs, des fuerstlichen Oheims, unternehmen
+sollte ".
+
+Auch lasse ich", sagte er, "dir unsern Honorio als Stallund Hofjunker,
+der fuer alles sorgen wird".
+
+Und im Gefolg dieser Worte gab er im Hinabsteigen einem wohlgebildeten
+jungen Mann die noetigen Auftraege, verschwand sodann bald mit Gaesten
+und Gefolge.
+
+Die Fuerstin, die ihrem Gemahl noch in den Schlosshof hinab mit dem
+Schnupftuch nachgewinkt hatte, begab sich in die hintern Zimmer,
+welche nach dem Gebirg eine freie Aussicht liessen, die um desto
+schoener war, als das Schloss selbst von dem Flusse herauf in einiger
+Hoehe stand und so vor- als hinterwaerts mannigfaltige bedeutende
+Ansichten gewaehrte.
+
+Sie fand das treffliche Teleskop noch in der Stellung, wo man es
+gestern abend gelassen hatte, als man, ueber Busch, Berg und Waldgipfel
+die hohen Ruinen der uralten Stammburg betrachtend, sich unterhielt,
+die in der Abendbeleuchtung merkwuerdig hervortraten, indem alsdann die
+groessten Licht- und Schattenmassen den deutlichsten Begriff von einem
+so ansehnlichen Denkmal alter Zeit verleihen konnten.
+
+Auch zeigte sich heute frueh durch die annaehernden Glaeser recht
+auffallend die herbstliche Faerbung jener mannigfaltigen Baumarten, die
+zwischen dem Gemaeuer ungehindert und ungestoert durch lange Jahre
+emporstrebten.
+
+Die schoene Dame richtete jedoch das Fernrohr etwas tiefer nach einer
+oeden, steinigen Flaeche, ueber welche der Jagdzug weggehen musste.
+
+Sie erharrte den Augenblick mit Geduld und betrog sich nicht, denn bei
+der Klarheit und Vergroesserungsfaehigkeit des Instruments erkannten ihre
+glaenzenden Augen deutlich den Fuersten und den Oberstallmeister; ja sie
+enthielt sich nicht, abermals mit dem Schnupftuche zu winken, als sie
+ein augenblickliches Stillhalten und Rueckblicken mehr vermutete als
+gewahr ward.
+
+Fuerst Oheim, Friedrich mit Namen, trat sodann, angemeldet, mit seinem
+Zeichner herein, der ein grosses Portefeuille unter dem Arm trug.
+
+"Liebe Cousine", sagte der alte, ruestige Herr, "hier legen wir die
+Ansichten der Stammburg vor, gezeichnet, um von verschiedenen Seiten
+anschaulich zu machen, wie der maechtige Trutz- und Schutzbau von alten
+Zeiten her dem Jahr und seiner Witterung sich entgegenstemmte und wie
+doch hie und da sein Gemaeuer weichen, da und dort in wueste Ruinen
+zusammenstuerzen musste.
+
+Nun haben wir manches getan, um diese Wildnis zugaenglicher zu machen,
+denn mehr bedarf es nicht, um jeden Wanderer, jeden Besuchenden in
+Erstaunen zu setzen, zu entzuecken".
+
+Indem nun der Fuerst die einzelnen Blaetter deutete, sprach er weiter:
+"hier, wo man, den Hohlweg durch die aeussern Ringmauern heraufkommend,
+vor die eigentliche Burg gelangt, steigt uns ein Felsen entgegen von
+den festesten des ganzen Gebirgs; hierauf nun steht gemauert ein Turm,
+doch niemand wuesste zu sagen, wo die Natur aufhoert, Kunst und Handwerk
+aber anfangen.
+
+Ferner sieht man seitwaerts Mauern angeschlossen und Zwinger
+terrassenmaessig herab sich erstreckend.
+
+Doch ich sage nicht recht, denn es ist eigentlich ein Wald, der diesen
+uralten Gipfel umgibt.
+
+Seit hundertundfunfzig Jahren hat keine Axt hier geklungen, und
+ueberall sind die maechtigsten Staemme emporgewachsen.
+
+Wo Ihr Euch an den Mauern andraengt, stellt sich der glatte Ahorn, die
+rauhe Eiche, die schlanke Fichte mit Schaft und Wurzeln entgegen; um
+diese muessen wir uns herumschlaengeln und unsere Fusspfade verstaendig
+fuehren.
+
+Seht nur, wie trefflich unser Meister dies Charakteristische auf dem
+Papier ausgedrueckt hat, wie kenntlich die verschiedenen Stammund
+Wurzelarten zwischen das Mauerwerk verflochten und die maechtigen aeste
+durch die Luecken durchgeschlungen sind!
+
+Es ist eine Wildnis wie keine, ein zufaellig einziges Lokal, wo die
+alten Spuren laengst verschwundener Menschenkraft mit der ewig lebenden
+und fortwirkenden Natur sich in dem ernstesten Streit erblicken
+lassen".
+
+Ein anderes Blatt aber vorlegend, fuhr er fort: "was sagt Ihr nun zum
+Schlosshofe, der, durch das Zusammenstuerzen des alten Torturmes
+unzugaenglich, seit und undenklichen Jahren von niemand betreten ward?
+
+Wir suchten ihm von der Seite beizukommen, haben Mauern durchbrochen,
+Gewoelbe gesprengt und so einen bequemen, aber geheimen Weg bereitet.
+
+Inwendig bedurft es keines Aufraeumens, hier findet sich ein flacher
+Felsgipfel von der Natur geplaettet, aber doch haben maechtige Baeume hie
+und da zu wurzeln Glueck und Gelegenheit gefunden; sie sind sachte,
+aber entschieden aufgewachsen, nun erstrecken sie ihre aeste bis in die
+Galerien hinein, auf denen der Ritter sonst auf und ab schritt, ja
+durch Tueren durch und Fenster in die gewoelbten Saele, aus denen wir sie
+nicht vertreiben wollen; sie sind eben Herr geworden und moegens
+bleiben.
+
+
+
+
+Novelle, Kapitel 2
+
+
+Tiefe Blaetterschichten wegraeumend, haben wir den merkwuerdigsten Platz
+geebnet gefunden, dessengleichen in der Welt vielleicht nicht wieder
+zu sehen ist.
+
+Nach allem diesem aber ist es immer noch bemerkenswert und an Ort und
+Stelle zu beschauen, dass auf den Stufen, die in den Hauptturm
+hinauffuehren, ein Ahorn Wurzel geschlagen und sich zu einem so
+tuechtigen Baume gebildet hat, dass man nur mit Not daran vorbeidringen
+kann, um die Zinne, der unbegrenzten Aussicht wegen, zu besteigen.
+
+Aber auch hier verweilt man bequem im Schatten, denn dieser Baum ist
+es, der sich ueber das Ganze wunderbar hoch in die Luft hebt.
+
+Danken wir also dem wackern Kuenstler, der uns so loeblich in
+verschiedenen Bildern von allem ueberzeugt, als wenn wir gegenwaertig
+waeren; er hat die schoensten Stunden des Tages und der Jahrszeit dazu
+angewendet und sich wochenlang um diese Gegenstaende herumbewegt.
+
+In dieser Ecke ist fuer ihn und den Waechter, den wir ihm zugegeben,
+eine kleine, angenehme Wohnung eingerichtet.
+
+Sie sollten nicht glauben, meine Beste, welch eine schoene Aus- und
+Ansicht er ins Land, in Hof und Gemaeuer sich dort bereitet hat!  Nun
+aber, da alles so rein und charakteristisch umrissen ist, wird er es
+hier unten mit Bequemlichkeit ausfuehren.
+
+wir wollen mit diesen Bildern unsern Gartensaal zieren, und niemand
+soll ueber unsere regelmaessigen Parterre, Lauben und schattigen Gaenge
+seine Augen spielen lassen, der nicht wuenschte, dort oben in dem
+wirklichen Anschauen des Alten und Neuen, des Starren, Unnachgiebigen,
+Unzerstoerlichen und des Frischen, Schmiegsamen, Unwiderstehlichen
+seine Betrachtungen anzustellen".
+
+Honorio trat ein und meldete, die Pferde seien vorgefuehrt; da sagte
+die Fuerstin, zum Oheim gewendet: "reiten wir hinauf, und lassen Sie
+mich in der Wirklichkeit sehen, was Sie mir hier im Bilde zeigten!
+
+Seit ich hier bin, hoer ich von diesem Unternehmen und werde jetzt erst
+recht verlangend, mit Augen zu sehen, was mir in der Erzaehlung
+unmoeglich schien und in der Nachbildung unwahrscheinlich bleibt".
+--"Noch nicht, meine Liebe", versetzte der Fuerst; "was Sie hier sahen,
+ist, was es werden kann und wird; jetzt stockt noch manches, die Kunst
+muss erst vollenden, wenn sie sich vor der Natur nicht schaemen soll".
+--"Und so reiten wir wenigstens hinaufwaerts, und waer es nur bis an den
+Fuss; ich habe grosse Lust, mich heute weit in der Welt umzusehen".
+--"Ganz nach Ihrem Willen", versetzte der Fuerst.--"Lassen Sie uns
+aber durch die Stadt reiten", fuhr die Dame fort, "ueber den grossen
+Marktplatz, wo eine zahllose Menge von Buden die Gestalt einer kleinen
+Stadt, eines Feldlagers angenommen hat.
+
+Es ist, als waeren die Beduerfnisse und Beschaeftigungen saemtlicher
+Familien des Landes umher nach aussen gekehrt, in diesem Mittelpunkt
+versammelt, an das Tageslicht gebracht worden, denn hier sieht der
+aufmerksame Beobachter alles, was der Mensch leistet und bedarf; man
+bildet sich einen Augenblick ein, es sei kein Geld noetig, jedes
+Geschaeft koenne hier durch Tausch abgetan werden, und so ist auch im
+Grunde.
+
+Seitdem der Fuerst gestern mir Anlass zu diesem uebersichten gegeben, ist
+es mir gar angenehm zu denken, wie hier, wo Gebirg und flaches Land
+aneinandergrenzen, beide so deutlich aussprechen, was sie brauchen und
+was sie wuenschen.
+
+Wie nun der Hochlaender das Holz seiner Waelder in hundert Formen
+umzubilden weiss, das Eisen zu einem jeden Gebrauch zu
+vermannigfaltigen, so kommen jene drueben mit den vielfaeltigsten Waren
+ihm entgegen, an denen man den Stoff kaum unterscheiden und den Zweck
+oft nicht erkennen mag".
+
+"Ich weiss", versetzte der Fuerst, "dass mein Neffe hierauf die groesste
+Aufmerksamkeit wendet, denn gerade zu dieser Jahrszeit kommt es
+hauptsaechlich darauf an, dass man mehr empfange als gebe; dies zu
+bewirken, ist am Ende die Summe des ganzen Staatshaushaltes so wie der
+kleinsten haeuslichen Wirtschaft.
+
+Verzeihen Sie aber, meine Beste, ich reite niemals gern durch den
+Markt und Messe; bei jedem Schritt ist man gehindert und aufgehalten,
+und dann flammt mir das ungeheure Unglueck wieder in die
+Einbildungskraft, das sich mir gleichsam in die Augen eingebrannt, als
+ich eine solche Gueter- und Warenbreite in Feuer aufgehen sah.
+
+Ich hatte mich kaum--".
+
+"Lassen Sie uns die schoenen Stunden nicht versaeumen!" fiel ihm die
+Fuerstin ein, da der wuerdige Mann sie schon einigemal mit ausfuehrlicher
+Beschreibung jenes Unheils geaengstigt hatte, wie er sich naemlich, auf
+einer grossen Reise begriffen, abends im besten Wirtshause auf dem
+Markte, der eben von einer Hauptmesse wimmelte, hoechst ermuedet zu
+Bette gelegt und nachts durch Geschrei und Flammen, die sich gegen
+seine Wohnung waelzten, graesslich aufgeweckt worden.
+
+Die Fuerstin eilte, das Lieblingspferd zu besteigen, und fuehrte, statt
+zum Hintertore bergauf, zum Vordertore bergunter ihren widerwillig
+bereiten Begleiter; denn wer waere nicht gern an ihrer Seite geritten,
+wer waere ihr nicht gern gefolgt!
+
+Und so war auch Honorio von der sonst so ersehnten Jagd willig
+zurueckgeblieben, um ihr ausschliesslich dienstbar zu sein.
+
+Wie vorauszusehen, durften sie auf dem Markte nur Schritt vor Schritt
+reiten; aber die schoene Liebenswuerdige erheiterte jeden Aufenthalt
+durch eine geistreiche Bemerkung.
+
+"Ich wiederhole", sagte sie, "meine gestrige Lektion, da denn doch die
+Notwendigkeit unsere Geduld pruefen will".
+
+Und wirklich draengte sich die ganze Menschenmasse dergestalt an die
+Reitenden heran, dass sie ihren Weg nur langsam fortsetzen konnten.
+Das Volk schaute mit Freuden die junge Dame, und auf so viel
+laechelnden Gesichtern zeigte sich das entschiedene Behagen, zu sehen,
+dass die erste Frau im Lande auch die schoenste und anmutigste sei.
+
+Untereinander gemischt standen Bergbewohner, die zwischen Felsen,
+Fichten und Foehren ihre stillen Wohnsitze hegten, Flachlaender von
+Huegeln, Auen und Wiesen her, Gewerbsleute der kleinen Staedte, und was
+sich alles versammelt hatte.
+
+Nach einem ruhigen ueberblick bemerkte die Fuerstin ihrem Begleiter, wie
+alle diese, woher sie auch seien, mehr Stoff als noetig zu ihren
+Kleidern genommen, mehr Tuch und Leinwand, mehr Band zum Besatz.
+
+"Ist es doch, als ob die Weiber nicht brauschig und die Maenner nicht
+pausig genug sich gefallen koennten!"
+
+"Wir wollen ihnen das ja lassen", versetzte der Oheim; "wo auch der
+Mensch seinen ueberfluss hinwendet, ihm ist wohl dabei, am wohlsten,
+wenn er sich damit schmueckt und aufputzt".
+
+Die schoene Dame winkte Beifall.
+
+So waren sie nach und nach auf einen freiern Platz gelangt, der zur
+Vorstadt hinfuehrte, wo am Ende vieler kleiner Buden und Kramstaende ein
+groesseres Brettergebaeude in die Augen fiel, das sie kaum erblickten,
+als ein ohrzerreissendes Gebruelle ihnen entgegentoente.
+
+Die Fuetterungsstunde der dort zur Schau stehenden wilden Tiere schien
+herangekommen; der Loewe liess seine Wald- und Wuestenstimme aufs
+kraeftigste hoeren, die Pferde schauderten, und man konnte der Bemerkung
+nicht entgehen, wie in dem friedlichen Wesen und Wirken der gebildeten
+Welt der Koenig der Einoede sich so furchtbar verkuendige.
+
+Zur Bude naeher gelangt, durften sie die bunten, kolossalen Gemaelde
+nicht uebersehen, die mit heftigen Farben und kraeftigen Bildern jene
+fremden Tiere darstellten, welche der friedliche Staatsbuerger zu
+schauen unueberwindliche Lust empfinden sollte.
+
+
+
+
+Novelle, Kapitel 3
+
+
+Der grimmig ungeheure Tiger sprang auf einen Mohren los, im Begriff
+ihn zu zerreissen, ein Loewe stand ernsthaft majestaetisch, als wenn er
+keine Beute seiner wuerdig vor sich saehe; andere wunderliche, bunte
+Geschoepfe verdienten neben diesen maechtigen weniger Aufmerksamkeit.
+
+"Wir wollen", sagte die Fuerstin, "bei unserer Rueckkehr absteigen und
+die seltenen Gaeste naeher betrachten!"--"Es ist wunderbar", versetzte
+der Fuerst, "dass der Mensch durch Schreckliches immer aufgeregt sein
+will.
+
+Drinnen liegt der Tiger ganz ruhig in seinem Kerker, und hier muss er
+grimmig auf einen Mohren losfahren, damit man glaube, dergleichen
+inwendig ebenfalls zu sehen; es ist an Mord und Totschlag noch nicht
+genug, an Brand und Untergang: die Baenkelsaenger muessen es an jeder
+Ecke wiederholen.
+
+Die guten Menschen wollen eingeschuechtert sein, um hinterdrein erst
+recht zu fuehlen, wie schoen und loeblich es sei, frei Atem zu holen".
+
+Was denn aber auch Baengliches von solchen Schreckensbildern mochte
+uebriggeblieben sein, alles und jedes war sogleich ausgeloescht, als man,
+zum Tore hinausgelangt, in die heiterste Gegend eintrat.
+
+Der Weg fuehrte zuerst am Flusse hinan, an einem zwar noch schmalen,
+nur leichte Kaehne tragenden Wasser, das aber nach und nach als groesster
+Strom seinen Namen behalten und ferne Laender beleben sollte.
+
+Dann ging es weiter durch wohlversorgte Frucht- und Lustgaerten sachte
+hinaufwaerts, und man sah sich nach und nach in der aufgetanen,
+wohlbewohnten Gegend um, bis erst ein Busch, sodann ein Waeldchen die
+Gesellschaft aufnahm und die anmutigsten oertlichkeiten ihren Blick
+begrenzten und erquickten.
+
+Ein aufwaerts leitendes Wiesental, erst vor kurzem zum zweiten Male
+gemaeht, sammetaehnlich anzusehen, von einer oberwaerts lebhaft auf
+einmal reich entspringenden Quelle gewaessert, empfing sie freundlich,
+und so zogen sie einem hoeheren, freieren Standpunkt entgegen, den sie,
+aus dem Walde sich bewegend, nach einem lebhaften Stieg erreichten,
+alsdann aber vor sich noch in bedeutender Entfernung ueber neuen
+Baumgruppen das alte Schloss, den Zielpunkt ihrer Wallfahrt, als Fels-
+und Waldgipfel hervorragen sahen.
+
+Rueckwaerts aber--denn niemals gelangte man hierher, ohne sich
+umzukehren--erblickten sie durch zufaellige Luecken der hohen Baeume das
+fuerstliche Schloss links, von der Morgensonne beleuchtet, den
+wohlgebauten hoehern Teil der Stadt, von leichten Rauchwolken gedaempft,
+und so fort nach der Rechten zu die untere Stadt, den Fluss in einigen
+Kruemmungen mit seinen Wiesen und Muehlen, gegenueber eine weite
+nahrhafte Gegend.
+
+nachdem sie sich an dem Anblick ersaettigt oder vielmehr, wie es uns
+bei dem Umblick auf so hoher Stelle zu geschehen pflegt, erst recht
+verlangend geworden nach einer weitern, weniger begrenzten Aussicht,
+ritten sie eine steinige, breite Flaeche hinan, wo ihnen die maechtige
+Ruine als ein gruengekroenter Gipfel entgegenstand, wenig alte Baeume
+tief unten um seinen Fuss; sie ritten hindurch, und so fanden sie sich
+gerade vor der steilsten, unzugaenglichsten Seite.
+
+Maechtige Felsen standen von Urzeiten her, jedem Wechsel unangetastet,
+fest, wohlgegruendet voran, und so tuermte sichs aufwaerts; das
+sazwischen Herabgestuerzte lag in maechtigen Platten und Truemmern
+unregelmaessig uebereinander und schien dem Kuehnsten jeden Angriff zu
+verbieten.
+
+Aber das Steile, Jaehe scheint der Jugend zuzusagen; dies zu
+unternehmen, zu erstuermen, zu erobern, ist jungen Gliedern ein Genuss.
+
+Die Fuerstin bezeigte Neigung zu einem Versuch, Honorio war bei der
+Hand, der fuerstliche Oheim, wenn schon bequemer, liess sichs gefallen
+und wollte sich doch auch nicht unkraeftig zeigen; die Pferde sollten
+am Fuss unter den Baeumen halten, und man wollte bis zu einem gewissen
+Punkte gelangen, wo ein vorstehender maechtiger Fels einen Flaechenraum
+darbot, von wo man eine Aussicht hatte, die zwar schon in den Blick
+des Vogels ueberging, aber sich doch noch malerisch genug
+hintereinander schob.
+
+Die Sonne, beinahe auf ihrer hoechsten Stelle, verlieh die klarste
+Beleuchtung; das fuerstliche Schloss mit seinen Teilen, Hauptgebaeuden,
+Fluegeln, Kuppeln und Tuermen erschien gar stattlich, die obere Stadt in
+ihrer voelligen Ausdehnung; auch in die untere konnte man bequem
+hineinsehen, ja durch das Fernrohr auf dem Markte sogar die Buden
+unterscheiden.
+
+Honorio war immer gewohnt, ein so foerderliches Werkzeug
+ueberzuschnallen; man schaute den Fluss hinauf und hinab, diesseits das
+bergartig terrassenweis unterbrochene, jenseits das aufgleitende
+flache und in maessigen Huegeln abwechselnde fruchtbare Land, Ortschaften
+unzaehlige; denn es war laengst herkoemmlich, ueber die Zahl zu streiten,
+wieviel man deren von hier oben gewahr werde.
+
+ueber die grosse Weite lag eine heitere Stille, wie es am Mittag zu sein
+pflegt, wo die Alten sagten, Pan schlafe und alle Natur halte den Atem
+an, um ihn nicht aufzuwecken.
+
+"Es ist nicht das erstemal", sagte die Fuerstin, "dass ich auf so hoher,
+weitumschauender Stelle die Betrachtung machte, wie doch die klare
+Natur so reinlich und friedlich aussieht und den Eindruck verleiht,
+als wenn gar nichts Widerwaertiges in der Welt sein koenne, und wenn man
+denn wieder in die Menschenwohnung zurueckkehrt, sie sei hoch oder
+niedrig, weit oder eng, so gibts immer etwas zu kaempfen, zu streiten,
+zu schlichten und zurechtzulegen".
+
+Honorio, der indessen durch das Sehrohr nach der Stadt geschaut hatte,
+rief: "seht hin!  Seht hin!  Auf dem Markte faengt es an zu brennen!".
+Sie sahen hin und bemerkten wenigen Rauch; die Flamme daempfte der Tag.
+
+"Das Feuer greift weiter um sich!" rief man, immer durch die Glaeser
+schauend; auch wurde das Unheil den guten, unbewaffneten Augen der
+Fuerstin bemerklich.
+
+Von Zeit zu Zeit erkannte man eine rote Flammenglut, der Dampf stieg
+empor, und Fuerst Oheim sprach: "lasst uns zurueckkehren!  Das ist nicht
+gut!  Ich fuerchtete immer, das Unglueck zum zweiten Male zu erleben".
+
+Als sie, herabgekommen, den Pferden wieder zugingen, sagte die Fuerstin
+zu dem alten Herrn: "reiten Sie hinein, eilig, aber nicht ohne den
+Reitknecht!  Lassen Sie mir Honorio!  Wir folgen sogleich".
+
+Der Oheim fuehlte das Vernuenftige, ja das Notwendige dieser Worte und
+ritt, so eilig als der Boden erlaubte, den wuesten, steinigen Hang
+hinunter.
+
+Als die Fuerstin aufsass, sagte Honorio: "reiten Euer Durchlaucht, ich
+bitte, langsam!
+
+In der Stadt wie auf dem Schloss sind die Feueranstalten in bester
+Ordnung, man wird sich durch einen so unerwartet ausserordentlichen
+Fall nicht irre machen lassen.
+
+Hier aber ist ein boeser Boden, kleine Steine und kurzes Gras,
+schnelles Reiten ist unsicher; ohnehin, bis wir hineinkommen, wird das
+Feuer schon nieder sein".
+
+Die Fuerstin glaube nicht daran; sie sah den Rauch sich verbreiten, sie
+glaubte einen aufflammenden Blitz gesehen, einen Schlag gehoert zu
+haben, und nun bewegten sich in ihrer Einbildungskraft alle die
+Schreckbilder, welche des trefflichen Oheims wiederholte Erzaehlung von
+dem erlebten Jahrmarktsbrande leider nur zu tief eingesenkt hatte.
+
+Fuerchterlich wohl war jener Fall, ueberraschend und eindringlich genug,
+um zeitlebens eine Ahnung und Vorstellung wiederkehrenden Ungluecks
+aengstlich zurueckzulassen, als zur Nachtzeit auf dem grossen,
+budenreichen Marktraum ein ploetzlicher Brand Laden auf Laden ergriffen
+hatte, ehe noch die in und an diesen leichten Huetten Schlafenden aus
+tiefen Traeumen geschuettelt wurden, der Fuerst selbst als ein ermuedet
+angelangter, erst eingeschlafener Fremder ans Fenster sprang, alles
+fuerchterlich erleuchtet sah, Flamme nach Flamme, rechts und links sich
+ueberspringend, ihm entgegenzuengelte.
+
+
+
+
+Novelle, Kapitel 4
+
+
+Die Haeuser des Marktes, vom Widerschein geroetet, schienen schon zu
+gluehen, drohend sich jeden Augenblick zu entzuenden und in Flammen
+aufzuschlagen; unten wuetete das Element unaufhaltsam, die Bretter
+prasselten, die Latten knackten, Leinwand flog auf, und ihre duestern,
+an den Enden flammend ausgezackten Fetzen trieben in der Hoehe sich
+umher, als wenn die boesen Geister in ihrem Elemente, um und um
+gestaltet, sich mutwillig tanzend verzehren und da und dort aus den
+Gluten wieder auftauchen wollten.
+
+Dann aber mit kreischendem Geheul rettete jeder, was zur Hand lag;
+Diener und Knechte mit den Herren bemuehten sich, von Flammen
+ergriffene Ballen fortzuschleppen, von dem brennenden Gestell noch
+einiges wegzureissen, um es in die Kiste zu packen, die sie denn doch
+zuletzt den eilenden Flammen zum Raube lassen mussten.
+
+Wie mancher wuenschte nur einen Augenblick Stillstand dem
+heranprasselnden Feuer, nach der Moeglichkeit einer Besinnung sich
+umsehend, und er war mit aller seiner Habe schon ergriffen; an der
+einen Seite brannte, gluehte schon, was an der andern noch in finsterer
+Nacht stand.
+
+Hartnaeckige Charaktere, willensstarke Menschen widersetzten sich
+grimmig dem grimmigen Feinde und retteten manches mit Verlust ihrer
+Augenbraunen und Haare.
+
+Leider nun erneuerte sich vor dem schoenen Geiste der Fuerstin der wueste
+Wirrwarr, nun schien der heitere morgendliche Gesichtskreis umnebelt,
+ihre Augen verduestert; Wald und Wiese hatten einen wunderbaren,
+baenglichen Anschein.
+
+In das friedliche Tal einreitend, seiner labenden Kuehle nicht achtend,
+waren sie kaum einige Schritte von der lebhaften Quelle des nahen
+fliessenden Baches herab, als die Fuerstin ganz unten im Gebuesche des
+Wiesentals etwas Seltsames erblickte, das sie alsobald fuer den Tiger
+erkannte; heranspringend, wie sie ihn vor kurzem gemalt gesehen, kam
+er entgegen, und dieses Bild zu den furchtbaren Bildern, die sie
+soeben beschaeftigten, machte den wundersamsten Eindruck.
+
+"Flieht!  Gnaedige Frau", rief Honorio, "flieht!".  Sie wandte das
+Pferd um, dem steilen Berg zu, wo sie herabgekommen waren.
+
+Der Juengling aber, dem Untier entgegen, zog die Pistole und schoss, als
+er sich nahe genug glaubte.
+
+Leider jedoch war gefehlt; der Tiger sprang seitwaerts, das Pferd
+stutzte, das ergrimmte Tier aber verfolgte seinen Weg aufwaerts,
+unmittelbar der Fuerstin nach.
+
+Sie sprengte, was das Pferd vermochte, die steile, steinige Strecke
+hinan, kaum fuerchtend, dass ein zartes Geschoepf, solcher Anstrengung
+ungewohnt, sie nicht aushalten werde.
+
+Es uebernahm sich, von der bedraengten Reiterin angeregt, stiess am
+kleinen Geroelle des Hanges an und wieder an und stuerzte zuletzt nach
+heftigem Bestreben kraftlos zu Boden.
+
+Die schoene Dame, entschlossen und gewandt, verfehlte nicht, sich
+strack auf ihre Fuesse zu stellen, auch das Pferd richtete sich auf,
+aber der Tiger nahte schon, obgleich nicht mit heftiger Schnelle; der
+ungleiche Boden, die scharfen Steine schienen seinen Antrieb zu
+hindern, und nur dass Honorio unmittelbar hinter ihm herflog, neben ihm
+gemaessigt heraufritt, schien seine Kraft aufs neue anzuspornen und zu
+reizen.
+
+Beide Renner erreichten zugleich den Ort, wo die Fuerstin am Pferde
+stand; der Ritter beugte sich herab, schoss und traf mit der zweiten
+Pistole das Ungeheuer durch den Kopf, dass es sogleich niederstuerzte
+und ausgestreckt in seiner Laenge erst recht die Macht und
+Furchtbarkeit sehen liess, von der nur noch das Koerperliche
+uebriggeblieben dalag.
+
+Honorio war vom Pferde gesprungen und kniete schon auf dem Tiere,
+daempfte seine letzten Bewegungen und hielt den gezogenen Hirschfaenger
+in der rechten Hand.
+
+Der Juengling war schoen, er war herangesprengt, wie ihn die Fuerstin oft
+im Lanzen- und Ringelspiel gesehen hatte.
+
+Ebenso traf in der Reitbahn seine Kugel im Vorbeisprengen den
+Tuerkenkopf auf dem Pfahl gerade unter dem Turban in die Stirne, ebenso
+spiesste er, fluechtig heransprengend, mit dem blanken Saebel das
+Mohrenhaupt vom Boden auf.
+
+In allen solchen Kuensten war er gewandt und gluecklich, hier kam beides
+zustatten.
+
+"Gebt ihm den Rest", sagte die Fuerstin; "ich fuerchte, er beschaedigt
+Euch noch mit den Krallen".--"Verzeiht!" erwiderte der Juengling, "er
+ist schon tot genug, und ich mag das Fell nicht verderben, das
+naechsten Winter auf Eurem Schlitten glaenzen soll".--"Frevelt nicht!"
+sagte die Fuerstin; "alles, was von Froemmigkeit im tiefen Herzen wohnt,
+entfaltet sich in solchem Augenblick".--"Auch ich", rief Honorio,
+"war nie froemmer als jetzt eben; deshalb aber denk ich ans Freudigste;
+ich blicke dieses Fell nur an, wie es Euch zur Lust begleiten kann".
+--"Es wuerde mich immer an diesen schrecklichen Augenblick erinnern",
+versetzte sie.
+
+"Ist es doch", erwiderte der Juengling mit gluehender Wange, "ein
+unschuldigeres Triumphzeichen, als wenn die Waffen erschlagener Feinde
+vor dem Sieger her zur Schau getragen wurden".--"Ich werde mich an
+Eure Kuehnheit und Gewandtheit dabei erinnern und darf nicht
+hinzusetzen, dass Ihr auf meinen Dank und auf die Gnade des Fuersten
+lebenslaenglich rechnen koennt.
+
+Aber steht auf!
+
+Schon ist kein Leben mehr im Tiere.
+
+Bedenken wir das Weitere!
+
+Vor allen Dingen steht auf!"--"Da ich nun einmal kniee", versetzte der
+Juengling, "da ich mich in einer Stellung befinde, die mir auf jede
+andere Weise untersagt waere, so lasst mich bitten, von der Gunst und
+von der Gnade, die Ihr mir zuwendet, in diesem Augenblick versichert
+zu werden.
+
+Ich habe schon so oft Euren hohen Gemahl gebeten um Urlaub und
+Verguenstigung einer weitern Reise.
+
+Wer das Glueck hat, an Eurer Tafel zu sitzen, wen Ihr beehrt, Eure
+Gesellschaft unterhalten zu duerfen, der muss die Welt gesehen haben.
+Reisende stroemen von allen Orten her, und wenn von einer Stadt, von
+einem wichtigen Punkte irgendeines Weltteils gesprochen wird, ergeht
+an den Eurigen jedesmal die Frage, ob er daselbst gewesen sei.
+
+Niemanden traut man Verstand zu, als wer das alles gesehen hat; es ist,
+als wenn man sich nur fuer andere zu unterrichten haette".
+
+"Steht auf!" wiederholte die Fuerstin; "ich moechte nicht gern gegen die
+ueberzeugung meines Gemahls irgend etwas wuenschen und bitten; allein
+wenn ich nicht irre, so ist die Ursache, warum er Euch bisher
+zurueckhielt, bald gehoben.
+
+Seine Absicht war, Euch zum selbstaendigen Edelmann herangereift zu
+sehen, der sich und ihm auch auswaerts Ehre machte wie bisher am Hofe,
+und ich daechte, Eure Tat waere ein so empfehlender Reisepass, als ein
+junger Mann nur in die Welt mitnehmen kann".
+
+Dass anstatt einer jugendlichen Freude eine gewisse Trauer ueber sein
+Gesicht zog, hatte die Fuerstin nicht Zeit zu bemerken, noch er seiner
+Empfindung Raum zu geben; denn hastig den Berg herauf, einen Knaben an
+der Hand, kam eine Frau geradezu auf die Gruppe los, die wir kennen,
+und kaum war Honorio, sich besinnend, aufgestanden, als sie sich
+heulend und schreiend ueber den Leichnam herwarf und an dieser Handlung
+sowie an einer obgleich reinlich anstaendigen, doch bunten und
+seltsamen Kleidung sogleich erraten liess, sie sei die Meisterin und
+Waerterin dieses dahingestreckten Geschoepfes, wie denn der
+schwarzaugige, schwarzlockige Knabe, der eine Floete in der Hand hielt,
+gleich der Mutter weinend, weniger heftig, aber tief geruehrt neben ihr
+kniete.
+
+
+
+
+Novelle, Kapitel 5
+
+
+Den gewaltsamen Ausbruechen der Leidenschaft dieses ungluecklichen
+Weibes folgte, zwar unterbrochen, stossweise ein Strom von Worten, wie
+ein Bach sich in Absaetzen von Felsen zu Felsen stuerzt.
+
+Eine natuerliche Sprache, kurz und abgebrochen, machte sich
+eindringlich und ruehrend.
+
+Vergebens wuerde man sie in unsern Mundarten uebersetzen wollen; den
+ungefaehren Inhalt duerfen wir nicht verfehlen: "sie haben dich ermordet,
+armes Tier!
+
+Ermordet ohne Not!
+
+Du warst zahm und haettest dich gern ruhig niedergelassen und auf uns
+gewartet; denn deine Fussballen schmerzten dich, und deine Krallen
+hatten keine Kraft mehr!
+
+Die heisse Sonne fehlte dir, sie zu reifen.
+
+Du warst der Schoenste deinesgleichen; wer hat je einen koeniglichen
+Tiger so herrlich ausgestreckt im Schlaf gesehen, wie du nun hier
+liegst, tot, um nicht wieder aufzustehen!
+
+Wenn du des Morgens aufwachtest beim fruehen Tagschein und den Rachen
+aufsperrtest, ausstreckend die rote Zunge, so schienst du uns zu
+laecheln, und wenn schon bruellend, nahmst du doch spielend dein Futter
+aus den Haenden einer Frau, von den Fingern eines Kindes!
+
+Wie lange begleiteten wir dich auf deinen Fahrten, wie lange war deine
+Gesellschaft uns wichtig und fruchtbar!
+
+Uns, uns ganz eigentlich kam die Speise von den Fressern und suesse
+Labung von den Starken.
+
+So wird es nicht mehr sein!
+
+Wehe!
+
+Wehe!  "Sie hatte nicht ausgeklagt, als ueber die mittlere Hoehe des
+Bergs am Schlosse herab Reiter heransprengten, die alsobald fuer das
+Jagdgefolge des Fuersten erkannt wurden, er selbst voran.
+
+Sie hatten, in den hintern Gebirgen jagend, die Brandwolken aufsteigen
+sehen und durch Taeler und Schluchten, wie auf gewaltsam hetzender Jagd,
+den geraden Weg nach diesem traurigen Zeichen genommen.
+
+ueber die steinige Bloesse einhersprengend, stutzten und starrten sie,
+nun die unerwartete Gruppe gewahr werdend, die sich auf der leeren
+Flaeche merkwuerdig auszeichnete.
+
+Nach dem ersten Erkennen verstummte man, und nach einigem Erholen ward,
+was der Anblick nicht selbst ergab, mit wenigen Worten erlaeutert.
+
+So stand der Fuerst vor dem seltsamen, unerhoerten Ereignis, einen Kreis
+umher von Reitern und Nacheilenden zu Fusse.
+
+Unschluessig war man nicht, was zu tun sei; anzuordnen, auszufuehren war
+der Fuerst beschaeftigt, als ein Mann sich in den Kreis draengte, gross
+von Gestalt, bunt und wunderlich gekleidet wie Frau und Kind.
+
+Und nun gab die Familie zusammen Schmerz und ueberraschung zu erkennen.
+
+Der Mann aber, gefasst, stand in ehrfurchtsvoller Entfernung vor dem
+Fuersten und sagte: "es ist nicht Klagenszeit; ach, mein Herr und
+maechtiger Jaeger, auch der Loewe ist los, auch hier nach dem Gebirg ist
+er hin, aber schont ihn, habt Barmherzigkeit, dass er nicht umkomme wie
+dies gute Tier!"
+
+"Der Loewe?" sagte der Fuerst,"hast du seine Spur?"  "Ja, Herr!  Ein
+Bauer dort unten, der sich ohne Not auf einen Baum gerettet hatte,
+wies mich weiter hier links hinauf, aber ich sah den grossen Trupp
+Menschen und Pferde vor mir, neugierig und hilfsbeduerftig eilt ich
+hierher".--"Also", beorderte der Fuerst, "muss die Jagd sich auf diese
+Seite ziehen; ihr ladet eure Gewehre, geht sachte zu Werk, es ist kein
+Unglueck, wenn ihr ihn in die tiefen Waelder treibt.--Aber am Ende,
+guter Mann, werden wir euer Geschoepf nicht schonen koennen; warum wart
+ihr unvorsichtig genug, sie entkommen zu lassen!"--"Das Feuer brach
+aus", versetzte jener; "wir hielten uns still und gespannt; es
+verbreitete sich schnell, aber fern von uns.
+
+Wir hatten Wasser genug zu unserer Verteidigung, aber ein Pulverschlag
+flog auf und warf die Braende bis an uns heran, ueber uns weg; wir
+uebereilten uns und sind nun unglueckliche Leute".
+
+Noch war der Fuerst mit Anordnungen beschaeftigt, aber einen Augenblick
+schien alles zu stocken, als oben vom alten Schloss herab eilig ein
+Mann heranspringend gesehen ward, den man bald fuer den angestellten
+Waechter erkannte, der die Werkstaette des Malers bewachte, indem er
+darin seine Wohnung nahm und die Arbeiter beaufsichtigte.
+
+Er kam ausser Atem springend, doch hatte er bald mit wenigen Worten
+angezeigt: oben hinter der hoehern Ringmauer habe sich der Loewe im
+Sonnenschein gelagert, am Fusse einer hundertjaehrigen Buche, und
+verhalte sich ganz ruhig.
+
+aergerlich aber schloss der Mann: "warum habe ich gestern meine Buechse
+in die Stadt getragen, um sie ausputzen zu lassen!
+
+Haette ich sie bei der Hand gehabt, er waere nicht wieder aufgestanden,
+das Fell waere doch mein gewesen, und ich haette mich dessen, wie billig,
+zeitlebens gebruestet".
+
+Der Fuerst, dem seine militaerischen Erfahrungen auch hier zustatten
+kamen, da er sich wohl schon in Faellen gefunden hatte, wo von mehreren
+Seiten unvermeidliches uebel herandrohte, sagte hierauf: "welche
+Buergschaft gebt Ihr mir, dass, wenn wir Eures Loewen schonen, er nicht
+im Lande unter den Meinigen Verderben anrichtet? "
+
+"Hier diese Frau und dieses Kind", erwiderte der Vater hastig,
+"erbieten sich, ihn zu zaehmen, ihn ruhig zu erhalten, bis ich den
+beschlagenen Kasten heraufschaffe, da wir ihn denn unschaedlich und
+unbeschaedigt wieder zurueckbringen werden".
+
+Der Knabe schien seine Floete versuchen zu wollen, ein Instrument von
+der Art, das man sonst die sanfte, suesse Floete zu nennen pflegte; sie
+war kurz geschnaebelt wie die Pfeifen; wer es verstand, wusste die
+anmutigsten Toene daraus hervorzulocken.
+
+Indes hatte der Fuerst den Waertel gefragt, wie der Loewe hinaufgekommen.
+
+Dieser aber versetzte: "durch den Hohlweg, der, auf beiden Seiten
+vermauert, von jeher der einzige Zugang war und der einzige bleiben
+soll; zwei Fusspfade, die noch hinauffuehrten, haben wir dergestalt
+entstellt, dass niemand als durch jenen ersten engen Anweg zu dem
+Zauberschlosse gelangen koenne, wozu es Fuerst Friedrichs Geist und
+Geschmack ausbilden will".
+
+Nach einigem Nachdenken, wobei sich der Fuerst nach dem Kinde umsah,
+das immer sanft gleichsam zu praeludieren fortgefahren hatte, wendete
+er sich zu Honorio und sagte: "du hast heute viel geleistet, vollende
+das Tagwerk!
+
+Besetze den schmalen Weg!--Haltet eure Buechsen bereit, aber schiesst
+nicht eher, als bis ihr das Geschoepf nicht sonst zurueckscheuchen koennt;
+allenfalls macht ein Feuer an, vor dem er sich fuerchtet, wenn er
+herunter will!
+
+Mann und Frau moege fuer das uebrige stehen".
+
+Eilig schickte Honorio sich an, die Befehle zu vollfuehren.
+
+
+
+
+Novelle, Kapitel 6
+
+
+Das Kind verfolgte seine Melodie, die keine war, eine Tonfolge ohne
+Gesetz, und vielleicht eben deswegen so herzergreifend; die
+Umstehenden schienen wie bezaubert von der Bewegung einer
+liederartigen Weise, als der Vater mit anstaendigem Enthusiasmus zu
+reden anfing und fortfuhr: "Gott hat dem Fuersten Weisheit gegeben und
+zugleich die Erkenntnis, dass alle Gotteswerke weise sind, jedes nach
+seiner Art.
+
+Seht den Felsen, wie er fest steht und sich nicht ruehrt, der Witterung
+trotzt und dem Sonnenschein!
+
+Uralte Baeume zieren sein Haupt, und so gekroent schaut er weit umher;
+stuerzt aber ein Teil herunter, so will es nicht bleiben, was es war:
+es faellt zertruemmert in viele Stuecke und bedeckt die Seite des Hanges.
+
+Aber auch da wollen sie nicht verharren, mutwillig springen sie tief
+hinab, der Bach nimmt sie auf, zum Flusse traegt er sie.
+
+Nicht widerstehend, nicht widerspenstig, eckig, nein, glatt und
+abgerundet gewinnen sie schneller ihren Weg und gelangen von Fluss zu
+Fluss, endlich zum Ozean, wo die Riesen in Scharen daherziehen und in
+der Tiefe die Zwerge wimmeln.
+
+Doch wer preist den Ruhm des Herrn, den die Sterne loben von Ewigkeit
+zu Ewigkeit!
+
+Warum seht ihr aber im Fernen umher?
+
+Betrachtet hier die Biene!
+
+Noch spaet im Herbst sammelt sie emsig und baut sich ein Haus, winkel-
+und waagerecht, als Meister und Geselle.
+
+Schaut die Ameise da!
+
+Sie kennt ihren Weg und verliert ihn nicht, sie baut sich eine Wohnung
+aus Grashalmen, Erdbroeslein und Kiefernadeln, sie baut es in die Hoehe
+und woelbet es zu; aber sie hat umsonst gearbeitet, denn das Pferd
+stampft und scharrt alles auseinander.
+
+Sehr hin!
+
+Es zertritt ihre Balken und zerstreut ihre Planken, ungeduldig
+schnaubt es und kann nicht rasten, denn der Herr hat das Ross zum
+Gesellen des Windes gemacht und zum Gefaehrten des Sturmes, dass es den
+Mann dahin trage, wohin er will, und die Frau, wohin sie begehrt.
+
+Aber im Palmenwald trat er auf, der Loewe, ernsten Schrittes durchzog
+er die Wueste, dort herrscht er ueber alles Getier, und nichts
+widersteht ihm.
+
+Doch der Mensch weiss ihn zu zaehmen, und das grausamste der Geschoepfe
+hat Ehrfurcht vor dem Ebenbilde Gottes, wornach auch die Engel gemacht
+sind, die dem Herrn dienen und seinen Dienern.
+
+Denn in der Loewengrube scheute sich Daniel nicht; er blieb fest und
+getrost, und das wilde Bruellen unterbrach nicht seinen frommen Gesang".
+
+
+Diese mit dem Ausdruck eines natuerlichen Enthusiasmus gehaltene Rede
+begleitete das Kind hie und da mit anmutigen Toenen; als aber der Vater
+geendigt hatte, fing es mit reiner Kehle, heller Stimme und
+geschickten Laeufen zu intonieren an, worauf der Vater die Floete
+ergriff, im Einklang sich hoeren liess, das Kind aber sang: "aus den
+Gruben, hier im Graben hoer ich des Propheten Sang; Engel schweben, ihn
+zu laben, waere da dem Guten bang?
+
+Loew und Loewin, hin und wider, schmiegen sich um ihn heran; ja, die
+sanften, frommen Lieder habens ihnen angetan!"  Der Vater fuhr fort,
+die Strophe mit der Floete zu begleiten; die Mutter trat hie und da als
+zweite Stimme mit ein.
+
+Eindringlich aber ganz besonders war, dass das Kind die Zeilen der
+Strophe nunmehr zu anderer Ordnung durcheinander schob und dadurch, wo
+nicht einen neuen Sinn hervorbrachte, doch das Gefuehl in und durch
+sich selbst aufregend erhoehte.
+
+"Engel schweben auf und nieder, uns in Toenen zu erlaben, welch ein
+himmlischer Gesang!
+
+In den Gruben, in dem Graben waere da dem Kinde bang?
+
+Diese sanften, frommen Lieder lassen Unglueck nicht heran; Engel
+schweben hin und wider, und so ist es schon getan".
+
+Hierauf mit Kraft und Erhebung begannen alle drei: "denn der Ewge
+herrscht auf Erden, ueber Meere herrscht sein Blick; Loewen sollen
+Laemmer werden, und die Welle schwankt zurueck.
+
+Blankes Schwert erstarrt im Hiebe, Glaub und Hoffnung sind erfuellt;
+wundertaetig ist die Liebe, die sich im Gebet enthuellt".
+
+Alles war still, hoerte, horchte, und nur erst, als die Toene verhallten,
+konnte man den Eindruck bemerken und allenfalls beobachten.
+
+Alles war wie beschwichtigt, jeder in seiner Art geruehrt.
+
+Der Fuerst, als wenn er erst jetzt das Unheil uebersaehe, das ihn vor
+kurzem bedroht hatte, blickte nieder auf seine Gemahlin, die, an ihn
+gelehnt, sich nicht versagte, das gestickte Tuechlein hervorzuziehen
+und die Augen damit zu bedecken.
+
+Es tat ihr wohl, die jugendliche Brust von dem Druck erleichtert zu
+fuehlen, mit dem die vorhergehenden Minuten sie belastet hatten.
+
+Eine vollkommene Stille beherrschte die Menge; man schien die Gefahren
+vergessen zu haben, unten den Brand und von oben das Erstehen eines
+bedenklich ruhenden Loewen.
+
+Durch einen Wink, die Pferde naeher herbeizufuehren, brachte der Fuerst
+zuerst wieder in die Gruppe Bewegung; dann wendete er sich zu dem
+Weibe und sagte: "Ihr glaubt also, dass Ihr den entsprungenen Loewen, wo
+Ihr ihn antrefft, durch Euren Gesang, durch den Gesang dieses Kindes,
+mit Huelfe dieser Floetentoene beschwichtigen und ihn sodann unschaedlich
+sowie unbeschaedigt in seinem Verschluss wieder zurueckbringen koenntet?"
+Sie bejahten es, versichernd und beteuernd; der Kastellan wurde ihnen
+als Wegweiser zugegeben.
+
+Nun entfernte der Fuerst mit wenigen sich eiligst, die Fuerstin folgte
+langsamer mit dem uebrigen Gefolge; Mutter aber und Sohn stiegen, von
+dem Waertel, der sich eines Gewehrs bemaechtigt hatte, begleitet,
+steiler gegen den Berg hinan.
+
+Vor dem Eintritt in den Hohlweg, der den Zugang zu dem Schloss
+eroeffnete, fanden sie die Jaeger beschaeftigt, duerres Reisig zu haeufen,
+damit sie auf jeden Fall ein grosses Feuer anzuenden koennten.
+
+"Es ist nicht not", sagte die Frau; "es wird ohne das alles in Guete
+geschehen".
+
+Weiter hin, auf einem Mauerstuecke sitzend, erblickten sie Honorio,
+seine Doppelbuechse in den Schoss gelegt, auf einem Posten als wie zu
+jedem Ereignis gefasst.
+
+Aber die Herankommenden schien er kaum zu bemerken; er sass wie in
+tiefen Gedanken versunken, er sah umher wie zerstreut.
+
+Die Frau sprach ihn an mit Bitte, das Feuer nicht anzuenden zu lassen;
+er schien jedoch ihrer Rede wenig Aufmerksamkeit zu schenken.
+
+Sie redete lebhaft fort und rief: "schoener junger Mann, du hast meinen
+Tiger erschlagen, ich fluche dir nicht; schone meinen Loewen, guter
+junger Mann!
+
+Ich segne dich".
+
+Honorio schaute gerad vor sich hin, dorthin, wo die Sonne auf ihrer
+Bahn sich zu senken begann.
+
+
+
+
+Novelle, Kapitel 7
+
+
+"Du schaust nach Abend", rief die Frau; "du tust wohl daran, dort
+gibts viel zu tun; eile nur, saeume nicht, du wirst ueberwinden.
+
+Aber zuerst ueberwinde dich selbst!"  Hierauf schien er zu laecheln; die
+Frau stieg weiter, konnte sich aber nicht enthalten, nach dem
+Zurueckbleibenden nochmals umzublicken; eine roetliche Sonne ueberschien
+sein Gesicht, sie glaubte nie einen schoehern Juengling gesehen zu haben.
+
+
+"Wenn Euer Kind", sagte nunmehr der Waertel, "floetend und singend, wie
+Ihr ueberzeugt seid, den Loewen anlocken und beruhigen kann, so werden
+wir uns desselben sehr leicht bemeistern, da sich das gewaltige Tier
+ganz nah an die durchbrochenen Gewoelbe hingelagert hat, durch die wir,
+da das Haupttor verschuettet ist, einen Eingang in den Schlosshof
+gewonnen haben.
+
+Lockt ihn das Kind hinein, so kann ich die oeffnung mit leichter Muehe
+schliessen, und der Knabe, wenn es ihm gut deucht, durch eine der
+kleinen Wendeltreppen, die er in der Ecke sieht, dem Tiere
+entschluepfen.
+
+Wir wollen uns verbergen; aber ich werde mich so stellen, dass meine
+Kugel jeden Augenblick dem Kinde zu Huelfe kommen kann".
+
+"Die Umstaende sind alle nicht noetig; Gott und Kunst, Froemmigkeit und
+Glueck muessen das Beste tun".--"Es sei", versetzte der Waertel; "aber
+ich kenne meine Pflichten.
+
+Erst fuehr ich Euch durch einen beschwerlichen Stieg auf das Gemaeuer
+hinauf, gerade dem Eingang gegenueber, den ich erwaehnt habe; das Kind
+mag hinabsteigen, gleichsam in die Arena des Schauspiels, und das
+besaenftigte Tier dort hereinlocken!"  Das geschah; Waertel und Mutter
+sahen versteckt von oben herab, wie das Kind die Wendeltreppen
+hinunter in dem klaren Hofraum sich zeigte und in der duestern oeffnung
+gegenueber verschwand, aber sogleich seinen Floetenton hoeren liess, der
+sich nach und nach verlor und verstummte.
+
+Die Pause war ahnungsvoll genug; den alten, mit Gefahr bekannten Jaeger
+beengte der seltene menschliche Fall.
+
+Er sagte sich, dass er lieber persoenlich dem gefaehrlichen Tiere
+entgegenginge; die Mutter jedoch, mit heiterem Gesicht, uebergebogen
+horchend, liess nicht die mindeste Unruhe bemerken.
+
+Endlich hoerte man die Floete wieder; das Kind trat aus der Hoehle hervor
+mit glaenzend befriedigten Augen, der Loewe hinter ihm drein, aber
+langsam und, wie es schien, mit einiger Beschwerde.
+
+Er zeigte hie und da Lust, sich niederzulegen; doch der Knabe fuehrte
+ihn im Halbkreise durch die wenig entblaetterten, buntbelaubten Baeume,
+bis er sich endlich in den letzten Strahlen der Sonne, die sie durch
+eine Ruinenluecke hereinsandte, wie verklaert niedersetzte und sein
+beschwichtigendes Lied abermals begann, dessen Wiederholung wir uns
+auch nicht entziehen koennen: "aus den Gruben, hier im Graben hoer ich
+des Propheten Sang; Engel schweben, ihn zu laben, waere da dem Guten
+bang?
+
+Loew und Loewin, hin und wider, schmiegen sich um ihn heran; ja, die
+sanften, frommen Lieder habens ihnen angetan!"  Indessen hatte sich
+der Loewe ganz knapp an das Kind hingelegt und ihm die schwere rechte
+Vordertatze auf dem Schoss gehoben, die der Knabe fortsingend anmutig
+streichelte, aber gar bald bemerkte, dass ein scharfer Dornzweig
+zwischen die Ballen eingestochen war.
+
+Sorgfaeltig zog er die verletzende Spitze hervor, nahm laechelnd sein
+buntseidenes Halstuch vom Nacken und verband die greuliche Tatze des
+Untiers, sodass die Mutter sich vor Freuden mit ausgestreckten Armen
+zurueckbog und vielleicht angewohnterweise Beifall gerufen und
+geklatscht haette, waere sie nicht durch einen derben Faustgriff des
+Waertels erinnert worden, dass die Gefahr nicht vorueber sei.
+
+Glorreich sang das Kind weiter, nachdem es mit wenigen Toenen
+vorgespielt hatte: "denn der Ewge herrscht auf Erden, ueber Meere
+herrscht sein Blick; Loewen sollen Laemmer werden, und die Welle
+schwankt zurueck.
+
+Blankes Schwert erstarrt im Hiebe, Glaub und Hoffnung sind erfuellt;
+wundertaetig ist die Liebe, die sich im Gebet enthuellt".
+
+Ist es moeglich zu denken, dass man in den Zuegen eines so grimmigen
+Geschoepfes, des Tyrannen der Waelder, des Despoten des Tierreiches,
+einen Ausdruck von Freundlichkeit, von dankbarer Zufriedenheit habe
+spueren koennen, so geschah es hier, und wirklich sah das Kind in seiner
+Verklaerung aus wie ein maechtiger, siegreicher ueberwinder, jener zwar
+nicht wie der ueberwundene, denn seine Kraft blieb in ihm verborgen,
+aber doch wie der Gezaehmte, wie der dem eigenen friedlichen Willen
+Anheimgegebene.
+
+Das Kind floetete und sang so weiter, nach seiner Art die Zeilen
+verschraenkend und neue hinzufuegend: "und so geht mit guten Kindern
+selger Engel gern zu Rat, boeses Wollen zu verhindern, zu befoerdern
+schoene Tat.
+
+So beschwoeren, fest zu bannen liebem Sohn ans zarte Knie ihn, des
+Waldes Hochtyrannen, frommer Sinn und Melodie".
+
+
+
+
+
+Ende dieses Projekt Gutenberg Etextes "Novelle" von Johann Wolfgang Goethe.
+

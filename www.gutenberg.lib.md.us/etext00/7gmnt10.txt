@@ -1,0 +1,3975 @@
+Project Gutenberg Etext of Egmont, by Johann Wolfgang von Goethe
+#5 in our series by Johann Wolfgang von Goethe
+
+We produce two versions of each of our Etexts that have diacritic accents, an
+8 bit version with the accents included, and a 7 bit version without them, so
+all our readers can download a version they can read on whatever programs. mh
+[The 8 bit version filenames begin with 8xxxx, and the 7 bit ones with 7xxxx]
+
+This is the 7 bit version!
+
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Egmont
+
+by Johann Wolfgang von Goethe
+
+April, 2000  [Etext #2146]
+
+
+Project Gutenberg Etext of Egmont, by Johann Wolfgang von Goethe
+******This file should be named 7gmnt10.txt or 7gmnt10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 7gmnt11.txt
+VERSIONS based on separate sources get new LETTER, 7gmnt10a.txt
+
+
+
+This Project Gutenberg Etext Was Prepared by:
+Michael Pullen
+globaltraveler5565@yahoo.com
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+We produce two versions of each of our Etexts that have diacritic accents, an
+8 bit version with the accents included, and a 7 bit version without them, so
+all our readers can download a version they can read on whatever programs. mh
+[The 8 bit version filenames begin with 8xxxx, and the 7 bit ones with 7xxxx]
+
+This is the 7 bit version!
+
+
+
+
+
+This Project Gutenberg Etext Was Prepared by:
+Michael Pullen
+globaltraveler5565@yahoo.com
+
+
+
+
+
+Egmont
+
+Ein Trauerspiel in Fuenf Aufzuegen
+
+Johann Wolfgang von Goethe
+
+
+
+
+Personen
+
+Margarete von Parma, Tochter Karls des Fuenften, Regentin der Niederlande.
+Graf Egmont, Prinz von Gaure.
+Wilhelm von Oranien.
+Herzog von Alba.
+Ferdinand, sein natuerlicher Sohn.
+Machiavell, im Dienst der Regentin.
+Richard, Egmonts Geheimschreiber.
+Silva,)-unter Alba dienend.
+Gomez,)-
+Klaerchen, Egmonts Geliebte.
+Ihre Mutter.
+Brackenburg, ein Buergerssohn.
+Soest, Kraemer,   )-Buerger von Bruessel.
+Jetter, Schneider,)-
+Zimmermeister,    )-
+Seifensieder,     )-
+Buyck, Soldat unter Egmont.
+Ruysum, Invalide und taub.
+Vansen, ein Schreiber.
+Volk, Gefolge, Wachen u.s.w.
+
+
+
+Der Schauplatz ist in Bruessel.
+
+
+
+ERSTER AUFZUG.
+
+
+Armbrustschiessen.
+
+Soldaten und Buerger mit Armbruesten.
+Jetter, Buerger von Bruessel, Schneider, tritt vor und spannt die
+Armbrust.
+Soest, Buerger von Bruessel, Kraemer.
+
+
+Soest.  Nun schiesst nur hin, dass es alle wird!  Ihr nehmt mir's doch
+nicht!  Drei Ringe schwarz, die habt ihr eure Tage nicht geschossen.  Und
+so waer' ich fuer dies Jahr Meister.
+
+Jetter.  Meister und Koenig dazu.  Wer missgoennt's Euch?  Ihr sollt
+dafuer auch die Zeche doppelt bezahlen; Ihr sollt Eure Geschicklichkeit
+bezahlen, wie's recht ist.
+
+(Buyck, ein Hollaender, Soldat unter Egmont.)
+
+Buyck.  Jetter, den Schuss handl' ich Euch ab, teile den Gewinst,
+traktiere die Herren: ich bin so schon lange hier und fuer viele
+Hoeflichkeit Schuldner.  Fehl' ich, so ist's, als wenn Ihr geschossen
+haettet.
+
+Soest.  Ich sollte drein reden; denn eigentlich verlier' ich dabei.  Doch,
+Buyck, nur immerhin.
+
+Buyck (schiesst).  Nun, Pritschmeister, Reverenz!--Eins!  Zwei!  Drei!
+Vier!
+
+Soest.  Vier Ringe?  Es sei!
+
+Alle.  Vivat, Herr Koenig, hoch!  und abermal hoch!
+
+Buyck.  Danke, ihr Herren.  Waere Meister zu viel!  Danke fuer die Ehre.
+
+Jetter.  Die habt Ihr Euch selbst zu danken.
+
+(Ruysum, ein Frieslaender, Invalide und taub.)
+
+Ruysum.  Dass ich euch sage!
+
+Soest.  Wie ist's, Alter?
+
+Ruysum.  Dass ich euch sage!--Er schiesst wie sein Herr, er schiesst wie
+Egmont.
+
+Buyck.  Gegen ihn bin ich nur ein armer Schlucker.  Mit der Buechse trifft
+er erst, wie keiner in der Welt.  Nicht etwa wenn er Glueck oder gute
+Laune hat; nein!  wie er anlegt, immer rein schwarz geschossen.  Gelernt
+habe ich von ihm.  Das waere auch ein Kerl, der bei ihm diente und nichts
+von ihm lernte!--Nicht zu vergessen, meine Herren!  Ein Koenig naehrt
+seine Leute; und so, auf des Koenigs Rechnung, Wein her!
+
+Jetter.  Es ist unter uns ausgemacht, dass jeder-Buyck.  Ich bin fremd und
+Koenig, und achte eure Gesetze und Herkommen nicht.
+
+Jetter.  Du bist ja aerger als der Spanier; der hat sie uns doch bisher
+lassen muessen.
+
+Ruysum.  Was?
+
+Soest (laut).  Er will uns gastieren; er will nicht haben, dass wir
+zusammenlegen und der Koenig nur das Doppelte zahlt.
+
+Ruysum.  Lasst ihn!  doch ohne Praejudiz!  Das ist auch seines Herrn Art,
+splendid zu sein und es laufen zu lassen, wo es gedeiht.  (Sie bringen
+Wein.)
+
+Alle.  Ihro Majestaet Wohl!  Hoch!
+
+Jetter (zu Buyck).  Versteht sich, Eure Majestaet.
+
+Buyck.  Danke von Herzen, wenn's doch so sein soll.
+
+Soest.  Wohl!  Denn unserer spanischen Majestaet Gesundheit trinkt nicht
+leicht ein Niederlaender von Herzen.
+
+Ruysum.  Wer?
+
+Soest (laut).  Philipps des Zweiten, Koenigs in Spanien.
+
+Ruysum.  Unser allergnaedigster Koenig und Herr!  Gott geb' ihm langes
+Leben.
+
+Soest.  Hattet Ihr seinen Herrn Vater, Karl den Fuenften, nicht lieber?
+
+Ruysum.  Gott troest' ihn!  Das war ein Herr!  Er hatte die Hand ueber dem
+ganzen Erdboden, und war euch alles in allem; und wenn er euch begegnete,
+so gruesst' er euch, wie ein Nachbar den andern; und wenn ihr erschrocken
+wart, wusst' er mit so guter Manier--Ja, versteht mich--Er ging aus, ritt
+aus, wie's ihm einkam, gar mit wenig Leuten.  Haben wir doch alle geweint,
+wie er seinem Sohn das Regiment hier abtrat--sagt' ich, versteht mich--der
+ist schon anders, der ist majestaetischer.
+
+Jetter.  Er liess sich nicht sehen, da er hier war, als in Prunk und
+koeniglichem Staate.  Er spricht wenig, sagen die Leute.
+
+Soest.  Es ist kein Herr fuer uns Niederlaender.  Unsre Fuersten muessen
+froh und frei sein wie wir, leben und leben lassen.  Wir wollen nicht
+verachtet noch gedruckt sein, so gutherzige Narren wir auch sind.
+
+Jetter.  Der Koenig, denk' ich, waere wohl ein gnaediger Herr, wenn er nur
+bessere Ratgeber haette.
+
+Soest.  Nein, nein!  Er hat kein Gemuet gegen uns Niederlaender, sein Herz
+ist dem Volke nicht geneigt, er liebt uns nicht; wie koennen wir ihn
+wieder lieben?  Warum ist alle Welt dem Grafen Egmont so hold?  Warum
+truegen wir ihn alle auf den Haenden?  Weil man ihm ansieht, dass er uns
+wohl will; weil ihm die Froehlichkeit, das freie Leben, die gute Meinung
+aus den Augen sieht; weil er nichts besitzt, das er dem Duerftigen nicht
+mitteilte, auch dem, der's nicht bedarf.  Lasst den Grafen Egmont leben!
+Buyck, an Euch ist's, die erste Gesundheit zu bringen!  Bringt Eures Herrn
+Gesundheit aus.
+
+Buyck.  Von ganzer Seele denn: Graf Egmont hoch!
+
+Ruysum.  ueberwinder bei St. Quintin!
+
+Buyck.  Dem Helden von Gravelingen!
+
+Alle.  Hoch!
+
+Ruysum.  St. Quintin war meine letzte Schlacht.  Ich konnte kaum mehr fort,
+kaum die schwere Buechse mehr schleppen.  Hab' ich doch den Franzosen
+noch eins auf den Pelz gebrennt, und da kriegt' ich zum Abschied noch
+einen Streifschuss ans rechte Bein.
+
+Buyck.  Gravelingen!  Freunde!  da ging's frisch!  Den Sieg haben wir
+allein.  Brannten und sengten die welschen Hunde nicht durch ganz
+Flandern?  Aber ich mein', wir trafen sie!  Ihre alten handfesten Kerle
+hielten lange wider, und wir draengten und schossen und hieben, dass sie
+die Maeuler verzerrten und ihre Linien zuckten.  Da ward Egmont das Pferd
+unter dem Leibe niedergeschossen, und wir stritten lange hinueber herueber,
+Mann fuer Mann, Pferd gegen Pferd, Haufe mit Haufe, auf dem breiten
+flachen Sand an der See hin.  Auf einmal kam's, wie vom Himmel herunter,
+von der Muendung des Flusses, bav!  bau!  immer mit Kanonen in die
+Franzosen drein.  Es waren Englaender, die unter dem Admiral Malin von
+ungefaehr von Duenkirchen her vorbeifuhren.  Zwar viel halfen sie uns
+nicht; sie konnten nur mit den kleinsten Schiffen herbei, und das nicht
+nah genug; schossen auch wohl unter uns--Es that doch gut!  Es brach die
+Welschen und hob unsern Mut.  Da ging's!  Rick!  rack!  herueber, hinueber!
+Alles tot geschlagen, alles ins Wasser gesprengt.  Und die Kerle ersoffen,
+wie sie das Wasser schmeckten; und was wir Hollaender waren, gerad hinten
+drein.  Uns, die wir beidlebig sind, ward erst wohl im Wasser, wie den
+Froeschen; und immer die Feinde im Fluss zusammengehauen, weggeschossen
+wie die Enten.  Was nun noch durchbrach, schlugen euch auf der Flucht die
+Bauerweiber mit Hacken und Mistgabeln tot.  Musste doch die welsche
+Majestaet gleich das Pfoetchen reichen und Friede machen.  Und den Frieden
+seid ihr uns schuldig, dem grossen Egmont schuldig.
+
+Alle.  Hoch!  dem grossen Egmont hoch!  und abermal hoch!  und abermal
+hoch!
+
+Jetter.  Haette man uns den statt der Margarete von Parma zum Regenten
+gesetzt!
+
+Soest.  Nicht so!  Wahr bleibt wahr!  Ich lasse mir Margareten nicht
+schelten.  Nun ist's an mir.  Es lebe unsre gnaed'ge Frau!
+
+Alle.  Sie lebe!
+
+Soest.  Wahrlich, treffliche Weiber sind in dem Hause.  Die Regentin lebe!
+
+Jetter.  Klug ist sie, und maessig in allem, was sie thut; hielte sie's
+nur nicht so steif und fest mit den Pfaffen.  Sie ist doch auch mit schuld,
+dass wir die vierzehn neuen Bischofsmuetzen im Lande haben.  Wozu die nur
+sollen?  Nicht wahr, dass man Fremde in die guten Stellen einschieben kann,
+wo sonst aebte aus den Kapiteln gewaehlt wurden?  Und wir sollen glauben,
+es sei um der Religion willen.  Ja, es hat sich.  An drei Bischoefen
+hatten wir genug: da ging's ehrlich und ordentlich zu.  Nun muss doch auch
+jeder thun, als ob er noetig waere; und da setzt's allen Augenblick
+Verdruss und Haendel.  Und je mehr ihr das Ding ruettelt und schuettelt,
+desto trueber wird's.  (Sie trinken.)
+
+Soest.  Das war nun des Koenigs Wille; sie kann nichts davon, noch dazu
+thun.
+
+Jetter.  Da sollen wir nun die neuen Psalmen nicht singen.  Sie sind
+wahrlich gar schoen in Reimen gesetzt, und haben recht erbauliche Weisen.
+Die sollen wir nicht singen; aber Schelmenlieder, soviel wir wollen.  Und
+warum?  Es seien Ketzereien drin, sagen sie, und Sachen, Gott weiss.  Ich
+hab' ihrer doch auch gesungen; es ist jetzt was Neues, ich hab' nichts
+drin gesehen.
+
+Buyck.  Ich wollte sie fragen!  In unsrer Provinz singen wir, was wir
+wollen.  Das macht, dass Graf Egmont unser Statthalter ist; der fragt nach
+so etwas nicht.--In Gent, Ypern, durch ganz Flandern singt sie, wer
+Belieben hat.  (Laut.) Es ist ja wohl nichts unschuldiger, als ein
+geistlich Lied?  Nicht wahr, Vater?
+
+Ruysum.  Ei wohl!  Es ist ja ein Gottesdienst, eine Erbauung.
+
+Jetter.  Sie sagen aber, es sei nicht auf die rechte Art, nicht auf ihre
+Art; und gefaehrlich ist's doch immer, da laesst man's lieber sein.  Die
+Inquisitionsdiener schleichen herum und passen auf; mancher ehrliche Mann
+ist schon ungluecklich geworden!  Der Gewissenszwang fehlte noch!  Da ich
+nicht thun darf, was ich moechte, koennen sie mich doch denken und singen
+lassen, was ich will.
+
+Soest.  Die Inquisition kommt nicht auf.  Wir sind nicht gemacht, wie die
+Spanier, unser Gewissen tyrannisieren zu lassen.  Und der Adel muss auch
+beizeiten suchen, ihr die Fluegel zu beschneiden.
+
+Jetter.  Es ist sehr fatal.  Wenn's den lieben Leuten einfaellt, in mein
+Haus zu stuermen, und ich sitz' an meiner Arbeit und summe just einen
+franzoesischen Psalm und denke nichts dabei, weder Gutes noch Boeses; ich
+summe ihn aber, weil er mir in der Kehle ist; gleich bin ich ein Ketzer
+und werde eingesteckt.  Oder ich gehe ueber Land, und bleibe bei einem
+Haufen Volks stehen, das einem neuen Prediger zuhoert, einem von denen,
+die aus Deutschland gekommen sind; auf der Stelle heiss' ich ein Rebell
+und komme in Gefahr, meinen Kopf zu verlieren.  Habt ihr je einen predigen
+hoeren?
+
+Soest.  Wackre Leute.  Neulich hoert' ich einen auf dem Felde vor tausend
+und tausend Menschen sprechen.  Das war ein ander Gekoech, als wenn unsre
+auf der Kanzel herumtrommeln und die Leute mit lateinischen Brocken
+erwuergen.  Der sprach von der Leber weg; sagte, wie sie uns bisher
+haetten bei der Nase herumgefuehrt, uns in der Dummheit erhalten, und wie
+wir mehr Erleuchtung haben koennten.--Und das bewies er euch alles aus der
+Bibel.
+
+Jetter.  Da mag doch auch was dran sein.  Ich sagt's immer selbst, und
+gruebelte so ueber die Sache nach.  Mir ist's lang im Kopf herumgegangen.
+
+Buyck.  Es laeuft ihnen auch alles Volk nach.
+
+Soest.  Das glaub' ich, wo man was Gutes hoeren kann und was Neues.
+
+Jetter.  Und was ist's denn nun?  Man kann ja einen jeden predigen lassen
+nach seiner Weise.
+
+Buyck.  Frisch, ihr Herren!  ueber dem Schwaetzen vergesst ihr den Wein
+und Oranien.
+
+Jetter.  Den nicht zu vergessen!  Das ist ein rechter Wall: wenn man nur
+an ihn denkt, meint man gleich, man koenne sich hinter ihn verstecken, und
+der Teufel braechte einen nicht hervor.  Hoch!  Wilhelm von Oranien, hoch!
+
+Alle.  Hoch!  hoch!
+
+Soest.  Nun, Alter, bring' auch deine Gesundheit.
+
+Ruysum.  Alte Soldaten!  Alle Soldaten!  Es lebe der Krieg!
+
+Buyck.  Bravo, Alter!  Alle Soldaten!  Es lebe der Krieg!
+
+Jetter.  Krieg!  Krieg!  Wisst ihr auch, was ihr ruft?  Dass es euch
+leicht vom Munde geht, ist wohl natuerlich; wie lumpig aber unser einem
+dabei zu Mute ist, kann ich nicht sagen.  Das ganze Jahr das Getrommel zu
+hoeren, und nichts zu hoeren, als wie da ein Haufen gezogen kommt und dort
+ein andrer, wie sie ueber einen Huegel kamen und bei einer Muehle hielten,
+wieviel da geblieben sind, wieviel dort, und wie sie sich draengen, und
+einer gewinnt, der andere verliert, ohne dass man sein Tage begreift, wer
+was gewinnt oder verliert.  Wie eine Stadt eingenommen wird, die Buerger
+ermordet werden, und wie's den armen Weibern, den unschuldigen Kindern
+ergeht.  Das ist eine Not und Angst, man denkt jeden Augenblick: "Da
+kommen sie!  Es geht uns auch so."
+
+Soest.  Drum muss auch ein Buerger immer in Waffen geuebt sein.
+
+Jetter.  Ja, es uebt sich, wer Frau und Kinder hat.  Und doch hoer' ich
+noch lieber von Soldaten, als ich sie sehe.
+
+Buyck.  Das sollt' ich uebel nehmen.
+
+Jetter.  Auf Euch ist's nicht gesagt, Landsmann.  Wie wir die spanischen
+Besatzungen los waren, holten wir wieder Atem.
+
+Soest.  Gelt!  die lagen dir am schwersten auf?
+
+Jetter.  Vexier Er sich.
+
+Soest.  Die hatten scharfe Einquartierung bei dir.
+
+Jetter.  Halt dein Maul.
+
+Soest.  Sie hatten ihn vertrieben aus der Kueche, dem Keller, der
+Stube--dem Bette.  (Sie lachen.)
+
+Jetter.  Du bist ein Tropf.
+
+Buyck.  Friede, ihr Herren!  Muss der Soldat Friede rufen?--Nun, da ihr
+von uns nichts hoeren wollt, nun bringt auch eure Gesundheit aus, eine
+buergerliche Gesundheit.
+
+Jetter.  Dazu sind wir bereit!  Sicherheit und Ruhe!
+
+Soest.  Ordnung und Freiheit!
+
+Buyck.  Brav!  das sind auch wir zufrieden.
+
+(Sie stossen an und wiederholen froehlich die Worte, doch so, dass jeder
+ein anders ausruft, und es eine Art Kanon wird.  Der Alte horcht und
+faellt endlich auch mit ein.)
+
+Alle.  Sicherheit und Ruhe!  Ordnung und Freiheit!
+
+
+Palast der Regentin.
+
+Margarete von Parma in Jagdkleidern.  Hofleute.  Pagen.  Bediente.
+
+Regentin.  Ihr stellt das Jagen ab, ich werde heut' nicht reiten.  Sagt
+Machiavellen, er soll zu mir kommen.  (Alle gehen ab.) Der Gedanke an
+diese schrecklichen Begebenheiten laesst mir keine Ruhe!  Nichts kann mich
+ergoetzen, nichts mich zerstreuen; immer sind diese Bilder, diese Sorgen
+vor mir.  Nun wird der Koenig sagen, dies sei'n die Folgen meiner Guete,
+meiner Nachsicht; und doch sagt mir mein Gewissen jeden Augenblick, das
+Raetlichste, das Beste gethan zu haben.  Sollte ich frueher mit dem Sturme
+des Grimmes diese Flammen anfachen und umhertreiben?  Ich hoffte sie zu
+umstellen, sie in sich selbst zu verschuetten.  Ja, was ich mir selbst
+sage, was ich wohl weiss, entschuldigt mich vor mir selbst; aber wie wird
+es mein Bruder aufnehmen?  Denn, ist es zu leugnen?  Der uebermut der
+fremden Lehrer hat sich taeglich erhoeht; sie haben unser Heiligtum
+gelaestert, die stumpfen Sinne des Poebels zerruettet und den
+Schwindelgeist unter sie gebannt.  Unreine Geister haben sich unter die
+Aufruehrer gemischt, und schreckliche Thaten sind geschehen, die zu denken
+schauderhaft ist und die ich nun einzeln nach Hofe zu berichten habe,
+schnell und einzeln, damit mir der allgemeine Ruf nicht zuvorkomme, damit
+der Koenig nicht denke, man wolle noch mehr verheimlichen.  Ich sehe kein
+Mittel, weder strenges noch gelindes, dem uebel zu steuern.  O was sind
+wir Grossen auf der Woge der Menschheit?  Wir glauben sie zu beherrschen,
+und sie treibt uns auf und nieder, hin und her.
+
+(Machiavell tritt auf.)
+
+Regentin.  Sind die Briefe an den Koenig aufgesetzt?
+
+Machiavell.  In einer Stunde werdet Ihr sie unterschreiben koennen.
+
+Regentin.  Habt Ihr den Bericht ausfuehrlich genug gemacht?
+
+Machiavell.  Ausfuehrlich und umstaendlich, wie es der Koenig liebt.  Ich
+erzaehle, wie zuerst um St. Omer die bilderstuermerische Wut sich zeigt.
+Wie eine rasende Menge, mit Staeben, Beilen, Haemmern, Leitern, Stricken
+versehen, von wenig Bewaffneten begleitet, erst Kapellen, Kirchen und
+Kloester anfallen, die Andaechtigen verjagen, die verschlossenen Pforten
+aufbrechen, alles umkehren, die Altaere niederreissen, die Statuen der
+Heiligen zerschlagen, alle Gemaelde verderben, alles, was sie nur
+Geweihtes, Geheiligtes antreffen, zerschmettern, zerreissen, zertreten.
+Wie sich der Haufe unterwegs vermehrt, die Einwohner von Ypern ihnen die
+Thore eroeffnen.  Wie sie den Dom mit unglaublicher Schnelle verwuesten,
+die Bibliothek des Bischofs verbrennen.  Wie eine grosse Menge Volks, von
+gleichem Unsinn ergriffen, sich ueber Menin, Comines, Verwich, Lille
+verbreitet, nirgend Widerstand findet, und wie fast durch ganz Flandern in
+einem Augenblicke die ungeheure Verschwoerung sich erklaert und
+ausgefuehrt ist.
+
+Regentin.  Ach, wie ergreift mich aufs neue der Schmerz bei deiner
+Wiederholung!  Und die Furcht gesellt sich dazu, das uebel werde nur
+groesser und groesser werden.  Sagt mir Eure Gedanken, Machiavell!
+
+Machiavell.  Verzeihen Eure Hoheit, meine Gedanken sehen Grillen so
+aehnlich; und wenn Ihr auch immer mit meinen Diensten zufrieden wart, habt
+Ihr doch selten meinem Rat folgen moegen.  Ihr sagtet oft im Scherze: "Du
+siehst zu weit, Machiavell!  Du solltest Geschichtschreiber sein.  Wer
+handelt, muss fuers Naechste sorgen."  Und doch, habe ich diese Geschichte
+nicht voraus erzaehlt?  Hab' ich nicht alles voraus gesehen?
+
+Regentin.  Ich sehe auch viel voraus, ohne es aendern zu koennen.
+
+Machiavell.  Ein Wort fuer tausend: Ihr unterdrueckt die neue Lehre nicht!
+Lasst sie gelten, sondert sie von den Rechtglaeubigen, gebt ihnen Kirchen,
+fasst sie in die buergerliche Ordnung, schraenkt sie ein; und so habt Ihr
+die Aufruehrer auf einmal zur Ruhe gebracht.  Jede andern Mittel sind
+vergeblich, und Ihr verheert das Land.
+
+Regentin.  Hast du vergessen, mit welchem Abscheu mein Bruder selbst die
+Frage verwarf, ob man die neue Lehre dulden koenne?  Weisst du nicht, wie
+er mir in jedem Briefe die Erhaltung des wahren Glaubens aufs eifrigste
+empfiehlt?  dass er Ruhe und Einigkeit auf Kosten der Religion nicht
+hergestellt wissen will?  Haelt er nicht selbst in den Provinzen Spione,
+die wir nicht kennen, um zu erfahren, wer sich zu der neuen Meinung
+hinueberneigt?  Hat er nicht zu unsrer Verwunderung uns diesen und jenen
+genannt, der sich in unsrer Naehe heimlich der Ketzerei schuldig machte?
+Befiehlt er nicht Strenge und Schaerfe?  Und ich soll gelind sein?  Ich
+soll Vorschlaege thun, dass er nachsehe, dass er dulde?  Wuerde ich nicht
+alles Vertrauen, allen Glauben bei ihm verlieren?
+
+Machiavell.  Ich weiss wohl; der Koenig befiehlt, er laesst Euch seine
+Absichten wissen.  Ihr sollt Ruhe und Friede wieder herstellen durch ein
+Mittel, das die Gemueter noch mehr erbittert, das den Krieg unvermeidlich
+an allen Enden anblasen wird.  Bedenkt, was Ihr thut!  Die groessten
+Kaufleute sind angesteckt, der Adel, das Volk, die Soldaten.  Was hilft es,
+auf seinen Gedanken beharren, wenn sich um uns alles aendert?  Moechte
+doch ein guter Geist Philippen eingeben, dass es einem Koenige
+anstaendiger ist, Buerger zweierlei Glaubens zu regieren, als sie durch
+einander aufzureiben.
+
+Regentin.  Solch ein Wort nie wieder!  Ich weiss wohl, dass Politik selten
+Treu' und Glauben halten kann, dass sie Offenheit, Gutherzigkeit,
+Nachgiebigkeit aus unsern Herzen ausschliesst.  In weltlichen Geschaeften
+ist das leider nur zu wahr; sollen wir aber auch mit Gott spielen, wie
+unter einander?  Sollen wir gleichgueltig gegen unsere bewaehrte Lehre
+sein, fuer die so viele ihr Leben aufgeopfert haben?  Die sollten wir
+hingeben an hergelaufne, ungewisse, sich selbst widersprechende
+Neuerungen?
+
+Machiavell.  Denkt nur deswegen nicht uebler von mir.
+
+Regentin.  Ich kenne dich und deine Treue, und weiss, dass einer ein
+ehrlicher und verstaendiger Mann sein kann, wenn er gleich den naechsten,
+besten Weg zum Heil seiner Seele verfehlt hat.  Es sind noch andere,
+Machiavell, Maenner, die ich schaetzen und tadeln muss.
+
+Machiavell.  Wen bezeichnet Ihr mir?
+
+Regentin.  Ich kann es gestehen, dass mir Egmont heute einen recht
+innerlichen, tiefen Verdruss erregte.
+
+Machiavell.  Durch welches Betragen?
+
+Regentin.  Durch sein gewoehnliches, durch Gleichgueltigkeit und
+Leichtsinn.  Ich erhielt die schreckliche Botschaft, eben als ich, von
+vielen und ihm begleitet, aus der Kirche ging.  Ich hielt meinen Schmerz
+nicht an, ich beklagte mich laut und rief, indem ich mich zu ihm wendete:
+"Seht, was in Eurer Provinz entsteht!  Das duldet Ihr, Graf, von dem der
+Koenig sich alles versprach?"
+
+Machiavell.  Und was antwortete er?
+
+Regentin.  Als wenn es nichts, als wenn es eine Nebensache waere,
+versetzte er: Waeren nur erst die Niederlaender ueber ihre Verfassung
+beruhigt!  Das uebrige wuerde sich leicht geben.
+
+Machiavell.  Vielleicht hat er wahrer als klug und fromm gesprochen.  Wie
+soll Zutrauen entstehen und bleiben, wenn der Niederlaender sieht, dass es
+mehr um seine Besitztuemer als um sein Wohl, um seiner Seele Heil zu thun
+ist?  Haben die neuen Bischoefe mehr Seelen gerettet als fette Pfruenden
+geschmaust, und sind es nicht meist Fremde?  Noch werden alle
+Statthalterschaften mit Niederlaendern besetzt; lassen sich es die Spanier
+nicht zu deutlich merken, dass sie die groesste, unwiderstehlichste
+Begierde nach diesen Stellen empfinden?  Will ein Volk nicht lieber nach
+seiner Art von den Seinigen regieret werden, als von Fremden, die erst im
+Lande sich wieder Besitztuemer auf Unkosten aller zu erwerben suchen, die
+einen fremden Massstab mitbringen und unfreundlich und ohne Teilnehmung
+herrschen?
+
+Regentin.  Du stellst dich auf die Seite der Gegner.
+
+Machiavell.  Mit dem Herzen gewiss nicht; und wollte, ich koennte mit dem
+Verstande ganz auf der unsrigen sein.
+
+Regentin.  Wenn du so willst, so thaet' es not, ich traete ihnen meine
+Regentschaft ab; denn Egmont und Oranien machten sich grosse Hoffnung,
+diesen Platz einzunehmen.  Damals waren sie Gegner; jetzt sind sie gegen
+mich verbunden, sind Freunde, unzertrennliche Freunde geworden.
+
+Machiavell.  Ein gefaehrliches Paar.
+
+Regentin.  Soll ich aufrichtig reden, ich fuerchte Oranien, und ich
+fuerchte fuer Egmont.  Oranien sinnt nichts Gutes, seine Gedanken reichen
+in die Ferne, er ist heimlich, scheint alles anzunehmen, widerspricht nie,
+und in tiefster Ehrfurcht, mit groesster Vorsicht thut er, was ihm beliebt.
+
+
+Machiavell.  Recht im Gegenteil geht Egmont einen freien Schritt, als wenn
+die Welt ihm gehoerte.
+
+Regentin.  Er traegt das Haupt so hoch, als wenn die Hand der Majestaet
+nicht ueber ihm schwebte.
+
+Machiavell.  Die Augen des Volks sind alle nach ihm gerichtet, und die
+Herzen haengen an ihm.
+
+Regentin.  Nie hat er einen Schein vermieden; als wenn niemand
+Rechenschaft von ihm zu fordern haette.  Noch traegt er den Namen Egmont.
+Graf Egmont freut ihn sich nennen zu hoeren; als wollte er nicht
+vergessen, dass seine Vorfahren Besitzer von Geldern waren.  Warum nennt
+er sich nicht Prinz von Gaure, wie es ihm zukommt?  Warum thut er das?
+Will er erloschne Rechte wieder geltend machen?
+
+Machiavell.  Ich halte ihn fuer einen treuen Diener des Koenigs.
+
+Regentin.  Wenn er wollte, wie verdient koennte er sich um die Regierung
+machen, anstatt dass er uns schon, ohne sich zu nutzen, unsaeglichen
+Verdruss gemacht hat.  Seine Gesellschaften, Gastmahle und Gelage haben
+den Adel mehr verbunden und verknuepft als die gefaehrlichsten heimlichen
+Zusammenkuenfte.  Mit seinen Gesundheiten haben die Gaeste einen dauernden
+Rausch, einen nie sich verziehenden Schwindel geschoepft.  Wie oft setzt
+er durch seine Scherzreden die Gemueter des Volks in Bewegung, und wie
+stutzte der Poebel ueber die neuen Livreen, ueber die thoerichten
+Abzeichen der Bedienten!
+
+Machiavell.  Ich bin ueberzeugt, es war ohne Absicht.
+
+Regentin.  Schlimm genug.  Wie ich sage: er schadet uns und nuetzt sich
+nicht.  Er nimmt das Ernstliche scherzhaft, und wir, um nicht muessig und
+nachlaessig zu scheinen, muessen das Scherzhafte ernstlich nehmen.  So
+hetzt eins das andre; und was man abzuwenden sucht, das macht sich erst
+recht.  Er ist gefaehrlicher als ein entschiednes Haupt einer
+Verschwoerung; und ich muesste mich sehr irren, wenn man ihm bei Hofe
+nicht alles gedenkt.  Ich kann nicht leugnen, es vergeht wenig Zeit, dass
+er mich nicht empfindlich, sehr empfindlich macht.
+
+Machiavell.  Er scheint mir in allem nach seinem Gewissen zu handeln.
+
+Regentin.  Sein Gewissen hat einen gefaelligen Spiegel.  Sein Betragen ist
+oft beleidigend.  Er sieht oft aus, als wenn er in der voelligen
+ueberzeugung lebe, er sei Herr, und wolle es uns nur aus Gefaelligkeit
+nicht fuehlen lassen, wolle uns so gerade nicht zum Lande hinausjagen; es
+werde sich schon geben.
+
+Machiavell.  Ich bitte Euch, legt seine Offenheit, sein glueckliches Blut,
+das alles Wichtige leicht behandelt, nicht zu gefaehrlich aus.  Ihr
+schadet nur ihm und Euch.
+
+Regentin.  Ich lege nichts aus; ich spreche nur von den unvermeidlichen
+Folgen, und ich kenne ihn.  Sein niederlaendischer Adel und sein golden
+Vliess vor der Brust staerken sein Vertrauen, seine Kuehnheit.  Beides
+kann ihn vor einem schnellen, willkuerlichen Unmut des Koenigs schuetzen.
+Untersuch' es genau; an dem ganzen Unglueck, das Flandern trifft, ist er
+doch nur allein schuld.  Er hat zuerst den fremden Lehrern nachgesehn,
+hat's so genau nicht genommen, und vielleicht sich heimlich gefreut, dass
+wir etwas zu schaffen hatten.  Lass mich nur!  Was ich auf dem Herzen habe,
+soll bei dieser Gelegenheit davon.  Und ich will die Pfeile nicht umsonst
+verschiessen; ich weiss, wo er empfindlich ist.  Er ist auch empfindlich.
+
+Machiavell.  Habt Ihr den Rat zusammenberufen lassen?  Kommt Oranien auch?
+
+Regentin.  Ich habe nach Antwerpen um ihn geschickt.  Ich will ihnen die
+Last der Verantwortung nahe genug zuwaelzen; sie sollen sich mit mir dem
+uebel ernstlich entgegensetzen oder sich auch als Rebellen erklaeren.
+Eile, dass die Briefe fertig werden, und bringe mir sie zur Unterschrift.
+Dann sende schnell den bewaehrten Vaska nach Madrid; er ist unermuedet und
+treu; dass mein Bruder zuerst durch ihn die Nachricht erfahre, dass der
+Ruf ihn nicht uebereile.  Ich will ihn selbst noch sprechen, eh' er abgeht.
+
+
+Machiavell.  Eure Befehle sollen schnell und genau befolgt werden.
+
+
+Buergerhaus.
+
+Klare.  Klarens Mutter.  Brackenburg.
+
+Klare.  Wollt Ihr mir nicht das Garn halten, Brackenburg?
+
+Brackenburg.  Ich bitt' Euch, verschont mich, Klaerchen.
+
+Klare.  Was habt Ihr wieder?  Warum versagt Ihr mir diesen kleinen
+Liebesdienst?
+
+Brackenburg.  Ihr bannt mich mit dem Zwirn so fest vor Euch hin, ich kann
+Euern Augen nicht ausweichen.
+
+Klare.  Grillen!  kommt und haltet!
+
+Mutter (im Sessel strickend).  Singt doch eins!  Brackenburg sekundiert so
+huebsch.  Sonst wart ihr lustig, und ich hatte immer was zu lachen.
+
+Brackenburg.  Sonst.
+
+Klare.  Wir wollen singen.
+
+Brackenburg.  Was Ihr wollt.
+
+Klare.  Nur huebsch munter und frisch weg!  Es ist ein Soldatenliedchen,
+mein Leibstueck.
+
+(Sie wickelt Garn und singt mit Brackenburg.)
+
+Die Trommel geruehret!
+Das Pfeifchen gespielt!
+Mein Liebster gewaffnet
+Dem Haufen befiehlt,
+Die Lanze hoch fuehret,
+Die Leute regieret.
+Wie klopft mir das Herze!
+Wie wallt mir das Blut!
+O haett' ich ein Waemslein
+Und Hosen und Hut!
+Ich folgt' ihm zum Thor 'naus
+Mit mutigem Schritt,
+Ging' durch die Provinzen,
+Ging' ueberall mit.
+Die Feinde schon weichen,
+Wir schiessen darein!
+Welch Glueck sondergleichen,
+Ein Mannsbild zu sein!
+
+(Brackenburg hat unter dem Singen Klaerchen oft angesehen; zuletzt bleibt
+ihm die Stimme stocken, die Thraenen kommen ihm in die Augen, er laesst
+den Strang fallen und geht ans Fenster.  Klaerchen singt das Lied allein
+aus, die Mutter winkt ihr halb unwillig, sie steht auf, geht einige
+Schritte nach ihm hin, kehrt halb unschluessig wieder um und setzt sich.)
+
+Mutter.  Was giebt's auf der Gasse, Brackenburg?  Ich hoere marschieren.
+
+Brackenburg.  Es ist die Leibwache der Regentin.
+
+Klare.  Um diese Stunde?  Was soll das bedeuten?  (Sie steht auf und geht
+an das Fenster zu Brackenburg.) Das ist nicht die taegliche Wache, das
+sind weit mehr!  Fast alle ihre Haufen.  O Brackenburg, geht!  hoert
+einmal, was es giebt?  Es muss etwas Besonderes sein.  Geht, guter
+Brackenburg, thut mir den Gefallen.
+
+Brackenburg.  Ich gehe!  Ich bin gleich wieder da!  (Er reicht ihr
+abgehend die Hand; sie gibt ihm die ihrige.)
+
+Mutter.  Du schickst ihn schon wieder weg.
+
+Klare.  Ich bin neugierig.  Und auch, verdenkt mir's nicht, seine
+Gegenwart thut mir weh.  Ich weiss immer nicht, wie ich mich gegen ihn
+betragen soll.  Ich habe Unrecht gegen ihn, und mich nagt's am Herzen,
+dass er es so lebendig fuehlt.--Kann ich's doch nicht aendern!
+
+Mutter.  Es ist ein so treuer Bursche.
+
+Klare.  Ich kann's auch nicht lassen, ich muss ihm freundlich begegnen.
+Meine Hand drueckt sich oft unversehens zu, wenn die seine mich so leise,
+so liebevoll anfasst.  Ich mache mir Vorwuerfe, dass ich ihn betruege,
+dass ich in seinem Herzen eine vergebliche Hoffnung naehre.  Ich bin uebel
+dran.  Weiss Gott, ich betrueg' ihn nicht.  Ich will nicht, dass er
+hoffen soll, und ich kann ihn doch nicht verzweifeln lassen.
+
+Mutter.  Das ist nicht gut.
+
+Klare.  Ich hatte ihn gern und will ihm auch noch wohl in der Seele.  Ich
+haette ihn heiraten koennen, und glaube, ich war nie in ihn verliebt.
+
+Mutter.  Gluecklich waerst du immer mit ihm gewesen.
+
+Klare.  Waere versorgt und haette ein ruhiges Leben.
+
+Mutter.  Und das ist alles durch deine Schuld verscherzt.
+
+Klare.  Ich bin in einer wunderlichen Lage.  Wenn ich so nachdenke, wie es
+gegangen ist, weiss ich's wohl und weiss es nicht.  Und dann darf ich
+Egmont nur wieder ansehen, wird mir alles sehr begreiflich, ja, waere mir
+weit mehr begreiflich.  Ach, was ist's ein Mann!  Alle Provinzen beten ihn
+an, und ich in seinem Arm sollte nicht das gluecklichste Geschoepf von der
+Welt sein?
+
+Mutter.  Wie wird's in der Zukunft werden?
+
+Klare.  Ach, ich frage nur, ob er mich liebt; und ob er mich liebt, ist
+das eine Frage?
+
+Mutter.  Man hat nichts als Herzensangst mit seinen Kindern.  Wie das
+ausgehen wird?  Immer Sorge und Kummer!  Es geht nicht gut aus!  Du hast
+dich ungluecklich gemacht!  mich ungluecklich gemacht.
+
+Klare (gelassen).  Ihr liesset es doch im Anfange.
+
+Mutter.  Leider war ich zu gut, bin immer zu gut.
+
+Klare.  Wenn Egmont vorbeiritt und ich ans Fenster lief, schaltet Ihr mich
+da?  Tratet Ihr nicht selbst ans Fenster?  Wenn er heraufsah, laechelte,
+nickte, mich gruesste, war es Euch zuwider?  Fandet Ihr Euch nicht selbst
+in Eurer Tochter geehrt?
+
+Mutter.  Mache mir noch Vorwuerfe.
+
+Klare (geruehrt).  Wenn er nun oefter die Strasse kam und wir wohl
+fuehlten, dass er um meinetwillen den Weg machte, bemerktet Ihr's nicht
+selbst mit heimlicher Freude?  Rieft Ihr mich ab, wenn ich hinter den
+Scheiben stand und ihn erwartete?
+
+Mutter.  Dachte ich, dass es so weit kommen sollte?
+
+Klare (mit stockender Stimme und zurueckgehaltenen Thraenen).  Und wie er
+uns abends, in den Mantel eingehuellt, bei der Lampe ueberraschte, wer war
+geschaeftig, ihn zu empfangen, da ich auf meinem Stuhl wie angekettet und
+staunend sitzen blieb?
+
+Mutter.  Und konnte ich fuerchten, dass diese unglueckliche Liebe das
+kluge Klaerchen so bald hinreissen wuerde?  Ich muss es nun tragen, dass
+meine Tochter-Klare (mit ausbrechenden Thraenen).  Mutter!  Ihr wollt's
+nun!  Ihr habt Eure Freude, mich zu aengstigen.
+
+Mutter (weinend).  Weine noch gar!  mache mich noch elender durch deine
+Betruebnis!  Ist mir's nicht Kummer genug, dass meine einzige Tochter ein
+verworfenes Geschoepf ist?
+
+Klare (aufstehend und kalt).  Verworfen?  Egmonts Geliebte
+verworfen?--Welche Fuerstin neidete nicht das arme Klaerchen um den Platz
+an seinem Herzen!  O Mutter--meine Mutter, so redetet Ihr sonst nicht.
+Liebe Mutter, seid gut!  Das Volk, was das denkt, die Nachbarinnen, was
+die murmeln--Diese Stube, dieses kleine Haus ist ein Himmel, seit Egmonts
+Liebe drin wohnt.
+
+Mutter.  Man muss ihm hold sein!  das ist wahr.  Er ist immer so
+freundlich, frei und offen.
+
+Klare.  Es ist keine falsche Ader an ihm.  Seht, Mutter, und er ist doch
+der grosse Egmont.  Und wenn er zu mir kommt, wie er so lieb ist, so gut!
+wie er mir seinen Stand, seine Tapferkeit gerne verbaerge!  wie er um mich
+besorgt ist!  so nur Mensch, nur Freund, nur Liebster.
+
+Mutter.  Kommt er wohl heute?
+
+Klare.  Habt Ihr mich nicht oft ans Fenster gehen sehn?  Habt Ihr nicht
+bemerkt, wie ich horche, wenn's an der Thuer rauscht?  Ob ich schon weiss,
+dass er vor Nacht nicht kommt, vermut' ich ihn doch jeden Augenblick, von
+morgens an, wenn ich aufstehe.  Waer' ich nur ein Bube und koennte immer
+mit ihm gehen, zu Hufe und ueberall hin!  Koennt' ihm die Fahne nachtragen
+in der Schlacht!-Mutter.  Du warst immer so ein Springinsfeld; als ein
+kleines Kind schon,
+
+bald toll, bald nachdenklich.  Ziehst du dich nicht ein wenig besser an?
+
+Klare.  Vielleicht, Mutter!  wenn ich Langeweile habe.--Gestern, denkt,
+gingen von seinen Leuten vorbei und sangen Lobliedchen auf ihn.
+Wenigstens war sein Name in den Liedern; das uebrige konnt' ich nicht
+verstehn.  Das Herz schlug mir bis an den Hals.--Ich haette sie gern
+zurueckgerufen, wenn ich mich nicht geschaemt haette.
+
+Mutter, Nimm dich in acht!  Dein heftiges Wesen verdirbt noch alles; du
+verraetst dich offenbar vor den Leuten.  Wie neulich bei dem Vetter, wie
+du den Holzschnitt und die Beschreibung fandst und mit einem Schrei riefst:
+Graf Egmont!--Ich ward feuerrot.
+
+Klare.  Haett' ich nicht schreien sollen?  Es war die Schlacht bei
+Gravelingen; und ich finde oben im Bilde den Buchstaben C. und suche unten
+in der Beschreibung C. Steht da: "Graf Egmont, dem das Pferd unter dem
+Leibe totgeschossen wird."  Mich ueberlief's--und hernach musst ich lachen
+ueber den holzgeschnitzten Egmont, der so gross war als der Turm von
+Gravelingen gleich dabei und die englischen Schiffe an der Seite.--Wenn
+ich mich manchmal erinnere, wie ich mir sonst eine Schlacht vorgestellt,
+und was ich mir als Maedchen fuer ein Bild vom Grafen Egmont machte, wenn
+sie von ihm erzaehlten, und von allen Grafen und Fuersten--und wie mir's
+jetzt ist!
+
+(Brackenburg kommt.)
+
+Klare.  Wie stehts?
+
+Brackenburg.  Man weiss nichts Gewisses.  In Flandern soll neuerdings ein
+Tumult entstanden sein; die Regentin soll besorgen, er moechte sich hieher
+verbreiten.  Das Schloss ist stark besetzt, die Buerger sind zahlreich an
+den Thoren, das Volk summt in den Gassen.--Ich will nur schnell zu meinem
+alten Vater.  (Als wollt' er gehen.)
+
+Klare.  Sieht man Euch morgen?  Ich will mich ein wenig anziehen.  Der
+Vetter kommt, und ich sehe gar zu liederlich aus.  Helft mir einen
+Augenblick, Mutter.--Nehmt das Buch mit, Brackenburg, und bringt mir
+wieder so eine Historie.
+
+Mutter.  Lebt wohl!
+
+Brackenburg (seine Hand reichend).  Eure Hand!
+
+Klare (ihre Hand versagend).  Wenn Ihr wiederkommt.
+
+(Mutter und Tochter ab.)
+
+Brackenburg (allein).  Ich hatte mir vorgenommen, gerade wieder fortzugehn,
+und da sie es dafuer aufnimmt und mich gehen laesst, moecht' ich rasend
+werden.--Ungluecklicher!  und dich ruehrt deines Vaterlandes Geschick
+nicht?  der wachsende Tumult nicht?--und gleich ist dir Landsmann oder
+Spanier, und wer regiert und wer Recht hat?--War ich doch ein andrer Junge
+als Schulknabe!--Wenn da ein Exerzitium aufgegeben war: "Brutus' Rede fuer
+die Freiheit, zur uebung der Redekunst"; da war doch immer Fritz der erste,
+und der Rektor sagte: wenn's nur ordentlicher waere, nur nicht alles so
+ueber einander gestolpert.--Damals kocht' es und trieb!--Jetzt schlepp'
+ich mich an den Augen des Maedchens so hin.  Kann ich sie doch nicht
+lassen!  Kann sie mich doch nicht lieben!--Ach--Nein--Sie--Sie kann mich
+nicht ganz verworfen haben.--Nicht ganz--und halb und nichts!--Ich duld'
+es nicht laenger!--Sollte es wahr sein, was mir ein Freund neulich ins Ohr
+sagte?  dass sie nachts einen Mann heimlich zu sich einlaesst, da sie mich
+zuechtig immer vor Abend aus dem Hause treibt.  Nein, es ist nicht wahr,
+es ist eine Luege, eine schaendliche verleumderische Luege!  Klaerchen ist
+so unschuldig, als ich ungluecklich bin.--Sie hat mich verworfen, hat mich
+von ihrem Herzen gestossen--Und ich soll so fortleben?  Ich duld', ich
+duld' es nicht.--Schon wird mein Vaterland von innerm Zwiste heftiger
+bewegt, und ich sterbe unter dem Getuemmel nur ab! Ich duld' es nicht!
+--Wenn die Trompete klingt, ein Schuss faellt, mir faehrt's durch Mark und
+Bein!  Ach, es reizt mich nicht, es fordert mich nicht, auch mit
+einzugreifen, mit zu retten, zu wagen.--Elender, schimpflicher Zustand!
+Es ist besser, ich end' auf einmal.  Neulich stuerzt' ich mich ins Wasser,
+ich sank--aber die geaengstete Natur war staerker; ich fuehlte, dass ich
+schwimmen konnte, und rettete mich wider Willen.--Koennt' ich der Zeiten
+vergessen, da sie mich liebte, mich zu lieben schien!--Warum hat mir's
+Mark und Bein durchdrungen, das Glueck? Warum haben mir diese Hoffnungen
+allen Genuss des Lebens aufgezehrt, indem sie mir ein Paradies von weitem
+zeigten?--Und jener erste Kuss!  Jener einzige!--Hier (die Hand auf den
+Tisch legend), hier waren wir allein--sie war immer gut und freundlich
+gegen mich gewesen--da schien sie sich zu erweichen--sie sah mich an--alle
+Sinnen gingen mir um, und ich fuehlte ihre Lippen auf den meinigen.
+--Und--und nun?--Stirb, Armer! Was zauderst du?  (Er zieht ein Flaeschchen
+aus der Tasche.) Ich will dich nicht umsonst aus meines Bruders
+Doktorkaestchen gestohlen haben, heilsames Gift!  Du sollst mir dieses
+Bangen, diese Schwindel, diese Todesschweisse auf einmal verschlingen und
+loesen.
+
+
+
+Zweiter Aufzug.
+
+
+Platz in Bruessel.
+
+Jetter und ein Zimmermeister treten zusammen.
+
+Zimmermeister.  Sagt' ich's nicht voraus?  Noch vor acht Tagen auf der
+Zunft sagt' ich, es wuerde schwere Haendel geben.
+
+Jetter.  Ist's denn wahr, dass sie die Kirchen in Flandern gepluendert
+haben?
+
+Zimmermeister.  Ganz und gar zu Grunde gerichtet haben sie Kirchen und
+Kapellen.  Nichts als die vier nackten Waende haben sie stehen lassen.
+Lauter Lumpengesindel!  Und das macht unsre gute Sache schlimm.  Wir
+haetten eher, in der Ordnung, und standhaft, unsere Gerechtsame der
+Regentin vortragen und drauf halten sollen.  Reden wir jetzt, versammeln
+wir uns jetzt, so heisst es, wir gesellen uns zu den Aufwieglern.
+
+Jetter.  Ja, so denkt jeder zuerst: was sollst du mit deiner Nase voran?
+Haengt doch der Hals gar nah damit zusammen.
+
+Zimmermeister.  Mir ist's bange, wenn's einmal unter dem Pack zu laermen
+anfaengt, unter dem Volk, das nichts zu verlieren hat.  Die brauchen das
+zum Vorwande, worauf wir uns auch berufen muessen, und bringen das Land in
+Unglueck.  (Soest tritt dazu.)
+
+Soest.  Guten Tag, ihr Herrn!  Was giebt's Neues?  Ist's wahr, dass die
+Bilderstuermer gerade hierher ihren Lauf nehmen?
+
+Zimmermeister.  Hier sollen sie nichts anruehren.
+
+Soest.  Es trat ein Soldat bei mir ein, Tobak zu kaufen; den fragt' ich
+aus.  Die Regentin, so eine wackre, kluge Frau sie bleibt, diesmal ist sie
+ausser Fassung.  Es muss sehr arg sein, dass sie sich so geradezu hinter
+ihre Wache versteckt.  Die Burg ist scharf besetzt.  Man meint sogar, sie
+wolle aus der Stadt fluechten.
+
+Zimmermeister.  Hinaus soll sie nicht!  Ihre Gegenwart beschuetzt uns, und
+wir wollen ihr mehr Sicherheit verschaffen als ihre Stutzbaerte.  Und wenn
+sie uns unsere Rechte und Freiheiten aufrecht erhaelt, so wollen wir sie
+auf den Haenden tragen.
+
+(Seifensieder tritt dazu.)
+
+Seifensieder.  Garstige Haendel!  ueble Haendel!  Es wird unruhig und geht
+schief aus!--Huetet euch, dass ihr stille bleibt, dass man euch nicht auch
+fuer Aufwiegler haelt.
+
+Soest.  Da kommen die sieben Weisen aus Griechenland.
+
+Seifensieder.  Ich weiss, da sind viele, die es heimlich mit den
+Calvinisten halten, die auf die Bischoefe laestern, die den Koenig nicht
+scheuen.  Aber ein treuer Unterthan, ein aufrichtiger Katholike-(Es
+gesellt sich nach und nach allerlei Volk zu ihnen und horcht.)
+
+(Vansen tritt dazu.)
+
+Vansen.  Gott gruess' euch Herren!  Was Neues?
+
+Zimmermeister.  Gebt euch mit dem nicht ab, das ist ein schlechter Kerl.
+
+Jetter.  Ist es nicht der Schreiber beim Doktor Wiets?
+
+Zimmermeister.  Er hat schon viele Herren gehabt.  Erst war er Schreiber,
+und wie ihn ein Patron nach dem andern fortjagte, Schelmstreiche halber,
+pfuscht er jetzt Notaren und Advokaten ins Handwerk, und ist ein
+Branntweinzapf.
+
+(Es kommt mehr Volk zusammen und steht truppweise.)
+
+Vansen.  Ihr seid auch versammelt, steckt die Koepfe zusammen.  Es ist
+immer redenswert,
+
+Soest.  Ich denk' auch.
+
+Vansen.  Wenn jetzt einer oder der andere Herz haette, und einer oder der
+andere den Kopf dazu, wir koennten die spanischen Ketten auf einmal
+sprengen.
+
+Soest.  Herre!  So muesst Ihr nicht reden.  Wir haben dem Koenig
+geschworen.
+
+Vansen.  Und der Koenig uns.  Merkt das.
+
+Jetter.  Das laesst sich hoeren!  Sagt Eure Meinung!
+
+Einige andere.  Horch, der versteht's!  Der hat Pfiffe.
+
+Vansen.  Ich hatte einen alten Patron, der besass Pergamente und Briefe
+von uralten Stiftungen, Kontrakten und Gerechtigkeiten; er hielt auf die
+rarsten Buecher.  In einem stand unsere ganze Verfassung: wie uns
+Niederlaender zuerst einzelne Fuersten regierten, alles nach hergebrachten
+Rechten, Privilegien und Gewohnheiten; wie unsre Vorfahren alle Ehrfurcht
+fuer ihren Fuersten gehabt, wenn er sie regiert, wie er sollte; und wie
+sie sich gleich vorsahen, wenn er ueber die Schnur hauen wollte.  Die
+Staaten waren gleich hinterdrein; denn jede Provinz, so klein sie war,
+hatte ihre Staaten, ihre Landstaende.
+
+Zimmermeister.  Haltet Euer Maul!  das weiss man lange!  Ein jeder
+rechtschaffene Buerger ist, so viel er braucht, von der Verfassung
+unterrichtet.
+
+Jetter.  Lasst ihn reden; man erfaehrt immer etwas mehr.
+
+Soest.  Er hat ganz recht.
+
+Mehrere.  Erzaehlt!  erzaehlt!  So was hoert man nicht alle Tage.
+
+Vansen.  So seid ihr Buergersleute!  Ihr lebt nur so in den Tag hin; und
+wie ihr euer Gewerb von euern Eltern ueberkommen habt, so lasst ihr auch
+das Regiment ueber euch schalten und walten, wie es kann und mag.  Ihr
+fragt nicht nach dem Herkommen, nach der Historie, nach dem Recht eines
+Regenten; und ueber das Versaeumnis haben euch die Spanier das Netz ueber
+die Ohren gezogen.
+
+Soest.  Wer denkt da dran?  Wenn einer nur das taegliche Brot hat!
+
+Jetter.  Verflucht!  Warum tritt auch keiner in Zeiten auf und sagt einem
+so etwas?
+
+Vansen.  Ich sag' es euch jetzt.  Der Koenig in Spanien, der die Provinzen
+durch gut Glueck zusammen besitzt, darf doch nicht drin schalten und
+walten, anders als die kleinen Fuersten, die sie ehemals einzeln besassen.
+Begreift ihr das?
+
+Jetter.  Erklaert's uns.
+
+Vansen.  Es ist so klar als die Sonne.  Muesst ihr nicht nach euern
+Landrechten gerichtet werden?  Woher kaeme das?
+
+Ein Buerger.  Wahrlich.
+
+Vansen.  Hat der Bruesseler nicht ein ander Recht als der Antwerper?  der
+Antwerper als der Genter?  Woher kaeme denn das?
+
+Anderer Buerger.  Bei Gott!
+
+Vansen.  Aber, wenn ihr's so fortlaufen lasst, wird man's euch bald anders
+weisen.  Pfui!  Was Karl der Kuehne, Friedrich der Krieger, Karl der
+Fuenfte nicht konnten, das thut nun Philipp durch ein Weib.
+
+Soest.  Ja, ja!  Die alten Fuersten haben's auch schon probiert.
+
+Vansen.  Freilich!--Unsere Vorfahren passten auf.  Wie sie einem Herrn
+gram wurden, fingen sie ihm etwa seinen Sohn und Erben weg, hielten ihn
+bei sich, und gaben ihn nur auf die besten Bedingungen heraus.  Unsere
+Vaeter waren Leute!  Die wussten was ihnen nuetz war!  Die wussten etwas
+zu fassen und fest zu setzen!  Rechte Maenner!  Dafuer sind aber auch
+unsere Privilegien so deutlich, unsere Freiheiten so versichert.
+
+Seifensieder.  Was sprecht Ihr von Freiheiten?
+
+Das Volk.  Von unsern Freiheiten, von unsern Privilegien!  Erzaehlt noch
+was von unsern Privilegien!
+
+Vansen.  Wir Brabanter besonders, obgleich alle Provinzen ihre Vorteile
+haben, wir sind am herrlichsten versehen.  Ich habe alles gelesen.
+
+Soest.  Sagt an.
+
+Jetter.  Lasst hoeren.
+
+Ein Buerger.  Ich bitt' Euch.
+
+Vansen.  Erstlich steht geschrieben: Der Herzog von Brabant soll uns ein
+guter und getreuer Herr sein.
+
+Soest.  Gut!  Steht das so?
+
+Jetter.  Getreu?  Ist das wahr?
+
+Vansen.  Wie ich euch sage.  Er ist uns verpflichtet, wie wir ihm.
+Zweitens: Er soll keine Macht oder eignen Willen an uns beweisen, merken
+lassen, oder gedenken zu gestatten, auf keinerlei Weise.
+
+Jetter.  Schoen!  Schoen!  nicht beweisen.
+
+Soest.  Nicht merken lassen.
+
+Ein anderer.  Und nicht gedenken zu gestatten!  Das ist der Hauptpunkt.
+Niemanden gestatten, auf keinerlei Weise.
+
+Vansen.  Mit ausdruecklichen Worten.
+
+Jetter.  Schafft uns das Buch.
+
+Ein Buerger.  Ja, wir muessen's haben.
+
+Andere.  Das Buch!  das Buch!
+
+Ein anderer.  Wir wollen zu der Regentin gehen mit dem Buche.
+
+Ein anderer.  Ihr sollt das Wort fuehren, Herr Doktor.
+
+Seifensieder.  O die Troepfe!
+
+Andere.  Noch etwas aus dem Buche!
+
+Seifensieder.  Ich schlage ihm die Zaehne in den Hals, wenn er noch ein
+Wort sagt.
+
+Das Volk.  Wir wollen sehen, wer ihm etwas thut.  Sagt uns was von den
+Privilegien!  Haben wir noch mehr Privilegien?
+
+Vansen.  Mancherlei, und sehr gute, sehr heilsame.  Da steht auch: Der
+Landsherr soll den geistlichen Stand nicht verbessern oder mehren, ohne
+Verwilligung des Adels und der Staende!  Merkt das!  Auch den Staat des
+Landes nicht veraendern.
+
+Soest.  Ist das so?
+
+Vansen.  Ich will's euch geschrieben zeigen von zwei-, dreihundert Jahren
+her.
+
+Buerger.  Und wir leiden die neuen Bischoefe?  Der Adel muss uns schuetzen,
+wir fangen Haendel an!
+
+Andere.  Und wir lassen uns von der Inquisition ins Bockshorn jagen?
+
+Vansen.  Das ist eure Schuld.
+
+Das Volk.  Wir haben noch Egmont!  noch Oranien!  Die sorgen fuer unser
+Bestes.
+
+Vansen.  Eure Brueder in Flandern haben das gute Werk angefangen.
+
+Seifensieder.  Du Hund!  (Er schlaegt ihn.)
+
+Andere (widersetzen sich und rufen).  Bist du auch ein Spanier?
+
+Ein anderer.  Was?  den Ehrenmann?
+
+Ein anderer.  Den Gelahrten?
+
+(Sie fallen den Seifensieder an.)
+
+Zimmermeister.  Ums Himmels willen, ruht!  (Andere mischen sich in den
+Streit.)
+
+Zimmermeister.  Buerger, was soll das?
+
+(Buben pfeifen, werfen mit Steinen, hetzen Hunde an, Buerger stehn und
+gaffen, Volk laeuft zu, andere gehn gelassen auf und ab, andere treiben
+allerlei Schalkspossen, schreien und jubilieren.)
+
+Andere.  Freiheit und Privilegien!  Privilegien und Freiheit!
+
+(Egmont tritt auf mit Begleitung.)
+
+Egmont.  Ruhig!  Ruhig, Leute!  Was gibt's?  Ruhe!  Bringt sie aus
+einander!
+
+Zimmermeister.  Gnaediger Herr, Ihr kommt wie ein Engel des Himmels.
+Stille!  seht ihr nichts?  Graf Egmont!  Dem Grafen Egmont Reverenz!
+
+Egmont.  Auch hier?  Was fangt ihr an?  Buerger gegen Buerger!  Haelt
+sogar die Naehe unsrer koeniglichen Regentin diesen Unsinn nicht zurueck?
+Geht aus einander, geht an euer Gewerbe.  Es ist ein uebles Zeichen, wenn
+ihr an Werktagen feiert.  Was war's?
+
+(Der Tumult stillt sich nach und nach, und alle stehen um ihn herum.)
+
+Zimmermeister.  Sie schlagen sich um ihre Privilegien.
+
+Egmont.  Die sie noch mutwillig zertruemmern werden--Und wer seid Ihr? Ihr
+scheint mir rechtliche Leute.
+
+Zimmermeister.  Das ist unser Bestreben.
+
+Egmont.  Eures Zeichens?
+
+Zimmermeister.  Zimmermann und Zunftmeister.
+
+Egmont.  Und Ihr?
+
+Soest.  Kraemer.
+
+Egmont.  Ihr?
+
+Jetter.  Schneider.
+
+Egmont.  Ich erinnere mich, Ihr habt mit an den Livreen fuer meine Leute
+gearbeitet.  Euer Name ist Jetter.
+
+Jetter.  Gnade, dass Ihr Euch dessen erinnert.
+
+Egmont.  Ich vergesse niemanden leicht, den ich einmal gesehen und
+gesprochen habe.--Was an euch ist, Ruhe zu erhalten, Leute, das thut; ihr
+seid uebel genug angeschrieben.  Reizt den Koenig nicht mehr, er hat
+zuletzt doch die Gewalt in Haenden.  Ein ordentlicher Buerger, der sich
+ehrlich und fleissig naehrt, hat ueberall soviel Freiheit, als er braucht.
+
+Zimmermeister.  Ach wohl!  das ist eben unsre Not!  Die Tagdiebe, die
+Soeffer, die Faulenzer, mit Euer Gnaden Verlaub, die staenkern aus
+Langerweile, und scharren aus Hunger nach Privilegien, und luegen den
+Neugierigen und Leichtglaeubigen was vor, und um eine Kanne Bier bezahlt
+zu kriegen, fangen sie Haendel an, die viel tausend Menschen ungluecklich
+machen.  Das ist ihnen eben recht.  Wir halten unsre Haeuser und Kasten zu
+gut verwahrt; da moechten sie gern uns mit Feuerbraenden davon treiben.
+
+Egmont.  Allen Beistand sollt ihr finden; es sind Massregeln genommen, dem
+uebel kraeftig zu begegnen.  Steht fest gegen die fremde Lehre und glaubt
+nicht, durch Aufruhr befestige man Privilegien.  Bleibt zu Hause; leidet
+nicht, dass sie sich auf den Strassen rotten.  Vernuenftige Leute koennen
+viel thun.
+
+(Indessen hat sich der groesste Haufe verlaufen.)
+
+Zimmermeister.  Danken Euer Excellenz, danken fuer die gute Meinung! Alles,
+was an uns liegt.  (Egmont ab.) Ein gnaediger Herr!  der echte
+Niederlaender!  Gar so nichts Spanisches.
+
+Jetter.  Haetten wir ihn nur zum Regenten!  Man folgt' ihm gerne.
+
+Soest.  Das laesst der Koenig wohl sein.  Den Platz besetzt er immer mit
+den Seinigen.
+
+Jetter.  Hast du das Kleid gesehen?  Das war nach der neuesten Art, nach
+spanischem Schnitt.
+
+Zimmermeister.  Ein schoener Herr!
+
+Jetter.  Sein Hals waer' ein rechtes Fressen fuer einen Scharfrichter.
+
+Soest.  Bist du toll?  Was kommt dir ein?
+
+Jetter.  Dumm genug, dass einem so etwas einfaellt.--Es ist mir nun so.
+Wenn ich einen schoenen langen Hals sehe, muss ich gleich wider Willen
+denken: der ist gut koepfen.--Die verfluchten Exekutionen!  man kriegt sie
+nicht aus dem Sinne.  Wenn die Bursche schwimmen und ich seh' einen
+nackten Buckel, gleich fallen sie mir zu Dutzenden ein, die ich habe mit
+Ruten streichen sehen.  Begegnet mir ein rechter Wanst, mein' ich, den
+saeh' ich schon am Pfahl braten.  Des Nachts im Traume zwickt mich's an
+allen Gliedern; man wird eben keine Stunde froh.  Jede Lustbarkeit, jeden
+Spass hab' ich bald vergessen; die fuerchterlichen Gestalten sind mir wie
+vor die Stirne gebrannt.
+
+
+Egmonts Wohnung.
+
+(Sekretaer an einem Tische mit Papieren, er steht unruhig auf.)
+
+Sekretaer.  Er kommt immer nicht!  und ich warte schon zwei Stunden, die
+Feder in der Hand, die Papiere vor mir; und eben heute moecht' ich gern so
+zeitig fort.  Es brennt mir unter den Sohlen!  Ich kann vor Ungeduld kaum
+bleiben.  "Sei auf die Stunde da," befahl er mir noch, ehe er wegging; nun
+kommt er nicht.  Es ist so viel zu thun, ich werde vor Mitternacht nicht
+fertig.  Freilich sieht er einem auch einmal durch die Finger.  Doch
+hielt' ich's besser, wenn er strenge waere und liesse einen auch wieder
+zur bestimmten Zeit.  Man koennte sich einrichten.  Von der Regentin ist
+er nun schon zwei Stunden weg; wer weiss, wen er unterwegs angefasst hat.
+
+(Egmont tritt auf.)
+
+Egmont.  Wie sieht's aus?
+
+Sekretaer.  Ich bin bereit, und drei Boten warten.
+
+Egmont.  Ich bin dir wohl zu lang geblieben; du machst ein verdriesslich
+Gesicht.
+
+Sekretaer.  Eurem Befehl zu gehorchen, wart' ich schon lange.  Hier sind
+die Papiere.
+
+Egmont.  Donna Elvira wird boese auf mich werden, wenn sie hoert, dass ich
+dich abgehalten habe.
+
+Sekretaer.  Ihr scherzt.
+
+Egmont.  Nein, nein.  Schaeme dich nicht.  Du zeigst einen guten Geschmack.
+Sie ist huebsch; und es ist mir ganz recht, dass du auf dem Schlosse
+eine Freundin hast.  Was sagen die Briefe?
+
+Sekretaer.  Mancherlei, und wenig Erfreuliches.
+
+Egmont.  Da ist gut, dass wir die Freude zu Hause haben und sie nicht von
+auswaerts zu erwarten brauchen.  Ist viel gekommen?
+
+Sekretaer.  Genug, und drei Boten warten.
+
+Egmont.  Sag' an!  das Noetigste.
+
+Sekretaer.  Es ist alles noetig.
+
+Egmont.  Eins nach dem andern, nur geschwind!
+
+Sekretaer.  Hauptmann Breda schickt die Relation, was weiter in Gent und
+der umliegenden Gegend vorgefallen.  Der Tumult hat sich meistens gelegt.
+-Egmont.  Er schreibt wohl noch von einzelnen Ungezogenheiten und
+Tollkuehnheiten?
+
+Sekretaer.  Ja!  Es kommt noch manches vor.
+
+Egmont.  Verschone mich damit.
+
+Sekretaer.  Noch sechs sind eingezogen worden, die bei Verwich das
+Marienbild umgerissen haben.  Er fragt an, ob er sie auch wie die andern
+soll haengen lassen.
+
+Egmont.  Ich bin des Haengens muede.  Man soll sie durchpeitschen, und sie
+moegen gehen.
+
+Sekretaer.  Es sind zwei Weiber dabei; soll er die auch durchpeitschen?
+
+Egmont.  Die mag er verwarnen und laufen lassen.
+
+Sekretaer.  Brink von Bredas Kompagnie will heiraten.  Der Hauptmann hofft,
+Ihr werdet's ihm abschlagen.  Es sind so viele Weiber bei dem Haufen,
+schreibt er, dass, wenn wir ausziehen, es keinem Soldatenmarsch, sondern
+einem Zigeuner-Geschleppe aehnlich sehen wird.
+
+Egmont.  Dem mag's noch hingehen!  Es ist ein schoener junger Kerl; er bat
+mich noch gar dringend, eh' ich wegging.  Aber nun soll's keinem mehr
+gestattet sein, so leid mir's thut, den armen Teufeln, die ohnedies
+geplagt genug sind, ihren besten Spass zu versagen.
+
+Sekretaer.  Zwei von Euern Leuten, Seter und Hart, haben einem Maedel,
+einer Wirtstochter, uebel mitgespielt.  Sie kriegten sie allein, und die
+Dirne konnte sich ihrer nicht erwehren.
+
+Egmont.  Wenn es ein ehrlich Maedchen ist, und sie haben Gewalt gebraucht,
+so soll er sie drei Tage hinter einander mit Ruten streichen lassen, und
+wenn sie etwas besitzen, soll er so viel davon einziehen, dass dem
+Maedchen eine Ausstattung gereicht werden kann.
+
+Sekretaer.  Einer von den fremden Lehrern ist heimlich durch Comines
+gegangen und entdeckt worden.  Er schwoert, er sei im Begriff, nach
+Frankreich zu gehen.  Nach dem Befehl soll er enthauptet werden.
+
+Egmont.  Sie sollen ihn in der Stille an die Grenze bringen und ihm
+versichern, dass er das zweite Mal nicht so wegkommt.
+
+Sekretaer.  Ein Brief von Euerm Einnehmer.  Er schreibt: es komme wenig
+Geld ein, er koenne auf die Woche die verlangte Summe schwerlich schicken;
+der Tumult habe in alles die groesste Konfusion gebracht.
+
+Egmont.  Das Geld muss herbei!  er mag sehen, wie er es zusammenbringt.
+
+Sekretaer.  Er sagt: er werde sein Moeglichstes thun, und wolle endlich
+den Raymond, der Euch so lange schuldig ist, verklagen und in Verhaft
+nehmen lassen.
+
+Egmont.  Der hat ja versprochen zu bezahlen.
+
+Sekretaer.  Das letzte Mal setzte er sich selbst vierzehn Tage.
+
+Egmont.  So gebe man ihm noch vierzehn Tage; und dann mag er gegen ihn
+verfahren.
+
+Sekretaer.  Ihr thut wohl.  Es ist nicht Unvermoegen; es ist boeser Wille.
+Er macht gewiss Ernst, wenn er sieht, Ihr spasst nicht.--Ferner sagt der
+Einnehmer: er wolle den alten Soldaten, den Witwen und einigen andern,
+denen Ihr Gnadengehalte gebt, die Gebuehr einen halben Monat zurueckhalten;
+man koenne indessen Rat schaffen; sie moechten sich einrichten.
+
+Egmont.  Was ist da einzurichten?  Die Leute brauchen das Geld noetiger
+als ich.  Das soll er bleiben lassen.
+
+Sekretaer.  Woher befehlt Ihr denn, dass er das Geld nehmen soll?
+
+Egmont.  Darauf mag er denken; es ist ihm im vorigen Briefe schon gesagt.
+
+Sekretaer.  Deswegen thut er die Vorschlaege.
+
+Egmont.  Die taugen nicht; er soll auf was anders sinnen.  Er soll
+Vorschlaege thun, die annehmlich sind, und vor allem soll er das Geld
+schaffen.
+
+Sekretaer.  Ich habe den Brief des Grafen Oliva wieder hieher gelegt.
+Verzeiht, dass ich Euch daran erinnere.  Der alte Herr verdient vor allen
+andern eine ausfuehrliche Antwort.  Ihr wolltet ihm selbst schreiben.
+Gewiss, er liebt Euch wie ein Vater.
+
+Egmont.  Ich komme nicht dazu.  Und unter vielem Verhassten ist mir das
+Schreiben das Verhassteste.  Du machst meine Hand ja so gut nach, schreib'
+in meinem Namen.  Ich erwarte Oranien.  Ich komme nicht dazu, und
+wuenschte selbst, dass ihm auf seine Bedenklichkeiten was recht
+Beruhigendes geschrieben wuerde.
+
+Sekretaer.  Sagt mir nur ungefaehr Eure Meinung; ich will die Antwort
+schon aufsetzen und sie Euch vorlegen.  Geschrieben soll sie werden, dass
+sie vor Gericht fuer Eure Hand gelten kann.
+
+Egmont.  Gieb mir den Brief.  (Nachdem er hineingesehen.) Guter ehrlicher
+Alter!  Warst du in deiner Jugend auch wohl so bedaechtig?  Erstiegst du
+nie einen Wall?  Bliebst du in der Schlacht, wo es die Klugheit anraet,
+hinten?--Der treue Sorgliche!  Er will mein Leben und mein Glueck, und
+fuehlt nicht, dass der schon tot ist, der um seiner Sicherheit willen lebt.
+--Schreib' ihm, er moege unbesorgt sein; ich handle, wie ich soll, ich
+werde mich schon wahren: sein Ansehn bei Hofe soll er zu meinen Gunsten
+brauchen und meines vollkommnen Dankes gewiss sein.
+
+Sekretaer.  Nichts weiter?  O, er erwartet mehr.
+
+Egmont.  Was soll ich mehr sagen?  Willst du mehr Worte machen, so steht's
+bei dir.  Es dreht sich immer um den einen Punkt: ich soll leben, wie ich
+nicht leben mag.  Dass ich froehlich bin, die Sachen leicht nehme, rasch
+lebe, das ist mein Glueck; und ich vertausch' es nicht gegen die
+Sicherheit eines Totengewoelbes.  Ich habe nun zu der spanischen Lebensart
+nicht einen Blutstropfen in meinen Adern, nicht Lust, meine Schritte nach
+der neuen bedaechtigen Hof-kadenz zu mustern.  Leb' ich nur, um auf's
+Leben zu denken?  Soll ich den gegenwaertigen Augenblick nicht geniessen,
+damit ich des folgenden gewiss sei?  Und diesen wieder mit Sorgen und
+Grillen verzehren?
+
+Sekretaer.  Ich bitt' Euch, Herr, seid nicht so harsch und rauh gegen den
+guten Mann.  Ihr seid ja sonst gegen alle freundlich.  Sagt mir ein
+gefaellig Wort, das den edeln Freund beruhige.  Seht, wie sorgfaeltig er
+ist, wie leis' er Euch beruehrt.
+
+Egmont.  Und doch beruehrt er immer diese Saite.  Er weiss von alters her,
+wie verhasst mir diese Ermahnungen sind; sie machen nur irre, sie helfen
+nichts.  Und wenn ich ein Nachtwandler waere, und auf dem gefaehrlichen
+Gipfel eines Hauses spazierte, ist es freundschaftlich, mich beim Namen zu
+rufen und mich zu warnen, zu wecken und zu toeten?  Lasst jeden seines
+Pfades gehn; er mag sich wahren.
+
+Sekretaer.  Es ziemt Euch, nicht zu sorgen; aber wer Euch kennt und
+liebt-Egmont (in den Brief sehend).  Da bringt er wieder die alten
+Maerchen auf, was wir an einem Abend in leichtem uebermut der Geselligkeit
+und des Weins getrieben und gesprochen, und was man daraus fuer Folgen und
+Beweise durchs ganze Koenigreich gezogen und geschleppt habe.--Nun gut!
+wir haben Schellenkappen, Narrenkutten auf unsrer Diener aermel sticken
+lassen, und haben diese tolle Zierde nachher in ein Buendel Pfeile
+verwandelt; ein noch gefaehrlicher Symbol fuer alle, die deuten wollen, wo
+nichts zu deuten ist.  Wir haben die und jene Thorheit in einem lustigen
+Augenblick empfangen gleich und geboren; sind schuld, dass eine ganze edle
+Schar mit Bettelsaecken und mit einem selbstgewaehlten Unnamen dem Koenige
+seine Pflicht mit spottender Demut ins Gedaechtnis rief; sind schuld--was
+ist's nun weiter?  Ist ein Fastnachtsspiel gleich Hochverrat?  Sind uns
+die kurzen bunten Lumpen zu missgoennen, die ein jugendlicher Mut, eine
+angefrischte Phantasie um unsers Lebens arme Bloesse haengen mag?  Wenn
+ihr das Leben gar zu ernsthaft nehmt, was ist denn dran?  Wenn uns der
+Morgen nicht zu neuen Freuden weckt, am Abend uns keine Lust zu hoffen
+uebrig bleibt, ist's wohl des An- und Ausziehens wert?  Scheint mir die
+Sonne heut', um das zu ueberlegen, was gestern war?  und um zu raten, zu
+verbinden, was nicht zu erraten, nicht zu verbinden ist, das Schicksal
+eines kommenden Tages?  Schenke mir diese Betrachtungen; wir wollen sie
+Schuelern und Hoeflingen ueberlassen.  Die moegen sinnen und aussinnen,
+wandeln und schleichen, gelangen wohin sie koennen, erschleichen, was sie
+koennen.--Kannst du von allem diesem etwas brauchen, dass deine Epistel
+kein Buch wird, so ist mir's recht.  Dem guten Alten scheint alles viel zu
+wichtig.  So drueckt ein Freund, der lang unsre Hand gehalten, sie
+staerker noch einmal, wenn er sie lassen will.
+
+Sekretaer.  Verzeiht mir!  Es wird dem Fussgaenger schwindlig, der einen
+Mann mit rasselnder Eile daher fahren sieht.
+
+Egmont.  Kind!  Kind!  nicht weiter!  Wie von unsichtbaren Geistern
+gepeitscht, gehen die Sonnenpferde der Zeit mit unsers Schicksals leichtem
+Wagen durch; und uns bleibt nichts, als mutig gefasst die Zuegel
+festzuhalten, und bald rechts, bald links, vom Steine hier, vom Sturze da,
+die Raeder wegzulenken.  Wohin es geht, wer weiss es?  Erinnert er sich
+doch kaum, woher er kam!
+
+Sekretaer.  Herr!  Herr!
+
+Egmont.  Ich stehe hoch, und kann und muss noch hoeher steigen; ich fuehle
+mir Hoffnung, Mut und Kraft.  Noch hab' ich meines Wachstums Gipfel nicht
+erreicht; und steh' ich droben einst, so will ich fest, nicht aengstlich
+stehn.  Soll ich fallen, so mag ein Donnerschlag, ein Sturmwind, ja ein
+selbst verfehlter Schritt mich abwaerts in die Tiefe stuerzen; da lieg'
+ich mit viel Tausenden.  Ich habe nie verschmaeht, mit meinen guten
+Kriegsgesellen um kleinen Gewinst das blutige Los zu werfen; und sollt'
+ich knickern, wenn's um den ganzen freien Wert des Lebens geht?
+
+Sekretaer.  O Herr!  Ihr wisst nicht, was fuer Worte Ihr sprecht!  Gott
+erhalt' Euch!
+
+Egmont.  Nimm deine Papiere zusammen.  Oranien kommt.  Fertige aus, was am
+noetigsten ist, dass die Boten fortkommen, eh' die Thore geschlossen
+werden.  Das andere hat Zeit.  Den Brief an den Grafen lass bis morgen;
+versaeume nicht, Elviren zu besuchen, und gruesse sie von mir.--Horche,
+wie sich die Regentin befindet; sie soll nicht wohl sein, ob sie's gleich
+verbirgt.  (Sekretaer ab.)
+
+(Oranien kommt.)
+
+Egmont.  Willkommen, Oranien.  Ihr scheint mir nicht ganz frei.
+
+Oranien.  Was sagt Ihr zu unsrer Unterhaltung mit der Regentin?
+
+Egmont.  Ich fand in ihrer Art uns aufzunehmen nichts Ausserordentliches.
+Ich habe sie schon oefter so gesehen.  Sie schien mir nicht ganz wohl.
+
+Oranien.  Merktet Ihr nicht, dass sie zurueckhaltender war?  Erst wollte
+sie unser Betragen bei dem neuen Aufruhr des Poebels gelassen billigen;
+nachher merkte sie an, was sich doch auch fuer ein falsches Licht darauf
+werfen lasse; wich dann mit dem Gespraeche zu ihrem alten gewoehnlichen
+Diskurs: dass man ihre liebevolle, gute Art, ihre Freundschaft zu uns
+Niederlaendern nie genug erkannt, zu leicht behandelt habe, dass nichts
+einen erwuenschten Ausgang nehmen wolle, dass sie am Ende wohl muede
+werden, der Koenig sich zu andern Massregeln entschliessen muesse.  Habt
+Ihr das gehoert?
+
+Egmont.  Nicht alles; ich dachte unterdessen an was anders.  Sie ist ein
+Weib, guter Oranien, und die moechten immer gern, dass sich alles unter
+ihr sanftes Joch gelassen schmiegte, dass jeder Herkules die Loewenhaut
+ablegte und ihren Kunkelhof vermehrte; dass, weil sie friedlich gesinnt
+sind, die Gaerung, die ein Volk ergreift, der Sturm, den maechtige
+Nebenbuhler gegen einander erregen, sich durch ein freundlich Wort
+beilegen liesse, und die widrigsten Elemente sich zu ihren Fuessen in
+sanfter Eintracht vereinigten.  Das ist ihr Fall; und da sie es dahin
+nicht bringen kann, so hat sie keinen Weg, als launisch zu werden, sich
+ueber Undankbarkeit, Unweisheit zu beklagen, mit schrecklichen Aussichten
+in die Zukunft zu drohen, und zu drohen, dass sie--fortgehn will.
+
+Oranien.  Glaubt Ihr dasmal nicht, dass sie ihre Drohung erfuellt?
+
+Egmont.  Nimmermehr!  Wie oft habe ich sie schon reisefertig gesehn!  Wo
+will sie denn hin?  Hier Statthalterin, Koenigin; glaubst du, dass sie es
+unterhalten wird, am Hofe ihres Bruders unbedeutende Tage abzuhaspeln?
+oder nach Italien zu gehen und sich in alten Familienverhaeltnissen
+herumzuschleppen?
+
+Oranien.  Man haelt sie dieser Entschliessung nicht faehig, weil Ihr sie
+habt zaudern, weil Ihr sie habt zuruecktreten sehn; dennoch liegt's wohl
+in ihr; neue Umstaende treiben sie zu dem lang verzoegerten Entschluss.
+Wenn sie ginge?  und der Koenig schickte einen andern?
+
+Egmont.  Nun, der wuerde kommen, und wuerde eben auch zu thun finden.  Mit
+grossen Planen, Projekten und Gedanken wuerde er kommen, wie er alles
+zurecht ruecken, unterwerfen und zusammenhalten wolle; und wuerde heut'
+mit dieser Kleinigkeit, morgen mit einer andern zu thun haben, uebermorgen
+jene Hindernis finden, einen Monat mit Entwuerfen, einen andern mit
+Verdruss ueber fehlgeschlagne Unternehmen, ein halb Jahr in Sorgen ueber
+eine einzige Provinz zubringen.  Auch ihm wird die Zeit vergehn, der Kopf
+schwindeln, und die Dinge wie zuvor ihren Gang halten, dass er, statt
+weite Meere nach einer vorgezogenen Linie zu durchsegeln, Gott danken mag,
+wenn er sein Schiff in diesem Sturme vom Felsen haelt.
+
+Oranien.  Wenn man nun aber dem Koenig zu einem Versuch riete?
+
+Egmont.  Der waere?
+
+Oranien.  Zu sehen, was der Rumpf ohne Haupt anfinge.
+
+Egmont.  Wie?
+
+Oranien.  Egmont, ich trage viele Jahre her alle unsere Verhaeltnisse am
+Herzen, ich stehe immer wie ueber einem Schachspiele und halte keinen Zug
+des Gegners fuer unbedeutend; und wie muessige Menschen mit der groessten
+Sorgfalt sich um die Geheimnisse der Natur bekuemmern, so halt' ich es
+fuer Pflicht, fuer Beruf eines Fuersten, die Gesinnungen, die Ratschlaege
+aller Parteien zu kennen.  Ich habe Ursach', einen Ausbruch zu befuerchten.
+Der Koenig hat lange nach gewissen Grundsaetzen gehandelt; er sieht,
+dass er damit nicht auskommt; was ist wahrscheinlicher, als dass er es auf
+einem andern Wege versucht?
+
+Egmont.  Ich glaub's nicht.  Wenn man alt wird und hat so viel versucht,
+und es will in der Welt nie zur Ordnung kommen, muss man es endlich wohl
+genug haben.
+
+Oranien.  Eins hat er noch nicht versucht.
+
+Egmont.  Nun?
+
+Oranien.  Das Volk zu schonen und die Fuersten zu verderben.
+
+Egmont.  Wie viele haben das schon lange gefuerchtet.  Es ist keine Sorge.
+
+Oranien.  Sonst war's Sorge; nach und nach ist mir's Vermutung, zuletzt
+Gewissheit geworden.
+
+Egmont.  Und hat der Koenig treuere Diener als uns?
+
+Oranien.  Wir dienen ihm auf unsere Art; und unter einander koennen wir
+gestehen, dass wir des Koenigs Rechte und die unsrigen wohl abzuwaegen
+wissen.
+
+Egmont.  Wer thut's nicht?  Wir sind ihm unterthan und gewaertig in dem,
+was ihm zukommt.
+
+Oranien.  Wenn er sich nun aber mehr zuschriebe und Treulosigkeit nennte,
+was wir heissen, auf unsere Rechte halten?
+
+Egmont.  Wir werden uns verteidigen koennen.  Er rufe die Ritter des
+Vliesses zusammen, wir wollen uns richten lassen.
+
+Oranien.  Und was waere ein Urteil vor der Untersuchung?  eine Strafe vor
+dem Urteil?
+
+Egmont.  Eine Ungerechtigkeit, der sich Philipp nie schuldig machen wird;
+und eine Thorheit, die ich ihm und seinen Raeten nicht zutraue.
+
+Oranien.  Und wenn sie nun ungerecht und thoericht waeren?
+
+Egmont.  Nein, Oranien, es ist nicht moeglich.  Wer sollte wagen, Hand an
+uns zu legen?--Uns gefangen zu nehmen, waer' ein verlornes und fruchtloses
+Unternehmen.  Nein, sie wagen nicht, das Panier der Tyrannei so hoch
+aufzustecken.  Der Windhauch, der diese Nachricht ueber's Land braechte,
+wuerde ein ungeheures Feuer zusammentreiben.  Und wo hinaus wollten sie?
+Richten und verdammen kann nicht der Koenig allein; und wollten sie
+meuchelmoerderisch an unser Leben?--Sie koennen nicht wollen.  Ein
+schrecklicher Bund wuerde in einem Augenblick das Volk vereinigen.  Hass
+und ewige Trennung vom spanischen Namen wuerde sich gewaltsam erklaeren.
+
+Oranien.  Die Flamme wuetete dann ueber unserm Grabe, und das Blut unsrer
+Feinde floesse zum leeren Suehnopfer.  Lass uns denken, Egmont.
+
+Egmont.  Wie sollten sie aber?
+
+Oranien.  Alba ist unterwegs.
+
+Egmont.  Ich glaub's nicht.
+
+Oranien.  Ich weiss es.
+
+Egmont.  Die Regentin wollte nichts wissen.
+
+Oranien.  Um desto mehr bin ich ueberzeugt.  Die Regentin wird ihm Platz
+machen.  Seinen Mordsinn kenn' ich, und ein Heer bringt er mit.
+
+Egmont.  Aufs neue die Provinzen zu belaestigen?  Das Volk wird hoechst
+schwierig werden.
+
+Oranien.  Man wird sich der Haeupter versichern.
+
+Egmont.  Nein!  Nein!
+
+Oranien.  Lass uns gehen, jeder in seine Provinz.  Dort wollen wir uns
+verstaerken; mit offner Gewalt faengt er nicht an.
+
+Egmont.  Muessen wir ihn nicht begruessen, wenn er kommt?
+
+Oranien.  Wir zoegern.
+
+Egmont.  Und wenn er uns im Namen des Koenigs bei seiner Ankunft fordert?
+
+Oranien.  Suchen wir Ausfluechte.
+
+Egmont.  Und wenn er dringt?
+
+Oranien.  Entschuldigen wir uns.
+
+Egmont.  Und wenn er darauf besteht?
+
+Oranien.  Kommen wir um so weniger.
+
+Egmont.  Und der Krieg ist erklaert, und wir sind die Rebellen.  Oranien,
+lass dich nicht durch Klugheit verfuehren; ich weiss, dass Furcht dich
+nicht weichen macht.  Bedenke den Schritt.
+
+Oranien.  Ich hab' ihn bedacht.
+
+Egmont.  Bedenke, wenn du dich irrst, woran du schuld bist: an dem
+verderblichsten Kriege, der je ein Land verwuestet hat.  Dein Weigern ist
+das Signal, das die Provinzen mit einmal zu den Waffen ruft, das jede
+Grausamkeit rechtfertigt, wozu Spanien von jeher nur gern den Vorwand
+gehascht hat.  Was wir lange muehselig gestillt haben, wirst du mit einem
+Winke zur schrecklichsten Verwirrung aufhetzen.  Denk' an die Staedte, die
+Edeln, das Volk, an die Handlung, den Feldbau, die Gewerbe!  und denke die
+Verwuestung, den Mord!--Ruhig sieht der Soldat wohl im Felde seinen
+Kameraden neben sich hinfallen; aber den Fluss herunter werden dir die
+Leichen der Buerger, der Kinder, der Jungfrauen entgegenschwimmen, dass du
+mit Entsetzen dastehst, und nicht mehr weisst, wessen Sache du verteidigst,
+da die zu Grunde gehen, fuer deren Freiheit du die Waffen ergriffst.  Und
+wie wird dir's sein, wenn du dir still sagen musst: Fuer meine Sicherheit
+ergriff ich sie.
+
+Oranien.  Wir sind nicht einzelne Menschen, Egmont.  Ziemt es sich, uns
+fuer Tausende hinzugeben, so ziemt es sich auch, uns fuer Tausende zu
+schonen.
+
+Egmont.  Wer sich schont, muss sich selbst verdaechtig werden.
+
+Oranien.  Wer sich kennt, kann sicher vor- und rueckwaerts gehen.
+
+Egmont.  Das uebel, das du fuerchtest, wird gewiss durch deine That.
+
+Oranien.  Es ist klug und kuehn, dem unvermeidlichen uebel entgegenzugehn.
+
+Egmont.  Bei so grosser Gefahr kommt die leichteste Hoffnung in Anschlag
+
+Oranien.  Wir haben nicht fuer den leisesten Fusstritt Platz mehr; der
+Abgrund liegt hart vor uns.
+
+Egmont.  Ist des Koenigs Gunst ein so schmaler Grund?
+
+Oranien.  So schmal nicht, aber schluepfrig.
+
+Egmont.  Bei Gott!  man thut ihm unrecht.  Ich mag nicht leiden, dass man
+unwuerdig von ihm denkt!  Er ist Karls Sohn und keiner Niedrigkeit faehig.
+
+Oranien.  Die Koenige thun nichts Niedriges.
+
+Egmont.  Man sollte ihn kennen lernen,
+
+Oranien.  Eben diese Kenntnis raet uns, eine gefaehrliche Probe nicht
+abzuwarten.
+
+Egmont.  Keine Probe ist gefaehrlich, zu der man Mut hat.
+
+Oranien.  Du wirst aufgebracht, Egmont.
+
+Egmont.  Ich muss mit meinen Augen sehen.
+
+Oranien.  O, saehst du diesmal nur mit den meinigen!  Freund, weil du sie
+offen hast, glaubst du, du siehst.  Ich gehe!  Warte du Albas Ankunft ab,
+und Gott sei bei dir!  Vielleicht rettet dich mein Weigern.  Vielleicht,
+dass der Drache nichts zu fangen glaubt, wenn er uns nicht beide auf
+einmal verschlingt.  Vielleicht zoegert er, um seinen Anschlag sicherer
+auszufuehren; und vielleicht siehest du indes die Sache in ihrer wahren
+Gestalt.  Aber dann schnell!  schnell!  Rette!  rette dich!--Leb' wohl!
+--Lass deiner Aufmerksamkeit nichts entgehen: wie viel Mannschaft er
+mitbringt, wie er die Stadt besetzt, was fuer Macht die Regentin behaelt,
+wie deine Freunde gefasst sind.  Gieb mir Nachricht--Egmont-Egmont.  Was
+willst du?
+
+Oranien (ihn bei der Hand fassend).  Lass dich ueberreden!  Geh mit!
+
+Egmont.  Wie?  Thraenen, Oranien?
+
+Oranien.  Einen Verlornen zu beweinen, ist auch maennlich.
+
+Egmont.  Du waehnst mich verloren?
+
+Oranien.  Du bist's.  Bedenke!  Dir bleibt nur eine kurze Frist.  Leb'
+wohl!  (Ab.)
+
+Egmont.  (allein).  Dass andrer Menschen Gedanken solchen Einfluss auf uns
+haben!  Mir waer' es nie eingekommen; und dieser Mann traegt seine
+Sorglichkeit in mich herueber.--Weg!--Das ist ein fremder Tropfen in
+meinem Blute.  Gute Natur, wirf ihn wieder heraus!  Und von meiner Stirne
+die sinnenden Runzeln wegzubaden, giebt es ja wohl noch ein freundlich
+Mittel.
+
+
+
+Dritter Aufzug.
+
+Palast der Regentin.
+
+Margarete von Parma.
+
+Regentin.  Ich haette mir's vermuten sollen.  Ha!  Wenn man in Muehe und
+Arbeit vor sich hinlebt, denkt man immer, man thue das Moeglichste; und
+der von weitem zusieht und befiehlt, glaubt, er verlange nur das Moegliche.
+--O die Koenige!--Ich haette nicht geglaubt, dass es mich so verdriessen
+koennte.  Es ist so schoen zu herrschen!--Und abzudanken?--Ich weiss nicht,
+wie mein Vater es konnte; aber ich will es auch.
+
+(Machiavell erscheint im Grunde.)
+
+Regentin.  Tretet naeher, Machiavell.  Ich denke hier ueber den Brief
+meines Bruders.
+
+Machiavell.  Ich darf wissen, was er enthaelt?
+
+Regentin.  So viel zaertliche Aufmerksamkeit fuer mich, als Sorgfalt fuer
+seine Staaten.  Er ruehmt die Standhaftigkeit, den Fleiss und die Treue,
+womit ich bisher fuer die Rechte Seiner Majestaet in diesen Landen gewacht
+habe.  Er bedauert mich, dass mir das unbaendige Volk so viel zu schaffen
+mache.  Er ist von der Tiefe meiner Einsichten so vollkommen ueberzeugt,
+mit der Klugheit meines Betragens so ausserordentlich zufrieden, dass ich
+fast sagen muss, der Brief ist fuer einen Koenig zu schoen geschrieben,
+fuer einen Bruder gewiss.
+
+Machiavell.  Es ist nicht das erste Mal, dass er Euch seine gerechte
+Zufriedenheit bezeigt.
+
+Regentin.  Aber das erste Mal, dass es rednerische Figur ist.
+
+Machiavell.  Ich versteh' Euch nicht.
+
+Regentin.  Ihr werdet.--Denn er meint, nach diesem Eingange: ohne
+Mannschaft, ohne eine kleine Armee werde ich immer hier eine ueble Figur
+spielen.  Wir haetten, sagt er, unrecht gethan, auf die Klagen der
+Einwohner unsre Soldaten aus den Provinzen zu ziehen.  Eine Besatzung,
+meint er, die dem Buerger auf dem Nacken lastet, verbiete ihm durch ihre
+Schwere, grosse Spruenge zu machen.
+
+Machiavell.  Es wuerde die Gemueter aeusserst aufbringen.
+
+Regentin.  Der Koenig meint aber, hoerst du?--Er meint, dass ein
+tuechtiger General, so einer, der gar keine Raison annimmt, gar bald mit
+Volk und Adel, Buergern und Bauern fertig werden koenne;--und schickt
+deswegen mit einem starken Heere--den Herzog von Alba.
+
+Machiavell.  Alba?
+
+Regentin.  Du wunderst dich?
+
+Machiavell.  Ihr sagt: er schickt.  Er fragt wohl, ob er schicken soll?
+
+Regentin.  Der Koenig fragt nicht; er schickt.
+
+Machiavell.  So werdet Ihr einen erfahrnen Krieger in Euren Diensten haben.
+
+
+Regentin.  In meinen Diensten?  Rede g'rad' heraus, Machiavell.
+
+Machiavell.  Ich moecht' Euch nicht vorgreifen.
+
+Regentin.  Und ich moechte mich verstellen.  Es ist mir empfindlich, sehr
+empfindlich.  Ich wollte lieber, mein Bruder sagte, wie er's denkt, als
+dass er foermliche Episteln unterschreibt, die ein Staatssekretaer
+aufsetzt.
+
+Machiavell.  Sollte man nicht einsehen?-Regentin.  Und ich kenne sie
+inwendig und auswendig.  Sie moechten's gern gesaeubert und gekehrt haben:
+und weil sie selbst nicht zugreifen, so findet ein jeder Vertrauen, der
+mit dem Besen in der Hand kommt.  O, mir ist's, als wenn ich den Koenig
+und sein Conseil auf dieser Tapete gewirkt saehe.
+
+Machiavell.  So lebhaft?
+
+Regentin.  Es fehlt kein Zug.  Es sind gute Menschen drunter.  Der
+ehrliche Rodrich, der so erfahren und maessig ist, nicht zu hoch will und
+doch nichts fallen laesst, der gerade Alonzo, der fleissige Freneda, der
+feste Las Vargas und noch einige, die mitgehen, wenn die gute Partei
+maechtig wird.  Da sitzt aber der hohlaeugige Toledaner mit der ehrnen
+Stirne und dem tiefen Feuerblick, murmelt zwischen den Zaehnen von
+Weiberguete, unzeitigem Nachgeben, und dass Frauen wohl von zugerittenen
+Pferden sich tragen lassen, selbst aber schlechte Stallmeister sind, und
+solche Spaesse, die ich ehemals von den politischen Herren habe mit
+durchhoeren muessen.
+
+Machiavell.  Ihr habt zu dem Gemaelde einen guten Farbentopf gewaehlt.
+
+Regentin.  Gesteht nur, Machiavell: In meiner ganzen Schattierung, aus der
+ich allenfalls malen koennte, ist kein Ton so gelbbraun, gallenschwarz,
+wie Albas Gesichtsfarbe, und als die Farbe, aus der er malt.  Jeder ist
+bei ihm gleich ein Gotteslaesterer, ein Majestaetsschaender; denn aus
+diesem Kapitel kann man sie alle sogleich raedern, pfaehlen, vierteilen
+und verbrennen.--Das Gute, was ich hier gethan habe, sieht gewiss in der
+Ferne wie nichts aus, eben weil's gut ist.--Da haengt er sich an jeden
+Mutwillen, der vorbei ist, erinnert an jede Unruhe, die gestillt ist; und
+es wird dem Koenige vor den Augen so voll Meuterei, Aufruhr und
+Tollkuehnheit, dass er sich vorstellt, sie fraessen sich hier einander auf,
+wenn eine fluechtig voruebergehende Ungezogenheit eines rohen Volks bei
+uns lange vergessen ist.  Da fasst er einen recht herzlichen Hass auf die
+armen Leute; sie kommen ihm abscheulich, ja wie Tiere und Ungeheuer vor;
+er sieht sich nach Feuer und Schwert um, und waehnt, so baendige man
+Menschen.
+
+Machiavell.  Ihr scheint mir zu heftig, Ihr nehmt die Sache zu hoch.
+Bleibt Ihr nicht Regentin?
+
+Regentin.  Das kenn' ich.  Er wird eine Instruktion bringen.--Ich bin in
+Staatsgeschaeften alt genug geworden, um zu wissen, wie man einen
+verdraengt, ohne ihm seine Bestallung zu nehmen.--Erst wird er eine
+Instruktion bringen, die wird unbestimmt und schief sein; er wird um sich
+greifen, denn er hat die Gewalt; und wenn ich mich beklage, wird er eine
+geheime Instruktion vorschuetzen; wenn ich sie sehen will, wird er mich
+herumziehen; wenn ich darauf bestehe, wird er mir ein Papier zeigen, das
+ganz was anders enthaelt; und wenn ich mich da nicht beruhige, gar nicht
+mehr thun, als wenn ich redete.--Indes wird er, was ich fuerchte, gethan,
+und was ich wuensche, weit abwaerts gelenkt haben.
+
+Machiavell.  Ich wollt', ich koennt' Euch widersprechen.
+
+Regentin.  Was ich mit unsaeglicher Geduld beruhigte, wird er durch Haerte
+und Grausamkeiten wieder aufhetzen; ich werde vor meinen Augen mein Werk
+verloren sehen, und ueberdies noch seine Schuld zu tragen haben.
+
+Machiavell.  Erwarten's Eure Hoheit.
+
+Regentin.  So viel Gewalt hab' ich ueber mich, um stille zu sein.  Lass
+ihn kommen; ich werde ihm mit der besten Art Platz machen, eh' er mich
+verdraengt.
+
+Machiavell.  So rasch diesen wichtigen Schritt?
+
+Regentin.  Schwerer, als du denkst.  Wer zu herrschen gewohnt ist, wer's
+hergebracht hat, dass jeden Tag das Schicksal von Tausenden in seiner Hand
+liegt, steigt vom Throne wie ins Grab.  Aber besser so, als einem
+Gespenste gleich unter den Lebenden bleiben und mit hohlem Ansehn einen
+Platz behaupten wollen, den ihm ein anderer abgeerbt hat und nun besitzt
+und geniesst.
+
+
+Klaerchens Wohnung.
+
+Klaerchen.  Mutter.
+
+Mutter.  So eine Liebe wie Brackenburgs hab' ich nie gesehen; ich glaubte,
+sie sei nur in Heldengeschichten.
+
+Klaerchen (geht in der Stube auf und ab, ein Lied zwischen den Lippen
+summend).
+
+Gluecklich allein Ist die Seele, die liebt.
+
+Mutter.  Er vermutet deinen Umgang mit Egmont; und ich glaube, wenn du ihm
+ein wenig freundlich thaetest, wenn du wolltest, er heiratete dich noch.
+
+Klaerchen (singt).
+Freudvoll
+Und leidvoll,
+Gedankenvoll sein;
+Langen
+Und bangen
+In schwebender Pein;
+Himmelhoch jauchzend,
+Zum Tode betruebt;
+Gluecklich allein
+Ist die Seele, die liebt.
+
+
+Mutter.  Lass das Heiopopeio.
+
+Klaerchen.  Scheltet mir's nicht; es ist ein kraeftig Lied.  Hab' ich doch
+schon manchmal ein grosses Kind damit schlafen gewiegt.
+
+Mutter.  Du hast doch nichts im Kopfe als deine Liebe.  Vergaessest du nur
+nicht alles ueber das eine.  Den Brackenburg solltest du in Ehren halten,
+sag' ich dir.  Er kann dich noch einmal gluecklich machen.
+
+Klaerchen.  Er?
+
+Mutter.  O ja!  es kommt eine Zeit!--Ihr Kinder seht nichts voraus und
+ueberhorcht unsre Erfahrungen.  Die Jugend und die schoene Liebe, alles
+hat sein Ende; und es kommt eine Zeit, wo man Gott dankt, wenn man
+irgendwo unterkriechen kann.
+
+Klaerchen (schaudert, schweigt und faehrt auf).  Mutter, lasst die Zeit
+kommen wie den Tod.  Dran vorzudenken ist schreckhaft!--Und wenn er kommt!
+Wenn wir muessen--dann--wollen wir uns gebaerden, wie wir koennen.--Egmont,
+ich dich entbehren!--(In Thaenen.) Nein, es ist nicht moeglich, nicht
+moeglich.
+
+(Egmont in einem Reitermantel, den Hut ins Gesicht gedrueckt.)
+
+Egmont.  Klaerchen!
+
+Klaerchen (thut einen Schrei, faehrt zurueck).  Egmont!  (Sie eilt auf ihn
+zu.) Egmont!  (Sie umarmt ihn, und ruht an ihm.) O du Guter, Lieber,
+Suesser!  Kommst du?  bist du da?
+
+Egmont.  Guten Abend, Mutter!
+
+Mutter.  Gott gruess' Euch, edler Herr!  Meine Kleine ist fast vergangen,
+dass Ihr so lang ausbleibt; sie hat wieder den ganzen Tag von Euch geredet
+und gesungen.
+
+Egmont.  Ihr gebt mir doch ein Nachtessen?
+
+Mutter.  Zu viel Gnade.  Wenn wir nur etwas haetten.
+
+Klaerchen.  Freilich!  Seid nur ruhig, Mutter; ich habe schon alles darauf
+eingerichtet, ich habe etwas zubereitet.  Verratet mich nicht, Mutter!
+
+Mutter.  Schmal genug.
+
+Klaerchen.  Wartet nur!  Und dann denk' ich: wenn er bei mir ist, hab' ich
+gar keinen Hunger; da sollte er auch keinen grossen Appetit haben, wenn
+ich bei ihm bin.
+
+Egmont.  Meinst du?
+
+Klaerchen (stampft mit dem Fusse, und kehrt sich unwillig um).
+
+Egmont.  Wie ist dir?
+
+Klaerchen.  Wie seid Ihr heute so kalt!  Ihr habt mir noch keinen Kuss
+angeboten.  Warum habt Ihr die Arme in den Mantel gewickelt, wie ein
+Wochenkind?  Ziemt keinem Soldaten noch Liebhaber, die Arme eingewickelt
+zu haben.
+
+Egmont.  Zu Zeiten, Liebchen, zu Zeiten.  Wenn der Soldat auf der Lauer
+steht und dem Feinde etwas ablisten moechte, da nimmt er sich zusammen,
+fasst sich selbst in seine Arme und kaut seinen Anschlag reif.  Und ein
+Liebhaber-Mutter.  Wollt Ihr Euch nicht setzen?  es Euch nicht bequem
+machen?  Ich muss in die Kueche; Klaerchen denkt an nichts, wenn Ihr da
+seid.  Ihr muesst fuerlieb nehmen.
+
+Egmont.  Euer guter Wille ist die beste Wuerze.  (Mutter ab.)
+
+Klaerchen.  Und was waere denn meine Liebe?
+
+Egmont.  So viel du willst.
+
+Klaerchen.  Vergleicht sie, wenn Ihr das Herz habt.
+
+Egmont.  Zuvoerderst also.  (Er wirft den Mantel ab und steht in einem
+praechtigen Kleide da.)
+
+Klaerchen.  O je!
+
+Egmont.  Nun hab' ich die Arme frei.  (Er herzt sie.)
+
+Klaerchen.  Lasst!  Ihr verderbt Euch.  (Sie tritt zurueck.) Wie praechtig!
+da darf ich Euch nicht anruehren.
+
+Egmont.  Bist du zufrieden?  Ich versprach dir, einmal spanisch zu kommen.
+
+Klaerchen.  Ich bat Euch zeither nicht mehr drum; ich dachte, Ihr wolltet
+nicht.--Ach und das goldne Vliess!
+
+Egmont.  Da siehst du's nun.
+
+Klaerchen.  Das hat dir der Kaiser umgehaengt?
+
+Egmont.  Ja, Kind!  und Kette und Zeichen geben dem, der sie traegt, die
+edelsten Freiheiten.  Ich erkenne auf Erden keinen Richter ueber meine
+Handlungen, als den Grossmeister des Ordens mit dem versammelten Kapitel
+der Ritter.
+
+Klaerchen.  O, du duerftest die ganze Welt ueber dich richten lassen.--Der
+Sammet ist gar zu herrlich, und die Passementarbeit!  und das Gestickte!
+--Man weiss nicht, wo man anfangen soll.
+
+Egmont.  Sieh dich nur satt.
+
+Klaerchen.  Und das goldne Vliess!  Ihr erzaehltet mir die Geschichte und
+sagtet: es sei ein Zeichen alles Grossen und Kostbaren, was man mit Mueh'
+und Fleiss verdient und erwirbt.  Es ist sehr kostbar--ich kann's deiner
+Liebe vergleichen.--Ich trage sie ebenso am Herzen--und hernach-Egmont.
+Was willst du sagen?
+
+Klaerchen.  Hernach vergleicht sich's auch wieder nicht.
+
+Egmont.  Wieso?
+
+Klaerchen.  Ich habe sie nicht mit Mueh' und Fleiss erworben, nicht
+verdient.
+
+Egmont.  In der Liebe ist es anders.  Du verdienst sie, weil du dich nicht
+darum bewirbst--und die Leute erhalten sie auch meist allein, die nicht
+darnach jagen.
+
+Klaerchen.  Hast du das von dir abgenommen?  Hast du diese stolze
+Anmerkung ueber dich selbst gemacht?  du, den alles Volk liebt?
+
+Egmont.  Haett' ich nur etwas fuer sie gethan!  koennt' ich etwas fuer sie
+thun!  Es ist ihr guter Wille, mich zu lieben.
+
+Klaerchen.  Du warst gewiss heute bei der Regentin?
+
+Egmont.  Ich war bei ihr.
+
+Klaerchen.  Bist du gut mit ihr?
+
+Egmont.  Es sieht einmal so aus.  Wir sind einander freundlich und
+dienstlich.
+
+Klaerchen.  Und im Herzen?
+
+Egmont.  Will ich ihr wohl.  Jedes hat seine eignen Absichten.  Das thut
+nichts zur Sache.  Sie ist eine treffliche Frau, kennt ihre Leute, und
+saehe tief genug, wenn sie auch nicht argwoehnisch waere.  Ich mache ihr
+viel zu schaffen, weil sie hinter meinem Betragen immer Geheimnisse sucht,
+und ich keine habe.
+
+Klaerchen.  So gar keine?
+
+Egmont.  Eh nun!  einen kleinen Hinterhalt.  Jeder Wein setzt Weinstein in
+den Faessern an mit der Zeit.  Oranien ist doch noch eine bessere
+Unterhaltung fuer sie und eine immer neue Aufgabe.  Er hat sich in den
+Kredit gesetzt, dass er immer etwas Geheimes vorhabe; und nun sieht sie
+immer nach seiner Stirne, was er wohl denken, auf seine Schritte, wohin er
+sie wohl richten moechte.
+
+Klaerchen.  Verstellt sie sich?
+
+Egmont.  Regentin, und du fragst?
+
+Klaerchen.  Verzeiht, ich wollte fragen: ist sie falsch?
+
+Egmont.  Nicht mehr und nicht weniger als jeder, der seine Absichten
+erreichen will.
+
+Klaerchen.  Ich koennte mich in die Welt nicht finden.  Sie hat aber auch
+einen maennlichen Geist, sie ist ein ander Weib als wir Naehterinnen und
+Koechinnen.  Sie ist gross, herzhaft, entschlossen.
+
+Egmont.  Ja, wenn's nicht gar zu bunt geht.  Diesmal ist sie doch ein
+wenig aus der Fassung.
+
+Klaerchen.  Wieso?
+
+Egmont.  Sie hat auch ein Baertchen auf der Oberlippe, und manchmal einen
+Anfall von Podagra.  Eine rechte Amazone!
+
+Klaerchen.  Eine majestaetische Frau!  Ich scheute mich, vor sie zu treten.
+
+
+Egmont.  Du bist doch sonst nicht zaghaft--Es waere auch nicht Furcht, nur
+jungfraeuliche Scham.
+
+Klaerchen (schlaegt die Augen nieder, nimmt seine Hand und lehnt sich an
+ihn).
+
+Egmont.  Ich verstehe dich!  liebes Maedchen!  du darfst die Augen
+aufschlagen.  (Er kuesst ihre Augen.)
+
+Klaerchen.  Lass mich schweigen!  Lass mich dich halten!  Lass mich dir in
+die Augen sehen, alles drin finden, Trost und Hoffnung und Freude und
+Kummer.  (Sie umarmt ihn und sieht ihn an.) Sag' mir!  Sage!  ich begreife
+nicht!  bist du Egmont?  der Graf Egmont?  der grosse Egmont, der so viel
+Aufsehn macht, von dem in den Zeitungen steht, an dem die Provinzen
+haengen?
+
+Egmont.  Nein, Klaerchen, das bin ich nicht.
+
+Klaerchen.  Wie?
+
+Egmont.  Siehst du, Klaerchen!--Lass mich sitzen!--(Er setzt sich, sie
+kniet sich vor ihn auf einen Schemel, legt ihre Arme auf seinen Schoss und
+sieht ihn an.) Jener Egmont ist ein verdriesslicher, steifer, kalter
+Egmont, der an sich halten, bald dieses, bald jenes Gesicht machen muss;
+geplagt, verkannt, verwickelt ist, wenn ihn die Leute fuer froh und
+froehlich halten; geliebt von einem Volke, das nicht weiss, was es will;
+geehrt und in die Hoehe getragen von einer Menge, mit der nichts
+anzufangen ist; umgeben von Freunden, denen er sich nicht ueberlassen darf;
+beobachtet von Menschen, die ihm auf alle Weise beikommen moechten;
+arbeitend und sich bemuehend, oft ohne Zweck, meist ohne Lohn.--O lass
+mich schweigen, wie es dem ergeht, wie es dem zu Mute ist.  Aber dieser,
+Klaerchen, der ist ruhig, offen, gluecklich, geliebt und gekannt von dem
+besten Herzen, das auch er ganz kennt und mit voller Liebe und Zutrauen an
+das seine drueckt.  (Er umarmt sie.) Das ist dein Egmont!
+
+Klaerchen.  So lass mich sterben!  Die Welt hat keine Freuden auf diese!
+
+
+
+Vierter Aufzug.
+
+
+Strasse.
+
+Jetter.  Zimmermeister.
+
+Jetter.  He!  Pst!  He, Nachbar, ein Wort!
+
+Zimmermeister.  Geh deines Pfads, und sei ruhig.
+
+Jetter.  Nur ein Wort.  Nichts Neues?
+
+Zimmermeister.  Nichts, als dass uns vom neuem zu reden verboten ist.
+
+Jetter.  Wie?
+
+Zimmermeister.  Tretet hier ans Haus an!  Huetet Euch!  Der Herzog von
+Alba hat gleich bei seiner Ankunft einen Befehl ausgehen lassen, dadurch
+zwei oder drei, die auf der Strasse zusammen sprechen, des Hochverrats
+ohne Untersuchung schuldig erklaert sind.
+
+Jetter.  O weh!
+
+Zimmermeister.  Bei ewiger Gefangenschaft ist verboten, von Staatssachen
+zu reden.
+
+Jetter.  O unsre Freiheit!
+
+Zimmermeister.  Und bei Todesstrafe soll niemand die Handlungen der
+Regierung missbilligen.
+
+Jetter.  O unsre Koepfe!
+
+Zimmermeister.  Und mit grossem Versprechen werden Vaeter, Muetter, Kinder,
+Verwandte, Freunde, Dienstboten eingeladen, was in dem Innersten des
+Hauses vorgeht, bei dem besonders niedergesetzten Gerichte zu offenbaren.
+
+Jetter.  Gehn wir nach Hause.
+
+Zimmermeister.  Und den Folgsamen ist versprochen, dass sie weder an Leibe,
+noch Ehre, noch Vermoegen einige Kraenkung erdulden sollen.
+
+Jetter.  Wie gnaedig!  War mir's doch gleich weh, wie der Herzog in die
+Stadt kam.  Seit der Zeit ist mir's, als waere der Himmel mit einem
+schwarzen Flor ueberzogen und hinge so tief herunter, dass man sich
+buecken muesse, um nicht dran zu stossen.
+
+Zimmermeister.  Und wie haben dir seine Soldaten gefallen?  Gelt!  das ist
+eine andre Art von Krebsen, als wir sie sonst gewohnt waren.
+
+Jetter.  Pfui!  Es schnuert einem das Herz ein, wenn man so einen Haufen
+die Gassen hinab marschieren sieht.  Kerzengerad, mit unverwandtem Blick,
+ein Tritt, so viel ihrer sind.  Und wenn sie auf der Schildwache stehen
+und du gehst an einem vorbei, ist's, als wenn er dich durch und durch
+sehen wollte, und sieht so steif und muerrisch aus, dass du auf allen
+Ecken einen Zuchtmeister zu sehen glaubst.  Sie thun mir gar nicht wohl.
+Unsre Miliz war doch noch ein lustig Volk; sie nahmen sich was heraus,
+standen mit ausgegraetschten Beinen da, hatten den Hut ueberm Ohr, lebten
+und liessen leben; diese Kerle aber sind wie Maschinen, in denen ein
+Teufel sitzt.
+
+Zimmermeister.  Wenn so einer ruft: "Halt!"  und anschlaegt, meinst du,
+man hielte?
+
+Jetter.  Ich waere gleich des Todes.
+
+Zimmermeister.  Gehn wir nach Hause.
+
+Jetter.  Es wird nicht gut.  Adieu.
+
+(Soest tritt dazu.)
+
+Soest.  Freunde!  Genossen!
+
+Zimmermeister.  Still!  Lasst uns gehen!
+
+Soest.  Wisst ihr?
+
+Jetter.  Nur zu viel!
+
+Soest.  Die Regentin ist weg.
+
+Jetter.  Nun gnad' uns Gott!
+
+Zimmermeister.  Die hielt uns noch.
+
+Soest.  Auf einmal und in der Stille.  Sie konnte sich mit dem Herzog
+nicht vertragen; sie liess dem Adel melden, sie komme wieder.  Niemand
+glaubt's.
+
+Zimmermeister.  Gott verzeih's dem Adel, dass er uns diese neue Geissel
+ueber den Hals gelassen hat.  Sie haetten es abwenden koennen.  Unsre
+Privilegien sind hin.
+
+Jetter.  Um Gottes willen nichts von Privilegien!  Ich wittre den Geruch
+von einem Exekutionsmorgen; die Sonne will nicht hervor, die Nebel stinken.
+
+
+Soest.  Oranien ist auch weg.
+
+Zimmermeister.  So sind wir denn ganz verlassen!
+
+Soest.  Graf Egmont ist noch da.
+
+Jetter.  Gott sei Dank!  Staerken ihn alle Heiligen, dass er sein Bestes
+thut; der ist allein was vermoegend.
+
+(Vansen tritt auf.)
+
+Vansen.  Find' ich endlich ein paar, die noch nicht untergekrochen sind?
+
+Jetter.  Thut uns den Gefallen und geht fuerbass.
+
+Vansen.  Ihr seid nicht hoeflich.
+
+Zimmermeister.  Es ist gar keine Zeit zu Komplimenten.  Juckt Euch der
+Buckel wieder?  Seid Ihr schon durchgeheilt?
+
+Vansen.  Fragt einen Soldaten nach seinen Wunden!  Wenn ich auf Schlaege
+was gegeben haette, waere sein Tage nichts aus mir geworden.
+
+Jetter.  Es kann ernstlicher werden.
+
+Vansen.  Ihr spuert von dem Gewitter, das aufsteigt, eine erbaermliche
+Mattigkeit in den Gliedern, scheint's.
+
+Zimmermeister.  Deine Glieder werden sich bald wo anders eine Motion
+machen, wenn du nicht ruhst.
+
+Vansen.  Armselige Maeuse, die gleich verzweifeln, wenn der Hausherr eine
+neue Katze anschafft!  Nur ein bisschen anders; aber wir treiben unser
+Wesen vor wie nach, seid nur ruhig.
+
+Zimmermeister.  Du bist ein verwegener Taugenichts.
+
+Vansen.  Gevatter Tropf!  Lass du den Herzog nur gewaehren.  Der alte
+Kater sieht aus, als wenn er Teufel statt Maeuse gefressen haette und
+koennte sie nun nicht verdauen.  Lasst ihn nur erst; er muss auch essen,
+trinken, schlafen wie andere Menschen.  Es ist mir nicht bange, wenn wir
+unsere Zeit recht nehmen.  Im Anfange geht's rasch; nachher wird er auch
+finden, dass in der Speisekammer unter den Speckseiten besser leben ist
+und des Nachts zu ruhen, als auf dem Fruchtboden einzelne Maeuschen zu
+erlisten.  Geht nur, ich kenne die Statthalter.
+
+Zimmermeister.  Was so einem Menschen alles durchgeht!  Wenn ich in meinem
+Leben so etwas gesagt haette, hielt' ich mich keine Minute fuer sicher.
+
+Vansen.  Seid nur ruhig.  Gott im Himmel erfaehrt nichts von euch Wuermern,
+geschweige der Regent.
+
+Jetter.  Laestermaul!
+
+Vansen.  Ich weiss andere, denen es besser waere, sie haetten statt ihres
+Heldenmuts eine Schneiderader im Leibe.
+
+Zimmermeister.  Was wollt Ihr damit sagen?
+
+Vansen.  Hm!  den Grafen mein' ich.
+
+Jetter.  Egmont!  Was soll der fuerchten?
+
+Vansen.  Ich bin ein armer Teufel und koennte ein ganzes Jahr leben von
+dem, was er in einem Abende verliert.  Und doch koennt' er mir sein
+Einkommen eines ganzen Jahres geben, wenn er meinen Kopf auf eine
+Viertelstunde haette.
+
+Jetter.  Du denkst dich was Rechts.  Egmonts Haare sind gescheiter als
+dein Hirn.
+
+Vansen.  Red't Ihr!  Aber nicht feiner.  Die Herren betruegen sich am
+ersten.  Er sollte nicht trauen.
+
+Jetter.  Was er schwaetzt!  So ein Herr!
+
+Vansen.  Eben weil er kein Schneider ist!
+
+Jetter.  Ungewaschen Maul!
+
+Vansen.  Dem wollt' ich Eure Courage nur eine Stunde in die Glieder
+wuenschen, dass sie ihm da Unruh' machte und ihn so lange neckte und
+juckte, bis er aus der Stadt muesste.
+
+Jetter.  Ihr redet recht unverstaendig; er ist so sicher wie der Stern am
+Himmel.
+
+Vansen.  Hast du nie einen sich schneuzen gesehn?  Weg war er!
+
+Zimmermeister.  Wer will ihm denn was thun?
+
+Vansen.  Wer will?  Willst du's etwa hindern?  Willst du einen Aufruhr
+erregen, wenn sie ihn gefangen nehmen?
+
+Jetter.  Ah!
+
+Vansen.  Wollt ihr Eure Rippen fuer ihn wagen?
+
+Soest.  Eh!
+
+Vansen (sie nachaeffend).  Ih!  Oh!  Uh!  Verwundert euch durchs ganze
+Alphabet.  So ist's und bleibt's!  Gott bewahre ihn!
+
+Jetter.  Ich erschrecke ueber Eure Unverschaemtheit.  So ein edler,
+rechtschaffener Mann sollte was zu befuerchten haben?
+
+Vansen.  Der Schelm sitzt ueberall im Vorteil.  Auf dem
+Armensuenderstuehlchen hat er den Richter zum Narren; auf dem Richterstuhl
+macht er den Inquisiten mit Lust zum Verbrecher.  Ich habe so ein
+Protokoll abzuschreiben gehabt, wo der Kommissarius schwer Lob und Geld
+von Hofe erhielt, weil er einen ehrlichen Teufel, an den man wollte, zum
+Schelmen verhoert hatte.
+
+Zimmermeister.  Das ist wieder frisch gelogen.  Was wollen sie denn heraus
+verhoeren, wenn einer unschuldig ist?
+
+Vansen.  O Spatzenkopf!  Wo nichts heraus zu verhoeren ist, da verhoert
+man hinein.  Ehrlichkeit macht unbesonnen, auch wohl trotzig.  Da fragt
+man erst recht sachte weg, und der Gefangene ist stolz auf seine Unschuld,
+wie sie's heissen, und sagt alles geradezu, was ein Verstaendiger
+verbaerge.  Dann macht der Inquisitor aus den Antworten wieder Fragen,
+und passt ja auf, wo irgend ein Widerspruechelchen erscheinen will; da
+knuepft er seinen Strick an, und laesst sich der dumme Teufel betreten,
+dass er hier etwas zu viel, dort etwas zu wenig gesagt, oder wohl gar aus
+Gott weiss was fuer einer Grille einen Umstand verschwiegen hat, auch wohl
+irgend an einem Ende sich hat schrecken lassen: dann sind wir auf dem
+rechten Weg!  Und ich versichre euch, mit mehr Sorgfalt suchen die
+Bettelweiber nicht die Lumpen aus dem Kehricht, als so ein
+Schelmenfabrikant aus kleinen, schiefen, verschobenen, verrueckten,
+verdrueckten, geschlossenen, bekannten, geleugneten Anzeichen und
+Umstaenden sich endlich einen strohlumpenen Vogelscheu zusammenkuenstelt,
+um wenigstens seinen Inquisiten in effigie haengen zu koennen.  Und Gott
+mag der arme Teufel danken, wenn er sich noch kann haengen sehen.
+
+Jetter.  Der hat eine gelaeufige Zunge.
+
+Zimmermeister.  Mit Fliegen mag das angehen.  Die Wespen lachen Eures
+Gespinstes.
+
+Vansen.  Nachdem die Spinnen sind.  Seht, der lange Herzog hat euch so ein
+rein Ansehn von einer Kreuzspinne; nicht einer dickbaeuchigen, die sind
+weniger schlimm, aber so einer langfuessigen, schmalleibigen, die vom
+Frasse nicht feist wird und recht duenne Faeden zieht, aber desto zaehere.
+
+Jetter.  Egmont ist Ritter des Goldnen Vliesses; wer darf Hand an ihn
+legen?  Nur von seinesgleichen kann er gerichtet werden, nur vom gesamten
+Orden.  Dein loses Maul, dein boeses Gewissen verfuehren dich zu solchem
+Geschwaetz.
+
+Vansen.  Will ich ihm darum uebel?  Mir kann's recht sein.  Es ist ein
+trefflicher Herr.  Ein paar meiner guten Freunde, die anderwaerts schon
+waeren gehangen worden, hat er mit einem Buckel voll Schlaege
+verabschiedet.  Nun geht!  Geht!  Ich rat' es euch selbst.  Dort seh' ich
+wieder eine Runde antreten; die sehen nicht aus, als wenn sie so bald
+Bruederschaft mit uns trinken wuerden.  Wir wollen's abwarten, und nur
+sachte zusehen.  Ich hab' ein paar Nichten und einen Gevatter Schenkwirt;
+wenn sie von denen gekostet haben, und werden dann nicht zahm, so sind sie
+ausgepichte Woelfe.
+
+
+Der Culenburgische Palast.  Wohnung des Herzogs von Alba.
+
+Silva und Gomez begegnen einander.
+
+Silva.  Hast du die Befehle des Herzogs ausgerichtet?
+
+Gomez.  Puenktlich.  Alle taegliche Runden sind beordert, zur bestimmten
+Zeit an verschiedenen Plaetzen einzutreffen, die ich ihnen bezeichnet habe;
+sie gehen indes, wie gewoehnlich, durch die Stadt, um Ordnung zu erhalten.
+Keiner weiss von dem andern; jeder glaubt, der Befehl gehe ihn allein
+an, und in einem Augenblick kann alsdann der Cordon gezogen und alle
+Zugaenge zum Palast koennen besetzt sein.  Weisst du die Ursache dieses
+Befehls?
+
+Silva.  Ich bin gewohnt, blindlings zu gehorchen.  Und wem gehorcht sich's
+leichter als dem Herzoge, da bald der Ausgang beweist, dass er recht
+befohlen hat?
+
+Gomez.  Gut!  Gut!  Auch scheint es mir kein Wunder, dass du so
+verschlossen und einsilbig wirst wie er, da du immer um ihn sein musst.
+Mir kommt es fremd vor, da ich den leichteren italienischen Dienst gewohnt
+bin.  An Treue und Gehorsam bin ich der Alte; aber ich habe mir das
+Schwaetzen und Raesonnieren angewoehnt.  Ihr schweigt alle und lasst es
+euch nie wohl sein.  Der Herzog gleicht mir einem ehrnen Turm ohne Pforte,
+wozu die Besatzung Fluegel haette.  Neulich hoert' ich ihn bei Tafel von
+einem frohen freundlichen Menschen sagen: er sei wie eine schlechte
+Schenke mit einem ausgesteckten Branntweinzeichen, um Muessiggaenger,
+Bettler und Diebe herein zu locken.
+
+Silva.  Und hat er uns nicht schweigend hierher gefuehrt?
+
+Gomez.  Dagegen ist nichts zu sagen.  Gewiss!  Wer Zeuge seiner Klugheit
+war, wie er die Armee aus Italien hierher brachte, der hat etwas gesehen.
+Wie er sich durch Freund und Feind, durch die Franzosen, Koeniglichen und
+Ketzer, durch die Schweizer und Verbundnen gleichsam durchschmiegte, die
+strengste Mannszucht hielt, und einen Zug, den man so gefaehrlich achtete,
+leicht und ohne Anstoss zu leiten wusste!--Wir haben was gesehen, was
+lernen koennen.
+
+Silva.  Auch hier!  Ist nicht alles still und ruhig, als wenn kein
+Aufstand gewesen waere?
+
+Gomez.  Nun, es war auch schon meist still, als wir herkamen.
+
+Silva.  In den Provinzen ist es viel ruhiger geworden; und wenn sich noch
+einer bewegt, so ist es, um zu entfliehen.  Aber auch diesem wird er die
+Wege bald versperren, denk' ich.
+
+Gomez.  Nun wird er erst die Gunst des Koenigs gewinnen.
+
+Silva.  Und uns bleibt nichts angelegener, als uns die seinige zu erhalten.
+Wenn der Koenig hierher kommt, bleibt gewiss der Herzog und jeder, den
+er empfiehlt, nicht unbelohnt.
+
+Gomez.  Glaubst du, dass der Koenig kommt?
+
+Silva.  Es werden so viele Anstalten gemacht, dass es hoechst
+wahrscheinlich ist.
+
+Gomez.  Mich ueberreden sie nicht.
+
+Silva.  So rede wenigstens nicht davon.  Denn wenn des Koenigs Absicht ja
+nicht sein sollte, zu kommen, so ist sie's doch wenigstens gewiss, dass
+man es glauben soll.
+
+(Ferdinand, Albas natuerlicher Sohn.)
+
+Ferdinand.  Ist mein Vater noch nicht heraus?
+
+Silva.  Wir warten auf ihn.
+
+Ferdinand.  Die Fuersten werden bald hier sein.
+
+Gomez.  Kommen sie heute?
+
+Ferdinand.  Oranien und Egmont.
+
+Gomez (leise zu Silva).  Ich begreife etwas.
+
+Silva.  So behalt' es fuer dich.
+
+(Herzog von Alba.)
+
+(Wie er herein- und hervortritt, treten die andern zurueck.)
+
+Alba.  Gomez!
+
+Gomez (tritt vor).  Herr!
+
+Alba.  Du hast die Wachen verteilt und beordert?
+
+Gomez.  Aufs genaueste.  Die taeglichen Runden-Alba.  Genug.  Du wartest
+in der Galerie.  Silva wird dir den Augenblick sagen, wenn du sie
+zusammenziehen, die Zugaenge nach dem Palaste besetzen sollst.  Das
+uebrige weisst du.
+
+Gomez.  Ja, Herr!  (Ab.)
+
+Alba.  Silva!
+
+Silva.  Hier bin ich.
+
+Alba.  Alles, was ich von jeher an dir geschaetzt habe, Mut,
+Entschlossenheit, unaufhaltsames Ausfuehren, das zeige heut'.
+
+Silva.  Ich danke Euch, dass Ihr mir Gelegenheit gebt, zu zeigen, dass ich
+der Alte bin.
+
+Alba.  Sobald die Fuersten bei mir eingetreten sind, dann eile gleich,
+Egmonts Geheimschreiber gefangen zu nehmen.  Du hast alle Anstalten
+gemacht, die uebrigen, welche bezeichnet sind, zu fahen?
+
+Silva.  Vertraue auf uns.  Ihr Schicksal wird sie, wie eine wohlberechnete
+Sonnenfinsternis, puenktlich und schrecklich treffen.
+
+Alba.  Hast du sie genau beobachten lassen?
+
+Silva.  Alle; den Egmont vor andern.  Er ist der einzige, der, seit du
+hier bist, sein Betragen nicht geaendert hat.  Den ganzen Tag von einem
+Pferd aufs andere, ladet Gaeste, ist immer lustig und unterhaltend bei
+Tafel, wuerfelt, schiesst und schleicht nachts zum Liebchen.  Die andern
+haben dagegen eine merkliche Pause in ihrer Lebensart gemacht; sie bleiben
+bei sich; vor ihrer Thuere sieht's aus, als wenn ein Kranker im Hause
+waere.
+
+Alba.  Drum rasch!  eh' sie uns wider Willen genesen.
+
+Silva.  Ich stelle sie.  Auf deinen Befehl ueberhaeufen wir sie mit
+dienstfertigen Ehren.  Ihnen graut's; politisch geben sie uns einen
+aengstlichen Dank, fuehlen, das Raetlichste sei, zu entfliehen.  Keiner
+wagt einen Schritt, sie zaudern, koennen sich nicht vereinigen; und
+einzeln etwas Kuehnes zu thun, haelt sie der Gemeingeist ab.  Sie moechten
+gern sich jedem Verdacht entziehen, und machen sich immer verdaechtiger.
+Schon seh' ich mit Freuden deinen ganzen Anschlag ausgefuehrt.
+
+Alba.  Ich freue mich nur ueber das Geschehene, und auch ueber das nicht
+leicht; denn es bleibt stets noch uebrig, was uns zu denken und zu sorgen
+gibt.  Das Glueck ist eigensinnig, oft das Gemeine, das Nichtswuerdige zu
+adeln und wohlueberlegte Taten mit einem gemeinen Ausgang zu entehren.
+Verweile, bis die Fuersten kommen; dann gieb Gomez die Ordre, die Strassen
+zu besetzen, und eile selbst, Egmonts Schreiber und die uebrigen gefangen
+zu nehmen, die dir bezeichnet sind.  Ist es gethan, so komm hierher und
+meld' es meinem Sohne, dass er mir in den Rat die Nachricht bringe.
+
+Silva.  Ich hoffe diesen Abend vor dir stehn zu duerfen.
+
+Alba (geht nach seinem Sohne, der bisher in der Galerie gestanden).
+
+Silva.  Ich traue mir es nicht zu sagen; aber meine Hoffnung schwankt.
+Ich fuerchte, es wird nicht werden, wie er denkt.  Ich sehe Geister vor
+mir, die still und sinnend auf schwarzen Schalen das Geschick der Fuersten
+und vieler Tausende waegen.  Langsam wankt das Zuenglein auf und ab; tief
+scheinen die Richter zu sinnen; zuletzt sinkt diese Schale, steigt jene,
+angehaucht vom Eigensinn des Schicksals, und entschieden ist's.  (Ab.)
+
+Alba (mit Ferdinand hervortretend).  Wie fandst du die Stadt?
+
+Ferdinand.  Es hat sich alles gegeben.  Ich ritt, als wie zum Zeitvertreib,
+Strass' auf, Strass' ab.  Eure wohlverteilten Wachen halten die Furcht so
+angespannt, dass sie sich nicht zu lispeln untersteht.  Die Stadt sieht
+einem Felde aehnlich, wenn das Gewitter von weitem leuchtet: man erblickt
+keinen Vogel, kein Tier, als das eilend nach einem Schutzorte schluepft.
+
+Alba.  Ist dir nichts weiter begegnet?
+
+Ferdinand.  Egmont kam mit einigen auf den Markt geritten; wir gruessten
+uns; er hatte ein rohes Pferd, das ich ihm loben musste.  "Lasst uns eilen,
+Pferde zuzureiten; wir werden sie bald brauchen!"  rief er mir entgegen.
+Er werde mich noch heute wiedersehn, sagte er, und komme auf Euer
+Verlangen, mit Euch zu ratschlagen.
+
+Alba.  Er wird dich wiedersehn.
+
+Ferdinand.  Unter allen Rittern, die ich hier kenne, gefaellt er mir am
+besten.  Es scheint, wir werden Freunde sein.
+
+Alba.  Du bist noch immer zu schnell und wenig behutsam; immer erkenn' ich
+in dir den Leichtsinn deiner Mutter, der mir sie unbedingt in die Arme
+lieferte.  Zu mancher gefaehrlichen Verbindung lud dich der Anschein
+voreilig ein.
+
+Ferdinand.  Euer Wille findet mich bildsam.
+
+Alba.  Ich vergebe deinem jungen Blute dies leichtsinnige Wohlwollen,
+diese unachtsame Froehlichkeit.  Nur vergiss nicht, zu welchem Werke ich
+gesandt bin, und welchen Teil ich dir dran geben moechte.
+
+Ferdinand.  Erinnert mich, und schont mich nicht, wo Ihr es noetig haltet.
+
+Alba (nach einer Pause).  Mein Sohn!
+
+Ferdinand.  Mein Vater!
+
+Alba.  Die Fuersten kommen bald, Oranien und Egmont kommen.  Es ist nicht
+Misstrauen, dass ich dir erst jetzt entdecke, was geschehen soll.  Sie
+werden nicht wieder von hinnen gehn.
+
+Ferdinand.  Was sinnst du?
+
+Alba.  Es ist beschlossen, sie festzuhalten.--Du erstaunst!  Was du zu
+thun hast, hoere; die Ursachen sollst du wissen, wenn es geschehn ist.
+Jetzt bleibt keine Zeit, sie auszulegen.  Mit dir allein wuenscht' ich das
+Groesste, das Geheimste zu besprechen; ein starkes Band haelt uns
+zusammengefesselt; du bist mir wert und lieb; auf dich moecht' ich alles
+haeufen.  Nicht die Gewohnheit zu gehorchen allein moecht' ich dir
+einpraegen; auch den Sinn, auszudenken, zu befehlen, auszufuehren
+wuenscht' ich in dir fortzupflanzen; dir ein grosses Erbteil, dem Koenige
+den brauchbarsten Diener zu hinterlassen; dich mit dem Besten, was ich
+habe, auszustatten, dass du dich nicht schaemen duerfest, unter deine
+Brueder zu treten.
+
+Ferdinand.  Was werd' ich dir nicht fuer diese Liebe schuldig, die du mir
+allein zuwendest, indem ein ganzes Reich vor dir zittert.
+
+Alba.  Nun hoere, was zu thun ist.  Sobald die Fuersten eingetreten sind,
+wird jeder Zugang zum Palaste besetzt.  Dazu hat Gomez die Ordre.  Silva
+wird eilen, Egmonts Schreiber mit den Verdaechtigsten gefangen zu nehmen.
+Du haeltst die Wache am Thore und in den Hoefen in Ordnung.  Vor allen
+Dingen besetze diese Zimmer hierneben mit den sichersten Leuten; dann
+warte auf der Galerie, bis Silva wiederkommt, und bringe mir irgend ein
+unbedeutend Blatt herein, zum Zeichen, dass sein Auftrag ausgerichtet ist.
+Dann bleib' im Vorsaale, bis Oranien weggeht; folg' ihm; ich halte
+Egmont hier, als ob ich ihm noch was zu sagen haette.  Am Ende der Galerie
+fordre Oraniens Degen, rufe die Wache an, verwahre schnell den
+gefaehrlichsten Mann; und ich fasse Egmont hier.
+
+Ferdinand.  Ich gehorche, mein Vater.  Zum erstenmal mit schwerem Herzen
+und mit Sorge.
+
+Alba.  Ich verzeihe dir's; es ist der erste grosse Tag, den du erlebst.
+
+(Silva tritt herein.)
+
+Silva.  Ein Bote von Antwerpen.  Hier ist Oraniens Brief!  Er kommt nicht.
+
+Alba.  Sagt' es der Bote?
+
+Silva.  Nein, mir sagt's das Herz.
+
+Alba.  Aus dir spricht mein boeser Genius.  (Nachdem er den Brief gelesen,
+winkt er beiden, und sie ziehen sich in die Galerie zurueck.  Er bleibt
+allein auf dem Vorderteile.) Er kommt nicht!  Bis auf den letzten
+Augenblick verschiebt er, sich zu erklaeren.  Er wagt es, nicht zu kommen!
+So war denn diesmal wider Vermuten der Kluge klug genug, nicht klug zu
+sein!--Es rueckt die Uhr!  Noch einen kleinen Weg des Seigers, und ein
+grosses Werk ist gethan oder versaeumt, unwiederbringlich versaeumt; denn
+es ist weder nachzuholen, noch zu verheimlichen.  Laengst hatt' ich alles
+reiflich abgewogen und mir auch diesen Fall gedacht, mir festgesetzt, was
+auch in diesem Falle zu thun sei; und jetzt, da es zu thun ist, wehr' ich
+mir kaum, dass nicht das Fuer und Wider mir aufs neue durch die Seele
+schwankt.--Ist's raetlich, die andern zu fangen, wenn er mir
+entgeht?--Schieb' ich es auf, und lass' Egmont mit den Seinigen, mit so
+vielen entschluepfen, die nun, vielleicht nur heute noch, in meinen
+Haenden sind?  So zwingt dich das Geschick denn auch, du Unbezwinglicher?
+Wie lang gedacht!  Wie wohl bereitet!  Wie gross, wie schoen der Plan!
+Wie nah die Hoffnung ihrem Ziele!  Und nun im Augenblick des Entscheidens
+bist du zwischen zwei uebel gestellt; wie in einen Lostopf greifst du in
+die dunkle Zukunft; was du fassest, ist noch zugerollt, dir unbewusst,
+sei's Treffer oder Fehler!  (Er wird aufmerksam, wie einer, der etwas
+hoert, und tritt ans Fenster.) Er ist es!  Egmont!--Trug dich dein Pferd
+so leicht herein, und scheute vor dem Blutgeruche nicht und vor dem Geiste
+mit dem blanken Schwert, der an der Pforte dich empfaengt?--Steig ab!--So
+bist du mit dem einen Fuss im Grab!  und so mit beiden!--Ja, streichl' es
+nur, und klopfe fuer seinen mutigen Dienst zum letztenmale den Nacken ihm.
+--Und mir bleibt keine Wahl.  In der Verblendung, wie hier Egmont naht,
+kann er dir nicht zum zweitenmal sich liefern!--Hoert!
+
+Ferdinand und Silva (treten eilig herbei).
+
+Alba.  Ihr thut, was ich befahl; ich aendre meinen Willen nicht.  Ich
+halte, wie es gehn will, Egmont auf, bis du mir von Silva die Nachricht
+gebracht hast.  Dann bleib' in der Naehe.  Auch dir raubt das Geschick das
+grosse Verdienst, des Koenigs groessten Feind mit eigener Hand gefangen zu
+haben.  (Zu Silva.) Eile!  (Zu Ferdinand.) Geh ihm entgegen!  (Alba bleibt
+einige Augenblicke allein und geht schweigend auf und ab.)
+
+(Egmont tritt auf.)
+
+Egmont.  Ich komme, die Befehle des Koenigs zu vernehmen, zu hoeren,
+welchen Dienst er von unserer Treue verlangt, die ihm ewig ergeben bleibt.
+
+Alba.  Er wuenscht vor allen Dingen Euern Rat zu hoeren.
+
+Egmont.  ueber welchen Gegenstand?  Kommt Oranien auch?  Ich vermutete ihn
+hier.
+
+Alba.  Mir thut es leid, dass er uns eben in dieser wichtigen Stunde fehlt.
+Euern Rat, Eure Meinung wuenscht der Koenig, wie diese Staaten wieder
+zu befriedigen.  Ja, er hofft, Ihr werdet kraeftig mitwirken, diese
+Unruhen zu stillen und die Ordnung der Provinzen voellig und dauerhaft zu
+gruenden.
+
+Egmont.  Ihr koennt besser wissen als ich, dass schon alles genug beruhigt
+ist, ja noch mehr beruhigt war, eh' die Erscheinung der neuen Soldaten
+wieder mit Furcht und Sorge die Gemueter bewegte.
+
+Alba.  Ihr scheint andeuten zu wollen, das Raetlichste sei gewesen, wenn
+der Koenig mich gar nicht in den Fall gesetzt haette, Euch zu fragen.
+
+Egmont.  Verzeiht!  Ob der Koenig das Heer haette schicken sollen, ob
+nicht vielmehr die Macht seiner majestaetischen Gegenwart allein staerker
+gewirkt haette, ist meine Sache nicht zu beurteilen.  Das Heer ist da, er
+nicht.  Wir aber muessten sehr undankbar, sehr vergessen sein, wenn wir
+uns nicht erinnerten, was wir der Regentin schuldig sind.  Bekennen wir!
+Sie brachte durch ihr so kluges als tapferes Betragen die Aufruehrer mit
+Gewalt und Ansehn, mit ueberredung und List zur Ruhe und fuehrte zum
+Erstaunen der Welt ein rebellisches Volk in wenigen Monaten zu seiner
+Pflicht zurueck.
+
+Alba.  Ich leugne es nicht.  Der Tumult ist gestillt, und jeder scheint in
+die Grenzen des Gehorsams zurueckgebannt.  Aber haengt es nicht von eines
+jeden Willkuer ab, sie zu verlassen?  Wer will das Volk hindern,
+loszubrechen?  Wo ist die Macht, sie abzuhalten?  Wer buergt uns, dass sie
+sich ferner treu und unterthaenig zeigen werden?  Ihr guter Wille ist
+alles Pfand, das wir haben.
+
+Egmont.  Und ist der gute Wille eines Volks nicht das sicherste, das
+edelste Pfand?  Bei Gott!  Wann darf sich ein Koenig sicherer halten, als
+wenn sie alle fuer einen, einer fuer alle stehn?  Sicherer gegen innere
+und aeussere Feinde?
+
+Alba.  Wir werden uns doch nicht ueberreden sollen, dass es jetzt hier so
+steht?
+
+Egmont.  Der Koenig schreibe einen General-Pardon aus, er beruhige die
+Gemueter; und bald wird man sehen, wie Treue und Liebe mit dem Zutrauen
+wieder zurueckkehrt.
+
+Alba.  Und jeder, der die Majestaet des Koenigs, der das Heiligtum der
+Religion geschaendet, ginge frei und ledig hin und wieder!  Lebte den
+andern zum bereiten Beispiel, dass ungeheure Verbrechen straflos sind?
+
+Egmont.  Und ist ein Verbrechen des Unsinns, der Trunkenheit nicht eher zu
+entschuldigen, als grausam zu bestrafen?  Besonders, wo so sichre Hoffnung,
+wo Gewissheit ist, dass die uebel nicht wiederkehren werden? Waren
+Koenige darum nicht sicherer?  Werden sie nicht von Welt und Nachwelt
+gepriesen, die eine Beleidigung ihrer Wuerde vergeben, bedauern, verachten
+konnten?  Werden sie nicht eben deswegen Gott gleich gehalten, der viel zu
+gross ist, als dass an ihn jede Laesterung reichen sollte?
+
+Alba.  Und eben darum soll der Koenig fuer die Wuerde Gottes und der
+Religion, wir sollen fuer das Ansehn des Koenigs streiten.  Was der Obere
+abzulehnen verschmaeht, ist unsere Pflicht zu raechen.  Ungestraft soll,
+wenn ich rate, kein Schuldiger sich freuen,
+
+Egmont.  Glaubst du, dass du sie alle erreichen wirst?  Hoert man nicht
+taeglich, dass die Furcht sie hie und dahin, sie aus dem Lande treibt?
+Die Reichsten werden ihre Gueter, sich, ihre Kinder und Freunde fluechten;
+der Arme wird seine nuetzlichen Haende dem Nachbar zubringen.
+
+Alba.  Sie werden, wenn man sie nicht verhindern kann.  Darum verlangt der
+Koenig Rat und That von jedem Fuersten, Ernst von jedem Statthalter; nicht
+nur Erzaehlung, wie es ist, was werden koennte, wenn man alles gehen
+liesse, wie's geht.  Einem grossen uebel zusehen, sich mit Hoffnung
+schmeicheln, der Zeit vertrauen, etwa einmal drein schlagen, wie im
+Fastnachtsspiel, dass es klatscht und man doch etwas zu thun scheint, wenn
+man nichts thun moechte: heisst das nicht, sich verdaechtig machen, als
+sehe man dem Aufruhr mit Vergnuegen zu, den man nicht erregen, wohl aber
+hegen moechte?
+
+Egmont (im Begriff aufzufahren, nimmt sich zusammen, und spricht nach
+einer kleinen Pause gesetzt).  Nicht jede Absicht ist offenbar, und
+manches Mannes Absicht ist zu missdeuten.  Muss man doch auch von allen
+Seiten hoeren: es sei des Koenigs Absicht weniger, die Provinzen nach
+einfoermigen und klaren Gesetzen zu regieren, die Majestaet der Religion
+zu sichern und einen allgemeinen Frieden seinem Volke zu geben, als
+vielmehr sie unbedingt zu unterjochen, sie ihrer alten Rechte zu berauben,
+sich Meister von ihren Besitztuemern zu machen, die schoenen Rechte des
+Adels einzuschraenken, um derentwillen der Edle allein ihm dienen, ihm
+Leib und Leben widmen mag.  Die Religion, sagt man, sei nur ein
+praechtiger Teppich, hinter dem man jeden gefaehrlichen Anschlag nur desto
+leichter ausdenkt.  Das Volk liegt auf den Knieen, betet die heiligen
+gewirkten Zeichen an, und hinten lauscht der Vogelsteller, der sie
+beruecken will.
+
+Alba.  Das muss ich von dir hoeren?
+
+Egmont.  Nicht meine Gesinnungen!  Nur was bald hier, bald da, von Grossen
+und von Kleinen, Klugen und Thoren gesprochen, laut verbreitet wird.  Die
+Niederlaender fuerchten ein doppeltes Joch, und wer buergt ihnen fuer ihre
+Freiheit?
+
+Alba.  Freiheit?  Ein schoenes Wort, wer's recht verstaende.  Was wollen
+sie fuer Freiheit?  Was ist des Freiesten Freiheit?--Recht zu thun!--und
+daran wird sie der Koenig nicht hindern.  Nein!  nein!  sie glauben sich
+nicht frei, wenn sie sich nicht selbst und andern schaden koennen.  Waere
+es nicht besser, abzudanken, als ein solches Volk zu regieren?  Wenn
+auswaertige Feinde draengen, an die kein Buerger denkt, der mit dem
+Naechsten nur beschaeftigt ist, und der Koenig verlangt Beistand, dann
+werden sie uneins unter sich, und verschwoeren sich gleichsam mit ihren
+Feinden.  Weit besser ist's, sie einzuengen, dass man sie wie Kinder
+halten, wie Kinder zu ihrem Besten leiten kann.  Glaube nur, ein Volk wird
+nicht alt, nicht klug; ein Volk bleibt immer kindisch.
+
+Egmont.  Wie selten kommt ein Koenig zu Verstand!  Und sollen sich viele
+nicht lieber vielen vertrauen als einem?  und nicht einmal dem einen,
+sondern den wenigen des einen, dem Volke, das an den Blicken seines Herrn
+altert.  Das hat wohl allein das Recht, klug zu werden.
+
+Alba.  Vielleicht eben darum, weil es sich nicht selbst ueberlassen ist.
+
+Egmont.  Und darum niemand gern sich selbst ueberlassen moechte.  Man thue,
+was man will; ich habe auf deine Frage geantwortet und wiederhole: Es
+geht nicht!  Es kann nicht gehen!  Ich kenne meine Landsleute.  Es sind
+Maenner, wert, Gottes Boden zu betreten; ein jeder rund fuer sich, ein
+kleiner Koenig, fest, ruehrig, faehig, treu, an alten Sitten hangend.
+Schwer ist's, ihr Zutrauen zu verdienen; leicht, zu erhalten.  Starr und
+fest!  Zu druecken sind sie; nicht zu unterdruecken.
+
+Alba (der sich indes einigemal umgesehen hat).  Solltest du das alles in
+des Koenigs Gegenwart wiederholen?
+
+Egmont.  Desto schlimmer, wenn mich seine Gegenwart abschreckte!  Desto
+besser fuer ihn, fuer sein Volk, wenn er mir Mut machte, wenn er mir
+Zutrauen einfloesste, noch weit mehr zu sagen.
+
+Alba.  Was nuetzlich ist, kann ich hoeren, wie er.
+
+Egmont.  Ich wuerde ihm sagen: Leicht kann der Hirt eine ganze Herde
+Schafe vor sich hintreiben, der Stier zieht seinen Pflug ohne Widerstand;
+aber dem edeln Pferde, das du reiten willst, musst du seine Gedanken
+ablernen, du musst nichts Unkluges, nichts unklug von ihm verlangen.
+Darum wuenscht der Buerger, seine alte Verfassung zu behalten, von seinen
+Landsleuten regiert zu sein, weil er weiss, wie er gefuehrt wird, weil er
+von ihnen Uneigennutz, Teilnehmung an seinem Schicksal hoffen kann.
+
+Alba.  Und sollte der Regent nicht Macht haben, dieses alte Herkommen zu
+veraendern?  Und sollte nicht eben dies sein schoenstes Vorrecht sein?
+Was ist bleibend auf dieser Welt?  Und sollte eine Staatseinrichtung
+bleiben koennen?  Muss nicht in einer Zeitfolge jedes Verhaeltnis sich
+veraendern, und eben darum eine alte Verfassung die Ursache von tausend
+uebeln werden, weil sie den gegenwaertigen Zustand des Volkes nicht
+umfasst?  Ich fuerchte, diese alten Rechte sind darum so angenehm, weil
+sie Schlupfwinkel bilden, in welchen der Kluge, der Maechtige, zum Schaden
+des Volks, zum Schaden des Ganzen, sich verbergen oder durchschleichen
+kann.
+
+Egmont.  Und diese willkuerlichen Veraenderungen, diese unbeschraenkten
+Eingriffe der hoechsten Gewalt, sind sie nicht Vorboten, dass einer thun
+will, was Tausende nicht thun sollen?  Er will sich allein frei machen, um
+jeden seiner Wuensche befriedigen, jeden seiner Gedanken ausfuehren zu
+koennen.  Und wenn wir uns ihm, einem guten, weisen Koenige, ganz
+vertrauten, sagt er uns fuer seine Nachkommen gut?  dass keiner ohne
+Ruecksicht, ohne Schonung regieren werde?  Wer rettet uns alsdann von
+voelliger Willkuer, wenn er uns seine Diener, seine Naechsten sendet, die
+ohne Kenntnis des Landes und seiner Beduerfnisse nach Belieben schalten
+und walten, keinen Widerstand finden, und sich von jeder Verantwortung
+frei wissen?
+
+Alba (der sich indes wieder umgesehen hat).  Es ist nichts natuerlicher,
+als dass ein Koenig durch sich zu herrschen gedenkt, und denen seine
+Befehle am liebsten auftraegt, die ihn am besten verstehen, verstehen
+wollen, die seinen Willen unbedingt ausrichten.
+
+Egmont.  Und eben so natuerlich ist's, dass der Buerger von dem regiert
+sein will, der mit ihm geboren und erzogen ist, der gleichen Begriff mit
+ihm von Recht und Unrecht gefasst hat, den er als seinen Bruder ansehen
+kann.
+
+Alba.  Und doch hat der Adel mit diesen seinen Bruedern sehr ungleich
+geteilt.
+
+Egmont.  Das ist vor Jahrhunderten geschehen, und wird jetzt ohne Neid
+geduldet.  Wuerden aber neue Menschen ohne Not gesendet, die sich zum
+zweitenmale auf Unkosten der Nation bereichern wollten, saehe man sich
+einer strengen, kuehnen, unbedingten Habsucht ausgesetzt, das wuerde eine
+Gaerung machen, die sich nicht leicht in sich selbst aufloeste.
+
+Alba.  Du sagst mir, was ich nicht hoeren sollte; auch ich bin fremd.
+
+Egmont.  Dass ich dir's sage, zeigt dir, dass ich dich nicht meine.
+
+Alba.  Und auch so wuenscht' ich es nicht von dir zu hoeren.  Der Koenig
+sandte mich mit Hoffnung, dass ich hier den Beistand des Adels finden
+wuerde.  Der Koenig will seinen Willen.  Der Koenig hat nach tiefer
+ueberlegung gesehen, was dem Volke frommt; es kann nicht bleiben und gehen
+wie bisher.  Des Koenigs Absicht ist, sie selbst zu ihrem eignen Besten
+einzuschraenken, ihr eigenes Heil, wenn's sein muss, ihnen aufzudringen,
+die schaedlichen Buerger aufzuopfern, damit die uebrigen Ruhe finden, des
+Gluecks einer weisen Regierung geniessen koennen.  Dies ist sein
+Entschluss; diesen dem Adel kund zu machen, habe ich Befehl; und Rat
+verlang' ich in seinem Namen, wie es zu thun sei, nicht was; denn das hat
+er beschlossen.
+
+Egmont.  Leider rechtfertigen deine Worte die Furcht des Volks, die
+allgemeine Furcht!  So hat er denn beschlossen, was kein Fuerst
+beschliessen sollte.  Die Kraft seines Volks, ihr Gemuet, den Begriff, den
+sie von sich selbst haben, will er schwaechen, niederdruecken, zerstoeren,
+um sie bequem regieren zu koennen.  Er will den innern Kern ihrer
+Eigenheit verderben; gewiss in der Absicht, sie gluecklicher zu machen.
+Er will sie vernichten, damit sie etwas werden, ein ander Etwas.  O, wenn
+seine Absicht gut ist, so wird sie missgeleitet!  Nicht dem Koenige
+widersetzt man sich; man stellt sich nur dem Koenige entgegen, der, einen
+falschen Weg zu wandeln, die ersten ungluecklichen Schritte macht.
+
+Alba.  Wie du gesinnt bist, scheint es ein vergeblicher Versuch, uns
+vereinigen zu wollen.  Du denkst gering vom Koenige und veraechtlich von
+seinen Raeten, wenn du zweifelst, das alles sei nicht schon gedacht,
+geprueft, gewogen worden.  Ich habe keinen Auftrag, jedes Fuer und Wider
+noch einmal durchzugehen.  Gehorsam fordre ich von dem Volke--und von euch,
+ihr Ersten, Edelsten, Rat und That, als Buergen dieser unbedingten
+Pflicht.
+
+Egmont.  Fordre unsre Haeupter, so ist es auf einmal gethan.  Ob sich der
+Nacken diesem Joche biegen, ob er sich vor dem Beile ducken soll, kann
+einer edeln Seele gleich sein.  Umsonst hab' ich so viel gesprochen; die
+Luft hab' ich erschuettert, weiter nichts gewonnen.
+
+(Ferdinand kommt.)
+
+Ferdinand.  Verzeiht, dass ich euer Gespraech unterbreche.  Hier ist ein
+Brief, dessen ueberbringer die Antwort dringend macht.
+
+Alba.  Erlaubt mir, dass ich sehe, was er enthaelt.  (Tritt an die Seite.)
+
+Ferdinand (zu Egmont).  Es ist ein schoenes Pferd, das Eure Leute gebracht
+haben, Euch abzuholen.
+
+Egmont.  Es ist nicht das schlimmste.  Ich hab' es schon eine Weile; ich
+denk' es wegzugeben.  Wenn es Euch gefaellt, so werden wir vielleicht des
+Handels einig.
+
+Ferdinand.  Gut, wir wollen sehn.
+
+Alba (winkt seinem Sohne, der sich in den Grund zurueckzieht).
+
+Egmont.  Lebt wohl!  entlasst mich; denn ich wuesste, bei Gott!  nicht
+mehr zu sagen.
+
+Alba.  Gluecklich hat dich der Zufall verhindert, deinen Sinn noch weiter
+zu verraten.  Unvorsichtig entwickelst du die Falten deines Herzens, und
+klagst dich selbst weit strenger an, als ein Widersacher gehaessig thun
+koennte.
+
+Egmont.  Dieser Vorwurf ruehrt mich nicht; ich kenne mich selbst genug,
+und weiss, wie ich dem Koenig angehoere; weit mehr als viele, die in
+seinem Dienst sich selber dienen.  Ungern scheid' ich aus diesem Streite,
+ohne ihn beigelegt zu sehen, und wuensche nur, dass uns der Dienst des
+Herrn, das Wohl des Landes bald vereinigen moege.  Es wirkt vielleicht ein
+wiederholtes Gespraech, die Gegenwart der uebrigen Fuersten, die heute
+fehlen, in einem gluecklichem Augenblick, was heut' unmoeglich scheint.
+Mit dieser Hoffnung entfern' ich mich.
+
+Alba (der zugleich seinem Sohn Ferdinand ein Zeichen gibt).  Halt, Egmont!
+--Deinen Degen!--(Die Mitteltuer oeffnet sich: man sieht die Galerie mit
+Wache besetzt die unbeweglich bleibt.)
+
+Egmont (der staunend eine Weile geschwiegen).  Dies war die Absicht?  Dazu
+hast du mich berufen?  (Nach dem Degen greifend, als wenn er sich
+verteidigen wollte).  Bin ich denn wehrlos?
+
+Alba.  Der Koenig befiehlt's, du bist mein Gefangener.  (Zugleich treten
+von beiden Seiten Gewaffnete herein.)
+
+Egmont (nach einer Stille).  Der Koenig?--Oranien!  Oranien!  (Nach einer
+Pause, seinen Degen hingebend).  So nimm ihn!  Er hat weit oefter des
+Koenigs Sache verteidigt, als diese Brust beschuetzt.  (Er geht durch die
+Mitteltuer ab; die Gewaffneten, die im Zimmer sind, folgen ihm; ingleichen
+Albas Sohn.  Alba bleibt stehen.  Der Vorhang faellt.)
+
+
+
+Fuenfter Aufzug.
+
+
+Strasse.  Daemmerung.
+
+Klaerchen.  Brackenburg.  Buerger.
+
+Brackenburg.  Liebchen, um Gottes willen, was nimmst du vor?
+
+Klaerchen.  Komm mit, Brackenburg!  Du musst die Menschen nicht kennen;
+wir befreien ihn gewiss.  Denn was gleicht ihrer Liebe zu ihm?  Jeder
+fuehlt, ich schwoer' es, in sich die brennende Begier, ihn zu retten, die
+Gefahr von einem kostbaren Leben abzuwenden, und dem Freiesten die
+Freiheit wiederzugeben.  Komm!  Es fehlt nur an der Stimme, die sie
+zusammenruft.  In ihrer Seele lebt noch ganz frisch, was sie ihm schuldig
+sind; und dass sein maechtiger Arm allein von ihnen das Verderben abhaelt,
+wissen sie.  Um seinet--und ihretwillen muessen sie alles wagen.  Und was
+wagen wir?  Zum hoechsten unser Leben, das zu erhalten nicht der Muehe
+wert ist, wenn er umkommt.
+
+Brackenburg.  Unglueckliche!  du siehst nicht die Gewalt, die uns mit
+ehernen Banden gefesselt hat.
+
+Klaerchen.  Sie scheint mir nicht unueberwindlich.  Lass uns nicht lang
+vergebliche Worte wechseln.  Hier kommen von den alten, redlichen, wackern
+Maennern!  Hoert, Freunde!  Nachbarn, hoert!--Sagt, wie ist es mit Egmont?
+
+Zimmermeister.  Was will das Kind?  Lass sie schweigen!
+
+Klaerchen.  Tretet naeher, dass wir sachte reden, bis wir einig sind und
+staerker.  Wir duerfen nicht einen Augenblick versaeumen!  Die freche
+Tyrannei, die es wagt, ihn zu fesseln, zuckt schon den Dolch, ihn zu
+ermorden.  O Freunde!  mit jedem Schritt der Daemmerung werd' ich
+aengstlicher.  Ich fuerchte diese Nacht.  Kommt!  wir wollen uns teilen;
+mit schnellem Lauf von Quartier zu Quartier rufen wir die Buerger heraus.
+Ein jeder greife zu seinen alten Waffen.  Auf dem Markte treffen wir uns
+wieder, und unser Strom reisst einen jeden mit sich fort.  Die Feinde
+sehen sich umringt und ueberschwemmt, und sind erdrueckt.  Was kann uns
+eine Handvoll Knechte widerstehen?  Und er in unsrer Mitte kehrt zurueck,
+sieht sich befreit, und kann uns einmal danken, uns, die wir ihm so tief
+verschuldet worden.  Er sieht vielleicht--gewiss, er sieht das Morgenrot
+am freien Himmel wieder.
+
+Zimmermeister.  Wie ist dir, Maedchen?
+
+Klaerchen.  Koennt ihr mich missverstehn?  Vom Grafen sprech' ich!  Ich
+spreche von Egmont.
+
+Jetter.  Nennt den Namen nicht!  Er ist toedlich.
+
+Klaerchen.  Den Namen nicht!  Wie?  Nicht diesen Namen?  Wer nennt ihn
+nicht bei jeder Gelegenheit?  Wo steht er nicht geschrieben?  In diesen
+Sternen hab' ich oft mit allen seinen Lettern ihn gelesen.  Nicht nennen?
+Was soll das?  Freunde!  Gute, teure Nachbarn, ihr traeumt; besinnt euch.
+Seht mich nicht so starr und aengstlich an!  Blickt nicht schuechtern hie
+und da beiseite.  Ich ruf' euch ja nur zu, was jeder wuenscht.  Ist meine
+Stimme nicht eures Herzens eigne Stimme?  Wer wuerfe sich in dieser bangen
+Nacht, eh' er sein unruhvolles Bette besteigt, nicht auf die Kniee, ihn
+mit ernstlichem Gebet vom Himmel zu erringen?  Fragt euch einander!  frage
+jeder sich selbst!  und wer spricht mir nicht nach: "Egmonts Freiheit oder
+den Tod!"
+
+Jetter.  Gott bewahr' uns!  Da giebt's ein Unglueck.
+
+Klaerchen.  Bleibt!  Bleibt und drueckt euch nicht vor seinem Namen weg,
+dem ihr euch sonst so froh entgegen draengtet!--Wenn der Ruf ihn
+ankuendigte, wenn es hiess: "Egmont kommt!  Er kommt von Gent!"  da
+hielten die Bewohner der Strassen sich gluecklich, durch die er reiten
+musste.  Und wenn ihr seine Pferde schallen hoertet, warf jeder seine
+Arbeit hin, und ueber die bekuemmerten Gesichter, die ihr durchs Fenster
+stecktet, fuhr wie ein Sonnenstrahl von seinem Angesichte ein Blick der
+Freude und Hoffnung.  Da hobt ihr eure Kinder auf der Thuerschwelle in
+die Hoehe und deutetet ihnen: "Sieh, das ist Egmont, der groesste da!  Er
+ist's!  Er ist's, von dem ihr bessere Zeiten, als eure armen Vaeter lebten,
+einst zu erwarten habt."  Lasst eure Kinder nicht dereinst euch fragen:
+"Wo ist er hin?  Wo sind die Zeiten hin, die ihr verspracht?"--Und so
+wechseln wir Worte, sind muessig, verraten ihn!
+
+Soest.  Schaemt Euch, Brackenburg!  Lasst sie nicht gewaehren!  Steuert
+dem Unheil!
+
+Brackenburg.  Liebes Klaerchen!  wir wollen gehen!  Was wird die Mutter
+sagen?  Vielleicht-Klaerchen.  Meinst du, ich sei ein Kind, oder
+wahnsinnig?  Was kann vielleicht?--Von dieser schrecklichen Gewissheit
+bringst du mich mit keiner Hoffnung weg.--Ihr sollt mich hoeren, und ihr
+werdet; denn ich seh's, ihr seid bestuerzt, und koennt euch selbst in
+euerm Busen nicht wiederfinden.  Lasst durch die gegenwaertige Gefahr nur
+einen Blick in das Vergangene dringen, das kurz Vergangene.  Wendet eure
+Gedanken nach der Zukunft!  Koennt ihr denn leben?  Werdet ihr, wenn er zu
+Grunde geht? Mit seinem Atem flieht der letzte Hauch der Freiheit.  Was
+war er euch? Fuer wen uebergab er sich der dringendsten Gefahr?  Seine
+Wunden flossen und heilten nur fuer euch.  Die grosse Seele, die euch alle
+trug, beschraenkt ein Kerker, und Schauer tueckischen Mordes schweben um
+sie her.  Er denkt vielleicht an euch, er hofft auf euch, er, der nur zu
+geben, nur zu erfuellen gewohnt war.
+
+Zimmermeister.  Gevatter, kommt.
+
+Klaerchen.  Und ich habe nicht Arme, nicht Mark, wie ihr; doch hab' ich,
+was euch allen eben fehlt, Mut und Verachtung der Gefahr.  Koennt' euch
+mein Atem doch entzuenden!  koennt' ich an meinen Busen drueckend euch
+erwaermen und beleben!  Kommt!  In eurer Mitte will ich gehen!--Wie eine
+Fahne wehrlos ein edles Heer von Kriegern wehend anfuehrt, so soll mein
+Geist um eure Haeupter flammen, und Liebe und Mut das schwankende,
+zerstreute Volk zu einem fuerchterlichen Heer vereinigen.
+
+Jetter.  Schaff' sie beiseite, sie dauert mich.
+
+(Buerger ab.)
+
+Brackenburg.  Klaerchen!  siehst du nicht, wo wir sind?
+
+Klaerchen.  Wo?  Unter dem Himmel, der so oft sich herrlicher zu woelben
+schien, wenn der Edle unter ihm herging.  Aus diesen Fenstern haben sie
+herausgesehn, vier, fuenf Koepfe ueber einander; an diesen Thueren haben
+sie gescharrt und genickt, wenn er auf die Memmen herabsah.  O, ich hatte
+sie so lieb, wie sie ihn ehrten!  Waere er Tyrann gewesen, moechten sie
+immer vor seinem Falle seitwaerts gehn.  Aber sie liebten ihn!--O ihr
+Haende, die ihr an die Muetzen grifft, zum Schwert koennt ihr nicht
+greifen--Brackenburg, und wir?--Schelten wir sie?--Diese Arme, die ihn so
+oft fest hielten, was thun sie fuer ihn?--List hat in der Welt so viel
+erreicht.--Du kennst Wege und Stege, kennst das alte Schloss.  Es ist
+nichts unmoeglich, gieb mir einen Anschlag.
+
+Brackenburg.  Wenn wir nach Hause gingen.
+
+Klaerchen.  Gut.
+
+Brackenburg.  Dort an der Ecke seh' ich Albas Wache; lass doch die Stimme
+der Vernunft dir zu Herzen dringen.  Haeltst du mich fuer feig?  Glaubst
+du nicht, dass ich um deinetwillen sterben koennte?  Hier sind wir beide
+toll, ich so gut wie du.  Siehst du nicht das Unmoegliche?  Wenn du dich
+fasstest! Du bist ausser dir.
+
+Klaerchen.  Ausser mir!  Abscheulich!  Brackenburg, ihr seid ausser euch.
+Da ihr laut den Helden verehrtet, ihn Freund und Schutz und Hoffnung
+nanntet, ihm Vivat rieft, wenn er kam; da stand ich in meinem Winkel,
+schob das Fenster halb auf, verbarg mich lauschend, und das Herz schlug
+mir hoeher als euch allen.  Jetzt schlaegt mir's wieder hoeher als euch
+allen!  Ihr verbergt euch, da es not ist, verleugnet ihn und fuehlt nicht,
+dass ihr untergeht, wenn er verdirbt.
+
+Brackenburg.  Komm nach Hause.
+
+Klaerchen.  Nach Hause?
+
+Brackenburg.  Besinne dich nur!  Sieh dich um!  Dies sind die Strassen,
+die du nur sonntaeglich betratst, durch die du sittsam nach der Kirche
+gingst, wo du uebertrieben ehrbar zuerntest, wenn ich mit einem
+freundlichen gruessenden Wort mich zu dir gesellte.  Du stehst und redest,
+handelst vor den Augen der offnen Welt; besinne dich, Liebe!  Wozu hilft
+es uns?
+
+Klaerchen.  Nach Hause!  Ja, ich besinne mich.  Komm, Brackenburg, nach
+Hause!  Weisst du, wo meine Heimat ist?  (Ab.)
+
+
+Gefaengnis
+
+durch eine Lampe erhellt, ein Ruhebett im Grunde.
+
+(Egmont allein.)
+
+Alter Freund!  immer getreuer Schlaf, fliehst du mich auch, wie die
+uebrigen Freunde?  Wie willig senktest du dich auf mein freies Haupt
+herunter, und kuehltest, wie ein schoener Myrtenkranz der Liebe, meine
+Schlaefe!  Mitten unter Waffen, auf der Woge des Lebens, ruht' ich leicht
+atmend, wie ein aufquellender Knabe, in deinen Armen.  Wenn Stuerme durch
+Zweige und Blaetter sausten, Ast und Wipfel sich knirrend bewegten, blieb
+innerst doch der Kern des Herzens ungeregt.  Was schuettelt dich nun?  Was
+erschuettert den festen, treuen Sinn?  Ich fuehl's, es ist der Klang der
+Mordaxt, die an meiner Wurzel nascht.  Noch steh' ich aufrecht, und ein
+innrer Schauer durchfaehrt mich.  Ja, sie ueberwindet, die verraeterische
+Gewalt; sie untergraebt den festen hohen Stamm, und eh' die Rinde dorrt,
+stuerzt krachend und zerschmetternd deine Krone.
+
+Warum denn jetzt, der du so oft gewalt'ge Sorgen gleich Seifenblasen dir
+vom Haupte weggewiesen, warum vermagst du nicht die Ahnung zu verscheuchen,
+die tausendfach in dir sich auf und nieder treibt?  Seit wann begegnet
+der Tod dir fuerchterlich, mit dessen wechselnden Bildern, wie mit den
+uebrigen Gestalten der gewohnten Erde, du gelassen lebtest?--Auch ist er's
+nicht, der rasche Feind, dem die gesunde Brust wetteifernd sich
+entgegensehnt; der Kerker ist's, des Grabes Vorbild, dem Helden wie dem
+Feigen widerlich.  Unleidlich ward mir's schon auf meinem gepolsterten
+Stuhle, wenn in stattlicher Versammlung die Fuersten, was leicht zu
+entscheiden war, mit wiederkehrenden Gespraechen ueberlegten, und zwischen
+duestern Waenden eines Saals die Balken der Decke mich erdrueckten.  Da
+eilt' ich fort, sobald es moeglich war, und rasch aufs Pferd mit tiefem
+Atemzuge.  Und frisch hinaus, da wo wir hingehoeren!  ins Feld, wo aus der
+Erde dampfend jede naechste Wohlthat der Natur, und durch die Himmel
+wehend alle Segen der Gestirne uns umwittern; wo wir, dem erdgebornen
+Riesen gleich, von der Beruehrung unsrer Mutter kraeftiger uns in die
+Hoehe reissen; wo wir die Menschheit ganz, und menschliche Begier in allen
+Adern fuehlen; wo das Verlangen, vorzudringen, zu besiegen, zu erhaschen,
+seine Faust zu brauchen, zu besitzen, zu erobern, durch die Seele des
+jungen Jaegers glueht; wo der Soldat sein angebornes Recht auf alle Welt
+mit raschem Schritt sich anmasst, und in fuerchterlicher Freiheit wie ein
+Hagelwetter durch Wiese, Feld und Wald verderbend streicht, und keine
+Grenzen kennt, die Menschenhand gezogen.
+
+Du bist nur Bild, Erinnerungstraum des Gluecks, das ich so lang besessen;
+wo hat dich das Geschick verraeterisch hingefuehrt?  Versagt es dir, den
+nie gescheuten Tod im Angesicht der Sonne rasch zu goennen, um dir des
+Grabes Vorgeschmack im ekeln Moder zu bereiten?  Wie haucht er mich aus
+diesen Steinen widrig an!  Schon starrt das Leben; vor dem Ruhebette wie
+vor dem Grabe scheut der Fuss.-O Sorge!  Sorge!  die du vor der Zeit den
+Mord beginnst, lass ab!--Seit wann ist Egmont denn allein, so ganz allein
+in dieser Welt?  Dich macht der Zweifel hilflos, nicht das Glueck.  Ist
+die Gerechtigkeit des Koenigs, der du lebenslang vertrautest, ist der
+Regentin Freundschaft, die fast, du darfst es dir gestehn, fast Liebe war,
+sind sie auf einmal, wie ein glaenzend Feuerbild der Nacht, verschwunden,
+und lassen dich allein auf dunkelm Pfad zurueck?  Wird an der Spitzedeiner
+Freunde Oranien nicht wagend sinnen?  Wird nicht ein Volk sich sammeln und
+mit anschwellender Gewalt den alten Freund erretten?
+
+O haltet, Mauern, die ihr mich einschliesst, so vieler Geister
+wohlgemeintes Draengen nicht von mir ab; und welcher Mut aus meinen Augen
+sonst sich ueber sie ergoss, der kehre nun aus ihren Herzen in meines
+wieder.  O ja, sie ruehren sich zu Tausenden!  sie kommen!  stehen mir zur
+Seite!  Ihr frommer Wunsch eilt dringend zu dem Himmel, er bittet um ein
+Wunder.  Und steigt zu meiner Rettung nicht ein Engel nieder, so seh' ich
+sie nach Lanz' und Schwertern greifen.  Die Thore spalten sich, die Gitter
+springen, die Mauer stuerzt vor ihren Haenden ein, und der Freiheit des
+einbrechenden Tages steigt Egmont froehlich entgegen.  Wie manch bekannt
+Gesicht empfaengt mich jauchzend!  Ach, Klaerchen, waerst du Mann, so
+saeh' ich dich gewiss auch hier zuerst, und dankte dir, was einem Koenige
+zu danken hart ist, Freiheit.
+
+
+Klaerchens Haus.
+
+Klaerchen (kommt mit einer Lampe und einem Glas Wasser aus der Kammer; sie
+setzt das Glas auf den Tisch und tritt ans Fenster).
+
+Brackenburg?  Seid Ihr's?  Was hoert' ich denn?  Noch niemand?  Es war
+niemand!  Ich will die Lampe ins Fenster setzen, dass er sieht, ich wache
+noch, ich warte noch auf ihn.  Er hat mir Nachricht versprochen.
+Nachricht?  Entsetzliche Gewissheit!--Egmont verurteilt!--Welch Gericht
+darf ihn fordern?  und sie verdammen ihn!  Der Koenig verdammt ihn?  oder
+der Herzog?  Und die Regentin entzieht sich!  Oranien zaudert, und alle
+seine Freunde!--Ist dies die Welt, von deren Wankelmut, Unzuverlaessigkeit
+ich viel gehoert und nichts empfunden habe?  Ist dies die Welt?--Wer waere
+boes genug, den Teuern anzufeinden?  Waere Bosheit maechtig genug, den
+allgemein Erkannten schnell zu stuerzen?  Doch ist es so--es ist!--O
+Egmont, sicher hielt ich dich vor Gott und Menschen, wie in meinen Armen!
+Was war ich dir?  Du hast mich dein genannt, mein ganzes Leben widmete ich
+deinem Leben.--Was bin ich nun?  Vergebens streck' ich nach der Schlinge,
+die dich fasst, die Hand aus.  Du hilflos, und ich frei!--Hier ist der
+Schluessel zu meiner Thuer.  An meiner Willkuer haengt mein Gehen und mein
+Kommen, und dir bin ich zu nichts!--O, bindet mich, damit ich nicht
+verzweifle; und werft mich in den tiefsten Kerker, dass ich das Haupt an
+feuchte Mauern schlage, nach Freiheit winsle, traeume, wie ich ihm helfen
+wollte, wenn Fesseln mich nicht laehmten, wie ich ihm helfen wuerde!--Nun
+bin ich frei!  Und in der Freiheit liegt die Angst der Ohnmacht.--Mir
+selbst bewusst, nicht faehig, ein Glied nach seiner Hilfe zu ruehren.  Ach
+leider, auch der kleine Teil von deinem Wesen, dein Klaerchen, ist wie du
+gefangen, und regt getrennt im Todeskrampfe nur die letzten Kraefte.--Ich
+hoere schleichen, husten--Brackenburg--er ist's!--Elender, guter Mann,
+dein Schicksal bleibt sich immer gleich; dein Liebchen oeffnet dir die
+naechtliche Thuer, und ach!  zu welch unseliger Zusammenkunft!
+
+(Brackenburg tritt auf.)
+
+Klaerchen.  Du kommst so bleich und schuechtern, Brackenburg!  was ist's?
+
+Brackenburg.  Durch Umwege und Gefahren such' ich dich auf.  Die grossen
+Strassen sind besetzt; durch Gaesschen und durch Winkel hab' ich mich zu
+dir gestohlen.
+
+Klaerchen.  Erzaehl', wie ist's?
+
+Brackenburg (indem er sich setzt).  Ach, Klaere, lass mich weinen.  Ich
+liebt' ihn nicht.  Er war der reiche Mann und lockte des Armen einziges
+Schaf zur bessern Weide herueber.  Ich hab' ihn nie verflucht; Gott hat
+mich treu geschaffen und weich.  In Schmerzen floss mein Leben von mir
+nieder, und zu verschmachten hofft' ich jeden Tag.
+
+Klaerchen.  Vergiss das, Brackenburg!  Vergiss dich selbst!  Sprich mir
+von ihm!  Ist's wahr?  Ist er verurteilt?
+
+Brackenburg.  Er ist's!  Ich weiss es ganz genau.
+
+Klaerchen.  Und lebt noch?
+
+Brackenburg.  Ja, er lebt noch.
+
+Klaerchen.  Wie willst du das versichern?--Die Tyrannei ermordet in der
+Nacht den Herrlichen!  vor allen Augen verborgen fliesst sein Blut.
+aengstlich im Schlafe liegt das betaeubte Volk, und traeumt von Rettung,
+traeumt ihres ohnmaechtigen Wunsches Erfuellung; indes, unwillig ueber uns,
+sein Geist die Welt verlaesst.  Er ist dahin!--Taeusche mich nicht!  dich
+nicht!
+
+Brackenburg.  Nein, gewiss, er lebt!--Und leider!  es bereitet der Spanier
+dem Volke, das er zertreten will, ein fuerchterliches Schauspiel,
+gewaltsam jedes Herz, das nach Freiheit sich regt, auf ewig zu
+zerknirschen.
+
+Klaerchen.  Fahre fort und sprich gelassen auch mein Todesurteil aus!  Ich
+wandle den seligen Gefilden schon naeher und naeher, mir weht der Trost
+aus jenen Gegenden des Friedens schon herueber.  Sag' an.
+
+Brackenburg.  Ich konnt' es an den Wachen merken, aus Reden, die bald da,
+bald dorten fielen, dass auf dem Markte geheimnisvoll ein Schrecknis
+zubereitet werde.  Ich schlich durch Seitenwege, durch bekannte Gaenge
+nach meines Vettern Hause, und sah aus einem Hinterfenster nach dem Markte.
+--Es wehten Fackeln in einem weiten Kreise spanischer Soldaten hin und
+wieder.  Ich schaerfte mein ungewohntes Auge, und aus der Nacht stieg mir
+ein schwarzes Geruest entgegen, geraeumig, hoch; mir grauste vor dem
+Anblick.  Geschaeftig waren viele rings umher bemueht, was noch von
+Holzwerk weiss und sichtbar war, mit schwarzem Tuch einhuellend zu
+verkleiden.  Die Treppen deckten sie zuletzt auch schwarz, ich sah es wohl.
+Sie schienen die Weihe eines graesslichen Opfers vorbereitend zu begehn.
+Ein weisses Kruzifix, das durch die Nacht wie Silber blinkte, ward an der
+einen Seite hoch aufgesteckt.  Ich sah, und sah die schreckliche
+Gewissheit immer gewisser.  Noch wankten Fackeln hie und da herum;
+allmaehlich wichen sie und erloschen.  Auf einmal war die scheussliche
+Geburt der Nacht in ihrer Mutter Schoss zurueckgekehrt.
+
+Klaerchen.  Still Brackenburg!  Nun still!  Lass diese Huelle auf meiner
+Seele ruhn.  Verschwunden sind die Gespenster, und du, holde Nacht, leih'
+deinen Mantel der Erde, die in sich gaert; sie traegt nicht laenger die
+abscheuliche Last, reisst ihre tiefen Spalten grausend auf und knirscht
+das Mordgeruest hinunter.  Und irgend einen Engel sendet der Gott, den sie
+zum Zeugen ihrer Wut geschaendet; vor des Boten heiliger Beruehrung loesen
+sich Riegel und Bande, und er umgiesst den Freund mit mildem Schimmer; er
+fuehrt ihn durch die Nacht zur Freiheit sanft und still.  Und auch mein
+Weg geht heimlich in dieser Dunkelheit, ihm zu begegnen.
+
+Brackenburg (sie aufhaltend).  Mein Kind, wohin?  was wagst du?
+
+Klaerchen.  Leise, Lieber, dass niemand erwache!  dass wir uns selbst
+nicht wecken!  Kennst du dies Flaeschchen, Brackenburg?  Ich nahm dir's
+scherzend, als du mit uebereiltem Tod oft ungeduldig drohtest.--Und nun,
+mein Freund-Brackenburg.  In aller Heiligen Namen!-Klaerchen.  Du hinderst
+nichts.  Tod ist mein Teil!  und goenne mir den sanften schnellen Tod, den
+du dir selbst bereitetest.  Gieb' mir deine Hand!--Im Augenblick, da ich
+die dunkle Pforte eroeffne, aus der kein Rueckweg ist, koennt' ich mit
+diesem Haendedruck dir sagen: wie sehr ich dich geliebt, wie sehr ich dich
+bejammert!  Mein Bruder starb mir jung; dich waehlt' ich, seine Stelle zu
+ersetzen.  Es widersprach dein Herz, und quaelte sich und mich,
+verlangtest heiss und immer heisser, was dir nicht beschieden war.
+Vergieb' mir und leb' wohl!  Lass mich dich Bruder nennen! Es ist ein Name,
+der viel Namen in sich fasst.  Nimm die letzte schoene Blume der
+Scheidenden mit treuem Herzen ab--nimm diesen Kuss.--Der Tod vereinigt
+alles, Brackenburg, uns denn auch.
+
+Brackenburg.  So lass mich mit dir sterben!  Teile!  Teile!  Es ist genug,
+zwei Leben auszuloeschen.
+
+Klaerchen.  Bleib!  du sollst leben, du kannst leben.--Steh meiner Mutter
+bei, die ohne dich in Armut sich verzehren wuerde.  Sei ihr, was ich ihr
+nicht mehr sein kann; lebt zusammen, und beweint mich.  Beweint das
+Vaterland und den, der es allein erhalten konnte.  Das heutige Geschlecht
+wird diesen Jammer nicht los; die Wut der Rache selbst vermag ihn nicht zu
+tilgen.  Lebt, ihr Armen, die Zeit noch hin, die keine Zeit mehr ist.
+Heut' steht die Welt auf einmal still; es stockt ihr Kreislauf, und mein
+Puls schlaegt kaum noch wenige Minuten.  Leb' wohl!
+
+Brackenburg.  O, lebe du mit uns, wie wir fuer dich allein!  Du toetest
+uns in dir, o leb' und leide!  Wir wollen unzertrennlich dir zu beiden
+Seiten stehn, und immer achtsam soll die Liebe den schoensten Trost in
+ihren lebendigen Armen dir bereiten.  Sei unser!  Unser!  Ich darf nicht
+sagen, mein.
+
+Klaerchen.  Leise, Brackenburg!  Du fuehlst nicht, was du ruehrst.  Wo
+Hoffnung dir erscheint, ist mir Verzweiflung.
+
+Brackenburg.  Teile mit den Lebendigen die Hoffnung!  Verweil' am Rande
+des Abgrundes, schau' hinab und sieh auf uns zurueck.
+
+Klaerchen.  Ich hab' ueberwunden, ruf' mich nicht wieder zum Streit.
+
+Brackenburg.  Du bist betaeubt; gehuellt in Nacht suchst du die Tiefe.
+Noch ist nicht jedes Licht erloschen, noch mancher Tag!-Klaerchen.  Weh!
+ueber dich Weh!  Weh!  Grausam zerreissest du den Vorhang vor meinem Auge.
+Ja, er wird grauen, der Tag!  vergebens alle Nebel um sich ziehn und
+wider Willen grauen!  Furchtsam schaut der Buerger aus seinem Fenster, die
+Nacht laesst einen schwarzen Flecken zurueck; er schaut, und fuerchterlich
+waechst im Lichte das Mordgeruest.  Neu leidend wendet das entweihte
+Gottesbild sein flehend Auge zum Vater auf.  Die Sonne wagt sich nicht
+hervor; sie will die Stunde nicht bezeichnen, in der er sterben soll.
+Traege gehn die Zeiger ihren Weg, und eine Stunde nach der andern schlaegt.
+Halt!  Halt!  nun ist es Zeit!  mich scheucht des Morgens Ahnung in das
+Grab.  (Sie tritt ans Fenster, als saehe sie sich um, und trinkt heimlich.
+)
+
+Brackenburg.  Klaere!  Klaere!
+
+Klaerchen (geht nach dem Tisch und trinkt das Wasser).  Hier ist der Rest!
+Ich locke dich nicht nach.  Thu', was du darfst, leb' wohl.  Loesche diese
+Lampe still und ohne Zaudern, ich geh' zur Ruhe.  Schleiche dich sachte
+weg, ziehe die Thuer nach dir zu.  Still!  Wecke meine Mutter nicht!  Geh,
+rette dich.  Rette dich, wenn du nicht mein Moerder scheinen willst.  (Ab.
+)
+
+Brackenburg.  Sie laesst mich zum letztenmale, wie immer.  O, koennte eine
+Menschenseele fuehlen, wie sie ein liebend Herz zerreissen kann.  Sie
+laesst mich stehn, mir selber ueberlassen; und Tod und Leben ist mir
+gleich verhasst.--Allein zu sterben!--Weint, ihr Liebenden!  Kein haerter
+Schicksal ist als meins!  Sie teilt mit mir den Todestropfen und schickt
+mich weg!  von ihrer Seite weg!  Sie zieht mich nach, und stoesst ins
+Leben mich zurueck.  O Egmont, welch preiswuerdig Los faellt dir!  Sie
+geht voran; der Kranz des Siegs aus ihrer Hand ist dein, sie bringt den
+ganzen Himmel dir entgegen!--Und soll ich folgen?  wieder seitwaerts
+stehn?  den unausloeschlichen Neid in jene Wohnungen hinuebertragen?--Auf
+Erden ist kein Bleiben mehr fuer mich, und Hoell' und Himmel bieten
+gleiche Qual.  Wie waere der Vernichtung Schreckenshand dem
+Unglueckseligen willkommen!
+
+(Brackenburg geht ab, das Theater bleibt einige Zeit unveraendert.  Eine
+Musik, Klaerchens Tod bezeichnend, beginnt; die Lampe, welche Brackenburg
+auszuloeschen vergessen, flammt noch einigemal auf, dann erlischt sie.
+Bald verwandelt sich der Schauplatz in das
+
+
+Gefaengnis.
+
+(Egmont liegt schlafend auf dem Ruhebette.  Es entsteht ein Gerassel mit
+Schluesseln, und die Thuer thut sich auf.  Diener mit Fackeln treten
+herein; ihnen folgt Ferdinand, Albas Sohn, und Silva, begleitet von
+Gewaffneten.  Egmont faehrt aus dem Schlaf auf.)
+
+Egmont.  Wer seid ihr, die ihr mir unfreundlich den Schlaf von den Augen
+schuettelt?  Was kuenden eure trotzigen, unsichern Blicke mir an?  Warum
+diesen fuerchterlichen Aufzug?  Welchen Schrekkenstraum kommt ihr der
+halberwachten Seele vorzuluegen?
+
+Silva.  Uns schickt der Herzog, dir dein Urteil anzukuendigen.
+
+Egmont.  Bringst du den Henker auch mit, es zu vollziehen?
+
+Silva.  Vernimm es, so wirst du wissen, was deiner wartet.
+
+Egmont.  So ziemt es euch und euerm schaendlichen Beginnen!  In Nacht
+gebruetet und in Nacht vollfuehrt.  So mag diese freche Tat der
+Ungerechtigkeit sich verbergen!--Tritt kuehn hervor, der du das Schwert
+verhuellt unter dem Mantel traegst; hier ist mein Haupt, das freieste, das
+je die Tyrannei vom Rumpf gerissen.
+
+Silva.  Du irrst!  Was gerechte Richter beschliessen, werden sie vorm
+Angesicht des Tages nicht verbergen.
+
+Egmont.  So uebersteigt die Frechheit jeden Begriff und Gedanken.
+
+Silva (nimmt einem Dabeistehenden das Urteil ab, entfaltet's und liest's).
+"Im Namen des Koenigs, und kraft besonderer von Seiner Majestaet uns
+uebertragenen Gewalt, alle seine Unterthanen, wes Standes sie seien,
+zugleich die Ritter des goldnen Vliesses zu richten, erkennen wir--"
+
+Egmont.  Kann die der Koenig uebertragen?
+
+Silva.  "Erkennen wir, nach vorgaengiger genauer, gesetzlicher
+Untersuchung, dich Heinrich Grafen Egmont, Prinzen von Gaure, des
+Hochverrats schuldig, und sprechen das Urteil: dass du mit der Fruehe des
+einbrechenden Morgens aus dem Kerker auf den Markt gefuehrt, und dort vorm
+Angesicht des Volks zur Warnung aller Verraeter mit dem Schwerte vom Leben
+zum Tode gebracht werden sollest.  Gegeben Bruessel am" (Datum und
+Jahrzahl werden undeutlich gelesen, so, dass sie der Zuhoerer nicht
+versteht.) "Ferdinand, Herzog von Alba, Vorsitzer des Gerichts der Zwoelfe."
+Du weisst nun dein Schicksal; es bleibt dir wenige Zeit, dich drein zu
+ergeben, dein Haus zu bestellen und von den Deinigen Abschied zu nehmen.
+
+(Silva mit dem Gefolge geht ab.  Es bleibt Ferdinand und zwei Fackeln; das
+Theater ist maessig erleuchtet.)
+
+Egmont (hat eine Weile in sich versenkt, stille gestanden und Silva, ohne
+sich umzusehen, abgehen lassen.  Er glaubt sich allein, und da er die
+Augen aufhebt, erblickt er Albas Sohn).  Du stehst und bleibst?  Willst du
+mein Erstaunen, mein Entsetzen noch durch deine Gegenwart vermehren?
+Willst du noch etwa die willkommne Botschaft deinem Vater bringen, dass
+ich unmaennlich verzweifle?  Geh!  Sag' ihm!  Sag' ihm, dass er weder mich,
+noch die Welt beluegt.  Ihm, dem Ruhmsuechtigen, wird man es erst hinter
+den Schultern leise lispeln, dann laut und lauter sagen, und wenn er einst
+von diesem Gipfel herabsteigt, werden tausend Stimmen es ihm entgegen
+rufen: Nicht das Wohl des Staats, nicht die Wuerde des Koenigs, nicht die
+Ruhe der Provinzen haben ihn hierher gebracht.  Um sein selbst willen hat
+er Krieg geraten, dass der Krieger im Kriege gelte.  Er hat diese
+ungeheure Verwirrung erregt, damit man seiner beduerfe.  Und ich falle,
+ein Opfer seines niedrigen Hasses, seines kleinlichen Neides.  Ja, ich
+weiss es, und ich darf es sagen; der Sterbende, der toedlich Verwundete
+kann es sagen: mich hat der Eingebildete beneidet; mich wegzutilgen, hat
+er lange gesonnen und gedacht.
+
+Schon damals, als wir noch juenger mit Wuerfeln spielten und die Haufen
+Goldes, einer nach dem andern, von seiner Seite zu mir heruebereilten, da
+stand er grimmig, log Gelassenheit, und innerlich verzehrte ihn die
+aergernis, mehr ueber mein Glueck, als ueber seinen Verlust.  Noch
+erinnere ich mich des funkelnden Blicks, der verraeterischen Blaesse, als
+wir an einem oeffentlichen Feste vor vielen tausend Menschen um die Wette
+schossen.  Er forderte mich auf, und beide Nationen standen; die Spanier,
+die Niederlaender wetteten und wuenschten.  Ich ueberwand ihn; seine Kugel
+irrte, die meine traf; ein lauter Freudenschrei der Meinigen durchbrach
+die Luft.  Nun trifft mich sein Geschoss.  Sag' ihm, dass ich's weiss,
+dass ich ihn kenne, dass die Welt jede Siegszeichen verachtet, die ein
+kleiner Geist erschleichend sich aufrichtet.  Und du!  wenn einem Sohne
+moeglich ist, von der Sitte des Vaters zu weichen, uebe beizeiten die
+Scham, indem du dich fuer den schaemst, den du gerne von ganzem Herzen
+verehren moechtest.
+
+Ferdinand.  Ich hoere dich an, ohne dich zu unterbrechen!  Deine Vorwuerfe
+lasten wie Keulschlaege auf einen Helm; ich fuehle die Erschuetterung,
+aber ich bin bewaffnet.  Du triffst mich, du verwundest mich nicht;
+fuehlbar ist mir allein der Schmerz, der mir den Busen zerreisst.  Wehe
+mir!  Wehe! Zu einem solchen Anblick bin ich aufgewachsen, zu einem
+solchen Schauspiele bin ich gesendet!
+
+Egmont.  Du brichst in Klagen aus?  Was ruehrt, was bekuemmert dich?  Ist
+es eine spaete Reue, dass du der schaendlichen Verschwoerung deinen Dienst
+geliehen?  Du bist so jung und hast ein glueckliches Ansehn.  Du warst so
+zutraulich, so freundlich gegen mich.  So lang ich dich sah, war ich mit
+deinem Vater versoehnt.  Und eben so verstellt, verstellter als er, lockst
+du mich in das Netz.  Du bist der Abscheuliche!  Wer ihm traut, mag er es
+auf seine Gefahr thun; aber wer fuerchtete Gefahr, dir zu vertrauen?  Geh!
+Geh!  Raube mir nicht die wenigen Augenblicke!  Geh, dass ich mich sammle,
+die Welt und dich zuerst vergesse!-Ferdinand.  Was soll ich dir sagen?
+Ich stehe und sehe dich an, und sehe dich nicht, und fuehle mich nicht.
+Soll ich mich entschuldigen?  Soll ich dir versichern, dass ich erst spaet,
+erst ganz zuletzt des Vaters Absichten erfuhr, dass ich als ein
+gezwungenes, ein lebloses Werkzeug seines Willens handelte?  Was
+fruchtet's, welche Meinung du von mir haben magst?  Du bist verloren; und
+ich Ungluecklicher stehe nur da, um dir's zu versichern, um dich zu
+bejammern.
+
+Egmont.  Welche sonderbare Stimme, welch ein unerwarteter Trost begegnet
+mir auf dem Wege zum Grabe?  Du, Sohn meines ersten, meines fast einzigen
+Feindes, du bedauerst mich, du bist nicht unter meinen Moerdern?  Sage,
+rede!  Fuer wen soll ich dich halten?
+
+Ferdinand.  Grausamer Vater!  Ja, ich erkenne dich in diesem Befehle.  Du
+kanntest mein Herz, meine Gesinnung, die du so oft als Erbteil einer
+zaertlichen Mutter schaltest.  Mich dir gleich zu bilden, sandtest du mich
+hierher.  Diesen Mann am Rande des gaehnenden Grabes, in der Gewalt eines
+willkuerlichen Todes zu sehen, zwingst du mich; dass ich den tiefsten
+Schmerz empfinde, dass ich taub gegen alles Schicksal, dass ich
+unempfindlich werde, es geschehe mir, was wolle.
+
+Egmont.  Ich erstaune!  Fasse dich!  Stehe, rede wie ein Mann!
+
+Ferdinand.  O, dass ich ein Weib waere!  dass man mir sagen koennte: was
+ruehrt dich?  was ficht dich an?  Sage mir ein groesseres, ein
+ungeheureres uebel, mache mich zum Zeugen einer schrecklichern That; ich
+will dir danken, ich will sagen: es war nichts.
+
+Egmont.  Du verlierst dich?  Wo bist du?
+
+Ferdinand.  Lass diese Leidenschaft rasen, lass mich losgebunden klagen!
+Ich will nicht standhaft scheinen, wenn alles in mir zusammenbricht.
+Dich soll ich hier sehn?--Dich?--Es ist entsetzlich!  Du verstehst mich
+nicht!  Und sollst du mich verstehen?  Egmont!  Egmont!  (Ihm um den Hals
+fallend.)
+
+Egmont.  Loese mir das Geheimnis.
+
+Ferdinand.  Kein Geheimnis.
+
+Egmont.  Wie bewegt dich so tief das Schicksal eines fremden Mannes?
+
+Ferdinand.  Nicht fremd!  Du bist mir nicht fremd.  Dein Name war's, der
+mir in meiner ersten Jugend gleich einem Stern des Himmels
+entgegenleuchtete.  Wie oft hab' ich nach dir gehorcht, gefragt!  Des
+Kindes Hoffnung ist der Juengling, des Juenglings der Mann.  So bist du
+vor mir her geschritten; immer vor, und ohne Neid sah ich dich vor, und
+schritt dir nach, und fort und fort.  Nun hofft' ich endlich dich zu sehen,
+und sah dich, und mein Herz flog dir entgegen.  Dich hatt' ich mir
+bestimmt, und waehlte dich aufs neue, da ich dich sah.  Nun hofft' ich
+erst mit dir zu sein, mit dir zu leben, dich zu fassen, dich.--Das ist nun
+alles weggeschnitten, und ich sehe dich hier!
+
+Egmont.  Mein Freund, wenn es dir wohlthun kann, so nimm die Versicherung,
+dass im ersten Augenblick mein Gemuet dir entgegenkam.  Und hoere mich.
+Lass uns ein ruhiges Wort unter einander wechseln.  Sage mir: ist es der
+strenge, ernste Wille deines Vaters, mich zu toeten?
+
+Ferdinand.  Er ist's.
+
+Egmont.  Dieses Urteil waere nicht ein leeres Schreckbild, mich zu
+aengstigen, durch Furcht und Drohung zu strafen, mich zu erniedrigen, und
+dann mit koeniglicher Gnade mich wieder aufzuheben?
+
+Ferdinand.  Nein, ach leider nein!  Anfangs schmeichelte ich mir selbst
+mit dieser ausweichenden Hoffnung; und schon da empfand ich Angst und
+Schmerz, dich in diesem Zustande zu sehen.  Nun ist es wirklich, ist
+gewiss.  Nein, ich regiere mich nicht.  Wer giebt mir eine Hilfe, wer
+einen Rat, dem Unvermeidlichen zu entgehen?
+
+Egmont.  So hoere mich.  Wenn deine Seele so gewaltsam dringt, mich zu
+retten, wenn du die uebermacht verabscheust, die mich gefesselt haelt, so
+rette mich!  Die Augenblicke sind kostbar.  Du bist des Allgewaltigen Sohn,
+und selbst gewaltig.--Lass uns entfliehen!  Ich kenne die Wege; die
+Mittel koennen dir nicht unbekannt sein.  Nur diese Mauern, nur wenige
+Meilen entfernen mich von meinen Freunden.  Loese diese Bande, bringe mich
+zu ihnen und sei unser!  Gewiss, der Koenig dankt dir dereinst meine
+Rettung.  Jetzt ist er ueberrascht, und vielleicht ist ihm alles unbekannt.
+Dein Vater wagt; und die Majestaet muss das Geschehene billigen, wenn
+sie sich auch davor entsetzet.  Du denkst?  O, denke mir den Weg der
+Freiheit aus!  Sprich, und naehre die Hoffnung der lebendigen Seele.
+
+Ferdinand.  Schweig'!  o schweige!  Du vermehrst mit jedem Worte meine
+Verzweiflung.  Hier ist kein Ausweg, kein Rat, keine Flucht.--Das quaelt
+mich, das greift und fasst mir wie mit Klauen die Brust.  Ich habe selbst
+das Netz zusammengezogen; ich kenne die strengen festen Knoten; ich weiss,
+wie jeder Kuehnheit, jeder List die Wege verrennt sind; ich fuehle mich
+mit dir und mit allen andern gefesselt.  Wuerde ich klagen, haette ich
+nicht alles versucht?  Zu seinen Fuessen habe ich gelegen, geredet und
+gebeten.  Er schickte mich hierher, um alles, was von Lebenslust und
+Freude in mir lebt, in diesem Augenblicke zu zerstoeren.
+
+Egmont.  Und keine Rettung?
+
+Ferdinand.  Keine!
+
+Egmont (mit dem Fusse stampfend).  Keine Rettung!--Suesses Leben!  schoene,
+freundliche Gewohnheit des Daseins und Wirkens!  von dir soll ich
+scheiden!  So gelassen scheiden!  Nicht im Tumulte der Schlacht, unter dem
+Geraeusch der Waffen, in der Zerstreuung des Getuemmels giebst du mir ein
+fluechtiges Lebewohl; du nimmst keinen eiligen Abschied, verkuerzest nicht
+den Augenblick der Trennung.  Ich soll deine Hand fassen, dir noch einmal
+in die Augen sehn, deine Schoene, deinen Wert recht lebhaft fuehlen, und
+dann mich entschlossen losreissen und sagen: Fahre hin!
+
+Ferdinand.  Und ich soll daneben stehn, zusehn, dich nicht halten, nicht
+hindern koennen!  O, welche Stimme reichte zur Klage!  Welches Herz
+floesse nicht aus seinen Banden vor diesem Jammer!
+
+Egmont.  Fasse dich!
+
+Ferdinand.  Du kannst dich fassen, du kannst entsagen, den schweren
+Schritt an der Hand der Notwendigkeit heldenmaessig gehn.  Was kann ich?
+Was soll ich?  Du ueberwindest dich selbst und uns; du ueberstehst; ich
+ueberlebe dich und mich selbst.  Bei der Freude des Mahls hab' ich mein
+Licht, im Getuemmel der Schlacht meine Fahne verloren.  Schal, verworren,
+trueb' scheint mir die Zukunft.
+
+Egmont.  Junger Freund, den ich durch ein sonderbares Schicksal zugleich
+gewinne und verliere, der fuer mich die Todesschmerzen empfindet, fuer
+mich leidet, sieh mich in diesen Augenblicken an; du verlierst mich nicht.
+War dir mein Leben ein Spiegel, in welchem du dich gerne betrachtetest,
+so sei es auch mein Tod.  Die Menschen sind nicht nur zusammen, wenn sie
+beisammen sind; auch der Entfernte, der Abgeschiedene lebt uns.  Ich lebe
+dir, und habe mir genug gelebt.  Eines jeden Tages hab' ich mich gefreut;
+an jedem Tage mit rascher Wirkung meine Pflicht gethan, wie mein Gewissen
+mir sie zeigte.  Nun endigt sich das Leben, wie es sich frueher, frueher,
+schon auf dem Sande von Gravelingen haette endigen koennen.  Ich hoere auf
+zu leben; aber ich habe gelebt.  So leb' auch du, mein Freund, gern und
+mit Lust, und scheue den Tod nicht.
+
+Ferdinand.  Du haertest dich fuer uns erhalten koennen, erhalten sollen.
+Du hast dich selber getoetet.  Oft hoert' ich, wenn kluge Maenner ueber
+dich sprachen, feindselige, wohlwollende, sie stritten lang ueber deinen
+Wert; doch endlich vereinigten sie sich, keiner wagt' es zu leugnen, jeder
+gestand: ja, er wandelt einen gefaehrlichen Weg.  Wie oft wuenscht' ich,
+dich warnen zu koennen!  Hattest du denn keine Freunde?
+
+Egmont.  Ich war gewarnt.
+
+Ferdinand.  Und wie ich punktweise alle diese Beschuldigungen wieder in
+der Anklage fand, und deine Antworten!  Gut genug, dich zu entschuldigen;
+nicht triftig genug, dich von der Schuld zu befreien.-Egmont.  Dies sei
+beiseite gelegt.  Es glaubt der Mensch sein Leben zu leiten, sich selbst
+zu fuehren; und sein Innerstes wird unwiderstehlich nach seinem Schicksale
+gezogen.  Lass uns darueber nicht sinnen; dieser Gedanken entschlag' ich
+mich leicht--schwerer der Sorge fuer dieses Land; doch auch dafuer wird
+gesorgt sein.  Kann mein Blut fuer viele fliessen, meinem Volk Friede
+bringen, so fliesst es willig.  Leider wird's nicht so werden.  Doch es
+ziemt dem Menschen, nicht mehr zu gruebeln, wo er nicht mehr wirken soll.
+Kannst du die verderbende Gewalt deines Vaters aufhalten, lenken, so thu's.
+Wer wird das koennen?--Leb' wohl!
+
+Ferdinand.  Ich kann nicht gehn.
+
+Egmont.  Lass meine Leute dir aufs beste empfohlen sein!  Ich habe gute
+Menschen zu Dienern; dass sie nicht zerstreut, nicht ungluecklich werden!
+Wie steht es um Richard, meinen Schreiber?
+
+Ferdinand.  Er ist dir vorangegangen.  Sie haben ihn als Mitschuldigen des
+Hochverrats enthauptet.
+
+Egmont.  Arme Seele!--Noch eins, und dann leb' wohl, ich kann nicht mehr.
+Was auch den Geist gewaltsam beschaeftigt, fordert die Natur zuletzt doch
+unwiderstehlich ihre Rechte; und wie ein Kind, umwunden von der Schlange,
+des erquickenden Schlafs geniesst, so legt der Muede sich noch einmal vor
+der Pforte des Todes nieder und ruht tief aus, als ob er einen weiten Weg
+zu wandern haette.--Noch eins.--Ich kenne ein Maedchen; du wirst sie nicht
+verachten, weil sie mein war.  Nun ich sie dir empfehle, sterb' ich ruhig.
+Du bist ein edler Mann; ein Weib, das den findet, ist geborgen.  Lebt
+mein alter Adolf?  ist er frei?
+
+Ferdinand.  Der muntre Greis, der Euch zu Pferde immer begleitete?
+
+Egmont.  Derselbe.
+
+Ferdinand.  Er lebt, er ist frei.
+
+Egmont.  Er weiss ihre Wohnung; lass dich von ihm fuehren, und lohn' ihm
+bis an sein Ende, dass er dir den Weg zu diesem Kleinode zeigt.--Leb wohl!
+
+Ferdinand.  Ich gehe nicht.
+
+Egmont (ihn nach der Thuer draengend).  Leb' wohl!
+
+Ferdinand.  O, lass mich noch!
+
+Egmont.  Freund, keinen Abschied!
+
+(Er begleitet Ferdinanden bis an die Thuer, und reisst sich dort von ihm
+los.  Ferdinand, betaeubt, entfernt sich eilend.)
+
+Egmont (allein).  Feindseliger Mann!  Du glaubtest nicht, mir diese
+Wohlthat durch deinen Sohn zu erzeigen.  Durch ihn bin ich der Sorgen los
+und der Schmerzen, der Furcht und jedes aengstlichen Gefuehls.  Sanft und
+dringend fordert die Natur ihren letzten Zoll.  Es ist vorbei, es ist
+beschlossen!  und was die letzte Nacht mich ungewiss auf meinem Lager
+wachend hielt, das schlaefert nun mit unbezwinglicher Gewissheit meine
+Sinnen ein.
+
+(Er setzt sich aufs Ruhebett.  Musik.)
+
+Suesser Schlaf!  Du kommst wie ein reines Glueck, ungebeten, unerfleht am
+willigsten.  Du loesest die Knoten der strengen Gedanken, vermischest alle
+Bilder der Freude und des Schmerzes; ungehindert fliesst der Kreis innerer
+Harmonieen, und, eingehuellt in gefaelligen Wahnsinn, versinken wir und
+hoeren auf, zu sein.
+
+(Er entschlaeft; die Musik begleitet seinen Schlummer.  Hinter seinem
+Lager scheint sich die Mauer zu eroeffnen, eine glaenzende Erscheinung
+zeigt sich.  Die Freiheit in himmlischem Gewande, von einer Klarheit
+umflossen, ruht auf einer Wolke.  Sie hat die Zuege von Klaerchen, und
+neigt sich gegen den schlafenden Helden.  Sie drueckt eine bedauernde
+Empfindung aus, sie scheint ihn zu beklagen.  Bald fasst sie sich, und mit
+aufmunternder Gebaerde zeigt sie ihm das Buendel Pfeile, dann den Stab mit
+dem Hute.  Sie heisst ihn froh sein, und indem sie ihm andeutet, dass sein
+Tod den Provinzen die Freiheit verschaffen werde, erkennt sie ihn als
+Sieger und reicht ihm einen Lorbeerkranz.  Wie sie sich mit dem Kranze dem
+Haupte nahet, macht Egmont eine Bewegung, wie einer, der sich im Schlafe
+regt, dergestalt, dass er mit dem Gesicht aufwaerts gegen sie liegt.  Sie
+haelt den Kranz ueber seinem Haupte schwebend; man hoert ganz von weitem
+eine kriegerische Musik von Trommeln und Pfeifen; bei dem leisesten Laut
+derselben verschwindet die Erscheinung.  Der Schall wird staerker.  Egmont
+erwacht; das Gefaengnis wird vom Morgen maessig erhellt.  Seine erste
+Bewegung ist, nach dem Haupte zu greifen; er steht auf und sieht sich um,
+indem er die Hand auf dem Haupte behaelt.)
+
+Verschwunden ist der Kranz!  Du schoenes Bild, das Licht des Tages hat
+dich verscheuchet!  Ja, sie waren's, sie waren vereint, die beiden
+suessesten Freuden meines Herzens.  Die goettliche Freiheit, von meiner
+Geliebten borgte sie die Gestalt; das reizende Maedchen kleidete sich in
+der Freundin himmlisches Gewand.  In einem ernsten Augenblick erscheinen
+sie vereinigt, ernster als lieblich.  Mit blutbefleckten Sohlen trat sie
+vor mir auf, die wehenden Falten des Saumes mit Blut befleckt.  Es war
+mein Blut und vieler Edeln Blut.  Nein, es ward nicht umsonst vergossen.
+Schreitet durch!  Braves Volk!  Die Siegesgoettin fuehrt dich an!  Und wie
+das Meer durch eure Daemme bricht, so brecht, so reisst den Wall der
+Tyrannei zusammen, und schwemmt ersaeufend sie von ihrem Grunde, den sie
+sich anmasst, weg!
+
+(Trommeln naeher.)
+
+Horch!  Horch!  Wie oft rief mich dieser Schall zum freien Schritt nach
+dem Felde des Streits und des Siegs!  Wie munter traten die Gefaehrten auf
+der gefaehrlichen, ruehmlichen Bahn!  Auch ich schreite einem ehrenvollen
+Tode aus diesem Kerker entgegen; ich sterbe fuer die Freiheit, fuer die
+ich lebte und focht, und der ich mich jetzt leidend opfre.
+
+(Der Hintergrund wird mit einer Reihe spanischer Soldaten besetzt, welche
+Hellebarden tragen.)
+
+Ja, fuehrt sie nur zusammen!  Schliesst eure Reihen, ihr schreckt mich
+nicht.  Ich bin gewohnt, vor Speeren gegen Speere zu stehn, und, rings
+umgeben von dem drohenden Tod, das mutige Leben nur doppelt rasch zu
+fuehlen.
+
+(Trommeln.)
+
+Dich schliesst der Feind von allen Seiten ein!  Es blinken Schwerter;
+Freunde, hoehern Mut!  Im Ruecken habt ihr Eltern, Weiber, Kinder!
+
+(Auf die Wache zeigend.)
+
+Und diese treibt ein hohles Wort des Herrschers, nicht ihr Gemuet.
+Schuetzt eure Gueter!  Und euer Liebstes zu erretten, fallt freudig, wie
+ich euch ein Beispiel gebe.
+
+(Trommeln.  Wie er auf die Wache los und auf die Hinterthuer zugeht,
+faellt der Vorhang; die Musik faellt ein und schliesst mit einer
+Siegessymphonie das Stueck.)
+
+
+
+
+
+Ende dieses Projekt Gutenberg Etextes "Egmont" von Goethe.
+End of Project Gutenberg Etext of Egmont, by Johann Wolfgang von Goethe
+

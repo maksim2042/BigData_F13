@@ -10,6 +10,8 @@ from StringIO import StringIO
 
 from gutenberg import urls
 
+mongo_uri = "mongodb://css739:css739@ds047468.mongolab.com:47468/guten_index"
+
 ### don't forget to set your own API key and secret in cloud_config.py
 from cloud_config import *
 cloud.setkey(key,secret)
@@ -52,11 +54,14 @@ def url_chunker(url, chunksize=1024):
         chunks.append(text)
         
     jobids = cloud.map(wordcount, [(url,c) for c in chunks])
-    cloud.join(jobids)
+    cloud.join(jobids,deadlock_check=False)
     results = cloud.result(jobids)
     
     index=reduce_results(results)
-    return index
+    
+    mongo_insert(index)
+    
+    return "OK"
 
 def wordcount(chunk):
     """
@@ -116,12 +121,12 @@ def mongo_insert(index):
     """
     Inserts indexes into MongoDB
     """
-    conn=pymongo.connection.MongoClient(host='localhost')
-    db=conn.test
+    conn=pymongo.connection.MongoClient(host=mongo_uri)
+    db=conn.guten_index
     for word,i in index.iteritems():
         print word, i
         try:
-            db.shakespeare.save({'word':unicode(word),'index':list(i.iteritems())})
+            db.gutenberg.save({'word':unicode(word),'index':list(i.iteritems())})
         except UnicodeDecodeError:
             print(":-P")
             pass
@@ -150,8 +155,8 @@ def search(text, numresults=10):
 from shakespeare import shakespeare
 urls = ['http://www.gutenberg.lib.md.us/etext00/0'+u+'.txt' for u in shakespeare]
 
-jids=cloud.map(url_chunker,urls)
-cloud.join(jids)
-res=cloud.result(job_ids)
-index=super_reducer(res)
-mongo_inser(index)
+#jids=cloud.map(url_chunker,urls)
+#cloud.join(jids)
+#res=cloud.result(job_ids)
+#index=super_reducer(res)
+#mongo_inser(index)

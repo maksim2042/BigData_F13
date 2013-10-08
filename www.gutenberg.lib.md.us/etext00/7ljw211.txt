@@ -1,0 +1,2815 @@
+Project Gutenberg Etext of Die Leiden des jungen Werther--Buch 2
+by Johann Wolfgang von Goethe
+#27 in our series by Johann Wolfgang von Goethe
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfuegung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg.aol.de erreichbar.
+
+This work contains 7 bit extended ASCII characters to represent
+certain special German characters.  An alternate 8 bit version of
+this text which does use the high order ASCII characters is also
+available in this format.
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Title:  Die Leiden des jungen Werther--Buch 2
+
+Author:  Johann Wolfgang von Goethe
+
+Release date:  November, 2000  [Etext #2408]
+
+Language:  German
+
+
+Project Gutenberg Etext of Die Leiden des jungen Werther--Buch 2
+******This file should be named 7ljw211.txt or 7ljw211.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 7ljw212.txt
+VERSIONS based on separate sources get new LETTER, 7ljw211a.txt
+
+
+This etext was prepared by Michael Pullen, globaltraveler5565@yahoo.com
+and proofread by Dr. Mary Cicora, mcicora@yahoo.com.
+
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+We are now trying to release all our books one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to send us error messages even years after
+the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net
+http://promo.net/pg
+
+
+Those of you who want to download any Etext before announcement
+can surf to them as follows, and just download by date; this is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03
+or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release fifty new Etext
+files per month, or 500 more Etexts in 2000 for a total of 3000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts unless we
+manage to get some real funding.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of June 1, 2001 contributions are only being solicited from people in:
+Arkansas, Colorado, Connecticut, Delaware, Hawaii, Idaho, Indiana,
+Iowa, Kansas, Louisiana, Maine, Massachusetts, Minnesota, Missouri,
+Montana, Nebraska, Nevada, New Jersey, New York, Ohio, Oklahoma,
+Oregon, Rhode Island, South Carolina, South Dakota, Tennessee,
+Texas, Vermont, Virginia, Washington, West Virginia, and Wyoming.
+
+We have filed in about 45 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met,
+additions to this list will be made and fund raising
+will begin in the additional states.  Please feel
+free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork
+to legally request donations in all 50 states.  If
+your state is not listed and you would like to know
+if we have added it since the list you have, just ask.
+
+While we cannot solicit donations from people in
+states where we are not yet registered, we know
+of no prohibition against accepting donations
+from donors in these states who approach us with
+an offer to donate.
+
+
+International donations are accepted,
+but we don't know ANYTHING about how
+to make them tax-deductible, or
+even if they CAN be made deductible,
+and don't have the staff to handle it
+even if there are ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541,
+and has been approved as a 501(c)(3) organization by the US Internal
+Revenue Service (IRS).  Donations are tax-deductible to the maximum
+extent permitted by law.  As the requirements for other states are met,
+additions to this list will be made and fund raising will begin in the
+additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+***
+
+
+Example command-line FTP session:
+
+ftp ftp.ibiblio.org
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 or etext00 through etext02, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may 
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the 
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.  
+
+The Project gratefully accepts contributions of money, time, 
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.06/12/01*END*
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
+
+
+
+
+
+This etext was prepared by Michael Pullen, globaltraveler5565@yahoo.com
+and proofread by Dr. Mary Cicora, mcicora@yahoo.com.
+
+
+
+
+
+Die Leiden des jungen Werther
+von Johann Wolfgang von Goethe.
+
+
+Hamburger Ausgabe, Band 6
+
+
+
+
+Zweites Buch
+
+
+Am 20. Oktober 1771
+
+Gestern sind wir hier angelangt.  Der Gesandte ist unpass und wird sich
+also einige Tage einhalten.  Wenn er nur nicht so unhold waere, waer'
+alles gut.  Ich merke, ich merke, das Schicksal hat mir harte
+Pruefungen zugedacht.  Doch guten Muts!  Ein leichter Sinn traegt alles!
+Ein leichter Sinn?  Das macht mich zu lachen, wie das Wort in meine
+Feder kommt.  O ein bisschen leichteres Blut wuerde mich zum
+Gluecklichsten unter der Sonne machen.  Was!  Da, wo andere mit ihrem
+bisschen Kraft und Talent vor mir in behaglicher Selbstgefaelligkeit
+herumschwadronieren, verzweifle ich an meiner Kraft, an meinen Gaben?
+Guter Gott, der du mir das alles schenktest, warum hieltest du nicht
+die Haelfte zurueck und gabst mir Selbstvertrauen und Genuegsamkeit?
+
+Geduld!  Geduld!  Es wird besser werden.  Denn ich sage dir, Lieber,
+du hast recht.  Seit ich unter dem Volke alle Tage herumgetrieben
+werde und sehe, was sie tun und wie sie's treiben, stehe ich viel
+besser mit mir selbst.  Gewiss, weil wir doch einmal so gemacht sind,
+dass wir alles mit uns und uns mit allem vergleichen, so liegt Glueck
+oder Elend in den Gegenstaenden, womit wir uns zusammenhalten, und da
+ist nichts gefaehrlicher als die Einsamkeit.  Unsere Einbildungskraft,
+durch ihre Natur gedrungen sich zu erheben, durch die phantastischen
+Bilder der Dichtkunst genaehrt, bildet sich eine Reihe Wesen hinauf, wo
+wir das unterste sind und alles ausser uns herrlicher erscheint, jeder
+andere vollkommner ist.  Und das geht ganz natuerlich zu.  Wir fuehlen
+so oft, dass uns manches mangelt, und eben was uns fehlt, scheint uns
+oft ein anderer zu besitzen, dem wir denn auch alles dazu geben, was
+wir haben, und noch eine gewisse idealistische Behaglichkeit dazu.  Und
+so ist der Glueckliche vollkommen fertig, das Geschoepf unserer selbst.
+
+Dagegen, wenn wir mit all unserer Schwachheit und Muehseligkeit nur
+gerade fortarbeiten, so finden wir gar oft, dass wir mit unserem
+Schlendern und Lavieren es weiter bringen als andere mit ihrem Segeln
+und Rudern--und--das ist doch ein wahres Gefuehl seiner selbst, wenn
+man andern gleich oder gar vorlaeuft.
+
+
+Am 26. November
+
+Ich fange an, mich insofern ganz leidlich hier zu befinden.  Das beste
+ist, dass es zu tun genug gibt; und dann die vielerlei Menschen, die
+allerlei neuen Gestalten machen mir ein buntes Schauspiel vor meiner
+Seele.  Ich habe den Grafen C...  kennen lernen, einen Mann, den ich
+jeden Tag mehr verehren muss, einen weiten, grossen Kopf, und der
+deswegen nicht kalt ist, weil er viel uebersieht; aus dessen Umgange so
+viel Empfindung fuer Freundschaft und Liebe hervorleuchtet.  Er nahm
+teil an mir, als ich einen Geschaeftsauftrag an ihn ausrichtete und er
+bei den ersten Worten merkte, dass wir uns verstanden, dass er mit mir
+reden konnte wie nicht mit jedem.  Auch kann ich sein offnes Betragen
+gegen mich nicht genug ruehmen.  So eine wahre, warme Freude ist nicht
+in der Welt, als eine grosse Seele zu sehen, die sich gegen einen
+oeffnet.
+
+
+Am 24. Dezember
+
+Der Gesandte macht mir viel Verdruss, ich habe es vorausgesehn.  Er ist
+der puenktlichste Narr, den es nur geben kann; Schritt vor Schritt und
+umstaendlich wie eine Base; ein Mensch, der nie mit sich selbst
+zufrieden ist, und dem es daher niemand zu Danke machen kann.  Ich
+arbeite gern leicht weg, und wie es steht, so steht es; da ist er
+imstande, mir einen Aufsatz zurueckzugeben und zu sagen:"er ist gut,
+aber sehen Sie ihn durch, man findet immer ein besseres Wort, eine
+reinere Partikel."--Da moechte ich des Teufels werden.  Kein Und, kein
+Bindewoertchen darf aussenbleiben, und von allen Inversionen, die mir
+manchmal entfahren, ist er ein Todfeind; wenn man seinen Period nicht
+nach der hergebrachten Melodie heraborgelt, so versteht er gar nichts
+drin.  Das ist ein Leiden, mit so einem Menschen zu tun zu haben.
+
+Das Vertrauen des Grafen von C... ist noch das einzige, was mich
+schadlos haelt.  Er sagte mir letzthin ganz aufrichtig, wie unzufrieden
+er mit der Langsamkeit und Bedenklichkeit meines Gesandten sei.  Die
+Leute erschweren es sich und andern.  "Doch," sagte er, "man muss sich
+darein resignieren wie ein Reisender, der ueber einen Berg muss;
+freilich, waere der Berg nicht da, so waer der Weg viel bequemer und
+kuerzer; er ist nun aber da, und man soll hinueber!"
+
+Mein Alter spuert auch wohl den Vorzug, den mir der Graf vor ihm gibt,
+und das aergert ihn, und er ergreift jede Gelegenheit, UEbels gegen mich
+vom Grafen zu reden, ich halte, wie natuerlich, Widerpart, und dadurch
+wird die Sache nur schlimmer.  Gestern gar brachte er mich auf, denn
+ich war mit gemeint: zu so Weltgeschaeften sei der Graf ganz gut, er
+habe viele Leichtigkeit zu arbeiten und fuehre eine gute Feder, doch an
+gruendlicher Gelehrsamkeit mangle es ihm wie allen Belletristen.  Dazu
+machte er eine Miene, als ob er sagen wollte: "fuehlst du den
+Stich?"  Aber es tat bei mir nicht die Wirkung; ich verachtete den
+Menschen, der so denken und sich so betragen konnte.  Ich hielt ihm
+stand und focht mit ziemlicher Heftigkeit.  Ich sagte, der Graf sei
+ein Mann, vor dem man Achtung haben muesse, wegen seines Charakters
+sowohl als wegen seiner Kenntnisse."  "Ich habe," sagt' ich, "niemand
+gekannt, dem es so geglueckt waere, seinen Geist zu erweitern, ihn ueber
+unzaehlige Gegenstaende zu verbreiten und doch diese Taetigkeit fuers
+gemeine Leben zu behalten."--das waren dem Gehirne spanische Doerfer,
+und ich empfahl mich, um nicht ueber ein weiteres Deraisonnement noch
+mehr Galle zu schlucken.
+
+Und daran seid ihr alle schuld, die ihr mich in das Joch geschwatzt
+und mir so viel von Aktivitaet vorgesungen habt.  Aktivitaet!  Wenn
+nicht der mehr tut, der Kartoffeln legt und in die Stadt reitet, sein
+Korn zu verkaufen, als ich, so will ich zehn Jahre noch mich auf der
+Galeere abarbeiten, auf der ich nun angeschmiedet bin.
+
+Und das glaenzende Elend, die Langeweile unter dem garstigen Volke, das
+sich hier neben einander sieht!  Die Rangsucht unter ihnen, wie sie
+nur wachen und aufpassen, einander ein Schrittchen abzugewinnen; die
+elendesten, erbaermlichsten Leidenschaften, ganz ohne Roeckchen.  Da ist
+ein Weib, zum Exempel, die jedermann von ihrem Adel und ihrem Lande
+unterhaelt, so dass jeder Fremde denken muss: das ist eine Naerrin, die
+sich auf das bisschen Adel und auf den Ruf ihres Landes Wunderstreiche
+einbildet.--Aber es ist noch viel AErger: eben das Weib ist hier aus
+der Nachbarschaft eine Amtschreiberstochter.--Sieh, ich kann das
+Menschengeschlecht nicht begreifen, das so wenig Sinn hat, um sich so
+platt zu prostituieren.
+
+Zwar ich merke taeglich mehr, mein Lieber, wie toericht man ist, andere
+nach sich zu berechnen.  Und weil ich so viel mit mir selbst zu tun
+habe und dieses Herz so stuermisch ist--ach ich lasse gern die andern
+ihres Pfades gehen, wenn sie mich auch nur koennten gehen lassen.
+
+Was mich am meisten neckt, sind die fatalen buergerlichen Verhaeltnisse.
+Zwar weiss ich so gut als einer, wie noetig der Unterschied der Staende
+ist, wie viel Vorteile er mir selbst verschafft: nur soll er mir nicht
+eben gerade im Wege stehen, wo ich noch ein wenig Freude, einen
+Schimmer von Glueck auf dieser Erde geniessen koennte.  Ich lernte
+neulich auf dem Spaziergange ein Fraeulein von B. kennen, ein
+liebenswuerdiges Geschoepf, das sehr viele Natur mitten in dem steifen
+Leben erhalten hat.  Wir gefielen uns in unserem Gespraeche, und da wir
+schieden, bat ich sie um Erlaubnis, sie bei sich sehen zu duerfen.  Sie
+gestattete mir das mit so vieler Freimuetigkeit, dass ich den
+schicklichen Augenblick kaum erwarten konnte, zu ihr zu gehen.  Sie
+ist nicht von hier und wohnt bei einer Tante im Hause.  Die
+Physiognomie der Alten gefiel mir nicht.  Ich bezeigte ihr viel
+Aufmerksamkeit, mein Gespraech war meist an sie gewandt, und in minder
+als einer halben Stunde hatte ich so ziemlich weg, was mir das
+Fraeulein nachher selbst gestand: dass die liebe Tante in ihrem Alter
+Mangel von allem, kein anstaendiges Vermoegen, keinen Geist und keine
+Stuetze hat als die Reihe ihrer Vorfahren, keinen Schirm als den Stand,
+in den sie sich verpalisadiert, und kein Ergetzen, als von ihrem
+Stockwerk herab ueber die buergerlichen Haeupter wegzusehen.  In ihrer
+Jugend soll sie schoen gewesen sein und ihr Leben weggegaukelt, erst
+mit ihrem Eigensinne manchen armen Jungen gequaelt, und in den reifern
+Jahren sich unter den Gehorsam eines alten Offiziers geduckt haben,
+der gegen diesen Preis und einen leidlichen Unterhalt das eherne
+Jahrhundert mit ihr zubrachte und starb.  Nun sieht sie im eisernen
+sich allein und wuerde nicht angesehn, waer' ihre Nichte nicht so
+liebenswuerdig.
+
+
+Den 8. Januar 1772
+
+Was das fuer Menschen sind, deren ganze Seele auf dem Zeremoniell ruht,
+deren Dichten und Trachten jahrelang dahin geht, wie sie um einen
+Stuhl weiter hinauf bei Tische Angelegenheit haetten: nein, vielmehr
+haeufen sich die Arbeiten, eben weil man ueber den kleinen
+Verdriesslichkeiten von Befoerderung der wichtigen Sachen abgehalten
+wird.  Vorige Woche gab es bei der Schlittenfahrt Haendel, und der
+ganze Spass wurde verdorben.
+
+Die Toren, die nicht sehen, dass es eigentlich auf den Platz gar nicht
+ankommt, und dass der, der den ersten hat, so selten die erste Rolle
+spielt!  Wie mancher Koenig wird durch seinen Minister, wie mancher
+Minister durch seinen Sekretaer regiert!  Und wer ist dann der Erste?
+Der, duenkt mich, der die andern uebersieht und so viel Gewalt oder List
+hat, ihre Kraefte und Leidenschaften zu Ausfuehrung seiner Plane
+anzuspannen.
+
+
+Am 20. Januar
+
+Ich muss Ihnen schreiben, liebe Lotte, hier in der Stube einer geringen
+Bauernherberge, in die ich mich vor einem schweren Wetter gefluechtet
+habe.  Solange ich in dem traurigen Nest D..., unter dem fremden,
+meinem Herzen ganz fremden Volke herumziehe, habe ich keinen
+Augenblick gehabt, keinen, an dem mein Herz mich geheissen haette, Ihnen
+zu schreiben; und jetzt in dieser Huette, in dieser Einsamkeit, in
+dieser Einschraenkung, da Schnee und Schlossen wider mein Fensterchen
+wueten, hier waren Sie mein erster Gedanke.  Wie ich hereintrat,
+ueberfiel mich Ihre Gestalt, Ihr Andenken, o Lotte!  So heilig, so warm!
+Guter Gott!  Der erste glueckliche Augenblick wieder.
+
+Wenn Sie mich saehen, meine Beste, in dem Schwall von Zerstreuung!  Wie
+ausgetrocknet meine Sinne werden!  Nicht einen Augenblick der Fuelle
+des Herzens, nicht eine selige Stunde!  Nichts!  Nichts!  Ich stehe
+wie vor einem Raritaetenkasten und sehe die Maennchen und Gaeulchen vor
+mir herumruecken, und frage mich oft, ob es nicht optischer Betrug ist.
+Ich spiele mit, vielmehr, ich werde gespielt wie eine Marionette und
+fasse manchmal meinen Nachbar an der hoelzernen Hand und schaudere
+zurueck.  Des Abends nehme ich mir vor, den Sonnenaufgang zu geniessen,
+und komme nicht aus dem Bette; am Tage hoffe ich, mich des Mondscheins
+zu erfreuen, und bleibe in meiner Stube.  Ich weiss nicht recht, warum
+ich aufstehe, warum ich schlafen gehe.
+
+Der Sauerteig, der mein Leben in Bewegung setzte, fehlt; der Reiz, der
+mich in tiefen Naechten munter erhielt, ist hin, der mich des Morgens
+aus dem Schlafe weckte, ist weg.
+
+Ein einzig weibliches Geschoepf habe ich hier gefunden, eine Fraeulein
+von B..., sie gleicht Ihnen, liebe Lotte, wenn man Ihnen gleichen
+kann."  "Ei!" werden Sie sagen, "der Mensch legt sich auf niedliche
+Komplimente!" ganz unwahr ist es nicht.  Seit einiger Zeit bin ich
+sehr artig, weil ich doch nicht anders sein kann, habe viel Witz, und
+die Frauenzimmer sagen, es wuesste niemand so fein zu loben als ich (und
+zu luegen, setzen Sie hinzu, denn ohne das geht es nicht ab, verstehen
+Sie?).  Ich wollte von Fraeulein B... reden.  Sie hat viel Seele, die
+voll aus ihren blauen Augen hervorblickt.  Ihr Stand ist ihr zur Last,
+der keinen der Wuensche ihres Herzens befriedigt.  Sie sehnt sich aus
+dem Getuemmel, und wir verphantasieren manche Stunde in laendlichen
+Szenen von ungemischter Glueckseligkeit; ach! und von Ihnen!  Wie oft
+muss sie Ihnen huldigen, muss nicht, tut es freiwillig, hoert so gern von
+Ihnen, liebt Sie.--O saess' ich zu Ihren Fuessen in dem lieben,
+vertraulichen Zimmerchen, und unsere kleinen Lieben waelzten sich mit
+einander um mich herum, und wenn sie Ihnen zu laut wuerden, wollte ich
+sie mit einem schauerlichen Maerchen um mich zur Ruhe versammeln.
+
+Die Sonne geht herrlich unter ueber der schneeglaenzenden Gegend, der
+Sturm ist hinueber gezogen, und ich--muss mich wieder in meinen Kaefig
+sperren.--Adieu!  Ist Albert bei Ihnen?  Und wie--?  Gott verzeihe mir
+diese Frage!
+
+
+Den 8. Februar
+
+Wir haben seit acht Tagen das abscheulichste Wetter, und mir ist es
+wohltaetig.  Denn so lang ich hier bin, ist mir noch kein schoener Tag
+am Himmel erschienen, den mir nicht jemand verdorben oder verleidet
+haette.  Wenn's nun recht regnet und stoebert und froestelt und taut: ha!
+Denk' ich, kann's doch zu Hause nicht schlimmer werden, als es
+draussen ist, oder umgekehrt, und so ist's gut.  Geht die Sonne des
+Morgens auf und verspricht einen feinen Tag, erwehr' ich mir niemals
+auszurufen: da haben sie doch wieder ein himmlisches Gut, worum sie
+einander bringen koennen!  Es ist nichts, worum sie einander nicht
+bringen.  Gesundheit, guter Name, Freudigkeit, Erholung!  Und meist
+aus Albernheit, Unbegriff und Enge und, wenn man sie anhoert, mit der
+besten Meinung.  Manchmal moecht' ich sie auf den Knieen bitten, nicht
+so rasend in ihre eigenen Eingeweide zu wueten.
+
+
+Am 17. Februar
+
+Ich fuerchte, mein Gesandter und ich halten es zusammen nicht mehr
+lange aus.  Der Mann ist ganz und gar unertraeglich.  Seine Art zu
+arbeiten und Geschaefte zu treiben ist so laecherlich, dass ich mich
+nicht enthalten kann, ihm zu widersprechen und oft eine Sache nach
+meinem Kopf und meiner Art zu machen, das ihm denn, wie natuerlich,
+niemals recht ist.  Darueber hat er mich neulich bei Hofe verklagt, und
+der Minister gab mir einen zwar sanften Verweis, aber es war doch ein
+Verweis, und ich stand im Begriffe, meinen Abschied zu begehren, als
+ich einen Privatbrief von ihm erhielt, einen Brief, vor dem ich
+niedergekniet, und den hohen, edlen, weisen Sinn angebetet habe.  Wie
+er meine allzu grosse Empfindlichkeit zurechtweiset, wie er meine
+ueberspannten Ideen von Wirksamkeit, von Einfluss auf andere, von
+Durchdringen in Geschaeften als jugendlichen guten Mut zwar ehrt, sie
+nicht auszurotten, nur zu mildern und dahin zu leiten sucht, wo sie
+ihr wahres Spiel haben, ihre kraeftige Wirkung tun koennen.  Auch bin
+ich auf acht Tage gestaerkt und in mir selbst einig geworden.  Die Ruhe
+der Seele ist ein herrliches Ding und die Freude an sich selbst.
+Lieber Freund, wenn nur das Kleinod nicht eben so zerbrechlich waere,
+als es schoen und kostbar ist.
+
+
+Am 20. Februar
+
+Gott segne euch, meine Lieben, geb' euch alle die guten Tage, die er
+mir abzieht!
+
+Ich danke dir, Albert, dass du mich betrogen hast: ich wartete auf
+Nachricht, wann euer Hochzeitstag sein wuerde, und hatte mir
+vorgenommen, feierlichst an demselben Lottens Schattenriss von der Wand
+zu nehmen und ihn unter andere Papiere zu begraben.  Nun seid ihr ein
+Paar, und ihr Bild ist noch hier!  Nun, so soll es bleiben!  Und warum
+nicht?  Ich weiss, ich bin ja auch bei euch, bin dir unbeschadet in
+Lottens Herzen, habe, ja ich habe den zweiten Platz darin und will und
+muss ihn behalten.  O ich wuerde rasend werden, wenn sie vergessen
+koennte--Albert, in dem Gedanken liegt eine Hoelle.  Albert, leb' wohl!
+Leb' wohl, Engel des Himmels!  Leb' wohl, Lotte!
+
+
+Den 15. Maerz
+
+Ich habe einen Verdruss gehabt, der mich von hier wegtreiben wird.  Ich
+knirsche mit den Zaehnen!  Teufel!  Er ist nicht zu ersetzen, und ihr
+seid doch allein schuld daran, die ihr mich sporntet und treibt und
+quaeltet, mich in einen Posten zu begeben, der nicht nach meinem Sinne
+war.  Nun habe ich's!  Nun habt ihr's!  Und dass du nicht wieder sagst,
+meine ueberspannten Ideen verduerben alles, so hast du hier, lieber Herr,
+eine Erzaehlung, plan und nett, wie ein Chronikenschreiber das
+aufzeichnen wuerde.
+
+Der Graf von C... liebt mich, distinguiert mich, das ist bekannt, das
+habe ich dir schon hundertmal gesagt.  Nun war ich gestern bei ihm zu
+Tafel, eben an dem Tage, da abends die noble Gesellschaft von Herren
+und Frauen bei ihm zusammenkommt, an die ich nie gedacht habe, auch
+mir nie aufgefallen ist, dass wir Subalternen nicht hineingehoeren.  Gut.
+Ich speise bei dem Grafen, und nach Tische gehn wir in dem grossen
+Saal auf und ab, ich rede mit ihm, mit dem Obristen B..., der dazu
+kommt, und so rueckt die Stunde der Gesellschaft heran.  Ich denke,
+Gott weiss, an nichts.  Da tritt herein die uebergnaedige Dame von S...
+mit ihrem Herrn Gemahl und wohl ausgebrueteten Gaenslein Tochter mit der
+flachen Brust und niedlichem Schnuerleibe, machen en passant ihre
+hergebrachten, hochadeligen Augen und Nasloecher, und wie mir die
+Nation von Herzen zuwider ist, wollte ich mich eben empfehlen und
+wartete nur, bis der Graf vom garstigen Gewaesche frei waere, als meine
+Fraeulein B. hereintrat.  Da mir das Herz immer ein bisschen aufgeht,
+wenn ich sie sehe, blieb ich eben, stellte mich hinter ihren Stuhl und
+bemerkte erst nach einiger Zeit, dass sie mit weniger Offenheit als
+sonst, mit einiger Verlegenheit mit mir redete.  Das fiel mir auf.
+Ist sie auch wie all das Volk, dacht' ich, und war angestochen und
+wollte gehen, und doch blieb ich, weil ich sie gerne entschuldigt
+haette und es nicht glaubte und noch ein gut Wort von ihr hoffte
+und--was du willst.  Unterdessen fuellte sich die Gesellschaft.  Der
+Baron F. mit der ganzen Garderobe von den Kroenungszeiten Franz des
+Ersten her, der Hofrat R..., hier aber in qualitate Herr von R...
+genannt, mit seiner tauben Frau etc., den UEbel fournierten J... nicht
+zu vergessen, der die Luecken seiner altfraenkischen Garderobe mit
+neumodischen Lappen ausflickt, das kommt zu Hauf, und ich rede mit
+einigen meiner Bekanntschaft, die alle sehr lakonisch sind.  Ich
+dachte--und gab nur auf meine B... acht.  Ich merkte nicht, dass die
+Weiber am Ende des Saales sich in die Ohren fluesterten, dass es auf die
+Maenner zirkulierte, dass Frau von S. mit dem Grafen redete (das alles
+hat mir Fraeulein B. nachher erzaehlt), bis endlich der Graf auf mich
+losging und mich in ein Fenster nahm.--"Sie wissen", sagt' er, "unsere
+wunderbaren Verhaeltnisse; die Gesellschaft ist unzufrieden, merkte ich,
+Sie hier zu sehn.  Ich wollte nicht um alles"--"Ihro Exzellenz," fiel
+ich ein, "ich bitte tausendmal um Verzeihung; ich haette eher dran
+denken sollen, und ich weiss, Sie vergeben mir diese Inkonsequenz; ich
+wollte schon vorhin mich empfehlen.  Ein boeser Genius hat mich
+zurueckgehalten."  Setzte ich laechelnd hinzu, indem ich mich neigte.
+--Der Graf drueckte meine Haende mit einer Empfindung, die alles sagte.
+Ich strich mich sacht aus der vornehmen Gesellschaft, ging, setzte
+mich in ein Kabriolett und fuhr nach M., dort vom Huegel die Sonne
+untergehen zu sehen und dabei in meinem Homer den herrlichen Gesang zu
+lesen, wie Ulyss von dem trefflichen Schweinehirten bewirtet wird.  Das
+war alles gut.
+
+Des Abends komm' ich zurueck zu Tische, es waren noch wenige in der
+Gaststube; die wuerfelten auf einer Ecke, hatten das Tischtuch
+zurueckgeschlagen.  Da kommt der ehrliche Adelin hinein, legt seinen
+Hut nieder, indem er mich ansieht, tritt zu mir und sagt leise:"du
+hast Verdruss gehabt?"--"Ich?" sagt' ich.--"Der Graf hat dich aus der
+Gesellschaft gewiesen."--"Hol' sie der Teufel!" sagt' ich, "mir war's
+lieb, dass ich in die freie Luft kam."--"Gut," sagt' er, "dass du's auf
+die leichte Achsel nimmst.  Nur verdriesst mich's, es ist schon ueberall
+herum."--Da fing mich das Ding erst an zu wurmen.  Alle, die zu Tisch
+kamen und mich ansahen, dachte ich, die sehen dich darum an!  Das gab
+boeses Blut.
+
+Und da man nun heute gar, wo ich hintrete, mich bedauert, da ich hoere,
+dass meine Neider nun triumphieren und sagen: da saehe man's, wo es mit
+den UEbermuetigen hinausginge, die sich ihres bisschen Kopfs ueberhoeben
+und glaubten, sich darum ueber alle Verhaeltnisse hinaussetzen zu duerfen,
+und was des Hundegeschwaetzes mehr ist--da moechte man sich ein Messer
+ins Herz bohren; denn man rede von Selbstaendigkeit was man will, den
+will ich sehen, der dulden kann, dass Schurken ueber ihn reden, wenn sie
+einen Vorteil ueber ihn haben; wenn ihr Geschwaetze leer ist, ach da
+kann man sie leicht lassen.
+
+
+Am 16. Maerz
+
+Es hetzt mich alles.  Heut' treff' ich die Fraeulein B... in der
+Allee, ich konnte mich nicht enthalten, sie anzureden und ihr, sobald
+wir etwas entfernt von der Gesellschaft waren, meine Empfindlichkeit
+ueber ihr neuliches Betragen zu zeigen.--"O Werther," sagte sie mit
+einem innigen Tone, "konnten Sie meine Verwirrung so auslegen, da Sie
+mein Herz kennen?  Was ich gelitten habe um Ihretwillen, von dem
+Augenblicke an, da ich in den Saal trat!  Ich sah alles voraus,
+hundertmal sass mir's auf der Zunge, es Ihnen zu sagen.  Ich wusste,
+dass die von S... und T... mit ihren Maennern eher aufbrechen wuerden,
+als in Ihrer Gesellschaft zu bleiben; ich wusste, dass der Graf es mit
+ihnen nicht verderben darf,--und jetzt der Laerm!"--"wie,
+Fraeulein?" sagt' ich und verbarg meinen Schrecken; denn alles, was
+Adelin mir ehegestern gesagt hatte, lief mir wie siedend Wasser durch
+die Adern in diesem Augenblicke.--"Was hat mich es schon gekostet!"
+sagte das suesse Geschoepf, indem ihr die Traenen in den Augen standen.
+--Ich war nicht Herr mehr von mir selbst, war im Begriffe, mich ihr
+zu Fuessen zu werfen.--"Erklaeren Sie sich!" rief ich.--Die Traenen
+liefen ihr die Wangen herunter.  Ich war ausser mir.  Sie trocknete sie
+ab, ohne sie verbergen zu wollen.--"Meine Tante kennen Sie," fing sie
+an, "sie war gegenwaertig und hat--o, mit was fuer Augen hat sie das
+angesehen!  Werther, ich habe gestern nacht ausgestanden und heute
+frueh eine Predigt ueber meinen Umgang mit Ihnen, und ich habe muessen
+zuhoeren Sie herabsetzen, erniedrigen, und konnte und durfte Sie nur
+halb verteidigen."  Jedes Wort, das sie sprach, ging mir wie ein
+Schwert durchs Herz.  Sie fuehlte nicht, welche Barmherzigkeit es
+gewesen waere, mir das alles zu verschweigen, und nun fuegte sie noch
+hinzu, was weiter wuerde getraetscht werden, was eine Art Menschen
+darueber triumphieren wuerde.
+
+Wie man sich nunmehr ueber die Strafe meines UEbermuts und meiner
+Geringschaetzung anderer, die sie mir schon lange vorwerfen, kitzeln
+und freuen wuerde.  Das alles, Wilhelm, von ihr zu hoeren, mit der
+Stimme der wahrsten Teilnehmung--ich war zerstoert und bin noch wuetend
+in mir.  Ich wollte, dass sich einer unterstuende, mir's vorzuwerfen,
+dass ich ihm den Degen durch den Leib stossen koennte; wenn ich Blut saehe,
+wuerde mir's besser werden.  Ach, ich hab' hundertmal ein Messer
+ergriffen, um diesem gedraengten Herzen Luft zu machen.  Man erzaehlt
+von einer edlen Art Pferde, die, wenn sie schrecklich erhitzt und
+aufgejagt sind, sich selbst aus Instinkt eine Ader aufbeissen, um sich
+zum Atem zu helfen.  So ist mir's oft, ich moechte mir eine Ader oeffnen,
+die mir die ewige Freiheit schaffte.
+
+
+
+Am 24. Maerz
+
+Ich habe meine Entlassung vom Hofe verlangt und werde sie, hoffe
+ich, erhalten, und ihr werdet mir verzeihen, dass ich nicht erst
+Erlaubnis dazu bei euch geholt habe.  Ich musste nun einmal fort, und
+was ihr zu sagen hattet, um mir das Bleiben einzureden, weiss ich
+alles, und also--bringe das meiner Mutter in einem Saeftchen bei, ich
+kann mir selbst nicht helfen, und sie mag sich gefallen lassen, wenn
+ich ihr auch nicht helfen kann.  Freilich muss es ihr wehe tun.  Den
+schoenen Lauf, den ihr Sohn gerade zum Geheimenrat und Gesandten
+ansetzte, so auf einmal Halte zu sehen, und rueckwaerts mit dem
+Tierchen in den Stall!  Macht nun daraus, was ihr wollt, und
+kombiniert die moeglichen Faelle, unter denen ich haette bleiben koennen
+und sollen; genug, ich gehe, und damit ihr wisst, wo ich hinkomme, so
+ist hier der Fuerst **, der vielen Geschmack an meiner Gesellschaft
+findet; der hat mich gebeten, da er von meiner Absicht hoerte, mit ihm
+auf seine Gueter zu gehen und den schoenen Fruehling da zuzubringen.
+Ich soll ganz mir selbst gelassen sein, hat er mir versprochen, und
+da wir uns zusammen bis auf einen gewissen Punkt verstehn, so will
+ich es denn auf gut Glueck wagen und mit ihm gehen.
+
+
+
+Zur Nachricht
+
+
+Am 19. April
+
+Danke fuer deine beiden Briefe.  Ich antwortete nicht, weil ich
+dieses Blatt liegen liess, bis mein Abschied vom Hofe da waere; ich
+fuerchtete, meine Mutter moechte sich an den Minister wenden und mir
+mein Vorhaben erschweren.  Nun aber ist es geschehen, mein Abschied
+ist da.  Ich mag euch nicht sagen, wie ungern man mir ihn gegeben hat,
+und was mir der Minister schreibt--ihr wuerdet in neue Lamentationen
+ausbrechen.  Der Erbprinz hat mir zum Abschiede fuenfundzwanzig Dukaten
+geschickt, mit einem Wort, das mich bis zu Traenen geruehrt hat; also
+brauche ich von der Mutter das Geld nicht, um das ich neulich schrieb.
+
+
+Am 5. Mai
+
+Morgen gehe ich von hier ab, und weil mein Geburtsort nur sechs
+Meilen vom Wege liegt, so will ich den auch wiedersehen, will mich
+der alten, gluecklich vertraeumten Tage erinnern.  Zu eben dem Tore will
+ich hinein gehn, aus dem meine Mutter mit mir heraus fuhr, als sie
+nach dem Tode meines Vaters den lieben, vertraulichen Ort verliess, um
+sich in ihre unertraegliche Stadt einzusperren.  Adieu, Wilhelm, du
+sollst von meinem Zuge hoeren.
+
+
+
+Am 9. Mai
+
+Ich habe die Wallfahrt nach meiner Heimat mit aller Andacht eines
+Pilgrims vollendet, und manche unerwarteten Gefuehle haben mich
+ergriffen.  An der grossen Linde, die eine Viertelstunde vor der Stadt
+nach S... zu steht, liess ich halten, stieg aus und hiess den Postillon
+fortfahren, um zu Fusse jede Erinnerung ganz neu, lebhaft, nach meinem
+Herzen zu kosten.  Da stand ich nun unter der Linde, die ehedem, als
+Knabe, das Ziel und die Grenze meiner Spaziergaenge gewesen.  Wie
+anders!  Damals sehnte ich mich in gluecklicher Unwissenheit hinaus in
+die unbekannte Welt, wo ich fuer mein Herz so viele Nahrung, so vielen
+Genuss hoffte, meinen strebenden, sehnenden Busen auszufuellen und zu
+befriedigen.  Jetzt komme ich zurueck aus der weiten Welt--o mein
+Freund, mit wie viel fehlgeschlagenen Hoffnungen, mit wie viel
+zerstoerten Planen!--Ich sah das Gebirge vor mir liegen, das
+tausendmal der Gegenstand meiner Wuensche gewesen war.  Stundenlang
+konnt' ich hier sitzen und mich hinueber sehnen, mit inniger Seele
+mich in den Waeldern, den Taelern verlieren, die sich meinen Augen so
+freundlich-daemmernd darstellten; und wenn ich dann um die bestimmte
+Zeit wieder zurueck musste, mit welchem Widerwillen verliess ich nicht
+den lieben Platz!--Ich kam der Stadt naeher, alle die alten,
+bekannten Gartenhaeuschen wurden von mir gegruesst, die neuen waren mir
+zuwider, so auch alle Veraenderungen, die man sonst vorgenommen hatte.
+Ich trat zum Tor hinein und fand mich doch gleich und ganz wieder.
+Lieber, ich mag nicht ins Detail gehn; so reizend, als es mir war, so
+einfoermig wuerde es in der Erzaehlung werden.  Ich hatte beschlossen,
+auf dem Markte zu wohnen, gleich neben unserem alten Haus.  Im
+Hingehen bemerkte ich, dass die Schulstube, wo ein ehrliches altes
+Weib unsere Kindheit zusammengepfercht hatte, in einen Kramladen
+verwandelt war.  Ich erinnere mich der Unruhe, der Traenen, der
+Dumpfheit des Sinnes, der Herzensangst, die ich in dem Loche
+ausgestanden hatte.--Ich tat keinen Schritt, der nicht merkwuerdig
+war.  Ein Pilger im heiligen Lande trifft nicht so viele Staetten
+religioeser Erinnerungen an, und seine Seele ist schwerlich so voll
+heiliger Bewegung.--Noch eins fuer tausend.  Ich ging den Fluss hinab,
+bis an einen gewissen Hof; das war sonst auch mein Weg, und die
+Plaetzchen, wo wir Knaben uns uebten, die meisten Spruenge der flachen
+Steine im Wasser hervorzubringen.  Ich erinnerte mich so lebhaft, wenn
+ich manchmal stand und dem Wasser nachsah, mit wie wunderbaren
+Ahnungen ich es verfolgte, wie abenteuerlich ich mir die Gegenden
+vorstellte, wo es nun hinfloesse, und wie ich da sobald Grenzen meiner
+Vorstellungskraft fand; und doch musste das weiter gehen, immer weiter,
+bis ich mich ganz in dem Anschauen einer unsichtbaren Ferne verlor.
+--Sieh, mein Lieber, so beschraenkt und so gluecklich waren die
+herrlichen Altvaeter!  So kindlich ihr Gefuehl, ihre Dichtung!  Wenn
+ulyss von dem ungemessnen Meer und von der unendlichen Erde spricht,
+das ist so wahr, menschlich, innig, eng und geheimnisvoll.  Was hilft
+mich's, dass ich jetzt mit jedem Schulknaben nachsagen kann, dass sie
+rund sei?  Der Mensch braucht nur wenige Erdschollen, um drauf zu
+geniessen, weniger, um drunter zu ruhen.  Nun bin ich hier, auf dem
+fuerstlichen Jagdschloss.  Es laesst sich noch ganz wohl mit dem Herrn
+leben, er ist wahr und einfach.  Wunderliche Menschen sind um ihn
+herum, die ich gar nicht begreife.  Sie scheinen keine Schelmen und
+haben doch auch nicht das Ansehen von ehrlichen Leuten.  Manchmal
+kommen sie mir ehrlich vor, und ich kann ihnen doch nicht trauen.
+Was mir noch leid tut, ist, dass er oft von Sachen redet, die er nur
+gehoert und gelesen hat, und zwar aus eben dem Gesichtspunkte, wie sie
+ihm der andere vorstellen mochte.  Auch schaetzt er meinen Verstand und
+meine Talente mehr als dies Herz, das doch mein einziger Stolz ist,
+das ganz und alles Elendes.  Ach, was ich weiss, kann jeder
+wissen--mein Herz habe ich allein.
+
+
+Am 25. Mai
+
+Ich hatte etwas im Kopfe, davon ich euch nichts sagen wollte, bis
+es ausgefuehrt waere: jetzt, da nichts draus wird, ist es ebenso gut.
+Ich wollte in den Krieg; das hat mir lange am Herzen gelegen.
+Vornehmlich darum bin ich dem Fuersten hierher gefolgt, der General in
+***schen Diensten ist.  Auf einem Spaziergang entdeckte ich ihm mein
+Vorhaben; er widerriet mir es, und es muesste bei mir mehr Leidenschaft
+als Grille gewesen sein, wenn ich seinen Gruenden nicht haette Gehoer
+geben wollen.
+
+
+Am 11. Junius
+
+Sage was du willst, ich kann nicht laenger bleiben.  Was soll ich
+hier?  Die Zeit wird mir lang.  Der Fuerst haelt mich, so gut man nur
+kann, und doch bin ich nicht in meiner Lage.  Wir haben im Grunde
+nichts gemein mit einander.  Er ist ein Mann von Verstande, aber von
+ganz gemeinem Verstande; sein Umgang unterhaelt mich nicht mehr, als
+wenn ich ein wohl geschriebenes Buch lese.  Noch acht Tage bleibe ich,
+und dann ziehe ich wieder in der Irre herum.  Das Beste, was ich
+hier getan habe, ist mein Zeichnen.  Der Fuerst fuehlt in der Kunst und
+wuerde noch staerker fuehlen, wenn er nicht durch das garstige
+wissenschaftliche Wesen und durch die gewoehnliche Terminologie
+eingeschraenkt waere.  Manchmal knirsche ich mit den Zaehnen, wenn ich
+ihn mit warmer Imagination an Natur und Kunst herumfuehre und er es
+auf einmal recht gut zu machen denkt, wenn er mit einem gestempelten
+Kunstworte dreinstolpert.
+
+
+
+Am 16. Junius
+
+Ja wohl bin ich nur ein Wandrer, ein Waller auf der Erde!  Seid ihr
+denn mehr?
+
+
+Am 16. Junius
+
+Wo ich hin will?  Das lass dir im Vertrauen eroeffnen.  Vierzehn Tage
+muss ich doch noch hier bleiben, und dann habe ich mir weisgemacht,
+dass ich die Bergwerke im ***schen besuchen wollte; ist aber im Grunde
+nichts dran, ich will nur Lotten wieder naeher, das ist alles.  Und
+ich lache ueber mein eigenes Herz--und tu' ihm seinen Willen.
+
+
+
+Am 29. Julius
+
+Nein, es ist gut!  Es ist alles gut!--Ich--ihr Mann!  O Gott, der
+du mich machtest, wenn du mir diese Seligkeit bereitet haettest, mein
+ganzes Leben sollte ein anhaltendes Gebet sein.  Ich will nicht
+rechten, und verzeihe mir diese Traenen, verzeihe mir meine
+vergeblichen Wuensche!--Sie meine Frau! Wenn ich das liebste
+Geschoepf unter der Sonne in meine Arme geschlossen haette--es geht mir
+ein Schauder durch den ganzen Koerper, Wilhelm, wenn Albert sie um den
+schlanken Leib fasst.
+
+Und, darf ich es sagen?  Warum nicht, Wilhelm?  Sie waere mit mir
+gluecklicher geworden als mit ihm!  O er ist nicht der Mensch, die
+Wuensche dieses Herzens alle zu fuellen.  Ein gewisser Mangel an
+Fuehlbarkeit, ein Mangel--nimm es, wie du willst; dass sein Herz nicht
+sympathetisch schlaegt bei--O!--bei der Stelle eines lieben Buches,
+wo mein Herz und Lottens in einem zusammentreffen; in hundert andern
+Vorfaellen, wenn es kommt, dass unsere Ermpfindungen ueber eine Handlung
+eines Dritten laut werden.  Lieber Wilhelm!--Zwar er liebt sie von
+ganzer Seele, und so eine Liebe, was verdient die nicht!
+
+--Ein unertraeglicher Mensch hat mich unterbrochen.  Meine Traenen sind
+getrocknet.  Ich bin zerstreut.  Adieu, Lieber!
+
+
+
+Am 4. August
+
+Es geht mir nicht allein so.  Alle Menschen werden in ihren Hoffnungen
+getaeuscht, in ihren Erwartungen betrogen.  Ich besuchte mein gutes
+Weib unter der Linde.  Der aelteste Junge lief mir entgegen, sein
+Freudengeschrei fuehrte die Mutter herbei, die sehr niedergeschlagen
+aussah.  Ihr erstes Wort war:"guter Herr, ach, mein Hans ist mir
+gestorben!"--Es war der juengste ihrer Knaben.  Ich war stille.  "Und
+mein Mann," sagte sie, "ist aus der Schweiz zurueck und hat nichts
+mitgebracht, und ohne gute Leute haette er sich heraus betteln muessen,
+er hatte das Fieber unterwegs gekriegt."--Ich konnte ihr nichts
+sagen und schenkte dem Kleinen was; sie bat mich, einige AEpfel
+anzunehmen, das ich tat und den Ort des traurigen Andenkens verliess.
+
+
+Am 21. August
+
+Wie man eine Hand umwendet, ist es anders mit mir.  Manchmal will
+wohl ein freudiger Blick des Lebens wieder aufdaemmern, ach, nur fuer
+einen Augenblick!--Wenn ich mich so in Traeumen verliere, kann ich
+mich des Gedankens nicht erwehren: wie, wenn Albert stuerbe?  Du
+wuerdest!  Ja, sie wuerde--und dann laufe ich dem Hirngespinste nach,
+bis es mich an Abgruende fuehret, vor denen ich zurueckbebe.
+
+Wenn ich zum Tor hinausgehe, den Weg, den ich zum erstenmal fuhr,
+Lotten zum Tanze zu holen, wie war das so ganz anders!  Alles, alles
+ist voruebergegangen!  Kein Wink der vorigen Welt, kein Pulsschlag
+meines damaligen Gefuehles.  Mir ist es, wie es einem Geiste sein
+muesste, der in das ausgebrannte, zerstoerte Schloss zurueckkehrte, das er
+als bluehender Fuerst einst gebaut und mit allen Gaben der Herrlichkeit
+ausgestattet, sterbend seinem geliebten Sohne hoffnungsvoll
+hinterlassen haette.
+
+
+Am 3. September
+
+Ich begreife manchmal nicht, wie sie ein anderer lieb haben kann,
+lieb haben darf, da ich sie so ganz allein, so innig, so voll liebe,
+nichts anders kenne, noch weiss, noch habe als sie!
+
+
+Am 4. September
+
+Ja, es ist so.  Wie die Natur sich zum Herbste neigt, wird es Herbst
+in mir und um mich her.  Meine Blaetter werden gelb, und schon sind
+die Blaetter der benachbarten Baeume abgefallen.  Hab' ich dir nicht
+einmal von einem Bauerburschen geschrieben, gleich da ich herkam?
+Jetzt erkundigte ich mich wieder nach ihm in Wahlheim; es hiess, er
+sei aus dem Diemste gejagt worden, und niemand wollte was weiter von
+ihm wissen.  Gestern traf ich ihn von ungefaehr auf dem Wege nach einem
+andern Dorfe, ich redete ihn an, und er erzaehlte mir seine Geschichte,
+die mich doppelt und dreifach geruehrt hat, wie du leicht begreifen
+wirst, wenn ich dir sie wiedererzaehle.  Doch wozu das alles?  Warum
+behalt' ich nicht fuer mich, was mich aengstigt und kraenkt?  Warum
+betrueb' ich noch dich?  Warum geb' ich dir immer Gelegenheit, mich zu
+bedauern und mich zu schelten?  Sei's denn, auch das mag zu meinem
+Schicksal gehoeren!
+
+Mit einer stillen Traurigkeit, in der ich ein wenig scheues Wesen
+zu bemerken schien, antwortete der Mensch mir erst auf meine Fragen;
+aber gar bald offner, als wenn er sich und mich auf einmal
+wiedererkennte, gestand er mir seine Fehler, klagte er mir sein
+Unglueck.  Koennt' ich dir, mein Freund, jedes seiner Worte vor Gericht
+stellen!  Er bekannte, ja er erzaehlte mit einer Art von Genuss und
+Glueck der Wiedererinnerung, dass die Leidenschaft zu seiner Hausfrau
+sich in ihm tagtaeglich vermehrt, dass er zuletzt nicht gewusst habe,
+was er tue, nicht, wie er sich ausdrueckte, wo er mit dem Kopfe
+hingesollt.  Er habe weder essen noch trinken noch schlafen koennen, es
+habe ihm an der Kehle gestockt, er habe getan, was er nicht tun
+sollen; was ihm aufgetragen worden, hab' er vergessen, er sei als wie
+von einem boesen Geist verfolgt gewesen, bis er eines Tages, als er
+sie in einer obern Kammer gewusst, ihr nachgegangen, ja vielmehr ihr
+nachgezogen worden sei; da sie seinen Bitten kein Gehoer gegeben, hab'
+er sich ihrer mit Gewalt bemaechtigen wollen; er wisse nicht, wie ihm
+geschehen sei, und nehme Gott zum Zeugen, dass seine Absichten gegen
+sie immer redlich gewesen, und dass er nichts sehnlicher gewuenscht,
+als dass sie ihn heiraten, dass sie mit ihm ihr Leben zubringen moechte.
+Da er eine Zeitlang geredet hatte, fing er an zu stocken, wie einer,
+der noch etwas zu sagen hat und sich es nicht herauszusagen getraut;
+endlich gestand er mir auch mit Schuechternheit, was sie ihm fuer
+kleine Vertraulichkeiten erlaubt, und welche Naehe sie ihm vergoennet.
+Er brach zwei-, dreimal ab und wiederholte die lebhaftesten
+Protestationen, dass er das nicht sage, um sie schlecht zu machen, wie
+er sich ausdrueckte, dass er sie liebe und schaetze wie vorher, dass so
+etwas nicht ueber seinen Mund gekommen sei und dass er es mir nur sage,
+um mich zu ueberzeugen, dass er kein ganz verkehrter und unsinniger
+Mensch sei.
+
+--Und hier, mein Bester, fang' ich mein altes Lied wieder an, das
+ich ewig anstimmen werde: koennt' ich dir den Menschen vorstellen, wie
+er vor mir stand, wie er noch vor mir steht!  Koennt' ich dir alles
+recht sagen, damit du fuehltest, wie ich an seinem Schicksale
+teilnehme, teilnehmen muss!  Doch genug, da du auch mein Schicksal
+kennst, auch mich kennst, so weisst du nur zu wohl, was mich zu allen
+Ungluecklichen, was mich besonders zu diesem Ungluecklichen hinzieht.
+
+Da ich das Blut wieder durchlese, seh' ich, dass ich das Ende der
+Geschichte zu erzaehlen vergessen habe, das sich aber leicht
+hinzudenken laesst.  Sie erwehrte sich sein; ihr Bruder kam dazu, der
+ihn schon lange gehasst, der ihn schon lange aus dem Hause gewuenscht
+hatte, weil er fuerchtet, durch eine neue Heirat der Schwester werde
+seinen Kindern die Erbschaft entgehn, die ihnen jetzt, da sie
+kinderlos ist, schoene Hoffnungen gibt; dieser habe ihn gleich zum
+Hause hinausgestossen und einen solchen Laerm von der Sache gemacht,
+dass die Frau, auch selbst wenn sie gewollt, ihn nicht wieder haette
+aufnehmen koennen.  Jetzt habe sie wieder einen andern Knecht genommen,
+auch ueber den, sage man, sei sie mit dem Bruder zerfallen, und man
+behaupte fuer gewiss, sie werde ihn heiraten, aber er sei fest
+entschlossen, das nicht zu erleben.
+
+Was ich dir erzaehle, ist nicht uebertrieben, nichts verzaertelt, ja
+ich darf wohl sagen, schwach, schwach hab' ich's erzaehlt, und
+vergroebert hab' ich's, indem ich's mit unsern hergebrachten
+sittlichen Worten vorgetragen habe.
+
+Diese Liebe, diese Treue, diese Leidenschaft ist also keine
+dichterische Erfindung.  Sie lebt, sie ist in ihrer groessten Reinheit
+unter der Klasse von Menschen, die wir ungebildet, die wir roh nennen.
+Wir Gebildeten--zu Nichts Verbildeten!  Lies die Geschichte mit
+Andacht, ich bitte dich.  Ich bin heute still, indem ich das
+hinschreibe; du siehst an meiner Hand, dass ich nicht so strudele und
+sudele wie sonst.  Lies, mein Geliebter, und denke dabei, dass es auch
+die Geschichte deines Freundes ist.  Ja so ist mir's gegangen, so
+wird mir's gehn, und ich bin nicht halb so brav, nicht halb so
+entschlossen als der arme Unglueckliche, mit dem ich mich zu
+vergleichen mich fast nicht getraue.
+
+
+
+Am 5. September
+
+Sie hatte ein Zettelchen an ihren Mann aufs Land geschrieben, wo er
+sich Geschaefte wegen aufhielt.  Es fing an: "Bester, Liebster, komme,
+sobald du kannst, ich erwarte dich mit tausend Freuden."--Ein
+Freund, der hereinkam, brachte Nachricht, dass er wegen gewisser
+Umstaende so bald noch nicht zurueckkehren wuerde.  Das Billett blieb
+liegen und fiel mir abends in die Haende.  Ich las es und laechelte; sie
+fragte worueber?--"Was die Einbildungskraft fuer ein goettliches
+Geschenk ist," rief ich aus, "ich konnte mir einen Augenblick
+vorspiegeln, als waere es an mich geschrieben."--Sie brach ab, es
+schien ihr zu missfallen, und ich schwieg.
+
+
+Am 6. September
+
+Es hat schwer gehalten, bis ich mich entschloss, meinen blauen
+einfachen Frack, in dem ich mit Lotten zum erstenmale tanzte,
+abzulegen, er ward aber zuletzt gar unscheinbar.  Auch habe ich mir
+einen machen lassen ganz wie den vorigen, Kragen und Aufschlag, und
+auch wieder so gelbe Weste und Beinkleider dazu.  Ganz will es doch
+die Wirkung nicht tun.  Ich weiss nicht--ich denke, mit der Zeit soll
+mir der auch lieber werden.
+
+
+Am 12. September
+
+Sie war einige Tage verreist, Alberten abzuholen.  Heute trat ich in
+ihre Stube, sie kam mir entgegen, und ich kuesste ihre Hand mit tausend
+Freuden.
+
+Ein Kanarienvogel flog von dem Spiegel ihr auf die Schulter.
+--"Einen neuen Freund," sagte sie und lockte ihn auf ihre Hand, "er ist
+meinen Kleinen zugedacht.  Er tut gar zu lieb!  Sehen Sie ihn!  Wenn
+ich ihm Brot gebe, flattert er mit den Fluegeln und pickt so artig.
+Er kuesst mich auch, sehen Sie!"
+
+Als sie dem Tierchen den Mund hinhielt, drueckte es sich so lieblich
+in die suessen Lippen, als wenn es die Seligkeit haette fuehlen koennen,
+die es genoss.
+
+"Er soll Sie auch kuessen," sagte sie und reichte den Vogel herueber.
+--Das Schnaebelchen machte den Weg von ihrem Munde zu dem meinigen,
+und die pickende Beruehrung war wie ein Hauch, eine Ahnung liebevollen
+Genusses.
+
+"Sein Kuss," sagte ich, "ist nicht ganz ohne Begierde, er sucht
+Nahrung und kehrt unbefriedigt von der leeren Liebkosung zurueck."
+
+"Er isst mir auch aus dem Munde."sagte sie.--Sie reichte ihm einige
+Brosamen mit ihren Lippen, aus denen die Freuden unschuldig
+teilnehmender Liebe in aller Wonne laechelten.
+
+Ich kehrte das Gesicht weg.  Sie sollte es nicht tun, sollte nicht
+meine Einbildungskraft mit diesen Bildern himmlischer Unschuld und
+Seligkeit reizen und mein Herz aus dem Schlafe, in den es manchmal
+die Gleichgueltigkeit des Lebens wiegt, nicht wecken!--Und warum
+nicht?--Sie traut mir so!  Sie weiss, wie ich sie liebe!
+
+
+Am 15. September
+
+Man moechte rasend werden, Wilhelm, dass es Menschen geben soll ohne
+Sinn und Gefuehl an dem wenigen, was auf Erden noch einen Wert hat.
+Du kennst die Nussbaeume, unter denen ich bei dem ehrlichen Pfarrer zu
+St... mit Lotten gesessen, die herrlichen Nussbaeume, die mich, Gott
+weiss, immer mit dem groessten Seelenvergnuegen fuellten!  Wie vertraulich
+sie den Pfarrhof machten, wie kuehl!  Und wie herrlich die AEste waren!
+Und die Erinnerung bis zu den ehrlichen Geistlichen, die sie vor
+vielen Jahren pflanzten.  Der Schulmeister hat uns den einen Namen oft
+genannt, den er von seinem Grossvater gehoert hatte; und so ein braver
+Mann soll er gewesen sein, und sein Andenken war immer heilig unter
+den Baeumen.  Ich sage dir, dem Schulmeister standen die Traenen in den
+Augen, da wir gestern davon redeten, dass sie abgehauen worden--
+abgehauen!  Ich moechte toll werden, ich koennte den Hund ermorden, der
+den ersten Hieb dran tat.  Ich, der ich mich vertrauern koennte, wenn
+so ein paar Baeume in meinem Hofe stuenden und einer davon stuerbe vor
+Alter ab, ich muss zusehen.  Lieber Schatz, eins ist doch dabei: was
+Menschengefuehl ist!  Das ganze Dorf murrt, und ich hoffe, die Frau
+Pfarrerin soll es an Butter und Eiern und uebrigem Zutrauen spueren,
+was fuer eine Wunde sie ihrem Orte gegeben hat.  Denn sie ist es, die
+Frau des neuen Pfarrers (unser alter ist auch gestorben), ein hageres,
+kraenkliches Geschoepf, das sehr Ursache hat, an der Welt keinen
+Anteil zu nehmen, denn niemand nimmt Anteil an ihr.  Eine Naerrin, die
+sich abgibt, gelehrt zu sein, sich in die Untersuchung des Kanons
+meliert, gar viel an der neumodischen, moralisch-kritischen
+Reformation des Christentumes arbeitet und ueber Lavaters
+Schwaermereien die Achseln zuckt, eine ganz zerruettete Gesundheit hat
+und deswegen auf Gottes Erdboden keine Freude.  So einer Kreatur war
+es auch allein moeglich, meine Nussbaeume abzuhauen.  Siehst du, ich
+komme nicht zu mir!  Stelle dir vor: die abfallenden Blaetter machen
+ihr den Hof unrein und dumpfig, die Baeume nehmen ihr das Tageslicht,
+und wenn die Nuesse reif sind, so werfen die Knaben mit Steinen
+darnach, und das faellt ihr auf die Nerven, das stoert sie in ihren
+tiefen UEberlegungen, wenn sie Kennikot, Semler und Michaelis gegen
+einander abwiegt.  Da ich die Leute im Dorfe, besonders die alten, so
+unzufrieden sah, sagte ich:"warum habt ihr es gelitten?"--"wenn der
+Schulze will, hier zu Lande," sagten sie, "was kann man machen?"--Aber
+eins ist recht geschehen.  Der Schulze und der Pfarrer, der doch auch
+von seiner Frauen Grillen, die ihm ohnedies die Suppen nicht fett
+machen, was haben wollte, dachten es mit einander zu teilen; da
+erfuhr es die Kammer und sagte: "hier herein!" denn sie hatte noch
+alte Praetensionen an den Teil des Pfarrhofes, wo die Baeume standen,
+und verkaufte sie an den Meistbietenden.  Sie liegen!  O, wenn ich
+Fuerst waere!  Ich wollte die Pfarrerin, den Schulzen und die Kammer--
+Fuerst!--ja wenn ich Fuerst waere, was kuemmerten mich die Baeume in
+meinem Lande!
+
+
+
+Am 10. Oktober
+
+Wenn ich nur ihre schwarzen Augen sehe, ist mir es schon wohl!
+Sieh, und was mich verdriesst, ist, dass Albert nicht so beglueckt zu
+sein scheinet, als er--hoffte--als ich--zu sein glaubte--wenn--ich
+mache nicht gern Gedankenstriche, aber hier kann ich mich nicht
+anders ausdruecken--und mich duenkt deutlich genug.
+
+
+Am 10. Oktober
+
+Ossian hat in meinem Herzen den Humor verdraengt.  Welch eine Welt,
+in die der Herrliche mich fuehrt!  Zu wandern ueber die Heide, umsaust
+vom Sturmwinde, der in dampfenden Nebeln die Geister der Vaeter im
+daemmernden Lichte des Mondes hinfuehrt.  Zu hoeren vom Gebirge her, im
+Gebruelle des Waldstroms, halb verwehtes AEchzen der Geister aus ihren
+Hoehlen, und die Wehklagen des zu Tode sich jammernden Maedchens, um
+die vier moosbedeckten, grasbewachsenen Steine des Edelgefallnen,
+ihres Geliebten.  Wenn ich ihn dann finde, den wandelnden grauen
+Barden, der auf der weiten Heide die Fussstapfen seiner Vaeter sucht
+und, ach, ihre Grabsteine findet und dann jammernd nach dem lieben
+Sterne des Abends hinblickt, der sich ins rollende Meer verbirgt, und
+die Zeiten der Vergangenheit in des Helden Seele lebendig werden, da
+noch der freundliche Strahl den Gefahren der Tapferen leuchtete und
+der Mond ihr bekraenztes, siegrueckkehrendes Schiff beschien.  Wenn ich
+den tiefen Kummer auf seiner Stirn lese, den letzten verlassenen
+Herrlichen in aller Ermattung dem Grabe zuwanken sehe, wie er immer
+neue, schmerzlich gluehende Freuden in der kraftlosen Gegenwart der
+Schatten seiner Abgeschiedenen einsaugt und nach der kalten Erde, dem
+hohen, wehenden Grase niedersieht und ausruft: "Der Wanderer wird
+kommen, kommen, der mich kannte in meiner Schoenheit, und fragen: 'wo
+ist der Saenger, Fingals trefflicher Sohn?' Sein Fusstritt geht ueber
+mein Grab hin, und er fragt vergebens nach mir auf der Erde."--O
+Freund!  Ich moechte gleich einem edlen Waffentraeger das Schwert ziehen,
+meinen Fuersten von der zueckenden Qual des langsam absterbenden
+Lebens auf einmal befreien und dem befreiten Halbgott meine Seele
+nachsenden.
+
+
+Am 19. Oktober
+
+Ach diese Luecke!  Diese entsetzliche Luecke, die ich hier in meinem
+Busen fuehle!--Ich denke oft, wenn du sie nur einmal, nur einmal an
+dieses Herz druecken koenntest, diese ganze Luecke wuerde ausgefuellt sein.
+
+
+Am 19. Oktober
+
+Ja es wird mir gewiss, Lieber, gewiss und immer gewisser, dass an dem
+Dasein eines Geschoepfes wenig gelegen ist, ganz wenig.  Es kam eine
+Freundin zu Lotten, und ich ging herein ins Nebenzimmer, ein Buch zu
+nehmen, und konnte nicht lesen, und dann nahm ich eine Feder, zu
+schreiben.  Ich hoerte sie leise reden; sie erzaehlten einander
+unbedeutende Sachen, Stadtneuigkeiten: wie diese heiratet, wie jene
+krank, sehr krank ist.--"Sie hat einen trocknen Husten, die Knochen
+stehn ihr zum Gesichte heraus, und kriegt Ohnmachten; ich gebe keinen
+Kreuzer fuer ihr Leben."  Sagte die eine.--"Der N. N. ist auch so
+UEbel dran," sagte Lotte.--"Er ist schon geschwollen," sagte die
+andere.--Und meine lebhafte Einbildungskraft versetzte mich ans Bett
+dieser Armen; ich sah sie, mit welchem Widerwillen sie dem Leben den
+Ruecken wandten, wie sie--Wilhelm!  Und meine Weibchen redeten davon,
+wie man eben davon redet--dass ein Fremder stirbt.--Und wenn ich
+mich umsehe und sehe das Zimmer an, und rings um mich Lottens Kleider
+und Alberts Skripturen und diese Moebeln, denen ich nun so befreundet
+bin, sogar diesem Dintenfass, und denke: siehe, was du nun diesem
+Hause bist!  Alles in allem.  Deine Freunde ehren dich!  Du machst oft
+ihre Freude, und deinem Herzen scheint es, als wenn es ohne sie nicht
+sein koennte; und doch--wenn du nun gingst, wenn du aus diesem Kreise
+schiedest?  Wuerden sie, wie lange wuerden sie die Luecke fuehlen, die
+dein Verlust in ihr Schicksal reisst?  Wie lange?--O, so vergaenglich
+ist der Mensch, dass er auch da, wo er seines Daseins eigentliche
+Gewissheit hat, da, wo er den einzigen wahren Eindruck seiner
+Gegenwart macht, in dem Andenken, in der Seele seiner Lieben, dass er
+auch da verloeschen, verschwinden muss, und das so bald!
+
+
+Am 27. Oktober
+
+Ich moechte mir oft die Brust zerreissen und das Gehirn einstossen,
+dass man einander so wenig sein kann.  Ach die Liebe, Freude, Waerme und
+Wonne, die ich nicht hinzubringe, wird mir der andere nicht geben,
+und mit einem ganzen Herzen voll Seligkeit werde ich den andern nicht
+begluecken, der kalt und kraftlos vor mir steht.
+
+Ich habe so viel, und die Emfpindung an ihr verschlingt alles; ich
+habe so viel, und ohne sie wird mir alles zu Nichts.
+
+
+Am 27. Oktober abends
+
+Wenn ich nicht schon hundertmal auf dem Punkte gestanden bin, ihr
+um den Hals zu fallen!  Weiss der grosse Gott, wie einem das tut, so
+viele Liebenswuerdigkeit vor einem herumkreuzen zu sehen und nicht
+zugreifen zu duerfen; und das Zugreifen ist doch der natuerlichste
+Trieb der Menschheit.  Greifen die Kinder nicht nach allem, was ihnen
+in den Sinn faellt?--Und ich?
+
+
+
+Am 30. Oktober
+
+Weiss Gott!  Ich lege mich so oft zu Bette mit dem Wunsche, ja
+manchmal mit der Hoffnung, nicht wieder zu erwachen: und morgens
+schlage ich die Augen auf, sehe die Sonne wieder, und bin elend.  O
+dass ich launisch sein koennte, koennte die Schuld aufs Wetter, auf
+einen Dritten, auf eine fehlgeschlagene Unternehmung schieben, so
+wuerde die unertraegliche Last des Unwillens doch nur halb auf mir
+ruhen.  Wehe mir!  Ich fuehle zu wahr, dass an mir alle Schuld
+liegt--nicht Schuld!  Genug, dass in mir die Quelle alles Elendes
+verborben ist, wie ehemals die Quelle aller Seligkeiten.  Bin ich
+nicht noch ebenderselbe, der ehemals in aller Fuelle der Empfindung
+herumschwebte, dem auf jedem Tritte ein Paradies folgte, der ein Herz
+hatte, eine ganze Welt liebevoll zu umfassen?  Und dies Herz ist jetzt
+tot, aus ihm fliessen keine Entzueckungen mehr, meine Augen sind
+trocken, und meine Sinne, die nicht mehr von erquickenden Traenen
+gelabt werden, ziehen aengstlich meine Stirn zusammen.  Ich leide viel,
+denn ich habe verloren, was meines Lebens einzige Wonne war, die
+heilige, belebende Kraft, mit der ich Welten um mich schuf; sie ist
+dahin!--Wenn ich zu meinem Fenster hinaus an den fernen Huegel sehe,
+wie die Morgensonne ueber ihn her den Nebel durchbricht und den stillen
+Wiesengrund bescheint, und der sanfte Fluss zwischen seinen
+entblaetterten Weiden zu mir herschlaengelt,--o!  Wenn da diese
+herrliche Natur so starr vor mir steht wie ein lackiertes Bildchen,
+und alle die Wonne keinen Tropfen Seligkeit aus meinem Herzen herauf
+in das Gehirn pumpen kann, und der ganze Kerl vor Gottes Angesicht
+steht wie ein versiegter Brunnen, wie ein verlechter Eimer.  Ich habe
+mich oft auf den Boden geworfen und Gott um Traenen gebeten, wie ein
+Ackersmann um Regen, wenn der Himmel ehern ueber ihm ist und um ihn
+die Erde verduerstet.
+
+Aber, ach, ich fuehle es, Gott gibt Regen und Sonnenschein nicht
+unserm ungestuemen Bitten, und jene Zeiten, deren Andenken mich quaelt,
+warum waren sie so selig, als weil ich mit Geduld seinen Geist
+erwartete und die Wonne, die er ueber mich ausgoss, mit ganzem, innig
+dankbarem Herzen aufnahm!
+
+
+Am 8. November
+
+Sie hat mir meine Exzesse vorgeworfen!  Ach, mit so viel
+Liebenswuerdigkeit!  Meine Exzesse, dass ich mich manchmal von einem
+Glase Wein verleiten lasse, eine Bouteille zu trinken.--"Tun Sie es
+nicht!" sagte sie, "denken Sie an Lotten!"--"Denken!" sagte ich,
+"brauchen Sie mir das zu heissen?  Ich denke!--Ich denke nicht!  Sie
+sind immer vor meiner Seele.  Heute sass ich an dem Flecke, wo Sie
+neulich aus der Kutsche stiegen."--Sie redete was anders, um mich
+nicht tiefer in den Text kommen zu lassen.  Bester, ich bin dahin!
+Sie kann mit mir machen, was sie will.
+
+
+
+Am 15. November
+
+Ich danke dir, Wilhelm, fuer deinen herzlichen Anteil, fuer deinen
+wohlmeinenden Rat und bitte dich, ruhig zu sein.  Lass mich ausdulden,
+ich habe bei aller meiner Muedseligkeit noch Kraft genug durchzusetzen.
+Ich ehre die Religion, das weisst du, ich fuehle, dass sie manchem
+Ermatteten Stab, manchem Verschmachtenden Erquickung ist.  Nur--kann
+sie denn, muss sie denn das einem jeden sein?  Wenn du die grosse Welt
+ansiehst, so siehst du Tausende, denen sie es nicht war, Tausende,
+denen sie es nicht sein wird, gepredigt oder ungepredigt, und muss sie
+mir es denn sein?  Sagt nicht selbst der Sohn Gottes, dass die um ihn
+sein wuerden, die ihm der Vater gegeben hat?  Wenn ich ihm nun nicht
+gegeben bin?  Wenn mich nun der Vater fuer sich bahalten will, wie mir
+mein Herz sagt?--Ich bitte dich, lege das nicht falsch aus; sieh
+nicht etwa Spott in diesen unschuldigen Worten; es ist meine ganze
+Seele, die ich dir vorlege; sonst wollte ich lieber, ich haette
+geschwiegen: wie ich denn ueber alles das, wovon jedermann so wenig
+weiss als ich, nicht gern ein Wort verliere.  Was ist es anders als
+Menschenschicksal, sein Mass auszuleiden, seinen Becher auszutrinken?
+--Und ward der Kelch dem Gott vom Himmel auf seiner Menschenlippe zu
+bitter, warum soll ich grosstun und mich stellen, als schmeckte er mir
+suess?  Und warum sollte ich mich schaemen, in dem schrecklichen
+Augenblick, da mein ganzes Wesen zwischen Sein und Nichtsein zittert,
+da die Vergangenheit wie ein Blitz ueber dem finstern Abgrunde der
+Zukunft leuchtet und alles um mich her versinkt und mit mir die Welt
+untergeht?  Ist es da nicht die Stimme der ganz in sich gedraengten,
+sich selbst ermangelnden und unaufhaltsam hinabstuerzenden Kreatur, in
+den innern Tiefen ihrer vergebens aufarbeitenden Kraefte zu knirschen:
+"mein Gott!  Mein Gott!  Warum hast du mich verlassen?" und sollt' ich
+mich des Ausdruckes schaemen, sollte mir es vor dem Augenblicke bange
+sein, da ihm der nicht entging, der die Himmel zusammenrollt wie ein
+Tuch?
+
+
+
+Am 21. November
+
+Sie sieht nicht, sie fuehlt nicht, dass sie ein Gift bereitet, das
+mich und sie zugrunde richten wird; und ich mit voller Wollust
+schluerfe den Becher aus, den sie mir zu meinem Verderben reicht.  Was
+soll der guetige Blick, mit dem sie mich oft--oft?--nein, nicht oft,
+aber doch manchmal ansieht, die Gefaelligkeit, womit sie einen
+unwillkuerlichen Ausdruck meines Gefuehls aufnimmt, das Mitleiden mit
+meiner Duldung, das sich auf ihrer Stirne zeichnet?
+
+Gestern, als ich wegging, reichte sie mir die Hand und sagte: "Adieu,
+lieber Werther!"--Lieber Werther!  Es war das erstemal, dass sie mich
+Lieber hiess, und es ging mir durch Mark und Bein.  Ich habe es mir
+hundertmal wiederholt, und gestern nacht, da ich zu Bette gehen
+wollte und mit mir selbst allerlei schwatzte, sagte ich so auf einmal:
+"gute Nacht, lieber Werther!" und musste hernach selbst ueber mich
+lachen.
+
+
+Am 22. November
+
+Ich kann nicht beten: "lass mir sie!" und doch kommt sie mir oft als
+die Meine vor.  Ich kann nicht beten: "gib mir sie!" denn sie ist eines
+andern.  Ich witzle mich mit meinen Schmerzen herum; wenn ich mir's
+nachliesse, es gaebe eine ganze Litanei von Antithesen.
+
+
+Am 24. November
+
+Sie fuehlt, was ich dulde.  Heute ist mir ihr Blick tief durchs Herz
+gedrungen.  Ich fand sie allein; ich sagte nichts, und sie sah mich an.
+Und ich sah nicht mehr in ihr die liebliche Schoenheit, nicht mehr
+das Leuchten des trefflichen Geistes, das war alles vor meinen Augen
+verschwunden.  Ein weit herrlicherer Blick wirkte auf mich, voll
+Ausdruck des innigsten Anteils, des suessesten Mitleidens.  Warum
+durft' ich mich nicht ihr zu Fuessen werfen?  Warum durft' ich nicht an
+ihrem Halse mit tausend Kuessen antworten?  Sie nahm ihre Zuflucht zum
+Klavier und hauchte mit suesser, leiser Stimme harmonische Laute zu
+ihrem Spiele.  Nie habe ich ihre Lippen so reizend gesehn; es war, als
+wenn sie sich lechzend oeffneten, jene suessen Toene in sich zu schluerfen,
+die aus dem Instrument hervorquollen, und nur der heimliche
+Widerschall aus dem reinen Munde zurueckklaenge--ja wenn ich dir das so
+sagen koennte!--Ich widerstand nicht laenger, neigte mich und schwur:
+nie will ich es wagen, einen Kuss euch aufzudruecken, Lippen, auf denen
+die Geister des Himmels schweben.--Und doch--ich will--ha!  Siehst
+du, das steht wie eine Scheidewand vor meiner Seele--diese
+Seligkeit--und dann untergegangen, diese Suende abzubuessen--Suende?
+
+
+Am 26. November
+
+Manchmal sag' ich mir: dein Schicksal ist einzig; preise die
+uebrigen gluecklich--so ist noch keiner gequaelt worden.--Dann lese ich
+einen Dichter der Vorzeit, und es ist mir, als saeh' ich in mein
+eignes Herz.  Ich habe so viel auszustehen!  Ach, sind denn Menschen
+vor mir schon so elend gewesen?
+
+
+
+Am 30. November
+
+Ich soll, ich soll nicht zu mir selbst kommen!  Wo ich hintrete,
+begegnet mir eine Erscheinung, die mich aus aller Fassung bringt.
+Heute!  O Schicksal!  O Menschheit!
+
+Ich gehe an dem Wasser hin in der Mittagsstunde, ich hatte keine
+keine Lust zu essen.  Alles war OEde, ein nasskalter Abendwind blies vom
+Berge, und die grauen Regenwolken zogen das Tal hinein.  Von fern
+seh' ich einen Menschen in einem gruenen, schlechten Rocke, der
+zwischen den Felsen herumkrabbelte und Kraeuter zu suchen schien.  Als
+ich naeher zu ihm kam und er sich auf das Geraeusch, das ich machte,
+herumdrehte, sah ich eine gar interessante Physiognomie, darin eine
+stille Trauer den Hauptzug machte, die aber sonst nichts als einen
+geraden guten Sinn ausdrueckte; seine schwarzen Haare waren mit Nadeln
+in zwei Rollen gesteckt, und die uebrigen in einen starken Zopf
+geflochten, der ihm den Ruecken herunter hing.  Da mir seine Kleidung
+einen Menschen von geringem Stande zu bezeichnen schien, glaubte ich,
+er wuerde es nicht uebelnehmen, wenn ich auf seine Beschaeftigung
+aufmerksam waere, und daher fragte ich ihn, was er suchte?--"Ich
+suche," antwortete er mit einem tiefen Seufzer, "Blumen--und finde
+keine."--"Das ist auch die Jahreszeit nicht." sagte ich laechelnd.
+--"Es gibt so viele Blumen," sagte er, indem er zu mir herunterkam.
+"In meinem Garten sind Rosen und Jelaengerjelieber zweierlei Sorten,
+eine hat mir mein Vater gegeben, sie wachsen wie Unkraut; ich suche
+schon zwei Tage darnach und kann sie nicht finden.  Da haussen sind
+auch immer Blumen, gelbe und blaue und rote, und das
+Tausendgueldenkraut hat ein schoenes Bluemchen.  Keines kann ich finden."
+--Ich merkte was Unheimliches, und drum fragte ich durch einen Umweg:
+"Was will er denn mit den Blumen?"--Ein wunderbares, zuckendes
+Laecheln verzog sein Gesichte.  "Wenn er mich nicht verraten will,"
+sagte er, indem er den Finger auf den Mund drueckte, "ich habe meinem
+Schatz einen Strauss versprochen."--"Das ist brav," sagte ich.--"O!
+" sagte er, "sie hat viel andere Sachen, sie ist reich."--"Und doch
+hat sie seinen Strauss lieb," versetzte ich.--"O!" fuhr er fort, "sie
+hat Juwelen und eine Krone."--"Wie heisst sie denn?"--"Wenn mich die
+Generalstaaten bezahlen wollten," versetzte er, "ich waer' ein anderer
+Mensch!  Ja, es war einmal eine Zeit, da mir es so wohl war!  Jetzt
+ist es aus mit mir.  Ich bin nun."  Ein nasser Blick zum Himmel
+drueckte alles aus.--"Er war also gluecklich?"fragte ich.--"Ach ich
+wollte, ich waere wieder so!" sagte er "Da war mir es so wohl, so
+lustig, so leicht wie einem Fisch im Wasser!"--"Heinrich!" rief eine
+alte Frau, die den Weg herkam, "Heinrich, wo steckst du?  Wir haben
+dich ueberall gesucht, komm zum Essen."--"Ist das euer Sohn?" fragt'
+ich, zu ihr tretend.--"Wohl, mein armer Sohn!" versetzte sie.  "Gott
+hat mir ein schweres Kreuz aufgelegt."--"Wie lange ist er so?" fragte
+ich.--"So stille," sagte sie, "ist er nun ein halbes Jahr.  Gott sei
+Dank, dass er nur so weit ist, vorher war er ein ganzes Jahr rasend,
+da hat er an Ketten im Tollhause gelegen.  Jetzt tut er niemand nichts,
+nur hat er immer mit Koenigen und Kaisern zu schaffen.  Er war ein so
+guter, stiller Mensch, der mich ernaehren half, seine schoene Hand
+schrieb, und auf einmal wird er tiefsinnig, faellt in ein hinziges
+Fieber, daraus in Raserei, und nun ist er, wie Sie ihn sehen.  Wenn
+ich Ihnen erzaehlen sollte, Herr."--Ich unterbrach den Strom ihrer
+Worte mit der Frage: "was war denn das fuer eine Zeit, von der er ruehmt,
+dass er so gluecklich, so wohl darin gewesen sei?"--"Der toerichte
+Mensch!" rief sie mit mitleidigem Laecheln, "da meint er die Zeit, da er
+von sich war, das ruehmt er immer; das ist die Zeit, da er im
+Tollhause war, wo er nichts von sich wusste."--Das fiel mir auf wie
+ein Donnerschlag, ich drueckte ihr ein Stueck Geld in die Hand und
+verliess sie eilend.  Da du gluecklich warst!  Rief ich aus, schnell vor
+mich hin nach der Stadt zu gehend, da dir es wohl war wie einem Fisch
+im Wasser!--Gott im Himmel!  Hast du das zum Schicksale der Menschen
+gemacht, dass sie nicht gluecklich sind, als ehe sie zu ihrem Verstande
+kommen und wenn sie ihn wieder verlieren!--Elender!  Und auch wie
+beneide ich deinen Truebsinn, die Verwirrung deiner Sinne, in der du
+verschmachtest!  Du gehst hoffnungsvoll aus, deiner Koenigin Blumen zu
+pfluecken--im Winter--und trauerst, da du keine findest, und begreifst
+nicht, warum du keine finden kannst.  Und ich--und ich gehe ohne
+Hoffnung, ohne Zweck heraus und kehre wieder heim, wie ich gekommen
+bin.--Du waehnst, welcher Mensch du sein wuerdest, wenn die
+Generalstaaten dich bezahlten.  Seliges Geschoepf, das den Mangel
+seiner Glueckseligkeit einer irdischen Hindernis zuschreiben kann!  Du
+fuehlst nicht, du fuehlst nicht, dass in deinem zerstoerten Herzen, in
+deinem zerruetteten Gehirne dein Elend liegt, wovon alle Koenige der
+Erde dir nicht helfen koennen.  Muesse der trostlos umkommen, der eines
+Kranken spottet, der nach der entferntesten Quelle reist, die seine
+Krankheit vermehren, sein Ausleben schmerzhafter machen wird!  Der
+sich ueber das bedraengte Herz erhebt, das, um seine Gewissensbisse
+loszuwerden und die Leiden seiner Seele abzutun, eine Pilgrimschaft
+nach dem heiligen Grabe tut.  Jeder Fusstritt, der seine Sohlen auf
+ungebahntem Wege durchschneidet, ist ein Linderungstropfen der
+geaengsteten Seele, und mit jeder ausgedauerten Tagereise legt sich
+das Herz um viele Bedraengnisse leichter nieder.--Und duerft ihr das
+Wahn nennen, ihr Wortkraemer auf euren Polstern?--Wahn!--o Gott!
+Du siehst meine Traenen!  Musstest du, der du den Menschen arm genug
+erschufst, ihm auch Brueder zugeben, die ihm das bisschen Armut, das
+bisschen Vertrauen noch raubten, das er auf dich hat, auf dich, du
+Allliebender!  Denn das Vertrauen zu einer heilenden Wurzel, zu den
+Traenen des Weinstockes, was ist es als Vertrauen zu dir, dass du in
+alles, was uns umgibt, Heil--und Linderungskraft gelegt hast, der wir
+so stuendlich beduerfen?  Vater, den ich nicht kenne!  Vater, der sonst
+meine ganze Seele fuellte und nun sein Angesicht von mir gewendet hat,
+rufe mich zu dir!  Schweige nicht laenger!  Dein Schweigen wird diese
+duerstende Seele nicht aufhalten--und wuerde ein Mensch, ein Vater,
+zuernen koennen, dem sein unvermutet rueckkehrender Sohn um den Hals
+fiele und riefe: "ich bin wieder da, mein Vater!  Zuerne nicht, dass ich
+die Wanderschaft abbreche, die ich nach deinem Willen laenger
+aushalten sollte.  Die Welt ist ueberall einerlei, auf Muehe und Arbeit
+Lohn und Freude; aber was soll mir das?  Mir ist nur wohl, wo du bist,
+und vor deinem Angesichte will ich leiden und geniessen."--Und du,
+lieber himmlischer Vater, solltest ihn von dir weisen?
+
+
+
+Am 1. Dezember
+
+Wilhelm!  Der Mensch, von dem ich dir schrieb, der glueckliche
+Unglueckliche, war Schreiber bei Lottens Vater, und eine Leidenschaft
+zu ihr, die er naehrte, verbarg, entdeckte und worueber er aus dem
+Dienst geschickt wurde, hat ihn rasend gemacht.  Fuehle bei diesen
+trocknen Worten, mit welchem Unsinn mich die Geschichte ergriffen hat,
+da mir sie Albert ebenso gelassen erzaehlte, als du sie vielleicht
+liesest.
+
+
+Am 4. Dezember
+
+Ich bitte dich--siehst du, mit mir ist's aus, ich trag' es nicht
+laenger!  Heute sass ich bei ihr--sass, sie spielte auf ihrem Klavier,
+mannigfaltige Melodien, und all den Ausdruck!  All!--All!--Was
+willst du?--Ihr Schwesterchen putzte ihre Puppe auf meinem Knie.
+Mir kamen die Traenen in die Augen.  Ich neigte mich, und ihr Trauring
+fiel mir ins Gesicht--meine Traenen flossen--und auf einmal fiel sie
+in die alte, himmelsuesse Melodie ein, so auf einmal, und mir durch die
+Seele gehn ein Trostgefuehl und eine Erinnerung des Vergangenen, der
+Zeiten, da ich das Lied gehoert, der duestern Zwischenraeume des
+Verdrusses, der fehlgeschlagenen Hoffnungen, und dann--ich ging in
+der Stube auf und nieder, mein Herz erstickte unter dem Zudringen.
+--"Um Gottes willen," sagte ich, mit einem heftigen Ausbruch hin gegen
+sie fahrend, "um Gottes willen, hoeren Sie auf!"--Sie hielt und sah
+mich starr an."  Werther, "sagte sie mit einem Laecheln, das mir durch
+die Seele ging, "Werther, Sie sind sehr krank, Ihre Lieblingsgerichte
+widerstehen Ihnen.  Gehen Sie!  Ich bitte Sie, beruhigen Sie sich."
+--Ich riss mich von ihr weg und--Gott!  Du siehst mein Elend und wirst
+es enden.
+
+
+Am 6. Dezember
+
+Wie mich die Gestalt verfolgt!  Wachend und traeumend fuellt sie meine
+ganze Seele!  Hier, wenn ich die Augen schliesse, hier in meiner Stirne,
+wo die innere Sehkraft sich vereinigt, stehen ihre schwarzen Augen.
+Hier!  Ich kann dir es nicht ausdruecken.  Mache ich meine Augen zu, so
+sind sie da; wie ein Meer, wie ein Abgrund ruhen sie vor mir, in mir,
+fuellen die Sinne meiner Stirn.
+
+Was ist der Mensch, der gepriesene Halbgott!  Ermangeln ihm nicht
+eben da die Kraefte, wo er sie am noetigsten braucht?  Und wenn er in
+Freude sich aufschwingt oder im Leiden versinkt, wird er nicht in
+beiden eben da aufgehalten, eben da zu dem stumpfen, kalten
+Bewusstsein wieder zurueckgebracht, da er sich in der Fuelle des
+Unendlichen zu verlieren sehnte?
+
+Der Herausgeber an den Leser
+
+Wie sehr wuenscht' ich, dass uns von den letzten merkwuerdigen Tagen
+unsers Freundes so viel eigenhaendige Zeugnisse uebrig geblieben waeren,
+dass ich nicht noetig haette, die Folge seiner hinterlassnen Briefe
+durch Erzaehlung zu unterbrechen.
+
+Ich habe mir angelegen sein lassen, genaue Nachrichten aus dem
+Munde derer zu sammeln, die von seiner Geschichte wohl unterrichtet
+sein konnten; sie ist einfach, und es kommen alle Erzaehlungen davon
+bis auf wenige Kleinigkeiten miteinander ueberein; nur ueber die
+Sinnesarten der handelnden Personen sind die Meinungen verschieden
+und die Urteile geteilt.
+
+Was bleibt uns uebrig, als dasjenige, was wir mit wiederholter Muehe
+erfahren koennen, gewissenhaft zu erzaehlen, die von dem Abscheidenden
+hinterlassnen Briefe einzuschalten und das kleinste aufgefundene
+Blaettchen nicht gering zu achten; zumal da es so schwer ist, die
+eigensten, wahren Triebfedern auch nur einer einzelnen Handlung zu
+entdecken, wenn sie unter Menschen vorgeht, die nicht gemeiner Art
+sind.
+
+Unmut und Unlust hatten in Werthers Seele immer tiefer Wurzel
+geschlagen, sich fester untereinander verschlungen und sein ganzes
+Wesen nach und nach eingenommen.  Die Harmonie seines Geistes war
+voellig zerstoert, eine innerliche Hitze und Heftigkeit, die alle
+Kraefte seiner Natur durcheinanderarbeitete, brachte die widrigsten
+Wirkungen hervor und liess ihm zuletzt nur eine Ermattung uebrig, aus
+der er noch aengstlicher empor strebte, als er mit allen UEbeln bisher
+gekaempft hatte.  Die Beaengstigung seines Herzens zehrte die uebrigen
+Kraefte seines Geistes, seine Lebhaftigkeit, seinen Scharfsinn auf, er
+ward ein trauriger Gesellschafter, immer ungluecklicher, und immer
+ungerechter, je ungluecklicher er ward.  Wenigstens sagen dies Alberts
+Freunde; sie behaupten, dass Werther einen reinen, ruhigen Mann, der
+nun eines lang gewuenschten Glueckes teilhaftig geworden, und sein
+Betragen, sich dieses Glueck auch auf die Zukunft zu erhalten, nicht
+habe beurteilen koennen, er, der gleichsam mit jedem Tage sein ganzes
+Vermoegen verzehrte, um an dem Abend zu leiden und zu darben.  Albert,
+sagen sie, hatte sich in so kurzer Zeit nicht veraendert, er war noch
+immer derselbige, den Werther so vom Anfang her kannte, so sehr
+schaetzte und ehrte.  Er liebte Lotten ueber alles, er war stolz auf sie
+und wuenschte sie auch von jedermann als das herrlichste Geschoepf
+anerkannt zu wissen.  War es ihm daher zu verdenken, wenn er auch
+jeden Schein des Verdachtes abzuwenden wuenschte, wenn er in dem
+Augenblicke mit niemand diesen koestlichen Besitz auch auf die
+unschuldigste Weise zu teilen Lust hatte?  Sie gestehen ein, dass
+Albert oft das Zimmer seiner Frau verlassen, wenn Werther bei ihr war,
+aber nicht aus Hass noch Abneigung gegen seinen Freund, sondern nur
+weil er gefuehlt habe, dass dieser von seiner Gegenwart gedrueckt sei.
+
+Lottens Vater war von einem UEbel befallen worden, das ihn in der
+Stube hielt, er schickte ihr seinen Wagen, und sie fuhr hinaus.  Es
+war ein schoener Wintertag, der erste Schnee war stark gefallen und
+deckte die ganze Gegend.
+
+Werther ging ihr den andern Morgen nach, um, wenn Albert sie nicht
+abzuholen kaeme, sie hereinzubegleiten.
+
+Das klare Wetter konnte wenig auf sein truebes Gemuet wirken, ein
+dumpfer Druck auf seiner Seele, die traurigen Bilder hatten sich bei
+ihm festgesetzt, und sein Gemuet kannte keine Bewegung als von einem
+schmerzlichen Gedanken zum andern.
+
+Wie er mit sich in ewigem Unfrieden lebte, schien ihm auch der
+Zustand andrer nur bedenklicher und verworrner, er glaubte, das
+schoene Verhaeltnis zwischen Albert und seiner Gattin gestoert zu haben,
+er machte sich Vorwuerfe darueber, in die sich ein heimlicher Unwille
+gegen den Gatten mischte.
+
+Seine Gedanken fielen auch unterwegs auf diesen Gegenstand.  "Ja, ja,"
+sagte er zu sich selbst, mit heimlichem Zaehneknirschen, "das ist der
+vertraute, freundliche, zaertliche, an allem teilnehmende Umgang, die
+ruhige, dauernde Treue!  Saettigkeit ist's und Gleichgueltigkeit!  Zieht
+ihn nicht jedes elende Geschaeft mehr an als die teure, koestliche
+Frau?  Weiss er sein Glueck zu schaetzen?  Weiss er sie zu achten, wie sie
+es verdient?  Er hat sie, nun gut, er hat sie--ich weiss das, wie ich
+was anders auch weiss, ich glaube an den Gedanken gewoehnt zu sein, er
+wird mich noch rasend machen, er wird mich noch umbringen--und hat
+denn die Freundschaft zu mir Stich gehalten?  Sieht er nicht in
+meiner Anhaenglichkeit an Lotten schon einen Eingriff in seine Rechte,
+in meiner Aufmerksamkeit fuer sie einen Stillen Vorwurf?  Ich weiss es
+wohl, ich fuehl' es, er sieht mich ungern, er wuenscht meine Entfernung,
+meine Gegenwart ist ihm beschwerlich."
+
+Oft hielt er seinen raschen Schritt an, oft stand er stille und
+schien umkehren zu wollen; allein er richtete seinen Gang immer
+wieder vorwaerts und war mit diesen Gedanken und Selbstgespraechen
+endlich gleichsam wider Willen bei dem Jagdhause angekommen.
+
+Er trat in die Tuer, fragte nach dem Alten und nach Lotten, er fand
+das Haus in einiger Bewegung.  Der aelteste Knabe sagte ihm, es sei
+drueben in Wahlheim ein Unglueck geschehn, es sei ein Bauer erschlagen
+worden!--Es machte das weiter keinen Eindruck auf ihn.--Er trat in
+die Stube und fand Lotten beschaeftigt, dem Alten zuzureden, der
+ungeachtet seiner Krankheit hinueber wollte, um an Ort und Stelle die
+Tat zu untersuchen.  Der Taeter war noch unbekannt, man hatte den
+Erschlagenen des Morgens vor der Haustuer gefunden, man hatte
+Mutmassungen: der Entleibte war Knecht einer Witwe, die vorher einen
+andern im Dienste gehabt, der mit Unfrieden aus dem Hause gekommen
+war.
+
+Da Werther dieses hoerte, fuhr er mit Heftigkeit auf.--"Ist's
+moeglich!" rief er aus, "ich muss hinueber, ich kann nicht einen
+Augenblick ruhn."--Er eilte nach Wahlheim zu, jede Erinnerung ward
+ihm lebendig, und er zweifelte nicht einen Augenblick, dass jener
+Mensch die Tat begangen, den er so manchmal gesprochen, der ihm so
+wert geworden war.
+
+Da er durch die Linden musste, um nach der Schenke zu kommen, wo sie
+den Koerper hingelegt hatten, entsetzt' er sich vor dem sonst so
+geliebten Platze.  Jene Schwelle, worauf die Nachbarskinder so oft
+gespielt hatten, war mit Blut besudelt.  Liebe und Treue, die
+schoensten menschlichen Empfindungen, hatten sich in Gewalt und Mord
+verwandelt.  Die starken Baeume standen ohne Laub und bereift, die
+schoenen Hecken, die sich ueber die niedrige Kirchhofmauer woelbten,
+waren entblaettert, und die Grabsteine sahen mit Schnee bedeckt durch
+die Luecken hervor.
+
+Als er sich der Schenke naeherte, vor welcher das ganze Dorf
+versammelt war, entstand auf einmal ein Geschrei.  Man erblickte von
+fern einen Trupp bewaffneter Maenner, und ein jeder rief, dass man den
+Taeter herbeifuehre.  Werther sah hin und blieb nicht lange zweifelhaft.
+Ja, es war der Knecht, der jene Witwe so sehr liebte, den er vor
+einiger Zeit mit dem stillen Grimme, mit der heimlichen Verzweiflung
+umhergehend angetroffen hatte.
+
+"Was hast du begangen, Ungluecklicher!" rief Werther aus, indem er
+auf den Gefangenen losging.--Dieser sah ihn still an, schwieg und
+versetzte endlich ganz gelassen: "keiner wird sie haben, sie wird
+keinen haben."--Man brachte den Gefangnen in die Schenke, und
+Werther eilte fort.
+
+Durch die entsetzliche, gewaltige Beruehrung war alles, was in
+seinem Wesen lag, durcheinandergeschuettelt worden.  Aus seiner Trauer,
+seinem Missmut, seiner gleichgueltigen Hingegebenheit wurde er auf
+einen Augenblick herausgerissen; unueberwindlich bemaechtigte sich die
+Teilnehmung seiner, und es ergriff ihn eine unsaegliche Begierde, den
+Menschen zu retten.  Er fuehlte ihn so ungluecklich, er fand ihn als
+Verbrecher selbst so schuldlos, er setzte sich so tief in seine Lage,
+dass er gewiss glaubte, auch andere davon zu ueberzeugen.  Schon
+wuenschte er fuer ihn sprechen zu koennen, schon draengte sich der
+lebhafteste Vortrag nach seinen Lippen, er eilte nach dem Jagdhause
+und konnte sich unterwegs nicht enthalten, alles das, was er dem
+Amtmann vorstellen wollte, schon halblaut auszusprechen.
+
+Als er in die Stube trat, fand er Alberten gegenwaertig, dies
+verstimmte ihn einen Augenblick; doch fasste er sich bald wieder und
+trug dem Amtmann feurig seine Gesinnungen vor.  Dieser schuettelte
+einigemal den Kopf, und obgleich Werther mit der groessten
+Lebhaftigkeit, Leidenschaft und Wahrheit alles vorbrachte, was ein
+Mensch zur Entschuldigung eines Menschen sagen kann, so war doch, wie
+sich's leicht denken laesst, der Amtmann dadurch nicht geruehrt.  Er liess
+vielmehr unsern Freund nicht ausreden, widersprach ihm eifrig und
+tadelte ihn, dass er einen Meuchelmoerder in Schutz nehme; er zeigte
+ihm, dass auf diese Weise jedes Gesetz aufgehoben, alle Sicherheit des
+Staats zugrunde gerichtet werde; auch setzte er hinzu, dass er in einer
+solchen Sache nichts tun koenne, ohne sich die groesste Verantwortung
+aufzuladen, es muesse alles in der Ordnung, in dem vorgeschriebenen
+Gang gehen.
+
+Werther ergab sich noch nicht, sondern bat nur, der Amtmann moechte
+durch die Finger sehn, wenn man dem Menschen zur Flucht behuelflich
+waere!  Auch damit wies ihn der Amtmann ab.  Albert, der sich endlich
+ins Gespraech mischte, trat auch auf des Alten Seite.  Werther wurde
+ueberstimmt, und mit einem entsetzlichen Leiden machte er sich auf den
+Weg, nachdem ihm der Amtmann einigemal gesagt hatte: "nein, er ist
+nicht zu retten!"
+
+Wie sehr ihm diese Worte aufgefallen sein muessen, sehn wir aus
+einem Zettelchen, das sich unter seinen Papieren fand und das gewiss
+an dem naemlichen Tage geschrieben worden:
+
+"Du bist nicht zu retten, Ungluecklicher!  Ich sehe wohl, dass wir
+nicht zu retten sind."
+
+Was Albert zuletzt ueber die Sache des Gefangenen in Gegenwart des
+Amtmanns gesprochen, war Werthern hoechst zuwider gewesen: er glaubte
+einige Empfindlichkeit gegen sich darin bemerkt zu haben, und wenn
+gleich bei mehrerem Nachdenken seinem Scharfsinne nicht entging, dass
+beide Maenner recht haben moechten, so war es ihm doch, als ob er
+seinem innersten Dasein entsagen muesste, wenn er es gestehen, wenn er
+es zugeben sollte.
+
+Ein Blaettchen, das sich darauf bezieht, das vielleicht sein ganzes
+Verhaeltnis zu Albert ausdrueckt, finden wir unter seinen Papieren:
+"Was hilft es, dass ich mir's sage und wieder sage, er ist brav und gut,
+aber es zerreisst mir mein inneres Eingeweide; ich kann nicht gerecht
+sein."
+
+Weil es ein gelinder Abend war und das Wetter anfing, sich zum
+Tauen zu neigen, ging Lotte mit Alberten zu Fusse zurueck.  Unterwegs
+sah sie sich hier und da um, eben als wenn sie Werthers Begleitung
+vermisste.  Albert fing von ihm an zu reden, er tadelte ihn, indem er
+ihm Gerechtigkeit widerfahren liess.  Er beruehrte seine unglueckliche
+Leidenschaft und wuenschte, dass es moeglich sein moechte, ihn zu
+entfernen.--"Ich wuensch' es auch um unsertwillen," sagt' er, "und ich
+bitte dich," fuhr er fort, "siehe zu, seinem Betragen gegen dich eine
+andere Richtung zu geben, seine oeftern Besuche zu vermindern.  Die
+Leute werden aufmerksam, und ich weiss, dass man hier und da drueber
+gesprochen hat."--Lotte schwieg, und Albert schien ihr Schweigen
+empfunden zu haben, wenigstens seit der Zeit erwaehnte er Werthers
+nicht mehr gegen sie, und wenn sie seiner erwaehnte, liess er das
+Gespraech fallen oder lenkte es woanders hin.
+
+Der vergebliche Versuch, den Werther zur Rettung des Ungluecklichen
+gemacht hatte, war das letzte Auflodern der Flamme eines
+verloeschenden Lichtes; er versank nur desto tiefer in Schmerz und
+Untaetigkeit; besonders kam er fast ausser sich, als er hoerte, dass man
+ihn vielleicht gar zum Zeugen gegen den Menschen, der sich nun aufs
+Leugnen legte, auffordern koennte.
+
+Alles was ihm Unangenehmes jeweils in seinem wirksamen Leben
+begegnet war, der Verdruss bei der Gesandtschaft, alles was ihm sonst
+misslungen war, was ihn je gekraenkt hatte, ging in seiner Seele auf und
+nieder.  Er fand sich durch alles dieses wie zur Untaetigkeit
+berechtigt, er fand sich abgeschnitten von aller Aussicht, unfaehig,
+irgendeine Handhabe zu ergreifen, mit denen man die Geschaefte des
+gemeinen Lebens anfasst; und so rueckte er endlich, ganz seiner
+wunderbaren Empfindung, Denkart und einer endlosen Leidenschaft
+hingegeben, in dem ewigen Einerlei eines traurigen Umgangs mit dem
+liebenswuerdigen und geliebten Geschoepfe, dessen Ruhe er stoerte, in
+seine Kraefte stuermend, sie ohne Zweck und Aussicht abarbeitend, immer
+einem traurigen Ende naeher.
+
+Von seiner Verworrenheit, Leidenschaft, von seinem rastlosen
+Treiben und Streben, von seiner Lebensmuede sind einige hinterlassne
+Briefe die staerksten Zeugnisse, die wir hier einruecken wollen.
+
+
+
+Am 12. Dezember
+
+Lieber Wilhelm, ich bin in einem Zustande, in dem jene
+Ungluecklichen gewesen sein muessen, von denen man glaubte, sie wuerden
+von einem boesen Geiste umhergetrieben.  Manchmal ergreift mich's; es
+ist nicht Angst, nicht Begier--es ist ein inneres, unbekanntes Toben,
+das meine Brust zu zerreissen droht, das mir die Gurgel zupresst!
+Wehe!  Wehe!  Und dann schweife ich umher in den furchtbaren
+naechtlichen Szenen dieser menschenfeindlichen Jahrszeit.
+
+Gestern abend musste ich hinaus.  Es war ploetzlich Tauwetter
+eingefallen, ich hatte gehoert, der Fluss sei uebergetreten, alle Baeche
+geschwollen und von Wahlheim herunter mein liebes Tal ueberschwemmt!
+Nachts nach eilfe rannte ich hinaus.  Ein fuerchterliches Schauspiel,
+vom Fels herunter die wuehlenden Fluten in dem Mondlichte wirbeln zu
+sehen, ueber AEcker und Wiesen und Hecken und alles, und das weite Tal
+hinauf und hinab eine stuermende See im Sausen des Windes!  Und wenn
+dann der Mond wieder hervortrat und ueber der schwarzen Wolke ruhte,
+und vor mir hinaus die Flut in fuerchterlich herrlichem Widerschein
+rollte und klang: da ueberfiel mich ein Schauer, und wieder ein Sehnen!
+Ach, mit offenen Armen stand ich gegen den Abgrund und atmete hinab!
+Hinab!  Und verlor mich in der Wonne, meine Qualen, meine Leiden da
+hinabzustuermen!  Dahinzubrausen wie die Wellen!  O!--Und den Fuss vom
+Boden zu heben vermochtest du nicht, und alle Qualen zu enden!
+--Meine Uhr ist noch nicht ausgelaufen, ich fuehle es!  O Wilhelm!  Wie
+gern haette ich mein Menschsein drum gegeben, mit jenem Sturmwinde sie
+Wolken zu zerreissen, die Fluten zu fassen!  Ha!  Und wird nicht
+vielleicht dem Eingekerkerten einmal diese Wonne zuteil?
+
+--Und wie ich wehmuetig hinabsah auf ein Plaetzchen, wo ich mit Lotten
+unter einer Weide geruht, auf einem heissen Spaziergange,--das war
+auch ueberschwemmt, und kaum dass ich die Weide erkannte!  Wilhelm!  Und
+ihre Wiesen, dachte ich, die Gegend um ihr Jagdhaus!  Wie verstoert
+jetzt vom reissenden Strome unsere Laube!  Dacht' ich.  Und der
+Vergangenheit Sonnenstrahl blickte herein, wie einem Gefangenen ein
+Traum von Herden, Wiesen und Ehrenaemtern.  Ich stand!--Ich schelte
+mich nicht, denn ich habe Mut zu sterben.--Ich haette--nun sitze ich
+hier wie ein altes Weib, das ihr Holz von Zaeunen stoppelt und ihr
+Brot an den Tueren, um ihr hinsterbendes, freudeloses Dasein noch
+einen Augenblick zu verlaengern und zu erleichtern.
+
+
+Am 14. Dezember
+
+Was ist das, mein Lieber?  Ich erschrecke vor mir selbst!  Ist nicht
+meine Liebe zu ihr die heiligste, reinste, bruederlichste Liebe?  Habe
+ich jemals einen strafbaren Wunsch in meiner Seele gefuehlt?--Ich
+will nicht beteuern--und nun, Traeume!  O wie wahr fuehlten die Menschen,
+die so widersprechende Wirkungen fremden Maechten zuschrieben!  Diese
+Nacht!  Ich zittere, es zu sagen, hielt ich sie in meinen Armen, fest
+an meinen Busen gedrueckt, und deckte ihren liebelispelnden Mund mit
+unendlichen Kuessen; mein Auge schwamm in der Trunkenheit des ihrigen!
+Gott!  Bin ich strafbar, dass ich auch jetzt noch eine Seligkeit fuehle,
+mir diese gluehenden Freuden mit voller Innigkeit zurueckzurufen?
+Lotte!  Lotte!--Und mit mir ist es aus!  Meine Sinne verwirren sich,
+schon acht Tage habe ich keine Besinnungskraft mehr, meine Augen sind
+voll Traenen.  Ich bin nirgend wohl, und ueberall wohl.  Ich wuensche
+nichts, verlange nichts.  Mir waere besser, ich ginge.
+
+Der Entschluss, die Welt zu verlassen, hatte in dieser Zeit, unter
+solchen Umstaenden in Werthers Seele immer mehr Kraft gewonnen.  Seit
+der Rueckkehr zu Lotten war es immer seine letzte Aussicht und
+Hoffnung gewesen; doch hatte er sich gesagt, es solle keine uebereilte,
+keine rasche Tat sein, er wolle mit der besten UEberzeugung, mit der
+moeglichst ruhigen Entschlossenheit diesen Schritt tun.
+
+Seine Zweifel, sein Streit mit sich selbst blicken aus einem
+Zettelchen hervor, das wahrscheinlich ein angefangener Brief an
+Wilhelm ist und ohne Datum unter seinen Papieren gefunden worden:
+
+Ihre Gegenwart, ihr Schicksal, ihre Teilnehmung an dem meinigen
+presst noch die letzten Traenen aus meinem versengten Gehirne.  Den
+Vorhang aufzuheben und dahinter zu treten!  Das ist alles!  Und warum
+das Zaudern und Zagen?  Weil man nicht weiss, wie es dahinten aussieht?
+Und man nicht wiederkehrt?  Und dass das nun die Eigenschaft unseres
+Geistes ist, da Verwirrung und Finsternis zu ahnen, wovon wir nichts
+Bestimmtes wissen.
+
+Endlich ward er mit dem traurigen Gedanken immer mehr verwandt und
+befremdet und sein Vorsatz fest und unwiderruflich, wovon folgender
+zweideutige Brief, den er an seinen Freund schrieb, ein Zeugnis
+abgibt.
+
+
+
+Am 20. Dezember
+
+Ich danke deiner Liebe, Wilhelm, dass du das Wort so aufgefangen
+hast.  Ja, du hast recht: mir waere besser, ich ginge.  Der Vorschlag,
+den du zu einer Rueckkehr zu euch tust, gefaellt mir nicht ganz;
+wenigstens moechte ich noch gern einen Umweg machen, besonders da wir
+anhaltenden Frost und gute Wege zu hoffen haben.  Auch ist mir es sehr
+lieb, dass du kommen willst, mich abzuholen; verziehe nur noch
+vierzehn Tage, und erwarte noch einen Brief von mir mit dem Weiteren.
+Es ist noetig, dass nichts gepflueckt werde, ehe es reif ist.  Und
+vierzehn Tage auf oder ab tun viel.  Meiner Mutter sollst du sagen:
+dass sie fuer ihren Sohn beten soll, und dass ich sie um Vergebung bitte
+wegen alles Verdrusses, den ich ihr gemacht habe.  Das war nun mein
+Schicksal, die zu betrueben, denen ich Freude schuldig war.  Leb' wohl,
+mein Teuerster!  Allen Segen des Himmels ueber dich!  Leb' wohl!"
+
+Was in dieser Zeit in Lottens Seele vorging, wie ihre Gesinnungen
+gegen ihren Mann, gegen ihren ungluecklichen Freund gewesen, getrauen
+wir uns kaum mit Worten auszudruecken, ob wir uns gleich davon, nach
+der Kenntnis ihres Charakters, wohl einen stillen Begriff machen
+koennen, und eine schoene weibliche Seele sich in die ihrige denken und
+mit ihr empfinden kann.
+
+So viel ist gewiss, sie war fest bei sich entschlossen, alles zu tun,
+um Werthern zu entfernen, und wenn sie zauderte, so war es eine
+herzliche, freundschaftliche Schonung, weil sie wusste, wie viel es
+ihm kosten, ja dass es ihm beinahe unmoeglich sein wuerde.  Doch ward sie
+in dieser Zeit mehr gedraengt, Ernst zu machen; es schwieg ihr Mann
+ganz ueber dies Verhaeltnis, wie sie auch immer darueber geschwiegen
+hatte, und um so mehr war ihr angelegen, ihm durch die Tat zu
+beweisen, wie ihre Gesinnungen der seinigen wert seien.
+
+An demselben Tage, als Werther den zuletzt eingeschalteten Brief an
+seinen Freund geschrieben, es war der Sonntag vor Weihnachten, kam er
+abends zu Lotten und fand sie allein.  Sie beschaeftigte sich, einige
+Spielwerke in Ordnung zu bringen, die sie ihren kleinen Geschwistern
+zum Christgeschenke zurecht gemacht hatte.  Er redete von dem
+Vergnuegen, das die Kleinen haben wuerden, und von den Zeiten, da einen
+die unerwartete OEffnung der Tuer und die Erscheinung eines
+aufgeputzten Baumes mit Wachslichtern, Zuckerwerk und aepfeln in
+paradiesische Entzueckung setzte.--"Sie sollen," sagte Lotte, indem
+sie ihre Verlegenheit unter ein liebes Laecheln verbarg, "Sie sollen
+auch beschert kriegen, wenn Sie recht geschickt sind; ein
+Wachsstoeckchen und noch was."--"Und was heissen Sie geschickt
+sein?"rief er aus;"wie soll ich sein?  Wie kann ich sein?  Beste
+Lotte!"--"Donnerstag abend," sagte sie, "ist Weihnachtsabend, da kommen
+die Kinder, mein Vater auch, da kriegt jedes das Seinige, da kommen
+Sie auch--aber nicht eher."--Werther stutzte.--"Ich bitte Sie,"
+fuhr sie fort, "es ist nun einmal so, ich bitte um meiner Ruhe willen,
+es kann nicht, es kann nicht so bleiben."--Er wendete seine Augen
+von ihr und ging in der Stube auf und ab und murmelte das "es kann
+nicht so bleiben!" zwischen den Zaehnen.--Lotte, die den schrecklichen
+Zustand fuehlte, worein ihn diese Worte versetzt hatten, suchte durch
+allerlei Fragen seine Gedanken abzulenken, aber vergebens.--"Nein,
+Lotte," rief er aus, "ich werde Sie nicht wiedersehen!"--"Warum
+das?" versetzte sie, "Werther, Sie koennen, Sie muessen uns wiedersehen,
+nur maessigen Sie sich.  O warum mussten Sie mit dieser Heftigkeit,
+dieser unbezwinglich haftenden Leidenschaft fuer alles, was Sie einmal
+anfassen, geboren werden!  Ich bitte Sie," fuhr sie fort, indem sie
+ihn bei der Hand nahm, "maessigen Sie sich!  Ihr Geist, Ihre
+Wissenschaften, Ihre Talente, was bieten die Ihnen fuer mannigfaltige
+Ergetzungen dar!  Sein Sie ein Mann, wenden Sie diese traurige
+Anhaenglichkeit von einem Geschoepf, das nichts tun kann als Sie
+bedauern."--Er knirrte mit den Zaehnen und sah sie duester an.--Sie
+hielt seine Hand.  "Nur einen Augenblick ruhigen Sinn, Werther!" sagte
+sie.  Fuehlen Sie nicht, dass Sie sich betriegen, sich mit Willen
+zugrunde richten!  Warum denn mich, Werther?  Just mich, das Eigentum
+eines andern?  Just das?  Ich fuerchte, ich fuerchte, es ist nur die
+Unmoeglichkeit, mich zu besitzen, die Ihnen diesen Wunsch so reizend
+macht."--Er zog seine Hand aus der ihrigen, indem er sie mit einem
+starren, unwilligen Blick ansah.  "Weise!" rief er, "sehr weise!  Hat
+vielleicht Albert diese Anmerkung gemacht?  Politisch!  Sehr politisch!"
+--"Es kann sie jeder machen," versetzte sie drauf, "und sollte denn
+in der weiten Welt kein Maedchen sein, das die Wuensche Ihres Herzens
+erfuellte?  Gewinnen Sie's ueber sich, suchen Sie darnach, und ich
+schwoere Ihnen, Sie werden sie finden; denn schon lange aengstigt mich,
+fuer Sie und uns, die Einschraenkung, in die Sie sich diese Zeit her
+selbst gebannt haben.  Gewinnen Sie ueber sich, eine Reise wird Sie,
+muss Sie zerstreuen!  Suchen Sie, finden Sie einen werten Gegenstand
+Ihrer Liebe, und kehren Sie zurueck, und lassen Sie uns zusammen die
+Seligkeit einer wahren Freundschaft geniessen."  "Das koennte man,"
+sagte er mit einem kalten Lachen, "drucken lassen und allen
+Hofmeistern empfehlen.  Liebe Lotte!  Lassen Sie mir noch ein klein
+wenig Ruh, es wird alles werden!"--"Nur das, Werther, dass Sie nicht
+eher kommen als Weihnachtsabend!"--Er wollte antworten, und Albert
+trat in die Stube.  Man bot sich einen frostigen Guten Abend und ging
+verlegen im Zimmer neben einander auf und nieder.  Werther fing einen
+unbedeutenden Diskurs an, der bald aus war, Albert desgleichen, der
+sodann seine Frau nach gewissen Auftraegen fragte und, als er hoerte,
+sie seien noch nicht ausgerichtet, ihr einige Worte sagte, die
+Werthern kalt, ja gar hart vorkamen.  Er wollte gehen, er konnte nicht
+und zauderte bis acht, da sich denn sein Unmut und Unwillen immer
+vermehrte, bis der Tisch gedeckt wurde, und er Hut und Stock nahm.
+Albert lud ihn zu bleiben, er aber, der nur ein unbedeutendes
+Kompliment zu hoeren glaubte, dankte kalt dagegen und ging weg.
+
+Er kam nach Hause, nahm seinem Burschen, der ihm leuchten wollte,
+das Licht aus der Hand und ging allein in sein Zimmer, weinte laut,
+redete aufgebracht mit sich selbst, ging heftig die Stube auf und ab
+und warf sich endlich in seinen Kleidern aufs Bette, wo ihn der
+Bediente fand, der es gegen eilfe wagte hineinzugehn, um zu fragen, ob
+er dem Herrn die Stiefeln ausziehen sollte, das er denn zuliess und
+dem Bedienten verbot, den andern Morgen ins Zimmer zu kommen, bis er
+ihm rufen wuerde.
+
+Montags frueh, den einundzwanzigsten Dezember, schrieb er folgenden
+Brief an Lotten, den man nach seinem Tode versiegelt auf seinem
+Schreibtische gefunden und ihr ueberbracht hat, und den ich absatzweise
+hier einruecken will, so wie aus den Umstaenden erhellet, dass er ihn
+geschrieben habe.
+
+"Es ist beschlossen, Lotte, ich will sterben, und das schreibe ich
+dir ohne romantische ueberspannung, gelassen, an dem Morgen des Tages,
+an dem ich dich zum letzten Male sehen werde.  Wenn du dieses liesest,
+meine Beste, deckt schon das kuehle Grab die erstarrten Reste des
+Unruhigen, Ungluecklichen, der fuer die letzten Augenblicke seines
+Lebens keine groessere Suessigkeit weiss, als sich mit dir zu unterhalten.
+Ich habe eine schreckliche Nacht gehabt und, ach, eine wohltaetige
+Nacht.  Sie ist es, die meinen Entschluss befestiget, bestimmt hat:
+ich will sterben!  Wie ich mich gestern von dir riss, in der
+fuerchterlichen Empoerung meiner Sinne, wie sich alles das nach meinem
+Herzen draengte und mein hoffnungsloses, freudeloses Dasein neben dir
+in graesslicher Kaelte mich anpackte--ich erreichte kaum mein Zimmer,
+ich warf mich ausser mir auf meine Knie, und o Gott!  Du gewaehrtest
+mir das letzte Labsal der bittersten Traenen!  Tausend Anschlaege,
+tausend Aussichten wueteten durch meine Seele, und zuletzt stand er da,
+fest, ganz, der letzte, einzige Gedanke: ich will sterben!--ich
+legte mich nieder, und morgens, in der Ruhe des Erwachens, steht er
+noch fest, noch ganz stark in meinem Herzen: ich will sterben!--es
+ist nicht Verzweiflung, es ist Gewissheit, dass ich ausgetragen habe,
+und dass ich mich opfere fuer dich.  Ja, Lotte!  Warum sollte ich es
+verschweigen?  Eins von uns dreien muss hinweg, und das will ich sein!
+O meine Beste!  In diesem zerrissenen Herzen ist es wuetend
+herumgeschlichen, oft--deinen Mann zu ermorden!--dich!--mich!
+--so sei es denn!--wenn du hinaufsteigst auf den Berg, an einem
+schoenen Sommerabende, dann erinnere dich meiner, wie ich so oft das
+Tal heraufkam, und dann blicke nach dem Kirchhofe hinueber nach meinem
+Grabe, wie der Wind das hohe Gras im Scheine der sinkenden Sonne hin
+und her wiegt.--Ich war ruhig, da ich anfing, nun, nun weine ich
+wie ein Kind, da alles das so lebhaft um mich wird.--"
+
+Gegen zehn Uhr rief Werther seinem Bedienten, und unter dem
+Anziehen sagte er ihm, wie er in einigen Tagen verreisen wuerde, er
+solle daher die Kleider auskehren und alles zum Einpacken zurecht
+machen; auch gab er ihm Befehl, ueberall Kontos zu fordern, einige
+ausgeliehene Buecher abzuholen und einigen Armen, denen er woechentlich
+etwas zu geben gewohnt war, ihr Zugeteiltes auf zwei Monate voraus zu
+bezahlen.
+
+Er liess sich das Essen auf die Stube bringen, und nach Tische ritt
+er hinaus zum Amtmanne, den er nicht zu Hause antraf.  Er ging
+tiefsinnig im Garten auf und ab und schien noch zuletzt alle
+Schwermut der Erinnerung auf sich haeufen zu wollen.
+
+Die Kleinen liessen ihn nicht lange in Ruhe, sie verfolgten ihn,
+sprangen an ihm hinauf, erzaehlen ihm, dass, wenn morgen, und wieder
+morgen, und noch ein Tag waere, sie die Christgeschenke bei Lotten
+holten, und erzaehlten ihm Wunder, die sich ihre kleine
+Einbildungskraft versprach.--"morgen!" rief er aus, "und wieder
+morgen!  Und noch ein Tag!"--und kuesste sie alle herzlich und wollte
+sie verlassen, als ihm der Kleine noch etwas in das Ohr sagen wollte.
+Der verriet ihm, die grossen Brueder haetten schoene Neujahrswuensche
+geschrieben, so gross! Und einen fuer den Papa, fuer Albert und Lotten
+einen und auch einen fuer Herrn Werther; die wollten sie am
+Neujahrstage frueh ueberreichen. Das uebermannte ihn, er schenkte jedem
+etwas, setzte sich zu Pferde, liess den Alten gruessen und ritt mit
+Traenen in den Augen davon.
+
+Gegen fuenf kam er nach Hause, befahl der Magd, nach dem Feuer zu
+sehen und es bis in die Nacht zu unterhalten.  Den Bedienten hiess er
+Buecher und Waesche unten in den Koffer packen und die Kleider einnaehen.
+Darauf schrieb er wahrscheinlich folgenden Absatz seines letzten
+Briefes an Lotten.
+
+"Du erwartest mich nicht!  Du glaubst, ich wuerde gehorchen und erst
+Weihnachtsabend dich wieder sehn.  O Lotte!  Heut oder nie mehr.
+Weihnachtsabend haeltst du dieses Papier in deiner Hand, zitterst und
+benetzest es mit deinen lieben Traenen.  Ich will, ich muss!  O wie wohl
+ist es mir, dass ich entschlossen bin."
+
+Lotte war indes in einen sonderbaren Zustand geraten.  Nach der
+letzten Unterredung mit Werthern hatte sie empfunden, wie schwer es
+ihr fallen werde, sich von ihm zu trennen, was er leiden wuerde, wenn
+er sich von ihr entfernen sollte.
+
+Es war wie im Voruebergehn in Alberts Gegenwart gesagt worden, dass
+Werther vor Weihnachtsabend nicht wieder kommen werde, und Albert war
+zu einem Beamten in der Nachbarschaft geritten, mit dem er Geschaefte
+abzutun hatte, und wo er ueber Nacht ausbleiben musste.
+
+Sie sass nun allein, keins von ihren Geschwistern war um sie, sie
+ueberliess sich ihren Gedanken, die stille ueber ihren Verhaeltnissen
+herumschweiften.  Sie sah sich nun mit dem Mann auf ewig verbunden,
+dessen Liebe und Treue sie kannte, dem sie von Herzen zugetan war,
+dessen Ruhe, dessen Zuverlaessigkeit recht vom Himmel dazu bestimmt zu
+sein schien, dass eine wackere Frau das Glueck ihres Lebens darauf
+gruenden sollte; sie fuehlte, was er ihr und ihren Kindern auf immer
+sein wuerde.  Auf der andern Seite war ihr Werther so teuer geworden,
+gleich von dem ersten Augenblick ihrer Bekanntschaft an hatte sich die
+uebereinstimmung ihrer Gemueter so schoen gezeigt, der lange dauernde
+Umgang mit ihm, so manche durchlebte Situationen hatten einen
+unausloeschlichen Eindruck auf ihr Herz gemacht.  Alles, was sie
+Interessantes fuehlte und dachte, war sie gewohnt mit ihm zu teilen,
+und seine Entfernung drohte in ihr ganzes Wesen eine Luecke zu reissen,
+die nicht wieder ausgefuellt werden konnte.  O, haette sie ihn in dem
+Augenblick zum Bruder umwandeln koennen, wie gluecklich waere sie
+gewesen!  Haette sie ihn einer ihrer Freundinnen verheiraten duerfen,
+haette sie hoffen koennen, auch sein Verhaeltnis gegen Albert ganz wieder
+herzustellen!
+
+Sie hatte ihre Freundinnen der Reihe nach durchgedacht und fand bei
+einer jeglichen etwas auszusetzen, fand keine, der sie ihn gegoennt
+haette.
+
+UEber allen diesen Betrachtungen fuehlte sie erst tief, ohne sich es
+deutlich zu machen, dass ihr herzliches, heimliches Verlangen sei, ihn
+fuer sich zu behalten, und sagte sich daneben, dass sie ihn nicht
+behalten koenne, behalten duerfe; ihr reines, schoenes, sonst so leichtes
+und leicht sich helfendes Gemuet empfand den Druck einer Schwermut,
+dem die Aussicht zum Glueck verschlossen ist.  Ihr Herz war gepresst,
+und eine truebe Wolke lag ueber ihrem Auge.
+
+So war es halb sieben geworden, als sie Werthern die Treppe
+heraufkommen hoerte und seinen Tritt, seine Stimme, die nach ihr fragte,
+bald erkannte.  Wie schlug ihr Herz, und wir duerfen fast sagen zum
+erstenmal, bei seiner Ankunft.  Sie haette sich gern vor ihm
+verleugnen lassen, und als er hereintrat, rief sie ihm mit einer Art
+von leidenschaftlicher Verwirrung entgegen: "Sie haben nicht Wort
+gehalten."--"Ich habe nichts versprochen" war seine Antwort.--"So
+haetten Sie wenigstens meiner Bitte stattgeben sollen," versetzte sie,
+"ich bat Sie um unser beider Ruhe."
+
+Sie wusste nicht recht, was sie sagte, ebensowenig was sie tat, als
+sie nach einigen Freundinnen schickte, um nicht mit Werthern allein
+zu sein.  Er legte einige Buecher hin, die er gebracht hatte, fragte
+nach andern, und sie wuenschte, bald dass ihre Freundinnen kommen, bald
+dass sie wegbleiben moechten.  Das Maedchen kam zurueck und brachte die
+Nachricht, dass sich beide entschuldigen liessen.
+
+Sie wollte das Maedchen mit ihrer Arbeit in das Nebenzimmer sitzen
+lassen; dann besann sie sich wieder anders.  Werther ging in der Stube
+auf und ab, sie trat ans Klavier und fing eine Menuett an, sie wollte
+nicht fliessen.  Sie nahm sich zusammen und setzte sich gelassen zu
+Werthern, der seinen gewoehnlchen Platz auf dem Kanapee eingenommen
+hatte.
+
+"Haben Sie nichts zu lesen?" sagte sie.--Er hatte nichts.--"Da
+drin in meiner Schublade," fing sie an, "liegt Ihre UEbersetzung
+einiger Gesaenge Ossians; ich habe sie noch nicht gelesen, denn ich
+hoffte immer, sie von Ihnen zu hoeren; aber zeither hat sich's nicht
+finden, nicht machen wollen."--Er laechelte, holte die Lieder, ein
+Schauer ueberfiel ihn, als er sie in die Haende nahm, und die Augen
+standen ihm voll Traenen, als er hineinsah.  Er setzte sich nieder und
+las.
+
+"Stern der daemmernden Nacht, schoen funkelst du in Westen, habst
+dein strahlend Haupt aus deiner Wolke, wandelst stattlich deinen
+Huegel hin.  Wornach blickst du auf die Heide?  Die stuermenden Winde
+haben sich gelegt; von ferne kommt des Giessbachs Murmeln; rauschende
+Wellen spielen am Felsen ferne; das Gesumme der Abendfliegen
+schwaermet uebers Feld.  Wornach siehst du, schoenes Licht?  Aber du
+laechelst und gehst, freudig umgeben dich die Wellen und baden dein
+liebliches Haar.  Lebe wohl, ruhiger Strahl.  Erscheine, du herrliches
+Licht von Ossians Seele!
+
+Und es erscheint in seiner Kraft.  Ich sehe meine geschiedenen
+Freunde, sie sammeln sich auf Lora, wie in den Tagen, die vorueber
+sind.--Fingal kommt wie eine feuchte Nebelsaeule; um ihn sind seine
+Helden, und, siehe!  Die Barden des Gesanges: grauer Ullin!
+Stattlicher Ryno!  Alpin, lieblicher Saenger!  Und du, sanft klagende
+Minona!--Wie veraendert seid ihr, meine Freunde, seit den festlichen
+Tagen auf Selma, da wir buhlten um die Ehre des Gesanges, wie
+Fruehlingsluefte den Huegel hin wechselnd beugen das schwach lispelnde
+Gras.
+
+Da trat Minona hervor in ihrer Schoenheit, mit niedergeschlagenem
+Blick und traenenvollem Auge, schwer floss ihr Haar im unsteten Winde,
+der von dem Huegel herstiess.--Duester ward's in der Seele der Helden,
+als sie die liebliche Stimme erhob; denn oft hatten sie das Grab
+Salgars gesehen, oft die finstere Wohnung der weissen Colma.  Colma,
+verlassen auf dem Huegel, mit der harmonischen Stimme; Salgar
+versprach zu kommen; aber ringsum zog sich die Nacht.  Hoeret Colmas
+Stimme, da sie auf dem Huegel allein sass.
+
+Colma.  Es ist Nacht!--Ich bin allein, verloren auf dem stuermischen
+Huegel.  Der Wind saust im Gebirge.  Der Strom heult den Felsen hinab.
+Keine Huette schuetzt mich vor Regen, mich Verlassne auf dem stuermischen
+Huegel.  Tritt, o Mond, aus deinen Wolken, erscheinet, Sterne der
+Nacht!  Leite mich irgend ein Strahl zu dem Orte, wo meine Liebe ruht
+von den Beschwerden der Jagd, sein Bogen neben ihm abgespannt, seine
+Hunde schnobend um ihn!  Aber hier muss ich sitzen allein auf dem
+Felsen des verwachsenen Stroms.  Der Strom und der Sturm saust, ich
+hoere nicht die Stimme meines Geliebten.
+
+Warum zaudert mein Salgar?  Hat er sein Wort vergessen?--Da ist
+der Fels und der Baum und hier der rauschende Strom!  Mit
+einbrechender Nacht versprachst du hier zu sein; ach!  Wohin hat sich
+mein Salgar verirrt?  Mit dir wollt' ich fliehen, verlassen Vater und
+Bruder, die stolzen!  Lange sind unsere Geschlechter Feinde, aber wir
+sind keine Feinde, o Salgar!
+
+Schweig eine Weile, o Wind!  Still eine kleine Weile, o Strom, dass
+meine Stimme klinge durchs Tal, dass mein Wanderer mich hoere.  Salgar!
+Ich bin's, die ruft!  Hier ist der Baum und der Fels!  Salgar!  Mein
+Lieber!  Hier bin ich; warum zauderst du zu kommen?
+
+Sieh, der Mond erscheint, die Flut glaenzt im Tale, die Felsen
+stehen grau den Huegel hinauf; aber ich seh' ihn nicht auf der Hoehe,
+seine Hunde vor ihm her verkuendigen nicht seine Ankunft.  Hier muss ich
+sitzen allein.
+
+Aber wer sind, die dort unten liegen auf der Heide?--Mein
+Geliebter?  Mein Bruder?--Redet, o meine Freunde!  Sie antworten
+nicht.  Wie geaengstigt ist meine Seele!--Ach sie sind tot!  Ihre
+Schwester rot vom Gefechte!  O mein Bruder, mein Bruder, warum hast du
+meinen Salgar erschlagen?  O mein Salgar, warum hast du meinen Bruder
+erschlagen?  Ihr wart mir beide so lieb!  O du warst schoen an dem
+Huegel unter Tausenden!  Es war schrecklich in der Schlacht.  Antwortet
+mir!  Hoert meine Stimme, meine Geliebten!  Aber ach, sie sind stumm,
+stumm auf ewig!  Kalt wie die Erde ist ihr Busen!
+
+O von dem Felsen des Huegels, von dem Gipfel des stuermenden Berges,
+redet, Geister der Toten!  Redet!  Mir soll es nicht grausen!--Wohin
+seid ihr zur Ruhe gegangen?  In welcher Gruft des Gebirges soll ich
+euch finden?--Keine schwache Stimme vernehme ich im Winde, keine
+wehende Antwort im Sturme des Huegels.  Ich sitze in meinem Jammer,
+ich harre auf den Morgen in meinen Traenen.  Wuehlet das Grab, ihr
+Freunde der Toten, aber schliesst es nicht, bis ich komme.  Mein Leben
+schwindet wie ein Traum; wie sollt' ich zurueckbleiben!  Hier will ich
+{...} Felsens--wenn's Nacht wird auf dem Huegel, und Wind kommt ueber die
+Heide, soll mein Geist im Winde stehn und trauern den Tod meiner
+Freunde.  Der Jaeger hoert mich aus seiner Laube, fuerchtet meine Stimme
+und liebt sie; denn suess soll meine Stimme sein um meine Freunde, sie
+waren mir beide so lieb!
+
+Das war dein Gesang, o Minona, Tormans sanft erroetende Tochter.
+Unsere Traenen flossen um Colma, und unsere Seele ward duester.
+
+Ullin trat auf mit der Harfe und gab uns Alpins Gesang--Alpins
+Stimme war freundlich, Rynos Seele ein Feuerstrahl.  Aber schon ruhten
+sie im engen Hause, und ihre Stimme war verhallet in Selma.  Einst
+kehrte Ullin zurueck von der Jagd, ehe die Helden noch fielen.  Er
+hoerte ihren Wettegesang auf dem Huegel.  Ihr Lied war sanft, aber
+traurig.  Sie klagten Morars Fall, des ersten der Helden.  Seine Seele
+war wie Fingals Seele, sein Schwert wie das Schwert Oskars--aber er
+fiel, und sein Vater jammerte, und seiner Schwester Augen waren voll
+Traenen, Minonas Augen waren voll Traenen, der Schwester des herrlichen
+Morars.  Sie trat zurueck vor Ullins Gesang, wie der Mond in Westen,
+der den Sturmregen voraussieht und sein schoenes Haupt in eine Wolke
+verbirgt.--Ich schlug die Harfe mit Ullin zum Gesange des Jammers.
+
+
+Ryno
+
+Vorbei sind Wind und Regen, der Mittag ist so heiter, die Wolken
+teilen sich.  Fliehend bescheint den Huegel die unbestaendige Sonne.
+Roetlich fliesst der Strom des Bergs im Tale hin.  Suess ist dein Murmeln,
+Strom; doch suesser die Stimme, die ich hoere.  Es ist Alpins Stimme, er
+bejammert den Toten.  Sein Haupt ist vor Alter gebeugt und rot sein
+traenendes Auge.  Alpin, trefflicher Saenger, warum allein auf dem
+schweigenden Huegel?  Warum jammerst du wie ein Windstoss im Walde, wie
+eine Welle am fernen Gestade?
+
+
+
+Alpin
+
+Meine Traenen, Ryno, sind fuer den Toten, meine Stimme fuer die
+Bewohner des Grabs.  Schlank bist du auf dem Huegel, schoen unter den
+Soehnen der Heide.  Aber du wirst fallen wie Morar, und auf deinem
+Grabe wird der Trauernde sitzen.  Die Huegel werden dich vergessen,
+dein Bogen in der Halle liegen ungespannt.
+
+Du warst schnell, o Morar, wie ein Reh auf dem Huegel, schrecklich
+wie die Nachtfeuer am Himmel.  Dein Grimm war ein Sturm, dein Schwert
+in der Schlacht wie Wetterleuchten ueber der Heide.  Deine Stimme
+glich dem Waldstrome nach dem Regen, dem Donner auf fernen Huegeln.
+Manche fielen von deinem Arm, die Flamme deines Grimmes verzehrte sie.
+Aber wenn du wiederkehrtest vom Kriege, wie friedlich war deine
+Stirne!  Dein Angesicht war gleich der Sonne nach dem Gewitter,
+gleich dem Monde in der schweigenden Nacht, ruhig deine Brust wie der
+See, wenn sich des Windes Brausen gelegt hat.
+
+Eng ist nun deine Wohnung, finster deine Staette!  Mit drei Schritten
+mess' ich dein Grab, o du, der du ehe so gross warst!  Vier Steine mit
+moosigen Haeupten sind dein einziges Gedaechtnis; ein entblaetterter
+Baum, langes Gras, das im Winde wispelt, deutet dem Auge des Jaegers
+das Grab des maechtigen Morars.  Keine Mutter hast du, dich zu beweinen,
+kein Maedchen mit Traenen der Liebe.  Tot ist, die dich gebar,
+gefallen die Tochter von Morglan.
+
+Wer auf seinem Stabe ist das?  Wer ist es, dessen Haupt weiss ist vor
+Alter, dessen Augen rot sind von Traenen?  Es ist dein Vater, o Morar,
+der Vater keines Sohnes ausser dir.  Er hoerte von deinem Ruf in der
+Schlacht, er hoerte von zerstobenen Feinden; er hoerte Morars Ruhm!
+Ach!  Nichts von seiner Wunde?  Weine, Vater Morars, weine!  Aber dein
+Sohn hoert dich nicht.  Tief ist der Schlaf der Toten, niedrig ihr
+Kissen von Staube.  Nimmer achtet er auf die Stimme, nie erwacht er
+auf deinen Ruf.  O wann wird es Morgen im Grabe, zu bieten dem
+Schlummerer: Erwache!
+
+Lebe wohl, edelster der Menschen, du Eroberer im Felde!  Aber nimmer
+wird dich das Feld sehen, nimmer der duestere Wald leuchten vom Glanze
+deines Stahls.  Du hinterliessest keinen Sohn, aber der Gesang soll
+deinen Namen erhalten, kuenftige Zeiten sollen von dir hoeren, hoeren
+von dem gefallenen Morar.
+
+Laut war die Trauer der Helden, am lautesten Armins berstender
+Seufzer.  Ihn erinnerte es an den Tod seines Sohnes, er fiel in den
+Tagen der Jugend.  Carmor sass nah bei dem Helden, der Fuerst des
+hallenden Galmal.  "Warum schluchzet der Seufzer Armins?" sprach er,
+"was ist hier zu weinen?  Klingt nicht ein Lied und ein Gesang, die
+Seele zu schmelzen und zu ergetzen?  Sie sind wie sanfter Nebel, der
+steigend vom See aufs Tal sprueht, und die bluehenden Blumen fuellet das
+Nass; aber die Sonne kommt wieder in ihrer Kraft, und der Nebel ist
+gegangen.  Warum bist du so jammervoll, Armin, Herrscher des
+seeumflossenen Gorma?"
+
+"Jammervoll!  Wohl das bin ich, und nicht gering die Ursache meines
+Wehs.--Carmor, du verlorst keinen Sohn, verlorst keine bluehende
+Tochter; Colgar, der Tapfere, lebt, und Annira, die schoenste der
+Maedchen.  Die Zweige deines Hauses bluehen, o Carmor; aber Armin ist
+der Letzte seines Stammes.  Finster ist dein Bett, o Daura!  Dumpf ist
+dein Schlaf in dem Grabe--wann erwachst du mit deinen Gesaengen, mit
+deiner melodischen Stimme?  Auf, ihr Winde des Herbstes!  Auf, stuermt
+ueber die finstere Heide!  Waldstroeme, braust!  Heult, Stroeme, im
+Gipfel der Eichen!  Wandle durch gebrochene Wolken, o Mond, zeige
+wechselnd dein bleiches Gesicht!  Erinnre mich der schrecklichen
+Nacht, da meine Kinder umkamen, da Arindal, der Maechtige, fiel, Daura,
+die Liebe, verging.
+
+"Daura, meine Tochter, du warst schoen, schoen wie der Mond auf den
+Huegeln von Fura, weiss wie der gefallene Schnee, suess wie die atmende
+Luft!  Arindal, dein Bogen war stark, dein Speer schnell auf dem
+Felde, dein Blick wie Nebel auf der Welle, dein Schild eine Feuerwolke
+im Sturme!
+
+"Armar, beruehmt im Kriege, kam und warb um Dauras Liebe; sie
+widerstand nicht lange.  Schoen waren die Hoffnungen ihrer Freunde."
+
+Erath, der Sohn Odgals, grollte, denn sein Bruder lag erschlagen
+von Armar.  Er kam, in einen Schiffer verkleidet.  Schoen war sein
+Nachen auf der Welle, weiss seine Locken vor Alter, ruhig sein ernstes
+Gesicht.  "Schoenste Maedchen," sagte er, "liebliche Tochter von
+Armin, dort am Felsen, nicht fern in der See, wo die rote Frucht vom
+Baume herblinkt, dort wartet Armar auf Daura: ich komme, seine Liebe
+zu fuehren ueber die rollende See.
+
+Sie folgt' ihm und rief nach Armar; nichts antwortete als die
+Stimme des Felsens.  "Armar!  Mein Lieber!  Mein Lieber!  Warum
+aengstest du mich so?  Hoere, Sohn Arnarths!  Hoere!  Daura ist's, die
+dich ruft!
+
+Erath, der Verraeter, floh lachend zum Lande.  Sie erhob ihre Stimme,
+rief nach ihrem Vater und Bruder: "Arindal!  Armin!  Ist keiner,
+seine Daura zu retten?"
+
+Ihre Stimme kam ueber die See.  Arindal, mein Sohn, stieg vom Huegel
+herab, rauh in der Beute der Jagd, seine Pfeile rasselten an seiner
+Seite, seinen Bogen trug er in der Hand, fuenf schwarzgraue Doggen
+waren um ihn.  Er sah den kuehnen Erath am Ufer, fasst' und band ihn an
+die Eiche, fest umflocht er seine Hueften, der Gefesselte fuellte mit
+AEchzen die Winde.
+
+Arindal betritt die Wellen in seinem Boote, Daura herueber zu
+bringen.  Armar kam in seinem Grimme, drueckt' ab den grau befiederten
+Pfeil, er klang, er sank in dein Herz, "o Arindal, mein Sohn!  Statt
+Eraths, des Verraeters, kamst du um, das Boot erreichte den Felsen, er
+sank dran nieder und starb.  Zu deinen Fuessen floss deines Bruders Blut,
+welch war dein Jammer, o Daura!  Die Wellen zerschmettern das Boot.
+Armar stuerzt sch in die See, seine Daura zu retten oder zu sterben.
+Schnell stuermte ein Stoss vom Huegel in die Wellen, er sank und hob
+sich nicht wieder.
+
+Allein auf den seebespuelten Felsen hoert' ich die Klagen meiner
+Tochter.  Viel und laut war ihr Schreien, doch konnt' sie ihr Vater
+nicht retten.  Die ganze Nacht stand ich am Ufer, ich sah sie im
+schwachen Strahle des Mondes, die ganze Nacht hoert' ich ihr Schreien,
+laut war der Wind, und der Regen schlug scharf nach der Seite des
+Berges.  Ihre Stimme ward schwach, ehe der Morgen erschien, sie starb
+weg wie die Abendluft zwischen dem Grase der Felsen.  Beladen mit
+Jammer starb sie und liess Armin allein!  Dahin ist meine Staerke im
+Kriege, gefallen mein Stolz unter den Maedchen.
+
+Wenn die Stuerme des Berges kommen, wenn der Nord die Wellen
+hochhebt, sitz' ich am schallenden Ufer, schaue nach dem schrecklichen
+Felsen.  Oft im sinkenden Monde seh' ich die Geister meiner Kinder,
+halb daemmernd wandeln sie zusammen in traurigen Eintracht."
+
+Ein Strom von Traenen, der aus Lottens Augen brach und ihrem
+gepressten Herzen Luft machte, hemmte Werthers Gesang.  Er warf das
+Papier hin, fasste ihre Hand und weinte die bittersten Traenen.  Lotte
+ruhte auf der andern und verbarg ihre Augen ins Schnupftuch.  Die
+Bewegung beider war fuerchterlich.  Sie fuehlten ihr eigenes Elend in
+dem Schicksale der Edlen, fuehlten es zusammen, und ihre Traenen
+vereinigten sich.  Die Lippen und Augen Werthers gluehten an Lottens
+Arme; ein Schauer ueberfiel sie; sie wollte sich entfernen, und
+Schmerz und Anteil lagen betaeubend wie Blei auf ihr.  Sie atmete,
+sich zu erholen, und bat ihn schluchzend fortzufahren, bat mit der
+ganzen Stimme des Himmels!  Werther zitterte, sein Herz wollte bersten,
+er hob das Blatt auf und las halb gebrochen:
+
+"Warum weckst du mich, Fruehlingsluft?  Du buhlst und sprichst: ich
+betaue mit Tropfen des Himmels!  Aber die Zeit meines Welkens ist nahe,
+nahe der Sturm, der meine Blaetter herabstoert!  Morgen wird der
+Wanderer kommen, kommen der mich sah in meiner Schoenheit, ringsum
+wird sein Auge im Felde mich suchen und wird mich nicht finden.--"
+
+Die ganze Gewalt dieser Worte fiel ueber den Ungluecklichen.
+
+Er warf sich vor Lotten nieder in der vollen Verzweifelung, fasste
+ihre Haende, drueckte sie in seine Augen, wider seine Stirn, und ihr
+schien eine Ahnung seines schrecklichen Vorhabens durch die Seele zu
+fliegen.  Ihre Sinne verwirrten sich, sie drueckte seine Haende,
+drueckte sie wider ihre Brust, neigte sich mit einer wehmuetigen
+Bewegung zu ihm, und ihre gluehenden Wangen beruehrten sich.  Die Welt
+verging ihnen.  Er schlang seine Arme um sie her, presste sie an seine
+Brust und deckte ihre zitternden, stammelnden Lippen mit wuetenden
+Kuessen.--"Werther!" rief sie mit erstickter Stimme, sich abwendend,
+"Werther!" und drueckte mit schwacher Hand seine Brust von der
+ihrigen; "Werther!" rief sie mit dem gefassten Tone des edelsten
+Gefuehles.--Er widerstand nicht, liess sie sich aus seinen Armen und
+warf sich unsinnig vor sie hin.--Sie riss sich auf, und in
+aengstlicher Verwirrung, bebend zwischen Liebe und Zorn, sagte sie:
+"Das ist das letzte Mal!  Werther!  Sie sehn mich nicht wieder."  Und
+mit dem vollsten Blick der Liebe auf den Elenden eilte sie ins
+Nebenzimmer und schloss hinter sich zu.--Werther streckte ihr die
+Arme nach, getraute sich nicht, sie zu halten.  Er lag an der Erde,
+den Kopf auf dem Kanapee, und in dieser Stellung blieb er ueber eine
+halbe Stunde, bis ihn ein Geraeusch zu sich selbst rief.  Es war das
+Maedchen, das den Tisch decken wollte.  Er ging im Zimmer auf und ab,
+und da er sich wieder allein sah, ging er zur Tuere des Kabinetts und
+rief mit leiser Stimme: "Lotte!  Lotte!  Nur noch ein Wort!  Ein
+Lebewohl!"--Sie schwieg.--Er harrte und bat und harrte; dann riss er
+sich weg und rief: "lebe wohl, Lotte!  Auf ewig lebe wohl!"
+
+Er kam ans Stadttor.  Die Waechter, die ihn schon gewohnt waren,
+liessen ihn stillschweigend hinaus.  Es stiebte zwischen Regen und
+Schnee, und erst gegen eilfe klopfte er wieder.  Sein Diener bemerkte,
+als Werther nach Hause kam, dass seinem Herrn der Hut fehlte.  Er
+getraute sich nicht, etwas zu sagen, entkleidete ihn, alles war nass.
+Man hat nachher den Hut auf einem Felsen, der an dem Abhange des
+Huegels ins Tal sieht, gefunden, und es ist unbegreiflich, wie er ihn
+in einer finstern, feuchten Nacht, ohne zu stuerzen, erstiegen hat.
+
+Er legte sich zu Bette und schlief lange.  Der Bediente fand ihn
+schreibend, als er ihm den andern Morgen auf sein Rufen den Kaffee
+brachte.  Er schrieb folgendes am Briefe an Lotten:
+
+"Zum letztenmale denn, zum letztenmale schlage ich diese Augen auf.
+Sie sollen, ach, die Sonne nicht mehr sehn, ein trueber, neblichter
+Tag haelt sie bedeckt.  So traure denn, Natur!  Dein Sohn, dein Freund,
+dein Geliebter naht sich seinem Ende.  Lotte, das ist ein Gefuehl
+ohnegleichen, und doch kommt es dem daemmernden Traum am naechsten, zu
+sich zu sagen: das ist der letzte Morgen.  Der letzte!  Lotte, ich
+habe keinen Sinn fuer das Wort: der letzte!  Stehe ich nicht da in
+meiner ganzen Kraft, und morgen liege ich ausgestreckt und schlaff am
+Boden.  Sterben!  Was heisst das?  Siehe, wir traeumen, wenn wir vom
+Tode reden.  Ich habe manchen sterben sehen; aber so eingeschraenkt ist
+die Menschheit, dass sie fuer ihres Daseins Anfang und Ende keinen Sinn
+hat.  Jetzt noch mein, dein!  Dein, o Geliebte!  Und einen
+Augenblick--getrennt, geschieden--vielleicht auf ewig?--Nein, Lotte,
+nein--wie kann ich vergehen?  Wie kannst du vergehen?  Wir sind ja!
+--vergehen!--Was heisst das?  Das ist wieder ein Wort, ein leerer
+Schall, ohne Gefuehl fuer mein Herz.--Tot, Lotte!  Eingescharrt der
+kalten Erde, so eng!  So finster!--Ich hatte eine Freundin, die mein
+alles war meiner huelflosen Jugend; sie starb, und ich folgte ihrer
+Leiche und stand an dem Grabe, wie sie den Sarg hinunterliessen und
+die Seile schnurrend unter ihm weg und wieder herauf schnellten, dann
+die erste Schaufel hinunterschollerte, und die aengstliche Lade einen
+dumpfen Ton wiedergab, und dumpfer und immer dumpfer, und endlich
+bedeckt war!--Ich stuerzte neben das Grab hin--ergriffen, erschuettert,
+geaengstigt, zerrissen mein Innerstes, aber ich wusste nicht, wie mir
+geschah--wie mir geschehen wird--Sterben!  Grab!  Ich verstehe die
+Worte nicht!
+
+O vergib mir!  Vergib mir!  Gestern!  Es haette der letzte Augenblick
+meines Lebens sein sollen.  O du Engel!  Zum ersten Male, zum ersten
+Male ganz ohne Zweifel durch mein innig Innerstes durchgluehte mich
+das Wonnegefuehl: sie liebt mich!  Sie liebt mich!  Es brennt noch auf
+meinen Lippen das heilige Feuer, das von den deinigen stroemte, neue,
+warme Wonne ist in meinem Herzen.  Vergib mir!  Vergib mir!
+
+Ach, ich wusste, dass du mich liebtest, wusste es an den ersten
+seelenvollen Blicken, an dem ersten Haendedruck, und doch, wenn ich
+wieder weg war, wenn ich Alberten an deiner Seite sah, verzagte ich
+wieder in fieberhaften Zweifeln.
+
+Erinnerst du dich der Blumen, die du mir schicktest, als du in
+jener fatalen Gesellschaft mir kein Wort sagen, keine Hand reichen
+konntest?  O, ich habe die halbe Nacht davor gekniet, und sie
+versiegelten mir deine Liebe.  Aber ach!  Diese Eindruecke gingen
+vorueber, wie das Gefuehl der Gnade seines Gottes allmaehlich wieder aus
+der Seele des Glaeubigen weicht, die ihm mit ganzer Himmelsfuelle in
+heiligen, sichtbaren Zeichen gereicht ward.
+
+Alles das ist vergaenglich, aber keine Ewigkeit soll das gluehende
+Leben ausloeschen, das ich gestern auf deinen Lippen genoss, das ich in
+mir fuehle!  Sie liebt mich!  Dieser Arm hat sie umfasst, diese Lippen
+haben auf ihren Lippen gezittert, dieser Mund hat an dem ihrigen
+gestammelt.  Sie ist mein!  Du bist mein!  Ja, Lotte, auf ewig.
+
+Und was ist das, dass Albert dein Mann ist?  Mann!  Das waere denn fuer
+diese Welt--und fuer diese Welt Suende, dass ich dich liebe, dass ich
+dich aus seinen Armen in die meinigen reissen moechte?  Suende?  Gut,
+und ich strafe mich dafuer; ich habe sie in ihrer ganzen Himmelswonne
+geschmeckt, diese Suende, habe Lebensbalsam und Kraft in mein Herz
+gesaugt.  Du bist von diesem Augenblicke mein!  Mein, o Lotte!  Ich
+gehe voran!  Gehe zu meinem Vater, zu deinem Vater.  Dem will ich's
+klagen, und er wird mich troesten, bis du kommst, und ich fliege dir
+entgegen und fasse dich und bleibe bei dir vor dem Angesichte des
+Unendlichen in ewigen Umarmungen.
+
+Ich traeume nicht, ich waehne nicht!  Nahe am Grabe wird mir es heller.
+Wir werden sein!  Wir werden uns wieder sehen!  Deine Mutter sehen!
+Ich werde sie sehen, werde sie finden, ach, und vor ihr mein ganzes
+Herz ausschuetten!  Deine Mutter, dein Ebenbild."
+
+Gegen eilfe fragte Werther seinen Bedienten, ob wohl Albert
+zurueckgekommen sei?  Der Bediente sagte: ja, er habe dessen Pferd
+dahinfuehren sehen.  Darauf gibt ihm der Herr ein offenes Zettelchen
+des Inhalts: "Wollten Sie mir wohl zu einer vorhabenden Reise Ihre
+Pistolen leihen?  Leben Sie recht wohl!"
+
+Die liebe Frau hatte die letzte Nacht wenig geschlafen; was sie
+gefuerchtet hatte, war entschieden, auf eine Weise entschieden, die
+sie weder ahnen noch fuerchten konnte.  Ihr sonst so rein und leicht
+fliessendes Blut war in einer fieberhaften Empoerung, tausenderlei
+Mepfindungen zerruetteten das schoene Herz.  War es das Feuer von
+Werthers Umarmungen, das sie in ihrem Busen fuehlte?  War es Unwille
+ueber seine Verwegenheit?  War es eine unmutige Vergleichung ihres
+gegenwaertigen Zustandes mit jenen Tagen ganz unbefangener, freier
+Unschuld und sorglosen Zutrauens an sich selbst?  Wie sollte sie
+ihrem Manne entgegengehen, wie ihm eine Szene bekennen, die sie so
+gut gestehen durfte, und die sie sich doch zu gestehen nicht
+getraute?  Sie hatten so lange gegen einander geschwiegen, und sollte
+sie die erste sein, die das Stillschweigen braeche und eben zur
+unrechten Zeit ihrem Gatten eine so unerwartete Entdeckung machte?
+Schon fuerchtete sie, die blosse Nachricht von Werthers Besuch werde
+ihm einen unangenehmen Eindruck machen, und nun gar diese unerwartete
+Katastrophe!  Konnte sie wohl hoffen, dass ihr Mann sie ganz im rechten
+Lichte sehen, ganz ohne Vorurteil aufnehmen wuerde?  Und konnte sie
+wuenschen, dass er in ihrer Seele lesen moechte?  Und doch wieder, konnte
+sie sich verstellen gegen den Mann, vor dem sie immer wie ein
+kristallhelles Glas offen und frei gestanden und dem sie keine ihrer
+Empfindungen jemals verheimlicht noch verheimlichen koennen?  Eins und
+das andre machte ihr Sorgen und setzte sie in Verlegenheit; und immer
+kehrten ihre Gedanken wieder zu Werthern, der fuer sie verloren war,
+den sie nicht lassen konnte, den sie--leider!--sich selbst
+ueberlassen musste, und dem, wenn er sie verloren hatte, nichts mehr
+uebrig blieb.
+
+Wie schwer lag jetzt, was sie sich in dem Augenblick nicht deutlich
+machen konnte, die Stockung auf ihr, die sich unter ihnen festgesetzt
+hatte!  So verstaendige, so gute Menschen fingen wegen gewisser
+heimlicher Verschiedenheiten unter einander zu schweigen an, jedes
+dachte seinem Recht und dem Unrechte des andern nach, und die
+Verhaeltnisse verwickelten und verhetzten sich dergestalt, dass es
+unmoeglich ward, den Knoten eben in dem kritischen Momente, von dem
+alles abhing, zu loesen.  Haette eine glueckliche Vertraulichkeit sie
+frueher wieder einander naeher gebracht, waere Liebe und Nachsicht
+wechselsweise unter ihnen lebendig worden und haette ihre Herzen
+aufgeschlossen, vielleicht waere unser Freund noch zu retten gewesen.
+
+Noch ein sonderbarer Umstand kam dazu.  Werther hatte, wie wir aus
+seinen Briefen wissen, nie ein Geheimnis daraus gemacht, dass er sich
+diese Welt zu verlassen sehnte.  Albert hatte ihn oft bestritten, auch
+war zwischen Lotten und ihrem Mann manchmal die Rede davon gewesen.
+Dieser, wie er einen entschiedenen Widerwillen gegen die Tat empfand,
+hatte auch gar oft mit einer Art von Empfindlichkeit, die sonst ganz
+ausser seinem Charakter lag, zu erkennen gegeben, dass er an dem Ernst
+eines solchen Vorsatzes sehr zu zweifeln Ursach' finde, er hatte sich
+sogar darueber einigen Scherz erlaubt und seinen Unglauben Lotten
+mitgeteilt.  Dies beruhigte sie zwar von einer Seite, wenn ihre
+Gedanken ihr das traurige Bild vorfuehrten, von der andern aber fuehlte
+sie sich auch dadurch gehindert, ihrem Manne die Besorgnisse
+mitzuteilen, die sie in dem Augenblicke quaelten.
+
+Albert kam zurueck, und Lotte ging ihm mit einer verlegenen
+Hastigkeit entgegen, er war nicht heiter, sein Geschaeft war nicht
+vollbracht, er hatte an dem benachbarten Amtmanne einen unbiegsamen,
+kleinsinnigen Menschen gefunden.  Der UEble Weg auch hatte ihn
+verdriesslich gemacht.
+
+Er fragte, ob nichts vorgefallen sei, und sie antwortete mit
+UEbereilung: Werther sei gestern abends dagewesen.  Er fragte, ob
+Briefe gekommen, und er erhielt zur Antwort, dass ein Brief und Pakete
+auf seiner Stube laegen.  Er ging hinueber, und Lotte blieb allein.  Die
+Gegenwart des Mannes, den sie liebte und ehrte, hatte einen neuen
+Eindruck in ihr Herz gemacht.  Das Andenken seines Edelmuts, seiner
+Liebe und Guete hatte ihr Gemuet mehr beruhigt, sie fuehlte einen
+heimlichen Zug, ihm zu folgen, sie nahm ihre Arbeit und ging auf sein
+Zimmer, wie sie mehr zu tun pflegte.  Sie fand ihn beschaeftigt, die
+Pakete zu erbrechen und zu lesen.  Einige schienen nicht das
+Angenehmste zu enthalten.  Sie tat einige Fragen an ihn, die er kurz
+beantwortete, und sich an den Pult stellte, zu schreiben.
+
+Sie waren auf diese Weise eine Stunde nebeneinander gewesen, und es
+ward immer dunkler in Lottens Gemuet.  Sie fuehlte, wie schwer es ihr
+werden wuerde, ihrem Mann, auch wenn er bei dem besten Humor waere, das
+zu entdecken, was ihr auf dem Herzen lag; sie verfiel in eine Wehmut,
+die ihr um desto aengstlicher ward, als sie solche zu verbergen und
+ihre Traenen zu verschlucken suchte.
+
+Die Erscheinung von Werthers Knaben setzte sie in die groesste
+Verlegenheit; er ueberreichte Alberten das Zettelchen, der sich
+gelassen nach seiner Frau wendete und sagte: "gib ihm die Pistolen."
+--"Ich lasse ihm glueckliche Reise wuenschen." sagte er zum Jungen.
+--Das fiel auf sie wie ein Donnerschlag, sie schwankte aufzustehen,
+sie wusste nicht, wie ihr geschah.  Langsam ging sie nach der Wand,
+zitternd nahm sie das Gewehr herunter, putzte den Staub ab und
+zauderte, und haette noch lange gezoegert, wenn nicht Albert durch
+einen fragenden Blick sie gedraengt haette.  Sie gab das unglueckliche
+Werkzeug dem Knaben, ohne ein Wort vorbringen zu koennen, und als der
+zum Hause hinaus war, machte sie ihre Arbeit zusammen, ging in ihr
+Zimmer, in dem Zustande der unaussprechlichsten Ungewissheit.  Ihr
+Herz weissagte ihr alle Schrecknisse.  Bald war sie im Begriffe, sich
+zu den Fuessen ihres Mannes zu werfen, ihm alles zu entdecken, die
+Geschichte des gestrigen Abends, ihre Schuld und ihre Ahnungen.  Dann
+sah sie wieder keinen Ausgang des Unternehmens, am wenigsten konnte
+sie hoffen, ihren Mann zu einem Gange nach Werthern zu bereden.  Der
+Tisch ward gedeckt, und eine gute Freundin, die nur etwas zu fragen
+kam, gleich gehen wollte--und blieb, machte die Unterhaltung bei
+Tische ertraeglich; man zwang sich, man redete, man erzaehlte, man
+vergass sich.
+
+Der Knabe kam mit den Pistolen zu Werthern, der sie ihm mit
+Entzuecken abnahm, als er hoerte, Lotte habe sie ihm gegeben.  Er liess
+sich Brot und Wein bringen, hiess den Knaben zu Tische gehen und
+setzte sich nieder, zu schreiben.
+
+"Sie sind durch deine Haende gegangen, du hast den Staub davon
+geputzt, ich kuesse sie tausendmal, du hast sie beruehrt!  Und du, Geist
+des Himmels, beguenstigst meinen Entschluss, und du, Lotte, reichst mir
+das Werkzeug, du, von deren Haenden ich den Tod zu empfangen wuenschte,
+und ach!  Nun empfange.  O ich habe meinen Jungen ausgefragt.  Du
+zittertest, als du sie ihm reichtest, du sagtest kein Lebewohl!
+--Wehe!  Wehe!  Kein Lebewohl!--solltest du dein Herz fuer mich
+verschlossen haben, um des Augenblicks willen, der mich ewig an dich
+befestigte?  Lotte, kein Jahrtausend vermag den Eindruck auszuloeschen!
+Und ich fuehle es, du kannst den nicht hassen, der so fuer dich glueht."
+
+
+Nach Tische hiess er den Knaben alles vollends einpacken, zerriss
+viele Papiere, ging aus und brachte noch kleine Schulden in Ordnung.
+Er kam wieder nach Hause, ging wieder aus vors Tor, ungeachtet des
+Regens, in den graeflichen Garten, schweifte weiter in der Gegend
+umher und kam mit anbrechender Nacht zurueck und schrieb.
+
+"Wilhelm, ich habe zum letzten Male Feld und Wald und den Himmel
+gesehen.  Leb wohl auch du!  Liebe Mutter, verzeiht mir!  Troeste sie,
+Wilhelm!  Gott segne euch!  Meine Sachen sind alle in Ordnung.  Lebt
+wohl!  Wir sehen uns wieder und freudiger."
+
+"Ich habe dir UEbel gelohnt, Albert, und du vergibst mir.  Ich habe
+den Frieden deines Hauses gestoert, ich habe Misstrauen zwischen euch
+gebracht.  Lebe wohl!  Ich will es enden.  O dass ihr gluecklich waeret
+durch meinen Tod!  Albert!  Albert!  Mache den Engel gluecklich!  Und
+so wohne Gottes Segen ueber dir!"
+
+Er kannte den Abend noch viel in seinen Papieren, zerriss vieles und
+warf es in den Ofen, versiegelte einige Paecke mit den Adressen an
+Wilhelm.  Sie enthielten kleine Aufsaetze, abgerissene Gedanken, deren
+ich verschiedene gesehen habe; und nachdem er um zehn Uhr Feuer hatte
+nachlegen und sich eine Flasche Wein geben lassen, schickte er den
+Bedienten, dessen Kammer wie auch die Schlafzimmer der Hausleute weit
+hinten hinaus waren, zu Bette, der sich dann in seinen Kleidern
+niederlegte, um fruehe bei der Hand zu sein; denn sein Herr hatte
+gesagt, die Postpferde wuerden vor sechse vors Haus kommen.
+
+
+
+Nach Eilfe
+
+Alles ist so still um mich her, und so ruhig meine Seele.  Ich danke
+dir, Gott, der du diesen letzten Augenblicken diese Waerme, diese
+Kraft schenkest.
+
+Ich trete an das Fenster, meine Beste, und sehe, und sehe noch
+durch die stuermenden, vorueberfliehenden Wolken einzelne Sterne des
+ewigen Himmels!  Nein, ihr werdet nicht fallen!  Der Ewige traegt euch
+an seinem Herzen, und mich.  Ich sehe die Deichselsterne des Wagens,
+des liebsten unter allen Gestirnen.  Wenn ich nachts von dir ging,
+wie ich aus deinem Tore trat, stand er gegen mir ueber.  Mit welcher
+Trunkenheit habe ich ihn oft angesehen, oft mit aufgehabenen Haenden
+ihn zum Zeichen, zum heiligen Merksteine meiner gegenwaertigen
+Seligkeit gemacht!  Und noch--o Lotte, was erinnert mich nicht an dich!
+Umgibst du mich nicht!  Und habe ich nicht, gleich einem Kinde,
+ungenuegsam allerlei Kleinigkeiten zu mir gerissen, die du Heilige
+beruehrt hattest!
+
+Liebes Schattenbild!  Ich vermache dir es zurueck, Lotte, und bitte
+dich, es zu ehren.  Tausend, tausend Kuesse habe ich darauf gedrueckt,
+tausend Gruesse ihm zugewinkt, wenn ich ausging oder nach Hause kam.
+Ich habe deinen Vater in einem Zettelchen gebeten, meine Leiche zu
+schuetzen.  Auf dem Kirchhofe sind zwei Lindenbaeume, hinten in der Ecke
+nach dem Felde zu; dort wuensche ich zu ruhen.  Er kann, er wird das
+fuer seinen Freund tun.  Bitte ihn auch.  Ich will frommen Christen
+nicht zumuten, ihren Koerper neben einen armen Ungluecklichen zu legen.
+Ach, ich wollte, ihr begruebt mich am Wege, oder im einsamen Tale,
+dass Priester und Levit vor dem bezeichneten Steine sich segnend
+voruebergingen und der Samariter eine Traene weinte.
+
+Hier, Lotte!  Ich schaudre nicht, den kalten, schrecklichen Kelch zu
+fassen, aus dem ich den Taumel des Todes trinken soll!  Du reichtest
+mir ihn, und zage nicht.  All!  All!  So sind alle die Wuensche und
+Hoffnungen meines Lebens erfuellt!  So kalt, so starr an der ehernen
+Pforte des Todes anzuklopfen.
+
+Dass ich des Glueckes haette teilhaftig werden koennen, fuer dich zu
+sterben!  Lotte, fuer dich mich hinzugeben!  Ich wollte mutig, ich
+wollte freudig sterben, wenn ich dir die Ruhe, die Wonne deines
+Lebens wiederschaffen koennte.  Aber ach!  Das ward nur wenigen Edeln
+gegeben, ihr Blut fuer die Ihrigen zu vergiessen und durch ihren Tod
+ein neues, hundertfaeltiges Leben ihren Freunden anzufachen.
+
+In diesen Kleidern, Lotte, will ich begraben sein, du hast sie
+beruehrt, geheiligt; ich habe auch deinen Vater darum gebeten.  Meine
+Seele schwebt ueber dem Sarge.  Man soll meine Taschen nicht aussuchen.
+Diese blassrote Schleife, die du am Busen hattest, als ich dich zum
+ersten Male unter deinen Kindern fand--o kuesse sie tausendmal und
+erzaehle ihnen das Schicksal ihres ungluecklichen Freundes.  Die Lieben!
+Sie wimmeln um mich.  Ach wie ich mich an dich schloss!  Seit dem
+ersten Augenblicke dich nicht lassen konnte!--Diese Schleife soll
+mit mir begraben werden.  An meinem Geburtstage schenktest du sie mir!
+Wie ich das alles verschlang!--Ach, ich dachte nicht, dass mich der
+Weg hierher fuehren sollte!--Sei ruhig!  Ich bitte dich, sei ruhig!
+
+--Sie sind geladen--es schlaegt zwoelfe!  So sei es denn!--Lotte!
+Lotte, lebe wohl!  Lebe wohl!"
+
+Ein Nachbar sah den Blick vom Pulver und hoerte den Schuss fallen; da
+aber alles stille blieb, achtete er nicht weiter drauf.
+
+Morgens um sechse tritt der Bediente herein mit dem Lichte.  Er
+findet seinen Herrn an der Erde, die Pistole und Blut.  Er ruft, er
+fasst ihn an; keine Antwort, er roechelt nur noch.  Er laeuft nach den
+AErzten, nach Alberten.  Lotte hoert die Schelle ziehen, ein Zittern
+ergreift alle ihre Glieder.  Sie weckt ihren Mann, sie stehen auf,
+der Bediente bringt heulend und stotternd die Nachricht, Lotte sinkt
+ohnmoechtig vor Alberten nieder.
+
+Als der Medikus zu dem Ungluecklichen kam, fand er ihn an der Erde
+ohne Rettung, der Puls schlug, die Glieder waren alle gelaehmt.  ueber
+dem rechten Auge hatte er sich durch den Kopf geschossen, das Gehirn
+war herausgetrieben.  Man liess ihm zum UEberfluss eine Ader am Arme, das
+Blut lief, er holte noch immer Atem.
+
+Aus dem Blut auf der Lehne des Sessels konnte man schliessen, er
+habe sitzend vor dem Schreibtische die Tat vollbracht, dann ist er
+heruntergesunken, hat sich konvulsivisch um den Stuhl herumgewaelzt.
+Er lag gegen das Fenster entkraeftet auf dem Ruecken, war in voelliger
+Kleidung, gestiefelt, im blauen Frack mit gelber Weste.
+
+Das Haus, die Nachbarschaft, die Stadt kam in Aufruhr.  Albert trat
+herein.  Werthern hatte man auf das Bett gelegt, die Stirn verbunden,
+sein Gesicht schon wie eines Toten, er ruehrte kein Glied.  Die Lunge
+roechelte noch fuerchterlich, bald schwach, bald staerker; man erwartete
+sein Ende.
+
+Von dem Weine hatte er nur ein Glas getrunken.  Emilia Galotti lag
+auf dem Pulte aufgeschlagen.
+
+Von Alberts Bestuerzung, von Lottens Jammer lasst mich nichts sagen.
+
+Der alte Amtmann kam auf die Nachricht hereingesprengt, er kuesste
+den Sterbenden unter den heissesten Traenen.  Seine aeltesten Soehne kamen
+bald nach ihm zu Fusse, sie fielen neben dem Bette nieder im Ausdrucke
+des unbaendigsten Schmerzens, kuessten ihm die Haende und den Mund, und
+der aelteste, den er immer am meisten geliebt, hing an seinen Lippen,
+bis er verschieden war und man den Knaben mit Gewalt wegriss.  Um
+zwoelfe mittags starb er.  Die Gegenwart des Amtmannes und seine
+Anstalten tauschten einen Auflauf.  Nachts gegen eilfe liess er ihn an
+die Staette begraben, die er sich erwaehlt hatte.  Der Alte folgte der
+Leiche und die Soehne, Albert vermocht's nicht.  Man fuerchtete fuer
+Lottens Leben.  Handwerker trugen ihn.  Kein Geistlicher hat ihn
+begleitet.
+
+
+
+
+
+Ende dieses Projekt Gutenberg Etextes "Die Leiden des jungen
+Werther-Buch 2" von Johann Wolfgang von Goethe.
+

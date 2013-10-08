@@ -1,0 +1,2841 @@
+The Project Gutenberg Etext of Wilhelm Meisters Lehrjahre--Buch 1
+by Johann Wolfgang von Goethe
+
+#13 in our series by Johann Wolfgang von Goethe
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfuegung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg.aol.de erreichbar.
+
+This Etext is in German.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 7-bit version.
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Wilhelm Meisters Lehrjahre--Buch 1
+by Johann Wolfgang von Goethe
+
+September, 2000  [Etext #2335]
+
+
+The Project Gutenberg Etext of Wilhelm Meisters Lehrjahre--Buch 1
+******This file should be named 7wml112.txt or 7wml112.zip*******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 7wml113.txt
+VERSIONS based on separate sources get new LETTER, 7wml110a.txt
+
+
+This etext was prepared by Michael Pullen, globaltraveler5565@yahoo.com.
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+This etext was prepared by Michael Pullen,
+globaltraveler5565@yahoo.com.
+
+
+
+
+
+Wilhelm Meisters Lehrjahre--Buch 1
+
+Johann Wolfgang von Goethe
+
+
+
+
+
+Erstes Buch
+
+Erstes Kapitel
+
+Das Schauspiel dauerte sehr lange.  Die alte Barbara trat einigemal
+ans Fenster und horchte, ob die Kutschen nicht rasseln wollten.  Sie
+erwartete Marianen, ihre schoene Gebieterin, die heute im Nachspiele,
+als junger Offizier gekleidet, das Publikum entzueckte, mit groesserer
+Ungeduld als sonst, wenn sie ihr nur ein maessiges Abendessen
+vorzusetzen hatte; diesmal sollte sie mit einem Paket ueberrascht
+werden, das Norberg, ein junger, reicher Kaufmann, mit der Post
+geschickt hatte, um zu zeigen, dass er auch in der Entfernung seiner
+Geliebten gedenke.
+
+Barbara war als alte Dienerin, Vertraute, Ratgeberin, Unterhaendlerin
+und Haushaelterin in Besitz des Rechtes, die Siegel zu eroeffnen, und
+auch diesen Abend konnte sie ihrer Neugierde um so weniger widerstehen,
+als ihr die Gunst des freigebigen Liebhabers mehr als selbst Marianen
+am Herzen lag.  Zu ihrer groessten Freude hatte sie in dem Paket ein
+feines Stueck Nesseltuch und die neuesten Baender fuer Marianen, fuer sich
+aber ein Stueck Kattun, Halstuecher und ein Roellchen Geld gefunden.  Mit
+welcher Neigung, welcher Dankbarkeit erinnerte sie sich des abwesenden
+Norbergs!  Wie lebhaft nahm sie sich vor, auch bei Marianen seiner im
+besten zu gedenken, sie zu erinnern, was sie ihm schuldig sei und was
+er von ihrer Treue hoffen und erwarten muesse.
+
+Das Nesseltuch, durch die Farbe der halbaufgerollten Baender belebt,
+lag wie ein Christgeschenk auf dem Tischchen; die Stellung der Lichter
+erhoehte den Glanz der Gabe, alles war in Ordnung, als die Alte den
+Tritt Marianens auf der Treppe vernahm und ihr entgegeneilte.  Aber
+wie sehr verwundert trat sie zurueck, als das weibliche Offizierchen,
+ohne auf die Liebkosungen zu achten, sich an ihr vorbeidraengte, mit
+ungewoehnlicher Hast und Bewegung in das Zimmer trat, Federhut und
+Degen auf den Tisch warf, unruhig auf und nieder ging und den
+feierlich angezuendeten Lichtern keinen Blick goennte.
+
+"Was hast du, Liebchen?" rief die Alte verwundert aus.  "Um 's Himmels
+willen, Toechterchen, was gibt's?  Sieh hier diese Geschenke!  Von wem
+koennen sie sein, als von deinem zaertlichsten Freunde?  Norberg schickt
+dir das Stueck Musselin zum Nachtkleide; bald ist er selbst da; er
+scheint mir eifriger und freigebiger als jemals."
+
+Die Alte kehrte sich um und wollte die Gaben, womit er auch sie
+bedacht, vorweisen, als Mariane, sich von den Geschenken wegwendend,
+mit Leidenschaft ausrief: "Fort!  Fort! heute will ich nichts von
+allem diesen hoeren; ich habe dir gehorcht, du hast es gewollt, es sei
+so!  Wenn Norberg zurueckkehrt, bin ich wieder sein, bin ich dein,
+mache mit mir, was du willst, aber bis dahin will ich mein sein, und
+haettest du tausend Zungen, du solltest mir meinen Vorsatz nicht
+ausreden.  Dieses ganze Mein will ich dem geben, der mich liebt und
+den ich liebe.  Keine Gesichter!  Ich will mich dieser Leidenschaft
+ueberlassen, als wenn sie ewig dauern sollte."
+
+Der Alten fehlte es nicht an Gegenvorstellungen und Gruenden; doch da
+sie in fernerem Wortwechsel heftig und bitter ward, sprang Mariane auf
+sie los und fasste sie bei der Brust.  Die Alte lachte ueberlaut.  "Ich
+werde sorgen muessen", rief sie aus, "dass sie wieder bald in lange
+Kleider kommt, wenn ich meines Lebens sicher sein will.  Fort, zieht
+Euch aus!  Ich hoffe, das Maedchen wird mir abbitten, was mir der
+fluechtige Junker Leids zugefuegt hat; herunter mit dem Rock und immer
+so fort alles herunter!  Es ist eine unbequeme Tracht, und fuer Euch
+gefaehrlich, wie ich merke.  Die Achselbaender begeistern Euch."
+
+Die Alte hatte Hand an sie gelegt, Mariane riss sich los.  "Nicht so
+geschwind!" rief sie aus, "ich habe noch heute Besuch zu erwarten."
+
+"Das ist nicht gut", versetzte die Alte.  "Doch nicht den jungen,
+zaertlichen, unbefiederten Kaufmannssohn?"--"Eben den", versetzte
+Mariane.
+
+"Es scheint, als wenn die Grossmut Eure herrschende Leidenschaft werden
+wollte", erwiderte die Alte spottend; "Ihr nehmt Euch der Unmuendigen,
+der Unvermoegenden mit grossem Eifer an.  Es muss reizend sein, als
+uneigennuetzige Geberin angebetet zu werden."
+
+"Spotte, wie du willst.  Ich lieb ihn! ich lieb ihn!  Mit welchem
+Entzuecken sprech ich zum erstenmal diese Worte aus!  Das ist diese
+Leidenschaft, die ich so oft vorgestellt habe, von der ich keinen
+Begriff hatte.  Ja, ich will mich ihm um den Hals werfen! ich will ihn
+fassen, als wenn ich ihn ewig halten wollte.  Ich will ihm meine ganze
+Liebe zeigen, seine Liebe in ihrem ganzen Umfang geniessen."
+
+"Maessigt Euch", sagte die Alte gelassen, "maessigt Euch!  Ich muss Eure
+Freude durch ein Wort unterbrechen: Norberg kommt! in vierzehn Tagen
+kommt er!  Hier ist sein Brief, der die Geschenke begleitet hat."
+
+"Und wenn mir die Morgensonne meinen Freund rauben sollte, will ich
+mir's verbergen.  Vierzehn Tage!  Welche Ewigkeit!  In vierzehn Tagen,
+was kann da nicht vorfallen, was kann sich da nicht veraendern!"
+
+Wilhelm trat herein.  Mit welcher Lebhaftigkeit flog sie ihm entgegen!
+mit welchem Entzuecken umschlang er die rote Uniform! drueckte er das
+weisse Atlaswestchen an seine Brust!  Wer wagte hier zu beschreiben,
+wem geziemt es, die Seligkeit zweier Liebenden auszusprechen!  Die
+Alte ging murrend beiseite, wir entfernen uns mit ihr und lassen die
+Gluecklichen allein.
+
+
+
+
+I. Buch, 2. Kapitel
+
+
+
+
+Zweites Kapitel
+
+Als Wilhelm seine Mutter des andern Morgens begruesste, eroeffnete sie
+ihm, dass der Vater sehr verdriesslich sei und ihm den taeglichen Besuch
+des Schauspiels naechstens untersagen werde.  "Wenn ich gleich selbst",
+fuhr sie fort, "manchmal gern ins Theater gehe, so moechte ich es doch
+oft verwuenschen, da meine haeusliche Ruhe durch deine unmaessige
+Leidenschaft zu diesem Vergnuegen gestoert wird.  Der Vater wiederholt
+immer wozu es nur nuetze sei?  Wie man seine Zeit nur so verderben
+koenne?"
+
+"Ich habe es auch schon von ihm hoeren muessen", versetzte Wilhelm, "und
+habe ihm vielleicht zu hastig geantwortet; aber um 's Himmels willen,
+Mutter! ist denn alles unnuetz, was uns nicht unmittelbar Geld in den
+Beutel bringt, was uns nicht den allernaechsten Besitz verschafft?
+Hatten wir in dem alten Hause nicht Raum genug? und war es noetig, ein
+neues zu bauen?  Verwendet der Vater nicht jaehrlich einen ansehnlichen
+Teil seines Handelsgewinnes zur Verschoenerung der Zimmer?  Diese
+seidenen Tapeten, diese englischen Mobilien, sind sie nicht auch
+unnuetz?  Koennten wir uns nicht mit geringeren begnuegen?  Wenigstens
+bekenne ich, dass mir diese gestreiften Waende, diese hundertmal
+wiederholten Blumen, Schnoerkel, Koerbchen und Figuren einen durchaus
+unangenehmen Eindruck machen.  Sie kommen mir hoechstens vor wie unser
+Theatervorhang.  Aber wie anders ist's, vor diesem zu sitzen!  Wenn
+man noch so lange warten muss, so weiss man doch, er wird in die Hoehe
+gehen, und wir werden die mannigfaltigsten Gegenstaende sehen, die uns
+unterhalten, aufklaeren und erheben."
+
+"Mach es nur maessig", sagte die Mutter, "der Vater will auch abends
+unterhalten sein; und dann glaubt er, es zerstreue dich, und am Ende
+trag ich, wenn er verdriesslich wird, die Schuld.  Wie oft musste ich
+mir das verwuenschte Puppenspiel vorwerfen lassen, das ich euch vor
+zwoelf Jahren zum Heiligen Christ gab und das euch zuerst Geschmack am
+Schauspiele beibrachte!"
+
+"Schelten Sie das Puppenspiel nicht, lassen Sie sich Ihre Liebe und
+Vorsorge nicht gereuen!  Es waren die ersten vergnuegten Augenblicke,
+die ich in dem neuen, leeren Hause genoss; ich sehe es diesen
+Augenblick noch vor mir, ich weiss, wie sonderbar es mir vorkam, als
+man uns, nach Empfang der gewoehnlichen Christgeschenke, vor einer Tuere
+niedersetzen hiess, die aus einem andern Zimmer hereinging.  Sie
+eroeffnete sich; allein nicht wie sonst zum Hin- und Widerlaufen, der
+Eingang war durch eine unerwartete Festlichkeit ausgefuellt.  Es baute
+sich ein Portal in die Hoehe, das von einem mystischen Vorhang verdeckt
+war.  Erst standen wir alle von ferne, und wie unsere Neugierde groesser
+ward, um zu sehen, was wohl Blinkendes und Rasselndes sich hinter der
+halb durchsichtigen Huelle verbergen moechte, wies man jedem sein
+Stuehlchen an und gebot uns, in Geduld zu warten.
+
+So sass nun alles und war still; eine Pfeife gab das Signal, der
+Vorhang rollte in die Hoehe und zeigte eine hochrot gemalte Aussicht in
+den Tempel.  Der Hohepriester Samuel erschien mit Jonathan, und ihre
+wechselnden wunderlichen Stimmen kamen mir hoechst ehrwuerdig vor.  Kurz
+darauf betrat Saul die Szene, in grosser Verlegenheit ueber die
+Impertinenz des schwerloetigen Kriegers, der ihn und die Seinigen
+herausgefordert hatte.  Wie wohl ward es mir daher, als der
+zwerggestaltete Sohn Isai mit Schaeferstab, Hirtentasche und Schleuder
+hervorhuepfte und sprach: "Grossmaechtigster Koenig und Herr! es
+entfalle keinem der Mut um deswillen; wenn Ihre Majestaet mir erlauben
+wollen, so will ich hingehen und mit dem gewaltigen Riesen in den
+Streit treten."--Der erste Akt war geendet und die Zuschauer hoechst
+begierig zu sehen, was nun weiter vorgehen sollte; jedes wuenschte, die
+Musik moechte nur bald aufhoeren.  Endlich ging der Vorhang wieder in
+die Hoehe.  David weihte das Fleisch des Ungeheuers den Voegeln unter
+dem Himmel und den Tieren auf dem Felde; der Philister sprach Hohn,
+stampfte viel mit beiden Fuessen, fiel endlich wie ein Klotz und gab der
+ganzen Sache einen herrlichen Ausschlag.  Wie dann nachher die
+Jungfrauen sangen: "Saul hat tausend geschlagen, David aber
+zehntausend!", der Kopf des Riesen vor dem kleinen UEberwinder
+hergetragen wurde und er die schoene Koenigstochter zur Gemahlin erhielt,
+verdross es mich doch bei aller Freude, dass der Gluecksprinz so
+zwergmaessig gebildet sei.  Denn nach der Idee vom grossen Goliath und
+kleinen David hatte man nicht verfehlt, beide recht charakteristisch
+zu machen.  Ich bitte Sie, wo sind die Puppen hingekommen?  Ich habe
+versprochen, sie einem Freunde zu zeigen, dem ich viel Vergnuegen
+machte, indem ich ihn neulich von diesem Kinderspiel unterhielt."
+
+"Es wundert mich nicht, dass du dich dieser Dinge so lebhaft erinnerst:
+denn du nahmst gleich den groessten Anteil daran.  Ich weiss, wie du mir
+das Buechlein entwendetest und das ganze Stueck auswendig lerntest; ich
+wurde es erst gewahr, als du eines Abends dir einen Goliath und David
+von Wachs machtest, sie beide gegeneinander perorieren liessest, dem
+Riesen endlich einen Stoss gabst und sein unfoermliches Haupt auf einer
+grossen Stecknadel mit waechsernem Griff dem kleinen David in die Hand
+klebtest.  Ich hatte damals so eine herzliche muetterliche Freude ueber
+dein gutes Gedaechtnis und deine pathetische Rede, dass ich mir sogleich
+vornahm, dir die hoelzerne Truppe nun selbst zu uebergeben.  Ich dachte
+damals nicht, dass es mir so manche verdriessliche Stunde machen sollte."
+
+"Lassen Sie sich's nicht gereuen", versetzte Wilhelm; "denn es haben
+uns diese Scherze manche vergnuegte Stunde gemacht."
+
+Und mit diesem erbat er sich die Schluessel, eilte, fand die Puppen und
+war einen Augenblick in jene Zeiten versetzt, wo sie ihm noch belebt
+schienen, wo er sie durch die Lebhaftigkeit seiner Stimme, durch die
+Bewegung seiner Haende zu beleben glaubte.  Er nahm sie mit auf seine
+Stube und verwahrte sie sorgfaeltig.
+
+
+
+
+I. Buch, 3. Kapitel
+
+
+
+
+Drittes Kapitel
+
+Wenn die erste Liebe, wie ich allgemein behaupten hoere, das Schoenste
+ist, was ein Herz frueher oder spaeter empfinden kann, so muessen wir
+unsern Helden dreifach gluecklich preisen, dass ihm gegoennt ward, die
+Wonne dieser einzigen Augenblicke in ihrem ganzen Umfange zu geniessen.
+Nur wenig Menschen werden so vorzueglich beguenstigt, indes die meisten
+von ihren fruehern Empfindungen nur durch eine harte Schule gefuehrt
+werden, in welcher sie, nach einem kuemmerlichen Genuss, gezwungen sind,
+ihren besten Wuenschen entsagen und das, was ihnen als hoechste
+Glueckseligkeit vorschwebte, fuer immer entbehren zu lernen.
+
+Auf den Fluegeln der Einbildungskraft hatte sich Wilhelms Begierde zu
+dem reizenden Maedchen erhoben; nach einem kurzen Umgange hatte er ihre
+Neigung gewonnen, er fand sich im Besitz einer Person, die er so sehr
+liebte, ja verehrte: denn sie war ihm zuerst in dem guenstigen Lichte
+theatralischer Vorstellung erschienen, und seine Leidenschaft zur
+Buehne verband sich mit der ersten Liebe zu einem weiblichen Geschoepfe.
+Seine Jugend liess ihn reiche Freuden geniessen, die von einer
+lebhaften Dichtung erhoeht und erhalten wurden.  Auch der Zustand
+seiner Geliebten gab ihrem Betragen eine Stimmung, welche seinen
+Empfindungen sehr zu Huelfe kam; die Furcht, ihr Geliebter moechte ihre
+uebrigen Verhaeltnisse vor der Zeit entdecken, verbreitete ueber sie
+einen liebenswuerdigen Anschein von Sorge und Scham, ihre Leidenschaft
+fuer ihn war lebhaft, selbst ihre Unruhe schien ihre Zaertlichkeit zu
+vermehren; sie war das lieblichste Geschoepf in seinen Armen.
+
+Als er aus dem ersten Taumel der Freude erwachte und auf sein Leben
+und seine Verhaeltnisse zurueckblickte, erschien ihm alles neu, seine
+Pflichten heiliger, seine Liebhabereien lebhafter, seine Kenntnisse
+deutlicher, seine Talente kraeftiger, seine Vorsaetze entschiedener.  Es
+ward ihm daher leicht, eine Einrichtung zu treffen, um den Vorwuerfen
+seines Vaters zu entgehen, seine Mutter zu beruhigen und Marianens
+Liebe ungestoert zu geniessen.  Er verrichtete des Tags seine Geschaefte
+puenktlich, entsagte gewoehnlich dem Schauspiel, war abends bei Tische
+unterhaltend und schlich, wenn alles zu Bette war, in seinen Mantel
+gehuellt, sachte zu dem Garten hinaus und eilte, alle Lindors und
+Leanders im Busen, unaufhaltsam zu seiner Geliebten.
+
+"Was bringen Sie?" fragte Mariane, als er eines Abends ein Buendel
+hervorwies, das die Alte in Hoffnung angenehmer Geschenke sehr
+aufmerksam betrachtete.  "Sie werden es nicht erraten", versetzte
+Wilhelm.
+
+Wie verwunderte sich Mariane, wie entsetzte sich Barbara, als die
+aufgebundene Serviette einen verworrenen Haufen spannenlanger Puppen
+sehen liess.  Mariane lachte laut, als Wilhelm die verworrenen Draehte
+auseinanderzuwickeln und jede Figur einzeln vorzuzeigen bemueht war.
+Die Alte schlich verdriesslich beiseite.
+
+Es bedarf nur einer Kleinigkeit, um zwei Liebende zu unterhalten, und
+so vergnuegten sich unsre Freunde diesen Abend aufs beste.  Die kleine
+Truppe wurde gemustert, jede Figur genau betrachtet und belacht.
+Koenig Saul im schwarzen Samtrocke mit der goldenen Krone wollte
+Marianen gar nicht gefallen; er sehe ihr, sagte sie, zu steif und
+pedantisch aus.  Desto besser behagte ihr Jonathan, sein glattes Kinn,
+sein gelb und rotes Kleid und der Turban.  Auch wusste sie ihn gar
+artig am Drahte hin und her zu drehen, liess ihn Reverenzen machen und
+Liebeserklaerungen hersagen.  Dagegen wollte sie dem Propheten Samuel
+nicht die mindeste Aufmerksamkeit schenken, wenn ihr gleich Wilhelm
+das Brustschildchen anpries und erzaehlte, dass der Schillertaft des
+Leibrocks von einem alten Kleide der Grossmutter genommen sei.  David
+war ihr zu klein und Goliath zu gross; sie hielt sich an ihren Jonathan.
+Sie wusste ihm so artig zu tun und zuletzt ihre Liebkosungen von der
+Puppe auf unsern Freund herueberzutragen, dass auch diesmal wieder ein
+geringes Spiel die Einleitung gluecklicher Stunden ward.
+
+Aus der Suessigkeit ihrer zaertlichen Traeume wurden sie durch einen Laerm
+geweckt, welcher auf der Strasse entstand.  Mariane rief der Alten, die,
+nach ihrer Gewohnheit noch fleissig, die veraenderlichen Materialien
+der Theatergarderobe zum Gebrauch des naechsten Stueckes anzupassen
+beschaeftigt war.  Sie gab die Auskunft, dass eben eine Gesellschaft
+lustiger Gesellen aus dem Italienerkeller nebenan heraustaumle, wo sie
+bei frischen Austern, die eben angekommen, des Champagners nicht
+geschont haetten.
+
+"Schade", sagte Mariane, "dass es uns nicht frueher eingefallen ist, wir
+haetten uns auch was zugute tun sollen."
+
+"Es ist wohl noch Zeit", versetzte Wilhelm und reichte der Alten einen
+Louisdor hin.  "Verschafft Sie uns, was wir wuenschen, so soll Sie's
+mit geniessen."
+
+Die Alte war behend, und in kurzer Zeit stand ein artig bestellter
+Tisch mit einer wohlgeordneten Kollation vor den Liebenden.  Die Alte
+musste sich dazusetzen; man ass, trank und liess sich's wohl sein.
+
+In solchen Faellen fehlt es nie an Unterhaltung.  Mariane nahm ihren
+Jonathan wieder vor, und die Alte wusste das Gespraech auf Wilhelms
+Lieblingsmaterie zu wenden.  "Sie haben uns schon einmal", sagte sie,
+"von der ersten Auffuehrung eines Puppenspiels am Weihnachtsabend
+unterhalten; es war lustig zu hoeren.  Sie wurden eben unterbrochen,
+als das Ballett angehen sollte.  Nun kennen wir das herrliche Personal,
+das jene grossen Wirkungen hervorbrachte."
+
+"Ja", sagte Mariane, "erzaehle uns weiter, wie war dir's zumute?"
+
+"Es ist eine schoene Empfindung, liebe Mariane", versetzte Wilhelm,
+"wenn wir uns alter Zeiten und alter unschaedlicher Irrtuemer erinnern,
+besonders wenn es in einem Augenblick geschieht, da wir eine Hoehe
+gluecklich erreicht haben, von welcher wir uns umsehen und den
+zurueckgelegten Weg ueberschauen koennen.  Es ist so angenehm,
+selbstzufrieden sich mancher Hindernisse zu erinnern, die wir oft mit
+einem peinlichen Gefuehle fuer unueberwindlich hielten, und dasjenige,
+was wir jetzt entwickelt sind, mit dem zu vergleichen, was wir damals
+unentwickelt waren.  Aber unaussprechlich gluecklich fuehl ich mich
+jetzt, da ich in diesem Augenblicke mit dir von dem Vergangnen rede,
+weil ich zugleich vorwaerts in das reizende Land schaue, das wir
+zusammen Hand in Hand durchwandern koennen."
+
+"Wie war es mit dem Ballett?" fiel die Alte ihm ein.  "Ich fuerchte, es
+ist nicht alles abgelaufen, wie es sollte."
+
+"O ja", versetzte Wilhelm, "sehr gut!  Von jenen wunderlichen Spruengen
+der Mohren und Mohrinnen, Schaefer und Schaeferinnen, Zwerge und
+Zwerginnen ist mir eine dunkle Erinnerung auf mein ganzes Leben
+geblieben.  Nun fiel der Vorhang, die Tuere schloss sich, und die ganze
+kleine Gesellschaft eilte wie betrunken und taumelnd zu Bette; ich
+weiss aber wohl, dass ich nicht einschlafen konnte, dass ich noch etwas
+erzaehlt haben wollte, dass ich noch viele Fragen tat und dass ich nur
+ungern die Waerterin entliess, die uns zur Ruhe gebracht hatte.
+
+Den andern Morgen war leider das magische Gerueste wieder verschwunden,
+der mystische Schleier weggehoben, man ging durch jene Tuere wieder
+frei aus einer Stube in die andere, und so viel Abenteuer hatten keine
+Spur zurueckgelassen.  Meine Geschwister liefen mit ihren Spielsachen
+auf und ab, ich allein schlich hin und her, es schien mir unmoeglich,
+dass da nur zwo Tuerpfosten sein sollten, wo gestern so viel Zauberei
+gewesen war.  Ach, wer eine verlorne Liebe sucht, kann nicht
+ungluecklicher sein, als ich mir damals schien!"
+
+Ein freudetrunkner Blick, den er auf Marianen warf, ueberzeugte sie,
+dass er nicht fuerchtete, jemals in diesen Fall kommen zu koennen.
+
+
+
+
+I. Buch, 4. Kapitel
+
+
+
+
+Viertes Kapitel
+
+"Mein einziger Wunsch war nunmehr", fuhr Wilhelm fort, "eine zweite
+Auffuehrung des Stuecks zu sehen.  Ich lag der Mutter an, und diese
+suchte zu einer gelegenen Stunde den Vater zu bereden; allein ihre
+Muehe war vergebens.  Er behauptete, nur ein seltenes Vergnuegen koenne
+bei den Menschen einen Wert haben, Kinder und Alte wuessten nicht zu
+schaetzen, was ihnen Gutes taeglich begegnete.
+
+Wir haetten auch noch lange, vielleicht bis wieder Weihnachten, warten
+muessen, haette nicht der Erbauer und heimliche Direktor des Schauspiels
+selbst Lust gefuehlt, die Vorstellung zu wiederholen und dabei in einem
+Nachspiele einen ganz frisch fertig gewordenen Hanswurst zu
+produzieren.
+
+Ein junger Mann von der Artillerie, mit vielen Talenten begabt,
+besonders in mechanischen Arbeiten geschickt, der dem Vater waehrend
+des Bauens viele wesentliche Dienste geleistet hatte und von ihm
+reichlich beschenkt worden war, wollte sich am Christfeste der kleinen
+Familie dankbar erzeigen und machte dem Hause seines Goenners ein
+Geschenk mit diesem ganz eingerichteten Theater, das er ehmals in
+muessigen Stunden zusammengebaut, geschnitzt und gemalt hatte.  Er war
+es, der mit Huelfe eines Bedienten selbst die Puppen regierte und mit
+verstellter Stimme die verschiedenen Rollen hersagte.  Ihm ward nicht
+schwer, den Vater zu bereden, der einem Freunde aus Gefaelligkeit
+zugestand, was er seinen Kindern aus UEberzeugung abgeschlagen hatte.
+Genug, das Theater ward wieder aufgestellt, einige Nachbarskinder
+gebeten und das Stueck wiederholt.
+
+Hatte ich das erstemal die Freude der UEberraschung und des Staunens,
+so war zum zweiten Male die Wollust des Aufmerkens und Forschens gross.
+Wie das zugehe, war jetzt mein Anliegen.  Dass die Puppen nicht selbst
+redeten, hatte ich mir schon das erstemal gesagt; dass sie sich nicht
+von selbst bewegten, vermutete ich auch; aber warum das alles doch so
+huebsch war und es doch so aussah, als wenn sie selbst redeten und sich
+bewegten, und wo die Lichter und die Leute sein moechten, diese Raetsel
+beunruhigten mich um desto mehr, je mehr ich wuenschte, zugleich unter
+den Bezauberten und Zauberern zu sein, zugleich meine Haende verdeckt
+im Spiel zu haben und als Zuschauer die Freude der Illusion zu
+geniessen.
+
+Das Stueck war zu Ende, man machte Vorbereitungen zum Nachspiel, die
+Zuschauer waren aufgestanden und schwatzten durcheinander.  Ich
+draengte mich naeher an die Tuere und hoerte inwendig am Klappern, dass man
+mit Aufraeumen beschaeftigt sei.  Ich hub den untern Teppich auf und
+guckte zwischen dem Gestelle durch.  Meine Mutter bemerkte es und zog
+mich zurueck; allein ich hatte doch soviel gesehen, dass man Freunde und
+Feinde, Saul und Goliath und wie sie alle heissen mochten, in einen
+Schiebkasten packte, und so erhielt meine halbbefriedigte Neugierde
+frische Nahrung.  Dabei hatte ich zu meinem groessten Erstaunen den
+Lieutenant im Heiligtume sehr geschaeftig erblickt.  Nunmehr konnte
+mich der Hanswurst, sosehr er mit seinen Absaetzen klapperte, nicht
+unterhalten.  Ich verlor mich in tiefes Nachdenken und war nach dieser
+Entdeckung ruhiger und unruhiger als vorher.  Nachdem ich etwas
+erfahren hatte, kam es mir erst vor, als ob ich gar nichts wisse, und
+ich hatte recht: denn es fehlte mir der Zusammenhang, und darauf kommt
+doch eigentlich alles an."
+
+
+
+
+I. Buch, 5. Kapitel
+
+
+
+
+Fuenftes Kapitel
+
+"Die Kinder haben", fuhr Wilhelm fort, "in wohleingerichteten und
+geordneten Haeusern eine Empfindung, wie ungefaehr Ratten und Maeuse
+haben moegen: sie sind aufmerksam auf alle Ritzen und Loecher, wo sie zu
+einem verbotenen Naschwerk gelangen koennen; sie geniessen es mit einer
+solchen verstohlnen, wolluestigen Furcht, die einen grossen Teil des
+kindischen Gluecks ausmacht.
+
+Ich war vor allen meinen Geschwistern aufmerksam, wenn irgend ein
+Schluessel steckenblieb.  Je groesser die Ehrfurcht war, die ich fuer die
+verschlossenen Tueren in meinem Herzen herumtrug, an denen ich wochen-
+und monatelang vorbeigehen musste und in die ich nur manchmal, wenn die
+Mutter das Heiligtum oeffnete, um etwas herauszuholen, einen
+verstohlnen Blick tat, desto schneller war ich, einen Augenblick zu
+benutzen, den mich die Nachlaessigkeit der Wirtschafterinnen manchmal
+treffen liess.
+
+Unter allen Tueren war, wie man leicht erachten kann, die Tuere der
+Speisekammer diejenige, auf die meine Sinne am schaerfsten gerichtet
+waren.  Wenig ahnungsvolle Freuden des Lebens glichen der Empfindung,
+wenn mich meine Mutter manchmal hineinrief, um ihr etwas heraustragen
+zu helfen, und ich dann einige gedoerrte Pflaumen entweder ihrer Guete
+oder meiner List zu danken hatte.  Die aufgehaeuften Schaetze
+uebereinander umfingen meine Einbildungskraft mit ihrer Fuelle, und
+selbst der wunderliche Geruch, den so mancherlei Spezereien
+durcheinander aushauchten, hatte so eine leckere Wirkung auf mich, dass
+ich niemals versaeumte, sooft ich in der Naehe war, mich wenigstens an
+der eroeffneten Atmosphaere zu weiden.  Dieser merkwuerdige Schluessel
+blieb eines Sonntagmorgens, da die Mutter von dem Gelaeute uebereilt
+ward und das ganze Haus in einer tiefen Sabbatstille lag, stecken.
+Kaum hatte ich es bemerkt, als ich etlichemal sachte an der Wand hin-
+und herging, mich endlich still und fein andraengte, die Tuere oeffnete
+und mich mit einem Schritt in der Naehe so vieler langgewuenschter
+Glueckseligkeit fuehlte.  Ich besah Kaesten, Saecke, Schachteln, Buechsen,
+Glaeser mit einem schnellen, zweifelnden Blicke, was ich waehlen und
+nehmen sollte, griff endlich nach den vielgeliebten gewelkten Pflaumen,
+versah mich mit einigen getrockneten AEpfeln und nahm genuegsam noch
+eine eingemachte Pomeranzenschale dazu: mit welcher Beute ich meinen
+Weg wieder rueckwaertsglitschen wollte, als mir ein paar nebeneinander
+stehende Kasten in die Augen fielen, aus deren einem Draehte, oben mit
+Haekchen versehen, durch den uebel verschlossenen Schieber heraushingen.
+Ahnungsvoll fiel ich darueber her; und mit welcher ueberirdischen
+Empfindung entdeckte ich, dass darin meine Helden- und Freudenwelt
+aufeinandergepackt sei!  Ich wollte die obersten aufheben, betrachten,
+die untersten hervorziehen; allein gar bald verwirrte ich die leichten
+Draehte, kam darueber in Unruhe und Bangigkeit, besonders da die Koechin
+in der benachbarten Kueche einige Bewegungen machte, dass ich alles, so
+gut ich konnte, zusammendrueckte, den Kasten zuschob, nur ein
+geschriebenes Buechelchen, worin die Komoedie von David und Goliath
+aufgezeichnet war, das obenauf gelegen hatte, zu mir steckte und mich
+mit dieser Beute leise die Treppe hinauf in eine Dachkammer rettete.
+
+Von der Zeit an wandte ich alle verstohlenen einsamen Stunden darauf,
+mein Schauspiel wiederholt zu lesen, es auswendig zu lernen und mir in
+Gedanken vorzustellen, wie herrlich es sein muesste, wenn ich auch die
+Gestalten dazu mit meinen Fingern beleben koennte.  Ich ward darueber in
+meinen Gedanken selbst zum David und Goliath.  In allen Winkeln des
+Bodens, der Staelle, des Gartens, unter allerlei Umstaenden studierte
+ich das Stueck ganz in mich hinein, ergriff alle Rollen und lernte sie
+auswendig, nur dass ich mich meist an den Platz der Haupthelden zu
+setzen pflegte und die uebrigen wie Trabanten nur im Gedaechtnisse
+mitlaufen liess.  So lagen mir die grossmuetigen Reden Davids, mit denen
+er den uebermuetigen Riesen Goliath herausforderte, Tag und Nacht im
+Sinne; ich murmelte sie oft vor mich hin, niemand gab acht darauf als
+der Vater, der manchmal einen solchen Ausruf bemerkte und bei sich
+selbst das gute Gedaechtnis seines Knaben pries, der von so wenigem
+Zuhoeren so mancherlei habe behalten koennen.
+
+Hierdurch ward ich immer verwegener und rezitierte eines Abends das
+Stueck zum groessten Teile vor meiner Mutter, indem ich mir einige
+Wachskluempchen zu Schauspielern bereitete.  Sie merkte auf, drang in
+mich, und ich gestand.
+
+Gluecklicherweise fiel diese Entdeckung in die Zeit, da der Lieutenant
+selbst den Wunsch geaeussert hatte, mich in diese Geheimnisse einweihen
+zu duerfen.  Meine Mutter gab ihm sogleich Nachricht von dem
+unerwarteten Talente ihres Sohnes, und er wusste nun einzuleiten, dass
+man ihm ein Paar Zimmer im obersten Stocke, die gewoehnlich leer
+standen, ueberliess, in deren einem wieder die Zuschauer sitzen, in dem
+andern die Schauspieler sein, und das Proszenium abermals die OEffnung
+der Tuere ausfuellen sollte.  Der Vater hatte seinem Freunde das alles
+zu veranstalten erlaubt, er selbst schien nur durch die Finger zu
+sehen, nach dem Grundsatze, man muesse die Kinder nicht merken lassen,
+wie lieb man sie habe, sie griffen immer zu weit um sich; er meinte,
+man muesse bei ihren Freuden ernst scheinen und sie ihnen manchmal
+verderben, damit ihre Zufriedenheit sie nicht uebermaessig und uebermuetig
+mache."
+
+
+
+
+I. Buch, 6. Kapitel
+
+
+
+
+Sechstes Kapitel
+
+"Der Lieutenant schlug nunmehr das Theater auf und besorgte das UEbrige.
+Ich merkte wohl, dass er die Woche mehrmals zu ungewoehnlicher Zeit
+ins Haus kam, und vermutete die Absicht.  Meine Begierde wuchs
+unglaublich, da ich wohl fuehlte, dass ich vor Sonnabends keinen Teil an
+dem, was zubereitet wurde, nehmen durfte.  Endlich erschien der
+gewuenschte Tag.  Abends um fuenf Uhr kam mein Fuehrer und nahm mich mit
+hinauf.  Zitternd vor Freude trat ich hinein und erblickte auf beiden
+Seiten des Gestelles die herabhaengenden Puppen in der Ordnung, wie sie
+auftreten sollten; ich betrachtete sie sorgfaeltig, stieg auf den Tritt,
+der mich ueber das Theater erhub, so dass ich nun ueber der kleinen Welt
+schwebte.  Ich sah nicht ohne Ehrfurcht zwischen die Brettchen
+hinunter, weil die Erinnerung, welche herrliche Wirkung das Ganze von
+aussen tue, und das Gefuehl, in welche Geheimnisse ich eingeweiht sei,
+mich umfassten.  Wir machten einen Versuch, und es ging gut.
+
+Den andern Tag, da eine Gesellschaft Kinder geladen war, hielten wir
+uns trefflich, ausser dass ich in dem Feuer der Aktion meinen Jonathan
+fallen liess und genoetigt war, mit der Hand hinunterzugreifen und ihn
+zu holen: ein Zufall, der die Illusion sehr unterbrach, ein grosses
+Gelaechter verursachte und mich unsaeglich kraenkte.  Auch schien dieses
+Versehn dem Vater sehr willkommen zu sein, der das grosse Vergnuegen,
+sein Soehnchen so faehig zu sehen, wohlbedaechtig nicht an den Tag gab,
+nach geendigtem Stuecke sich gleich an die Fehler hing und sagte, es
+waere recht artig gewesen, wenn nur dies oder das nicht versagt haette.
+
+Mich kraenkte das innig, ich ward traurig fuer den Abend, hatte aber am
+kommenden Morgen allen Verdruss schon wieder verschlafen und war in dem
+Gedanken selig, dass ich, ausser jenem Unglueck, trefflich gespielt habe.
+Dazu kam der Beifall der Zuschauer, welche durchaus behaupteten:
+obgleich der Lieutenant in Absicht der groben und feinen Stimme sehr
+viel getan habe, so peroriere er doch meist zu affektiert und steif;
+dagegen spreche der neue Anfaenger seinen David und Jonathan
+vortrefflich; besonders lobte die Mutter den freimuetigen Ausdruck, wie
+ich den Goliath herausgefordert und dem Koenige den bescheidenen Sieger
+vorgestellt habe.
+
+Nun blieb zu meiner groessten Freude das Theater aufgeschlagen, und da
+der Fruehling herbeikam und man ohne Feuer bestehen konnte, lag ich in
+meinen Frei- und Spielstunden in der Kammer und liess die Puppen wacker
+durcheinanderspielen.  Oft lud ich meine Geschwister und Kameraden
+hinauf; wenn sie aber auch nicht kommen wollten, war ich allein oben.
+Meine Einbildungskraft bruetete ueber der kleinen Welt, die gar bald
+eine andere Gestalt gewann.
+
+Ich hatte kaum das erste Stueck, wozu Theater und Schauspieler
+geschaffen und gestempelt waren, etlichemal aufgefuehrt, als es mir
+schon keine Freude mehr machte.  Dagegen waren mir unter den Buechern
+des Grossvaters die "Deutsche Schaubuehne" und verschiedene
+italienisch-deutsche Opern in die Haende gekommen, in die ich mich sehr
+vertiefte und jedesmal nur erst vorne die Personen ueberrechnete und
+dann sogleich ohne weiteres zur Auffuehrung des Stueckes schritt.  Da
+musste nun Koenig Saul in seinem schwarzen Samtkleide den Chaumigrem,
+Cato und Darius spielen; wobei zu bemerken ist, dass die Stuecke niemals
+ganz, sondern meistenteils nur die fuenften Akte, wo es an ein
+Totstechen ging, aufgefuehrt wurden.
+
+Auch war es natuerlich, dass mich die Oper mit ihren mannigfaltigen
+Veraenderungen und Abenteuern mehr als alles anziehen musste.  Ich fand
+darin stuermische Meere, Goetter, die in Wolken herabkommen, und, was
+mich vorzueglich gluecklich machte, Blitze und Donner.  Ich half mir mit
+Pappe, Farbe und Papier, wusste gar trefflich Nacht zu machen, der
+Blitz war fuerchterlich anzusehen, nur der Donner gelang nicht immer,
+doch das hatte so viel nicht zu sagen.  Auch fand sich in den Opern
+mehr Gelegenheit, meinen David und Goliath anzubringen, welches im
+regelmaessigen Drama gar nicht angehen wollte.  Ich fuehlte taeglich mehr
+Anhaenglichkeit fuer das enge Plaetzchen, wo ich so manche Freude genoss;
+und ich gestehe, dass der Geruch, den die Puppen aus der Speisekammer
+an sich gezogen hatten, nicht wenig dazu beitrug.
+
+Die Dekorationen meines Theaters waren nunmehr in ziemlicher
+Vollkommenheit; denn dass ich von Jugend auf ein Geschick gehabt hatte,
+mit dem Zirkel umzugehen, Pappe auszuschneiden und Bilder zu
+illuminieren, kam mir jetzt wohl zustatten.  Um desto weher tat es mir,
+wenn mich gar oft das Personal an Ausfuehrung grosser Sachen hinderte.
+
+Meine Schwestern, indem sie ihre Puppen aus- und ankleideten, erregten
+in mir den Gedanken, meinen Helden auch nach und nach bewegliche
+Kleider zu verschaffen.  Man trennte ihnen die Laeppchen vom Leibe,
+setzte sie, so gut man konnte, zusammen, sparte sich etwas Geld,
+kaufte neues Band und Flittern, bettelte sich manches Stueckchen Taft
+zusammen und schaffte nach und nach eine Theatergarderobe an, in
+welcher besonders die Reifroecke fuer die Damen nicht vergessen waren.
+
+Die Truppe war nun wirklich mit Kleidern fuer das groesste Stueck versehen,
+und man haette denken sollen, es wuerde nun erst recht eine Auffuehrung
+der andern folgen; aber es ging mir, wie es den Kindern oefter zu gehen
+pflegt: sie fassen weite Plane, machen grosse Anstalten, auch wohl
+einige Versuche, und es bleibt alles zusammen liegen.  Dieses Fehlers
+muss ich mich auch anklagen.  Die groesste Freude lag bei mir in der
+Erfindung und in der Beschaeftigung der Einbildungskraft.  Dies oder
+jenes Stueck interessierte mich um irgendeiner Szene willen, und ich
+liess gleich wieder neue Kleider dazu machen.  UEber solchen Anstalten
+waren die urspruenglichen Kleidungsstuecke meiner Helden in Unordnung
+geraten und verschleppt worden, dass also nicht einmal das erste grosse
+Stueck mehr aufgefuehrt werden konnte.  Ich ueberliess mich meiner
+Phantasie, probierte und bereitete ewig, baute tausend Luftschloesser
+und spuerte nicht, dass ich den Grund des kleinen Gebaeudes zerstoert
+hatte."
+
+Waehrend dieser Erzaehlung hatte Mariane alle ihre Freundlichkeit gegen
+Wilhelm aufgeboten, um ihre Schlaefrigkeit zu verbergen.  So scherzhaft
+die Begebenheit von einer Seite schien, so war sie ihr doch zu einfach
+und die Betrachtungen dabei zu ernsthaft.  Sie setzte zaertlich ihren
+Fuss auf den Fuss des Geliebten und gab ihm scheinbare Zeichen ihrer
+Aufmerksamkeit und ihres Beifalls.  Sie trank aus seinem Glase, und
+Wilhelm war ueberzeugt, es sei kein Wort seiner Geschichte auf die Erde
+gefallen.  Nach einer kleinen Pause rief er aus, "Es ist nun an dir,
+Mariane, mir auch deine ersten jugendlichen Freuden mitzuteilen.  Noch
+waren wir immer zu sehr mit dem Gegenwaertigen beschaeftigt, als dass wir
+uns wechselseitig um unsere vorige Lebensweise haetten bekuemmern koennen.
+Sage mir: unter welchen Umstaenden bist du erzogen?  Welche sind die
+ersten lebhaften Eindruecke, deren du dich erinnerst?"
+
+Diese Fragen wuerden Marianen in grosse Verlegenheit gesetzt haben, wenn
+ihr die Alte nicht sogleich zu Huelfe gekommen waere.  "Glauben Sie
+denn", sagte das kluge Weib, "dass wir auf das, was uns frueh begegnet,
+so aufmerksam sind, dass wir so artige Begebenheiten zu erzaehlen haben
+und, wenn wir sie zu erzaehlen haetten, dass wir der Sache auch ein
+solches Geschick zu geben wuessten?"
+
+"Als wenn es dessen beduerfte!" rief Wilhelm aus.  "Ich liebe dieses
+zaertliche, gute, liebliche Geschoepf so sehr, dass mich jeder Augenblick
+meines Lebens verdriesst, den ich ohne sie zugebracht habe.  Lass mich
+wenigstens durch die Einbildungskraft teil an deinem vergangenen Leben
+nehmen!  Erzaehle mir alles, ich will dir alles erzaehlen.  Wir wollen
+uns wo moeglich taeuschen und jene fuer die Liebe verlornen Zeiten
+wiederzugewinnen suchen."
+
+"Wenn Sie so eifrig darauf bestehen, koennen wir Sie wohl befriedigen",
+sagte die Alte.  "Erzaehlen Sie uns nur erst, wie Ihre Liebhaberei zum
+Schauspiele nach und nach gewachsen sei, wie Sie sich geuebt, wie Sie
+so gluecklich zugenommen haben, dass Sie nunmehr fuer einen guten
+Schauspieler gelten koennen.  Es hat Ihnen dabei gewiss nicht an
+lustigen Begebenheiten gemangelt.  Es ist nicht der Muehe wert, dass wir
+uns zur Ruhe legen, ich habe noch eine Flasche in Reserve; und wer
+weiss, ob wir bald wieder so ruhig und zufrieden zusammensitzen?"
+
+Mariane schaute mit einem traurigen Blick nach ihr auf, den Wilhelm
+nicht bemerkte und in seiner Erzaehlung fortfuhr.
+
+
+
+
+I. Buch, 7. Kapitel
+
+
+
+
+Siebentes Kapitel
+
+"Die Zerstreuungen der Jugend, da meine Gespanschaft sich zu vermehren
+anfing, taten dem einsamen, stillen Vergnuegen Eintrag.  Ich war
+wechselsweise bald Jaeger, bald Soldat, bald Reiter, wie es unsre
+Spiele mit sich brachten: doch hatte ich immer darin einen kleinen
+Vorzug vor den andern, dass ich imstande war, ihnen die noetigen
+Geraetschaften schicklich auszubilden.  So waren die Schwerter meistens
+aus meiner Fabrik; ich verzierte und vergoldete die Schlitten, und ein
+geheimer Instinkt liess mich nicht ruhen, bis ich unsre Miliz ins
+Antike umgeschaffen hatte.  Helme wurden verfertiget, mit papiernen
+Bueschen geschmueckt, Schilde, sogar Harnische wurden gemacht, Arbeiten,
+bei denen die Bedienten im Hause, die etwa Schneider waren, und die
+Naehterinnen manche Nadel zerbrachen.
+
+Einen Teil meiner jungen Gesellen sah ich nun wohlgeruestet; die
+uebrigen wurden auch nach und nach, doch geringer, ausstaffiert, und es
+kam ein stattliches Korps zusammen.  Wir marschierten in Hoefen und
+Gaerten, schlugen uns brav auf die Schilde und auf die Koepfe; es gab
+manche Misshelligkeit, die aber bald beigelegt war.
+
+Dieses Spiel, das die andern sehr unterhielt, war kaum etlichemal
+getrieben worden, als es mich schon nicht mehr befriedigte.  Der
+Anblick so vieler geruesteten Gestalten musste in mir notwendig die
+Ritterideen aufreizen, die seit einiger Zeit, da ich in das Lesen
+alter Romane gefallen war, meinen Kopf anfuellten.
+
+"Das befreite Jerusalem", davon mir Koppens UEbersetzung in die Haende
+fiel, gab meinen herumschweifenden Gedanken endlich eine bestimmte
+Richtung.  Ganz konnte ich zwar das Gedicht nicht lesen; es waren aber
+Stellen, die ich auswendig wusste, deren Bilder mich umschwebten.
+Besonders fesselte mich Chlorinde mit ihrem ganzen Tun und Lassen.
+Die Mannweiblichkeit, die ruhige Fuelle ihres Daseins taten mehr
+Wirkung auf den Geist, der sich zu entwickeln anfing, als die
+gemachten Reize Armidens, ob ich gleich ihren Garten nicht verachtete.
+
+Aber hundert- und hundertmal, wenn ich abends auf dem Altan, der
+zwischen den Giebeln des Hauses angebracht ist, spazierte, ueber die
+Gegend hinsah und von der hinabgewichenen Sonne ein zitternder Schein
+am Horizont heraufdaemmerte, die Sterne hervortraten, aus allen Winkeln
+und Tiefen die Nacht hervordrang und der klingende Ton der Grillen
+durch die feierliche Stille schrillte, sagte ich mir die Geschichte
+des traurigen Zweikampfs zwischen Tankred und Chlorinden vor.
+
+Sosehr ich, wie billig, von der Partei der Christen war, stand ich
+doch der heidnischen Heldin mit ganzem Herzen bei, als sie unternahm,
+den grossen Turm der Belagerer anzuzuenden.  Und wie nun Tankred dem
+vermeinten Krieger in der Nacht begegnet, unter der duestern Huelle der
+Streit beginnt und sie gewaltig kaempfen!--Ich konnte nie die Worte
+aussprechen:
+
+
+"Allein das Lebensmass Chlorindens ist nun voll,
+Und ihre Stunde kommt,
+in der sie sterben soll!",
+
+
+dass mir nicht die Traenen in die Augen kamen, die reichlich flossen,
+wie der unglueckliche Liebhaber ihr das Schwert in die Brust stoesst, der
+Sinkenden den Helm loest, sie erkennt und zur Taufe bebend das Wasser
+holt.
+
+Aber wie ging mir das Herz ueber, wenn in dem bezauberten Walde
+Tankredens Schwert den Baum trifft, Blut nach dem Hiebe fliesst und
+eine Stimme ihm in die Ohren toent, dass er auch hier Chlorinden
+verwunde, dass er vom Schicksal bestimmt sei, das, was er liebt,
+ueberall unwissend zu verletzen!
+
+Es bemaechtigte sich die Geschichte meiner Einbildungskraft so, dass
+sich mir, was ich von dem Gedichte gelesen hatte, dunkel zu einem
+Ganzen in der Seele bildete, von dem ich dergestalt eingenommen war,
+dass ich es auf irgendeine Weise vorzustellen gedachte.  Ich wollte
+Tankreden und Reinalden spielen und fand dazu zwei Ruestungen ganz
+bereit, die ich schon gefertiget hatte.  Die eine, von dunkelgrauem
+Papier mit Schuppen, sollte den ernsten Tankred, die andere, von
+Silber- und Goldpapier, den glaenzenden Reinald zieren.  In der
+Lebhaftigkeit meiner Vorstellung erzaehlte ich alles meinen Gespanen,
+die davon ganz entzueckt wurden und nur nicht wohl begreifen konnten,
+dass das alles aufgefuehrt, und zwar von ihnen aufgefuehrt werden sollte.
+
+Diesen Zweifeln half ich mit vieler Leichtigkeit ab.  Ich disponierte
+gleich ueber ein paar Zimmer in eines benachbarten Gespielen Haus, ohne
+zu berechnen, dass die alte Tante sie nimmermehr hergeben wuerde; ebenso
+war es mit dem Theater, wovon ich auch keine bestimmte Idee hatte,
+ausser dass man es auf Balken setzen, die Kulissen von geteilten
+spanischen Waenden hinstellen und zum Grund ein grosses Tuch nehmen
+muesse.  Woher aber die Materialien und Geraetschaften kommen sollten,
+hatte ich nicht bedacht.
+
+Fuer den Wald fanden wir eine gute Auskunft: wir gaben einem alten
+Bedienten aus einem der Haeuser, der nun Foerster geworden war, gute
+Worte, dass er uns junge Birken und Fichten schaffen moechte, die auch
+wirklich geschwinder, als wir hoffen konnten, herbeigebracht wurden.
+Nun aber fand man sich in grosser Verlegenheit, wie man das Stueck, eh
+die Baeume verdorrten, zustande bringen koenne.  Da war guter Rat teuer!
+Es fehlte an Platz, am Theater, an Vorhaengen.  Die spanischen Waende
+waren das einzige, was wir hatten.
+
+In dieser Verlegenheit gingen wir wieder den Lieutenant an, dem wir
+eine weitlaeufige Beschreibung von der Herrlichkeit machten, die es
+geben sollte.  Sowenig er uns begriff, so behilflich war er, schob in
+eine kleine Stube, was sich von Tischen im Hause und der Nachbarschaft
+nur finden wollte, aneinander, stellte die Waende darauf, machte eine
+hintere Aussicht von gruenen Vorhaengen, die Baeume wurden auch gleich
+mit in die Reihe gestellt.
+
+Indessen war es Abend geworden, man hatte die Lichter angezuendet, die
+Maegde und Kinder sassen auf ihren Plaetzen, das Stueck sollte angehn, die
+ganze Heldenschar war angezogen; nun spuerte aber jeder zum erstenmal,
+dass er nicht wisse, was er zu sagen habe.  In der Hitze der Erfindung,
+da ich ganz von meinem Gegenstande durchdrungen war, hatte ich
+vergessen, dass doch jeder wissen muesse, was und wo er es zu sagen habe;
+und in der Lebhaftigkeit der Ausfuehrung war es den uebrigen auch nicht
+beigefallen: sie glaubten, sie wuerden sich leicht als Helden
+darstellen, leicht so handeln und reden koennen wie die Personen, in
+deren Welt ich sie versetzt hatte.  Sie standen alle erstaunt, fragten
+sich einander, was zuerst kommen sollte, und ich, der ich mich als
+Tankred vornean gedacht hatte, fing, allein auftretend, einige Verse
+aus dem Heldengedichte herzusagen an.  Weil aber die Stelle gar zu
+bald ins Erzaehlende ueberging und ich in meiner eignen Rede endlich als
+dritte Person vorkam, auch der Gottfried, von dem die Sprache war,
+nicht herauskommen wollte, so musste ich unter grossem Gelaechter meiner
+Zuschauer eben wieder abziehen: ein Unfall, der mich tief in der Seele
+kraenkte.  Verunglueckt war die Expedition; die Zuschauer sassen da und
+wollten etwas sehen.  Gekleidet waren wir; ich raffte mich zusammen
+und entschloss mich kurz und gut, "David und Goliath" zu spielen.
+Einige der Gesellschaft hatten ehemals das Puppenspiel mit mir
+aufgefuehrt, alle hatten es oft gesehn; man teilte die Rollen aus, es
+versprach jeder, sein Bestes zu tun, und ein kleiner drolliger Junge
+malte sich einen schwarzen Bart, um, wenn ja eine Luecke einfallen
+sollte, sie als Hanswurst mit einer Posse auszufuellen, eine Anstalt,
+die ich, als dem Ernste des Stueckes zuwider, sehr ungern geschehen
+liess.  Doch schwur ich mir, wenn ich nur einmal aus dieser
+Verlegenheit gerettet waere, mich nie, als mit der groessten UEberlegung,
+an die Vorstellung eines Stuecks zu wagen."
+
+
+
+
+I. Buch, 8. Kapitel
+
+
+
+
+Achtes Kapitel
+
+Mariane, vom Schlaf ueberwaeltigt, lehnte sich an ihren Geliebten, der
+sie fest an sich drueckte und in seiner Erzaehlung fortfuhr, indes die
+Alte den UEberrest des Weins mit gutem Bedachte genoss.
+
+"Die Verlegenheit", sagte er, "in der ich mich mit meinen Freunden
+befunden hatte, indem wir ein Stueck, das nicht existierte, zu spielen
+unternahmen, war bald vergessen.  Meiner Leidenschaft, jeden Roman,
+den ich las, jede Geschichte, die man mich lehrte, in einem
+Schauspiele darzustellen, konnte selbst der unbiegsamste Stoff nicht
+widerstehen.  Ich war voellig ueberzeugt, dass alles, was in der
+Erzaehlung ergoetzte, vorgestellt eine viel groessere Wirkung tun muesse;
+alles sollte vor meinen Augen, alles auf der Buehne vorgehen.  Wenn uns
+in der Schule die Weltgeschichte vorgetragen wurde, zeichnete ich mir
+sorgfaeltig aus, wo einer auf eine besondere Weise erstochen oder
+vergiftet wurde, und meine Einbildungskraft sah ueber Exposition und
+Verwicklung hinweg und eilte dem interessanten fuenften Akte zu.  So
+fing ich auch wirklich an, einige Stuecke von hinten hervor zu
+schreiben, ohne dass ich auch nur bei einem einzigen bis zum Anfange
+gekommen waere.
+
+Zu gleicher Zeit las ich, teils aus eignem Antrieb, teils auf
+Veranlassung meiner guten Freunde, welche in den Geschmack gekommen
+waren, Schauspiele aufzufuehren, einen ganzen Wust theatralischer
+Produktionen durch, wie sie der Zufall mir in die Haende fuehrte.  Ich
+war in den gluecklichen Jahren, wo uns noch alles gefaellt, wo wir in
+der Menge und Abwechslung unsre Befriedigung finden.  Leider aber ward
+mein Urteil noch auf eine andere Weise bestochen.  Die Stuecke gefielen
+mir besonders, in denen ich zu gefallen hoffte, und es waren wenige,
+die ich nicht in dieser angenehmen Taeuschung durchlas; und meine
+lebhafte Vorstellungskraft, da ich mich in alle Rollen denken konnte,
+verfuehrte mich zu glauben, dass ich auch alle darstellen wuerde;
+gewoehnlich waehlte ich daher bei der Austeilung diejenigen, welche sich
+gar nicht fuer mich schickten, und, wenn es nur einigermassen angehn
+wollte, wohl gar ein paar Rollen.
+
+Kinder wissen beim Spiele aus allem alles zu machen; ein Stab wird zur
+Flinte, ein Stueckchen Holz zum Degen, jedes Buendelchen zur Puppe und
+jeder Winkel zur Huette.  In diesem Sinne entwickelte sich unser
+Privattheater.  Bei der voelligen Unkenntnis unserer Kraefte unternahmen
+wir alles, bemerkten kein quid pro quo und waren ueberzeugt, jeder muesse
+uns dafuer nehmen, wofuer wir uns gaben.  Leider ging alles einen so
+gemeinen Gang, dass mir nicht einmal eine merkwuerdige Albernheit zu
+erzaehlen uebrigbleibt.  Erst spielten wir die wenigen Stuecke durch, in
+welchen nur Mannspersonen auftreten; dann verkleideten wir einige aus
+unserm Mittel und zogen zuletzt die Schwestern mit ins Spiel.  In
+einigen Haeusern hielt man es fuer eine nuetzliche Beschaeftigung und lud
+Gesellschaften darauf.  Unser Artillerielieutenant verliess uns auch
+hier nicht.  Er zeigte uns, wie wir kommen und gehen, deklamieren und
+gestikulieren sollten; allein er erntete fuer seine Bemuehung meistens
+wenig Dank, indem wir die theatralischen Kuenste schon besser als er zu
+verstehen glaubten.
+
+Wir verfielen gar bald auf das Trauerspiel: denn wir hatten oft sagen
+hoeren und glaubten selbst, es sei leichter, eine Tragoedie zu schreiben
+und vorzustellen, als im Lustspiele vollkommen zu sein.  Auch fuehlten
+wir uns beim ersten tragischen Versuche ganz in unserm Elemente; wir
+suchten uns der Hoehe des Standes, der Vortrefflichkeit der Charaktere
+durch Steifheit und Affektation zu naehern und duenkten uns durchaus
+nicht wenig; allein vollkommen gluecklich waren wir nur, wenn wir recht
+rasen, mit den Fuessen stampfen und uns wohl gar vor Wut und
+Verzweiflung auf die Erde werfen durften.
+
+Knaben und Maedchen waren in diesen Spielen nicht lange beisammen, als
+die Natur sich zu regen und die Gesellschaft sich in verschiedene
+kleine Liebesgeschichten zu teilen anfing, da denn meistenteils
+Komoedie in der Komoedie gespielt wurde.  Die gluecklichen Paare drueckten
+sich hinter den Theaterwaenden die Haende auf das zaertlichste; sie
+verschwammen in Glueckseligkeit, wenn sie einander, so bebaendert und
+aufgeschmueckt, recht idealisch vorkamen, indes gegenueber die
+ungluecklichen Nebenbuhler sich vor Neid verzehrten und mit Trotz und
+Schadenfreude allerlei Unheil anrichteten.
+
+Diese Spiele, obgleich ohne Verstand unternommen und ohne Anleitung
+durchgefuehrt, waren doch nicht ohne Nutzen fuer uns.  Wir uebten unser
+Gedaechtnis und unsern Koerper und erlangten mehr Geschmeidigkeit im
+Sprechen und Betragen, als man sonst in so fruehen Jahren gewinnen kann.
+Fuer mich aber war jene Zeit besonders Epoche, mein Geist richtete
+sich ganz nach dem Theater, und ich fand kein groesser Glueck, als
+Schauspiele zu lesen, zu schreiben und zu spielen.
+
+Der Unterricht meiner Lehrer dauerte fort; man hatte mich dem
+Handelsstand gewidmet und zu unserm Nachbar auf das Comptoir getan;
+aber eben zu selbiger Zeit entfernte sich mein Geist nur gewaltsamer
+von allem, was ich fuer ein niedriges Geschaeft halten musste.  Der Buehne
+wollte ich meine ganze Taetigkeit widmen, auf ihr mein Glueck und meine
+Zufriedenheit finden.
+
+Ich erinnere mich noch eines Gedichtes, das sich unter meinen Papieren
+finden muss, in welchem die Muse der tragischen Dichtkunst und eine
+andere Frauengestalt, in der ich das Gewerbe personifiziert hatte,
+sich um meine werte Person recht wacker zanken.  Die Erfindung ist
+gemein, und ich erinnere mich nicht, ob die Verse etwas taugen; aber
+ihr sollt es sehen, um der Furcht, des Abscheues, der Liebe und der
+Leidenschaft willen, die darin herrschen.  Wie aengstlich hatte ich die
+alte Hausmutter geschildert mit dem Rocken im Guertel, mit Schluesseln
+an der Seite, Brillen auf der Nase, immer fleissig, immer in Unruhe,
+zaenkisch und haushaeltisch, kleinlich und beschwerlich!  Wie kuemmerlich
+beschrieb ich den Zustand dessen, der sich unter ihrer Rute buecken und
+sein knechtisches Tagewerk im Schweisse des Angesichtes verdienen
+sollte!
+
+Wie anders trat jene dagegen auf!  Welche Erscheinung ward sie dem
+bekuemmerten Herzen!  Herrlich gebildet, in ihrem Wesen und Betragen
+als eine Tochter der Freiheit anzusehen.  Das Gefuehl ihrer selbst gab
+ihr Wuerde ohne Stolz; ihre Kleider ziemten ihr, sie umhuellten jedes
+Glied, ohne es zu zwaengen, und die reichlichen Falten des Stoffes
+wiederholten wie ein tausendfaches Echo die reizenden Bewegungen der
+Goettlichen.  Welch ein Kontrast!  Und auf welche Seite sich mein Herz
+wandte, kannst du leicht denken.  Auch war nichts vergessen, um meine
+Muse kenntlich zu machen.  Kronen und Dolche, Ketten und Masken, wie
+sie mir meine Vorgaenger ueberliefert hatten, waren ihr auch hier
+zugeteilt.  Der Wettstreit war heftig, die Reden beider Personen
+kontrastierten gehoerig, da man im vierzehnten Jahre gewoehnlich das
+Schwarze und Weisse recht nah aneinander zu malen pflegt.  Die Alte
+redete, wie es einer Person geziemt, die eine Stecknadel aufhebt, und
+jene wie eine, die Koenigreiche verschenkt.  Die warnenden Drohungen
+der Alten wurden verschmaeht; ich sah die mir versprochenen Reichtuemer
+schon mit dem Ruecken an: enterbt und nackt uebergab ich mich der Muse,
+die mir ihren goldnen Schleier zuwarf und meine Bloesse bedeckte.-Haette
+ich denken koennen, o meine Geliebte!" rief er aus, indem er Marianen
+fest an sich drueckte, "dass eine ganz andere, eine lieblichere Gottheit
+kommen, mich in meinem Vorsatz staerken, mich auf meinem Wege begleiten
+wuerde; welch eine schoenere Wendung wuerde mein Gedicht genommen haben,
+wie interessant wuerde nicht der Schluss desselben geworden sein!  Doch
+es ist kein Gedicht, es ist Wahrheit und Leben, was ich in deinen
+Armen finde; lass uns das suesse Glueck mit Bewusstsein geniessen!"
+
+Durch den Druck seines Armes, durch die Lebhaftigkeit seiner erhoehten
+Stimme war Mariane erwacht und verbarg durch Liebkosungen ihre
+Verlegenheit: denn sie hatte auch nicht ein Wort von dem letzten Teile
+seiner Erzaehlung vernommen, und es ist zu wuenschen, dass unser Held fuer
+seine Lieblingsgeschichten aufmerksamere Zuhoerer kuenftig finden moege.
+
+
+
+
+I. Buch, 9. Kapitel
+
+
+
+
+Neuntes Kapitel
+
+So brachte Wilhelm seine Naechte im Genusse vertraulicher Liebe, seine
+Tage in Erwartung neuer seliger Stunden zu.  Schon zu jener Zeit, als
+ihn Verlangen und Hoffnung zu Marianen hinzog, fuehlte er sich wie neu
+belebt, er fuehlte, dass er ein anderer Mensch zu werden beginne; nun
+war er mit ihr vereinigt, die Befriedigung seiner Wuensche ward eine
+reizende Gewohnheit.  Sein Herz strebte, den Gegenstand seiner
+Leidenschaft zu veredeln, sein Geist, das geliebte Maedchen mit sich
+emporzuheben.  In der kleinsten Abwesenheit ergriff ihn ihr Andenken.
+War sie ihm sonst notwendig gewesen, so war sie ihm jetzt
+unentbehrlich, da er mit allen Banden der Menschheit an sie geknuepft
+war.  Seine reine Seele fuehlte, dass sie die Haelfte, mehr als die
+Haelfte seiner selbst sei.  Er war dankbar und hingegeben ohne Grenzen.
+
+Auch Mariane konnte sich eine Zeitlang taeuschen; sie teilte die
+Empfindung seines lebhaften Gluecks mit ihm.  Ach! wenn nur nicht
+manchmal die kalte Hand des Vorwurfs ihr ueber das Herz gefahren waere!
+Selbst an dem Busen Wilhelms war sie nicht sicher davor, selbst unter
+den Fluegeln seiner Liebe.  Und wenn sie nun gar wieder allein war und
+aus den Wolken, in denen seine Leidenschaft sie emportrug, in das
+Bewusstsein ihres Zustandes herabsank, dann war sie zu bedauern.  Denn
+Leichtsinn kam ihr zu Huelfe, solange sie in niedriger Verworrenheit
+lebte, sich ueber ihre Verhaeltnisse betrog oder vielmehr sie nicht
+kannte; da erschienen ihr die Vorfaelle, denen sie ausgesetzt war, nur
+einzeln: Vergnuegen und Verdruss loesten sich ab, Demuetigung wurde durch
+Eitelkeit, und Mangel oft durch augenblicklichen UEberfluss verguetet;
+sie konnte Not und Gewohnheit sich als Gesetz und Rechtfertigung
+anfuehren, und so lange liessen sich alle unangenehmen Empfindungen von
+Stunde zu Stunde, von Tag zu Tage abschuetteln.  Nun aber hatte das
+arme Maedchen sich Augenblicke in eine bessere Welt hinuebergerueckt
+gefuehlt, hatte wie von oben herab aus Licht und Freude ins oede,
+Verworfene ihres Lebens heruntergesehen, hatte gefuehlt, welche elende
+Kreatur ein Weib ist, das mit dem Verlangen nicht zugleich Liebe und
+Ehrfurcht einfloesst, und fand sich aeusserlich und innerlich um nichts
+gebessert.  Sie hatte nichts, was sie aufrichten konnte.  Wenn sie in
+sich blickte und suchte, war es in ihrem Geiste leer, und ihr Herz
+hatte keinen Widerhalt.  Je trauriger dieser Zustand war, desto
+heftiger schloss sich ihre Neigung an den Geliebten fest; ja die
+Leidenschaft wuchs mit jedem Tage, wie die Gefahr, ihn zu verlieren,
+mit jedem Tage naeherrueckte.
+
+Dagegen schwebte Wilhelm gluecklich in hoeheren Regionen, ihm war auch
+eine neue Welt aufgegangen, aber reich an herrlichen Aussichten.  Kaum
+liess das UEbermass der ersten Freude nach, so stellte sich das hell vor
+seine Seele, was ihn bisher dunkel durchwuehlt hatte.  "Sie ist dein!
+Sie hat sich dir hingegeben!  Sie, das geliebte, gesuchte, angebetete
+Geschoepf, dir auf Treu und Glauben hingegeben; aber sie hat sich
+keinem Undankbaren ueberlassen."  Wo er stand und ging, redete er mit
+sich selbst; sein Herz floss bestaendig ueber, und er sagte sich in einer
+Fuelle von praechtigen Worten die erhabensten Gesinnungen vor.  Er
+glaubte den hellen Wink des Schicksals zu verstehen, das ihm durch
+Marianen die Hand reichte, sich aus dem stockenden, schleppenden
+buergerlichen Leben herauszureissen, aus dem er schon so lange sich zu
+retten gewuenscht hatte.  Seines Vaters Haus, die Seinigen zu verlassen
+schien ihm etwas Leichtes.  Er war jung und neu in der Welt, und sein
+Mut, in ihren Weiten nach Glueck und Befriedigung zu rennen, durch die
+Liebe erhoeht.  Seine Bestimmung zum Theater war ihm nunmehr klar; das
+hohe Ziel, das er sich vorgesteckt sah, schien ihm naeher, indem er an
+Marianens Hand hinstrebte, und in selbstgefaelliger Bescheidenheit
+erblickte er in sich den trefflichen Schauspieler, den Schoepfer eines
+kuenftigen Nationaltheaters, nach dem er so vielfaeltig hatte seufzen
+hoeren.  Alles, was in den innersten Winkeln seiner Seele bisher
+geschlummert hatte, wurde rege.  Er bildete aus den vielerlei Ideen
+mit Farben der Liebe ein Gemaelde auf Nebelgrund, dessen Gestalten
+freilich sehr ineinanderflossen; dafuer aber auch das Ganze eine desto
+reizendere Wirkung tat.
+
+
+
+
+I. Buch, 10. Kapitel
+
+
+
+
+Zehntes Kapitel
+
+Er sass nun zu Hause, kramte unter seinen Papieren und ruestete sich zur
+Abreise.  Was nach seiner bisherigen Bestimmung schmeckte, ward
+beiseite gelegt; er wollte bei seiner Wanderung in die Welt auch von
+jeder unangenehmen Erinnerung frei sein.  Nur Werke des Geschmacks,
+Dichter und Kritiker, wurden als bekannte Freunde unter die Erwaehlten
+gestellt; und da er bisher die Kunstrichter sehr wenig genutzt hatte,
+so erneuerte sich seine Begierde nach Belehrung, als er seine Buecher
+wieder durchsah und fand, dass die theoretischen Schriften noch meist
+unaufgeschnitten waren.  Er hatte sich, in der voelligen UEberzeugung
+von der Notwendigkeit solcher Werke, viele davon angeschafft und mit
+dem besten Willen in keines auch nur bis in die Haelfte sich
+hineinlesen koennen.
+
+Dagegen hatte er sich desto eifriger an Beispiele gehalten und in
+allen Arten, die ihm bekannt worden waren, selbst Versuche gemacht.
+
+Werner trat herein, und als er seinen Freund mit den bekannten Heften
+beschaeftigt sah, rief er aus: "Bist du schon wieder ueber diesen
+Papieren?  Ich wette, du hast nicht die Absicht, eins oder das andere
+zu vollenden!  Du siehst sie durch und wieder durch und beginnst
+allenfalls etwas Neues."
+
+"Zu vollenden ist nicht die Sache des Schuelers, es ist genug, wenn er
+sich uebt."
+
+"Aber doch fertigmacht, so gut er kann."
+
+"Und doch liesse sich wohl die Frage aufwerfen, ob man nicht eben gute
+Hoffnung von einem jungen Menschen fassen koenne, der bald gewahr wird,
+wenn er etwas Ungeschicktes unternommen hat, in der Arbeit nicht
+fortfaehrt und an etwas, das niemals einen Wert haben kann, weder Muehe
+noch Zeit verschwenden mag."
+
+"Ich weiss wohl, es war nie deine Sache, etwas zustande zu bringen, du
+warst immer muede, eh es zur Haelfte kam.  Da du noch Direktor unsers
+Puppenspiels warst, wie oft wurden neue Kleider fuer die
+Zwerggesellschaft gemacht, neue Dekorationen ausgeschnitten?  Bald
+sollte dieses, bald jenes Trauerspiel aufgefuehrt werden, und hoechstens
+gabst du einmal den fuenften Akt, wo alles recht bunt durcheinanderging
+und die Leute sich erstachen."
+
+"Wenn du von jenen Zeiten sprechen willst, wer war denn schuld, dass
+wir die Kleider, die unsern Puppen angepasst und auf den Leib
+festgenaeht waren, heruntertrennen liessen und den Aufwand einer
+weitlaeufigen und unnuetzen Garderobe machten?  Warst du's nicht, der
+immer ein neues Stueck Band zu verhandeln hatte, der meine Liebhaberei
+anzufeuern und zu nuetzen wusste?"
+
+Werner lachte und rief aus: "Ich erinnere mich immer noch mit Freuden,
+dass ich von euren theatralischen Feldzuegen Vorteil zog wie Lieferanten
+vom Kriege.  Als ihr euch zur Befreiung Jerusalems ruestetet, machte
+ich auch einen schoenen Profit wie ehemals die Venezianer im aehnlichen
+Falle.  Ich finde nichts vernuenftiger in der Welt, als von den
+Torheiten anderer Vorteil zu ziehen."
+
+"Ich weiss nicht, ob es nicht ein edleres Vergnuegen waere, die Menschen
+von ihren Torheiten zu heilen."
+
+"Wie ich sie kenne, moechte das wohl ein eitles Bestreben sein.  Es
+gehoert schon etwas dazu, wenn ein einziger Mensch klug und reich
+werden soll, und meistens wird er es auf Unkosten der andern."
+
+"Es faellt mir eben recht der 'Juengling am Scheidewege' in die Haende",
+versetzte Wilhelm, indem er ein Heft aus den uebrigen Papieren
+herauszog, "das ist doch fertig geworden, es mag uebrigens sein, wie es
+will."
+
+"Leg es beiseite, wirf es ins Feuer!" versetzte Werner.  "Die
+Erfindung ist nicht im geringsten lobenswuerdig; schon vormals aergerte
+mich diese Komposition genug und zog dir den Unwillen des Vaters zu.
+Es moegen ganz artige Verse sein; aber die Vorstellungsart ist
+grundfalsch.  Ich erinnere mich noch deines personifizierten Gewerbes,
+deiner zusammengeschrumpften, erbaermlichen Sibylle.  Du magst das Bild
+in irgendeinem elenden Kramladen aufgeschnappt haben.  Von der
+Handlung hattest du damals keinen Begriff; ich wuesste nicht, wessen
+Geist ausgebreiteter waere, ausgebreiteter sein muesste als der Geist
+eines echten Handelsmannes.  Welchen UEberblick verschafft uns nicht
+die Ordnung, in der wir unsere Geschaefte fuehren!  Sie laesst uns
+jederzeit das Ganze ueberschauen, ohne dass wir noetig haetten, uns durch
+das Einzelne verwirren zu lassen.  Welche Vorteile gewaehrt die
+doppelte Buchhaltung dem Kaufmanne!  Es ist eine der schoensten
+Erfindungen des menschlichen Geistes, und ein jeder gute Haushalter
+sollte sie in seiner Wirtschaft einfuehren."
+
+"Verzeih mir", sagte Wilhelm laechelnd, "du faengst von der Form an, als
+wenn das die Sache waere; gewoehnlich vergesst ihr aber auch ueber eurem
+Addieren und Bilanzieren das eigentliche Fazit des Lebens."
+
+"Leider siehst du nicht, mein Freund, wie Form und Sache hier nur eins
+ist, eins ohne das andere nicht bestehen koennte.  Ordnung und Klarheit
+vermehrt die Lust zu sparen und zu erwerben.  Ein Mensch, der uebel
+haushaelt, befindet sich in der Dunkelheit sehr wohl; er mag die Posten
+nicht gerne zusammenrechnen, die er schuldig ist.  Dagegen kann einem
+guten Wirte nichts angenehmer sein, als sich alle Tage die Summe
+seines wachsenden Glueckes zu ziehen.  Selbst ein Unfall, wenn er ihn
+verdriesslich ueberrascht, erschreckt ihn nicht; denn er weiss sogleich,
+was fuer erworbene Vorteile er auf die andere Waagschale zu legen hat.
+Ich bin ueberzeugt, mein lieber Freund, wenn du nur einmal einen
+rechten Geschmack an unsern Geschaeften finden koenntest, so wuerdest du
+dich ueberzeugen, dass manche Faehigkeiten des Geistes auch dabei ihr
+freies Spiel haben koennen."
+
+"Es ist moeglich, dass mich die Reise, die ich vorhabe, auf andere
+Gedanken bringt."
+
+"O gewiss!  Glaube mir, es fehlt dir nur der Anblick einer grossen
+Taetigkeit, um dich auf immer zu dem Unsern zu machen; und wenn du
+zurueckkommst, wirst du dich gern zu denen gesellen, die durch alle
+Arten von Spedition und Spekulation einen Teil des Geldes und
+Wohlbefindens, das in der Welt seinen notwendigen Kreislauf fuehrt, an
+sich zu reissen wissen.  Wirf einen Blick auf die natuerlichen und
+kuenstlichen Produkte aller Weltteile, betrachte, wie sie wechselsweise
+zur Notdurft geworden sind!  Welch eine angenehme, geistreiche
+Sorgfalt ist es, alles, was in dem Augenblicke am meisten gesucht wird
+und doch bald fehlt, bald schwer zu haben ist, zu kennen, jedem, was
+er verlangt, leicht und schnell zu verschaffen, sich vorsichtig in
+Vorrat zu setzen und den Vorteil jedes Augenblickes dieser grossen
+Zirkulation zu geniessen!  Dies ist, duenkt mich, was jedem, der Kopf
+hat, eine grosse Freude machen wird."
+
+Wilhelm schien nicht abgeneigt, und Werner fuhr fort: "Besuche nur
+erst ein paar grosse Handelsstaedte, ein paar Haefen, und du wirst gewiss
+mit fortgerissen werden.  Wenn du siehst, wie viele Menschen
+beschaeftigt sind; wenn du siehst, wo so manches herkommt, wo es
+hingeht, so wirst du es gewiss auch mit Vergnuegen durch deine Haende
+gehen sehen.  Die geringste Ware siehst du im Zusammenhange mit dem
+ganzen Handel, und eben darum haeltst du nichts fuer gering, weil alles
+die Zirkulation vermehrt, von welcher dein Leben seine Nahrung zieht."
+
+Werner, der seinen richtigen Verstand in dem Umgange mit Wilhelm
+ausbildete, hatte sich gewoehnt, auch an sein Gewerbe, an seine
+Geschaefte mit Erhebung der Seele zu denken, und glaubte immer, dass er
+es mit mehrerem Rechte tue als sein sonst verstaendiger und geschaetzter
+Freund, der, wie es ihm schien, auf das Unreellste von der Welt einen
+so grossen Wert und das Gewicht seiner ganzen Seele legte.  Manchmal
+dachte er, es koenne gar nicht fehlen, dieser falsche Enthusiasmus
+muesse zu ueberwaeltigen und ein so guter Mensch auf den rechten Weg zu
+bringen sein.  In dieser Hoffnung fuhr er fort: "Es haben die Grossen
+dieser Welt sich der Erde bemaechtiget, sie leben in Herrlichkeit und
+UEberfluss.  Der kleinste Raum unsers Weltteils ist schon in Besitz
+genommen, jeder Besitz befestigt, AEmter und andere buergerliche
+Geschaefte tragen wenig ein; wo gibt es nun noch einen rechtmaessigeren
+Erwerb, eine billigere Eroberung als den Handel?  Haben die Fuersten
+dieser Welt die Fluesse, die Wege, die Haefen in ihrer Gewalt und nehmen
+von dem, was durch- und vorbeigeht, einen starken Gewinn: sollen wir
+nicht mit Freuden die Gelegenheit ergreifen und durch unsere Taetigkeit
+auch Zoll von jenen Artikeln nehmen, die teils das Beduerfnis, teils
+der UEbermut den Menschen unentbehrlich gemacht hat?  Und ich kann dir
+versichern, wenn du nur deine dichterische Einbildungskraft anwenden
+wolltest, so koenntest du meine Goettin als eine unueberwindliche
+Siegerin der deinigen kuehn entgegenstellen.  Sie fuehrt freilich lieber
+den OElzweig als das Schwert; Dolch und Ketten kennt sie gar nicht:
+aber Kronen teilet sie auch ihren Lieblingen aus, die, es sei ohne
+Verachtung jener gesagt, von echtem, aus der Quelle geschoepftem Golde
+und von Perlen glaenzen, die sie aus der Tiefe des Meeres durch ihre
+immer geschaeftigen Diener geholt hat."
+
+Wilhelmen verdross dieser Ausfall ein wenig, doch verbarg er seine
+Empfindlichkeit; denn er erinnerte sich, dass Werner auch seine
+Apostrophen mit Gelassenheit anzuhoeren pflegte.  UEbrigens war er billig
+genug, um gerne zu sehen, wenn jeder von seinem Handwerk aufs beste
+dachte; nur musste man ihm das seinige, dem er sich mit Leidenschaft
+gewidmet hatte, unangefochten lassen.
+
+"Und dir", rief Werner aus, "der du an menschlichen Dingen so
+herzlichen Anteil nimmst, was wird es dir fuer ein Schauspiel sein,
+wenn du das Glueck, das mutige Unternehmungen begleitet, vor deinen
+Augen den Menschen wirst gewaehrt sehen!  Was ist reizender als der
+Anblick eines Schiffes, das von einer gluecklichen Fahrt wieder anlangt,
+das von einem reichen Fange fruehzeitig zurueckkehrt!  Nicht der
+Verwandte, der Bekannte, der Teilnehmer allein, ein jeder fremde
+Zuschauer wird hingerissen, wenn er die Freude sieht, mit welcher der
+eingesperrte Schiffer ans Land springt, noch ehe sein Fahrzeug es ganz
+beruehrt, sich wieder frei fuehlt und nunmehr das, was er dem falschen
+Wasser entzogen, der getreuen Erde anvertrauen kann.  Nicht in Zahlen
+allein, mein Freund, erscheint uns der Gewinn; das Glueck ist die
+Goettin der lebendigen Menschen, und um ihre Gunst wahrhaft zu
+empfinden, muss man leben und Menschen sehen, die sich recht lebendig
+bemuehen und recht sinnlich geniessen."
+
+
+
+
+I. Buch, 11. Kapitel
+
+
+
+
+Elftes Kapitel
+
+Es ist nun Zeit, dass wir auch die Vaeter unsrer beiden Freunde naeher
+kennenlernen; ein paar Maenner von sehr verschiedener Denkungsart,
+deren Gesinnungen aber darin uebereinkamen, dass sie den Handel fuer das
+edelste Geschaeft hielten und beide hoechst aufmerksam auf jeden Vorteil
+waren, den ihnen irgend eine Spekulation bringen konnte.  Der alte
+Meister hatte gleich nach dem Tode seines Vaters eine kostbare
+Sammlung von Gemaelden, Zeichnungen, Kupferstichen und Antiquitaeten ins
+Geld gesetzt, sein Haus nach dem neuesten Geschmacke von Grund aus
+aufgebaut und moebliert und sein uebriges Vermoegen auf alle moegliche
+Weise gelten gemacht.  Einen ansehnlichen Teil davon hatte er dem
+alten Werner in die Handlung gegeben, der als ein taetiger Handelsmann
+beruehmt war und dessen Spekulationen gewoehnlich durch das Glueck
+beguenstigt wurden.  Nichts wuenschte aber der alte Meister so sehr, als
+seinem Sohne Eigenschaften zu geben, die ihm selbst fehlten, und
+seinen Kindern Gueter zu hinterlassen, auf deren Besitz er den groessten
+Wert legte.  Zwar empfand er eine besondere Neigung zum Praechtigen, zu
+dem, was in die Augen faellt, das aber auch zugleich einen innern Wert
+und eine Dauer haben sollte.  In seinem Hause musste alles solid und
+massiv sein, der Vorrat reichlich, das Silbergeschirr schwer, das
+Tafelservice kostbar; dagegen waren die Gaeste selten, denn eine jede
+Mahlzeit ward ein Fest, das sowohl wegen der Kosten als wegen der
+Unbequemlichkeit nicht oft wiederholt werden konnte.  Sein Haushalt
+ging einen gelassenen und einfoermigen Schritt, und alles, was sich
+darin bewegte und erneuerte, war gerade das, was niemandem einigen
+Genuss gab.
+
+Ein ganz entgegengesetztes Leben fuehrte der alte Werner in einem
+dunkeln und finstern Hause.  Hatte er seine Geschaefte in der engen
+Schreibstube am uralten Pulte vollendet, so wollte er gut essen und
+womoeglich noch besser trinken, auch konnte er das Gute nicht allein
+geniessen: neben seiner Familie musste er seine Freunde, alle Fremden,
+die nur mit seinem Hause in einiger Verbindung standen, immer bei
+Tische sehen; seine Stuehle waren uralt, aber er lud taeglich jemanden
+ein, darauf zu sitzen.  Die guten Speisen zogen die Aufmerksamkeit der
+Gaeste auf sich, und niemand bemerkte, dass sie in gemeinem Geschirr
+aufgetragen wurden.  Sein Keller hielt nicht viel Wein, aber der
+ausgetrunkene ward gewoehnlich durch einen bessern ersetzt.
+
+So lebten die beiden Vaeter, welche oefter zusammenkamen, sich wegen
+gemeinschaftlicher Geschaefte beratschlagten und eben heute die
+Versendung Wilhelms in Handelsangelegenheiten beschlossen.
+
+"Er mag sich in der Welt umsehen", sagte der alte Meister, "und
+zugleich unsre Geschaefte an fremden Orten betreiben; man kann einem
+jungen Menschen keine groessere Wohltat erweisen, als wenn man ihn
+zeitig in die Bestimmung seines Lebens einweiht.  Ihr Sohn ist von
+seiner Expedition so gluecklich zurueckgekommen, hat seine Geschaefte so
+gut zu machen gewusst, dass ich recht neugierig bin, wie sich der
+meinige betraegt; ich fuerchte, er wird mehr Lehrgeld geben als der
+Ihrige."
+
+Der alte Meister, welcher von seinem Sohne und dessen Faehigkeiten
+einen grossen Begriff hatte, sagte diese Worte in Hoffnung, dass sein
+Freund ihm widersprechen und die vortrefflichen Gaben des jungen
+Mannes herausstreichen sollte.  Allein hierin betrog er sich; der alte
+Werner, der in praktischen Dingen niemandem traute als dem, den er
+geprueft hatte, versetzte gelassen: "Man muss alles versuchen; wir
+koennen ihn ebendenselben Weg schicken, wir geben ihm eine Vorschrift,
+wonach er sich richtet; es sind verschiedene Schulden einzukassieren,
+alte Bekanntschaften zu erneuern, neue zu machen.  Er kann auch die
+Spekulation, mit der ich Sie neulich unterhielt, befoerdern helfen;
+denn ohne genaue Nachrichten an Ort und Stelle zu sammeln, laesst sich
+dabei wenig tun."
+
+"Er mag sich vorbereiten", versetzte der alte Meister, "und so bald
+als moeglich aufbrechen.  Wo nehmen wir ein Pferd fuer ihn her, das sich
+zu dieser Expedition schickt?"
+
+"Wir werden nicht weit danach suchen.  Ein Kraemer in H***, der uns
+noch einiges schuldig, aber sonst ein guter Mann ist, hat mir eins an
+Zahlungs Statt angeboten; mein Sohn kennt es, es soll ein recht
+brauchbares Tier sein."
+
+"Er mag es selbst holen, mag mit dem Postwagen hinueberfahren, so ist
+er uebermorgen beizeiten wieder da, man macht ihm indessen den
+Mantelsack und die Briefe zurechte, und so kann er zu Anfang der
+kuenftigen Woche aufbrechen."
+
+Wilhelm wurde gerufen, und man machte ihm den Entschluss bekannt.  Wer
+war froher als er, da er die Mittel zu seinem Vorhaben in seinen
+Haenden sah, da ihm die Gelegenheit ohne sein Mitwirken zubereitet
+worden!  So gross war seine Leidenschaft, so rein seine UEberzeugung, er
+handle vollkommen recht, sich dem Drucke seines bisherigen Lebens zu
+entziehen und einer neuen, edlern Bahn zu folgen, dass sein Gewissen
+sich nicht im mindesten regte, keine Sorge in ihm entstand, ja dass er
+vielmehr diesen Betrug fuer heilig hielt.  Er war gewiss, dass ihn Eltern
+und Verwandte in der Folge fuer diesen Schritt preisen und segnen
+sollten, er erkannte den Wink eines leitenden Schicksals an diesen
+zusammentreffenden Umstaenden.
+
+Wie lang ward ihm die Zeit bis zur Nacht, bis zur Stunde, in der er
+seine Geliebte wiedersehen sollte!  Er sass auf seinem Zimmer und
+ueberdachte seinen Reiseplan, wie ein kuenstlicher Dieb oder Zauberer in
+der Gefangenschaft manchmal die Fuesse aus den festgeschlossenen Ketten
+herauszieht, um die UEberzeugung bei sich zu naehren, dass seine Rettung
+moeglich, ja noch naeher sei, als kurzsichtige Waechter glauben.
+
+Endlich schlug die naechtliche Stunde; er entfernte sich aus seinem
+Hause, schuettelte allen Druck ab und wandelte durch die stillen Gassen.
+Auf dem grossen Platze hub er seine Haende gen Himmel, fuehlte alles
+hinter und unter sich; er hatte sich von allem losgemacht.  Nun dachte
+er sich in den Armen seiner Geliebten, dann wieder mit ihr auf dem
+blendenden Theatergerueste, er schwebte in einer Fuelle von Hoffnungen,
+und nur manchmal erinnerte ihn der Ruf des Nachtwaechters, dass er noch
+auf dieser Erde wandle.
+
+Seine Geliebte kam ihm an der Treppe entgegen, und wie schoen! wie
+lieblich!  In dem neuen weissen Neglige empfing sie ihn, er
+glaubte sie noch nie so reizend gesehen zu haben.  So weihte sie das
+Geschenk des abwesenden Liebhabers in den Armen des gegenwaertigen ein,
+und mit wahrer Leidenschaft verschwendete sie den ganzen Reichtum
+ihrer Liebkosungen, welche ihr die Natur eingab, welche die Kunst sie
+gelehrt hatte, an ihren Liebling, und man frage, ob er sich gluecklich,
+ob er sich selig fuehlte.
+
+Er entdeckte ihr, was vorgegangen war, und liess ihr im allgemeinen
+seinen Plan, seine Wuensche sehen.  Er wolle unterzukommen suchen, sie
+alsdann abholen, er hoffe, sie werde ihm ihre Hand nicht versagen.
+Das arme Maedchen aber schwieg, verbarg ihre Traenen und drueckte den
+Freund an ihre Brust, der, ob er gleich ihr Verstummen auf das
+guenstigste auslegte, doch eine Antwort gewuenscht haette, besonders da
+er sie zuletzt auf das bescheidenste, auf das freundlichste fragte, ob
+er sich denn nicht Vater glauben duerfe.  Aber auch darauf antwortete
+sie nur mit einem Seufzer, einem Kusse.
+
+
+
+
+I. Buch, 12. Kapitel
+
+
+
+
+Zwoelftes Kapitel
+
+Den andern Morgen erwachte Mariane nur zu neuer Betruebnis; sie fand
+sich sehr allein, mochte den Tag nicht sehen, blieb im Bette und
+weinte.  Die Alte setzte sich zu ihr, suchte ihr einzureden, sie zu
+troesten; aber es gelang ihr nicht, das verwundete Herz so schnell zu
+heilen.  Nun war der Augenblick nahe, dem das arme Maedchen wie dem
+letzten ihres Lebens entgegengesehen hatte.  Konnte man sich auch in
+einer aengstlichern Lage fuehlen?  Ihr Geliebter entfernte sich, ein
+unbequemer Liebhaber drohte zu kommen, und das groesste Unheil stand
+bevor, wenn beide, wie es leicht moeglich war, einmal zusammentreffen
+sollten.
+
+"Beruhige dich, Liebchen", rief die Alte, "verweine mir deine schoenen
+Augen nicht!  Ist es denn ein so grosses Unglueck, zwei Liebhaber zu
+besitzen?  Und wenn du auch deine Zaertlichkeit nur dem einen schenken
+kannst, so sei wenigstens dankbar gegen den andern, der, nach der Art,
+wie er fuer dich sorgt, gewiss dein Freund genannt zu werden verdient."
+
+"Es ahnte meinem Geliebten", versetzte Mariane dagegen mit Traenen,
+"dass uns eine Trennung bevorstehe; ein Traum hat ihm entdeckt, was wir
+ihm so sorgfaeltig zu verbergen suchen.  Er schlief so ruhig an meiner
+Seite.  Auf einmal hoere ich ihn aengstliche, unvernehmliche Toene
+stammeln.  Mir wird bange, und ich wecke ihn auf.  Ach! mit welcher
+Liebe, mit welcher Zaertlichkeit, mit welchem Feuer umarmt' er mich!
+"O Mariane!" rief er aus, "welchem schrecklichen Zustande hast du mich
+entrissen!  Wie soll ich dir danken, dass du mich aus dieser Hoelle
+befreit hast?  Mir traeumte", fuhr er fort, "ich befaende mich, entfernt
+von dir, in einer unbekannten Gegend; aber dein Bild schwebte mir vor;
+ich sah dich auf einem schoenen Huegel, die Sonne beschien den ganzen
+Platz; wie reizend kamst du mir vor!  Aber es waehrte nicht lange, so
+sah ich dein Bild hinuntergleiten, immer hinuntergleiten; ich streckte
+meine Arme nach dir aus, sie reichten nicht durch die Ferne.  Immer
+sank dein Bild und naeherte sich einem grossen See, der am Fusse des
+Huegels weit ausgebreitet lag, eher ein Sumpf als ein See.  Auf einmal
+gab dir ein Mann die Hand; er schien dich hinauffuehren zu wollen, aber
+leitete dich seitwaerts und schien dich nach sich zu ziehen.  Ich rief,
+da ich dich nicht erreichen konnte, ich hoffte dich zu warnen.  Wollte
+ich gehen, so schien der Boden mich festzuhalten; konnt ich gehen, so
+hinderte mich das Wasser, und sogar mein Schreien erstickte in der
+beklemmten Brust."--So erzaehlte der Arme, indem er sich von seinem
+Schrecken an meinem Busen erholte und sich gluecklich pries, einen
+fuerchterlichen Traum durch die seligste Wirklichkeit verdraengt zu
+sehen."
+
+Die Alte suchte soviel moeglich durch ihre Prose die Poesie ihrer
+Freundin ins Gebiet des gemeinen Lebens herunterzulocken und bediente
+sich dabei der guten Art, welche Vogelstellern zu gelingen pflegt,
+indem sie durch ein Pfeifchen die Toene derjenigen nachzuahmen suchen,
+welche sie bald und haeufig in ihrem Garne zu sehen wuenschen.  Sie
+lobte Wilhelmen, ruehmte seine Gestalt, seine Augen, seine Liebe.  Das
+arme Maedchen hoerte ihr gerne zu, stand auf, liess sich ankleiden und
+schien ruhiger.  "Mein Kind, mein Liebchen", fuhr die Alte
+schmeichelnd fort, "ich will dich nicht betrueben, nicht beleidigen,
+ich denke dir nicht dein Glueck zu rauben.  Darfst du meine Absicht
+verkennen, und hast du vergessen, dass ich jederzeit mehr fuer dich als
+fuer mich gesorgt habe?  Sag mir nur, was du willst; wir wollen schon
+sehen, wie wir es ausfuehren."
+
+"Was kann ich wollen?" versetzte Mariane; "ich bin elend, auf mein
+ganzes Leben elend; ich liebe ihn, der mich liebt, sehe, dass ich mich
+von ihm trennen muss, und weiss nicht, wie ich es ueberleben kann.
+Norberg kommt, dem wir unsere ganze Existenz schuldig sind, den wir
+nicht entbehren koennen.  Wilhelm ist sehr eingeschraenkt, er kann
+nichts fuer mich tun."
+
+"Ja, er ist ungluecklicherweise von jenen Liebhabern, die nichts als
+ihr Herz bringen, und eben diese haben die meisten Praetensionen."
+
+"Spotte nicht!  Der Unglueckliche denkt sein Haus zu verlassen, auf das
+Theater zu gehen, mir seine Hand anzubieten."
+
+"Leere Haende haben wir schon viere."
+
+"Ich habe keine Wahl", fuhr Mariane fort, "entscheide du!  Stosse mich
+da oder dorthin, nur wisse noch eins: wahrscheinlich trag ich ein Pfand
+im Busen, das uns noch mehr aneinanderfesseln sollte; das bedenke und
+entscheide: wen soll ich lassen? Wem soll ich folgen?"
+
+Nach einigem Stillschweigen rief die Alte: "Dass doch die Jugend immer
+zwischen den Extremen schwankt!  Ich finde nichts natuerlicher, als
+alles zu verbinden, was uns Vergnuegen und Vorteil bringt.  Liebst du
+den einen, so mag der andere bezahlen; es kommt nur darauf an, dass wir
+klug genug sind, sie beide auseinanderzuhalten."
+
+"Mache, was du willst, ich kann nichts denken; aber folgen will ich."
+
+"Wir haben den Vorteil, dass wir den Eigensinn des Direktors, der auf
+die Sitten seiner Truppe stolz ist, vorschuetzen koennen.  Beide
+Liebhaber sind schon gewohnt, heimlich und vorsichtig zu Werke zu
+gehen.  Fuer Stunde und Gelegenheit will ich sorgen; nur musst du
+hernach die Rolle spielen, die ich dir vorschreibe.  Wer weiss, welcher
+Umstand uns hilft.  Kaeme Norberg nur jetzt, da Wilhelm entfernt ist!
+Wer wehrt dir, in den Armen des einen an den andern zu denken?  Ich
+wuensche dir zu einem Sohne Glueck; er soll einen reichen Vater haben."
+
+Mariane war durch diese Vorstellungen nur fuer kurze Zeit gebessert.
+Sie konnte ihren Zustand nicht in Harmonie mit ihrer Empfindung, ihrer
+UEberzeugung bringen; sie wuenschte diese schmerzlichen Verhaeltnisse zu
+vergessen, und tausend kleine Umstaende mussten sie jeden Augenblick
+daran erinnern.
+
+
+
+
+I. Buch, 13. Kapitel
+
+
+
+
+Dreizehntes Kapitel
+
+Wilhelm hatte indessen die kleine Reise vollendet und ueberreichte, da
+er seinen Handelsfreund nicht zu Hause fand, das Empfehlungsschreiben
+der Gattin des Abwesenden.  Aber auch diese gab ihm auf seine Fragen
+wenig Bescheid; sie war in einer heftigen Gemuetsbewegung und das ganze
+Haus in grosser Verwirrung.
+
+Es waehrte jedoch nicht lange, so vertraute sie ihm (und es war auch
+nicht zu verheimlichen), dass ihre Stieftochter mit einem Schauspieler
+davongegangen sei, mit einem Menschen, der sich von einer kleinen
+Gesellschaft vor kurzem losgemacht, sich im Orte aufgehalten und im
+Franzoesischen Unterricht gegeben habe.  Der Vater, ausser sich vor
+Schmerz und Verdruss, sei ins Amt gelaufen, um die Fluechtigen verfolgen
+zu lassen.  Sie schalt ihre Tochter heftig, schmaehte den Liebhaber, so
+dass an beiden nichts Lobenswuerdiges uebrigblieb, beklagte mit vielen
+Worten die Schande, die dadurch auf die Familie gekommen, und setzte
+Wilhelmen in nicht geringe Verlegenheit, der sich und sein heimliches
+Vorhaben durch diese Sibylle gleichsam mit prophetischem Geiste voraus
+getadelt und gestraft fuehlte.  Noch staerkern und innigern Anteil musste
+er aber an den Schmerzen des Vaters nehmen, der aus dem Amte zurueckkam,
+mit stiller Trauer und halben Worten seine Expedition der Frau
+erzaehlte und, indem er nach eingesehenem Briefe das Pferd Wilhelmen
+vorfuehren liess, seine Zerstreuung und Verwirrung nicht verbergen
+konnte.
+
+Wilhelm gedachte sogleich das Pferd zu besteigen und sich aus einem
+Hause zu entfernen, in welchem ihm unter den gegebenen Umstaenden
+unmoeglich wohl werden konnte; allein der gute Mann wollte den Sohn
+eines Hauses, dem er so viel schuldig war, nicht unbewirtet und ohne
+ihn eine Nacht unter seinem Dache behalten zu haben, entlassen.
+
+Unser Freund hatte ein trauriges Abendessen eingenommen, eine unruhige
+Nacht ausgestanden und eilte fruehmorgens, so bald als moeglich sich von
+Leuten zu entfernen, die, ohne es zu wissen, ihn mit ihren Erzaehlungen
+und AEusserungen auf das empfindlichste gequaelt hatten.
+
+Er ritt langsam und nachdenkend die Strasse hin, als er auf einmal eine
+Anzahl bewaffneter Leute durchs Feld kommen sah, die er an ihren
+weiten und langen Roecken, grossen Aufschlaegen, unfoermlichen Hueten und
+plumpen Gewehren, an ihrem treuherzigen Gange und dem bequemen Tragen
+ihres Koerpers sogleich fuer ein Kommando Landmiliz erkannte.  Unter
+einer alten Eiche hielten sie stille, setzten ihre Flinten nieder und
+lagerten sich bequem auf dem Rasen, um eine Pfeife zu rauchen.
+Wilhelm verweilte bei ihnen und liess sich mit einem jungen Menschen,
+der zu Pferde herbeikam, in ein Gespraech ein.  Er musste die Geschichte
+der beiden Entflohenen, die ihm nur zu sehr bekannt war, leider noch
+einmal, und zwar mit Bemerkungen, die weder dem jungen Paare noch den
+Eltern sonderlich guenstig waren, vernehmen.  Zugleich erfuhr er, dass
+man hierher gekommen sei, die jungen Leute wirklich in Empfang zu
+nehmen, die in dem benachbarten Staedtchen eingeholt und angehalten
+worden waren.  Nach einiger Zeit sah man von ferne einen Wagen
+herbeikommen, der von einer Buergerwache mehr laecherlich als
+fuerchterlich umgeben war.  Ein unfoermlicher Stadtschreiber ritt voraus
+und komplimentierte mit dem gegenseitigem Aktuarius (denn das war der
+junge Mann, mit dem Wilhelm gesprochen hatte) an der Grenze mit grosser
+Gewissenhaftigkeit und wunderlichen Gebaerden, wie es etwa Geist und
+Zauberer, der eine inner-, der andere ausserhalb des Kreises, bei
+gefaehrlichen naechtlichen Operationen tun moegen.
+
+Die Aufmerksamkeit der Zuschauer war indes auf den Bauerwagen
+gerichtet, und man betrachtete die armen Verirrten nicht ohne
+Mitleiden, die auf ein paar Buendeln Stroh beieinander sassen, sich
+zaertlich anblickten und die Umstehenden kaum zu bemerken schienen.
+Zufaelligerweise hatte man sich genoetigt gesehen, sie von dem letzten
+Dorfe auf eine so unschickliche Art fortzubringen, indem die alte
+Kutsche, in welcher man die Schoene transportierte, zerbrochen war.
+Sie erbat sich bei dieser Gelegenheit die Gesellschaft ihres Freundes,
+den man, in der UEberzeugung, er sei auf einem kapitalen Verbrechen
+betroffen, bis dahin mit Ketten beschwert nebenhergehen lassen.  Diese
+Ketten trugen denn freilich nicht wenig bei, den Anblick der
+zaertlichen Gruppe interessanter zu machen, besonders weil der junge
+Mann sie mit vielem Anstand bewegte, indem er wiederholt seiner
+Geliebten die Haende kuesste.
+
+"Wir sind sehr ungluecklich!" rief sie den Umstehenden zu; "aber nicht
+so schuldig, wie wir scheinen.  So belohnen grausame Menschen treue
+Liebe, und Eltern, die das Glueck ihrer Kinder gaenzlich vernachlaessigen,
+reissen sie mit Ungestuem aus den Armen der Freude, die sich ihrer nach
+langen, trueben Tagen bemaechtigte!"
+
+Indes die Umstehenden auf verschiedene Weise ihre Teilnahme zu
+erkennen gaben, hatten die Gerichte ihre Zeremonien absolviert; der
+Wagen ging weiter, und Wilhelm, der an dem Schicksal der Verliebten
+grossen Teil nahm, eilte auf dem Fusspfade voraus, um mit dem Amtmanne,
+noch ehe der Zug ankaeme, Bekanntschaft zu machen.  Er erreichte aber
+kaum das Amthaus, wo alles in Bewegung und zum Empfang der Fluechtlinge
+bereit war, als ihn der Aktuarius einholte und durch eine umstaendliche
+Erzaehlung, wie alles gegangen, besonders aber durch ein weitlaeufiges
+Lob seines Pferdes, das er erst gestern vom Juden getauscht, jedes
+andere Gespraech verhinderte.
+
+Schon hatte man das unglueckliche Paar aussen am Garten, der durch eine
+kleine Pforte mit dem Amthause zusammenhing, abgesetzt und sie in der
+Stille hineingefuehrt.  Der Aktuarius nahm ueber diese schonende
+Behandlung von Wilhelmen ein aufrichtiges Lob an, ob er gleich
+eigentlich dadurch nur das vor dem Amthause versammelte Volk necken
+und ihm das angenehme Schauspiel einer gedemuetigten Mitbuergerin
+entziehen wollte.
+
+Der Amtmann, der von solchen ausserordentlichen Faellen kein
+sonderlicher Liebhaber war, weil er meistenteils dabei einen und den
+andern Fehler machte und fuer den besten Willen gewoehnlich von
+fuerstlicher Regierung mit einem derben Verweise belohnt wurde, ging
+mit schweren Schritten nach der Amtsstube, wohin ihm der Aktuarius,
+Wilhelm und einige angesehene Buerger folgten.
+
+Zuerst ward die Schoene vorgefuehrt, die, ohne Frechheit, gelassen und
+mit Bewusstsein ihrer selbst hereintrat.  Die Art, wie sie gekleidet
+war und sich ueberhaupt betrug, zeigte, dass sie ein Maedchen sei, die
+etwas auf sich halte.  Sie fing auch, ohne gefragt zu werden, ueber
+ihren Zustand nicht unschicklich zu reden an.
+
+Der Aktuarius gebot ihr zu schweigen und hielt seine Feder ueber dem
+gebrochenen Blatte.  Der Amtmann setzte sich in Fassung, sah ihn an,
+raeusperte sich und fragte das arme Kind, wie ihr Name heisse und wie
+alt sie sei.
+
+"Ich bitte Sie, mein Herr", versetzte sie, "es muss mir gar wunderbar
+vorkommen, dass Sie mich um meinen Namen und mein Alter fragen, da Sie
+sehr gut wissen, wie ich heisse und dass ich so alt wie Ihr aeltester
+Sohn bin.  Was Sie von mir wissen wollen und was Sie wissen muessen,
+will ich gern ohne Umschweife sagen.
+
+Seit meines Vaters zweiter Heirat werde ich zu Hause nicht zum besten
+gehalten.  Ich haette einige huebsche Partien tun koennen, wenn nicht
+meine Stiefmutter aus Furcht vor der Ausstattung sie zu vereiteln
+gewusst haette.  Nun habe ich den jungen Melina kennenlernen, ich habe
+ihn lieben muessen, und da wir die Hindernisse voraussahen, die unserer
+Verbindung im Wege stunden, entschlossen wir uns, miteinander in der
+weiten Welt ein Glueck zu suchen, das uns zu Hause nicht gewaehrt schien.
+Ich habe nichts mitgenommen, als was mein eigen war; wir sind nicht
+als Diebe und Raeuber entflohen, und mein Geliebter verdient nicht, dass
+er mit Ketten und Banden belegt herumgeschleppt werde.  Der Fuerst ist
+gerecht, er wird diese Haerte nicht billigen.  Wenn wir strafbar sind,
+so sind wir es nicht auf diese Weise."
+
+Der alte Amtmann kam hierueber doppelt und dreifach in Verlegenheit.
+Die gnaedigsten Ausputzer summten ihm schon um den Kopf, und die
+gelaeufige Rede des Maedchens hatte ihm den Entwurf des Protokolls
+gaenzlich zerruettet.  Das UEbel wurde noch groesser, als sie bei
+wiederholten ordentlichen Fragen sich nicht weiter einlassen wollte,
+sondern sich auf das, was sie eben gesagt, standhaft berief.
+
+"Ich bin keine Verbrecherin", sagte sie.  "Man hat mich auf
+Strohbuendeln zur Schande hierhergefuehrt; es ist eine hoehere
+Gerechtigkeit, die uns wieder zu Ehren bringen soll."
+
+Der Aktuarius hatte indessen immer ihre Worte nachgeschrieben und
+fluesterte dem Amtmanne zu: er solle nur weitergehen; ein foermliches
+Protokoll wuerde sich nachher schon verfassen lassen.
+
+Der Alte nahm wieder Mut und fing nun an, nach den suessen Geheimnissen
+der Liebe mit duerren Worten und in hergebrachten, trockenen Formeln
+sich zu erkundigen.
+
+Wilhelmen stieg die Roete ins Gesicht, und die Wangen der artigen
+Verbrecherin belebten sich gleichfalls durch die reizende Farbe der
+Schamhaftigkeit.  Sie schwieg und stockte, bis die Verlegenheit selbst
+zuletzt ihren Mut zu erhoehen schien.
+
+"Seien Sie versichert", rief sie aus, "dass ich stark genug seien wuerde,
+die Wahrheit zu bekennen, wenn ich auch gegen mich selbst sprechen
+muesste; sollte ich nun zaudern und stocken, da sie mir Ehre macht?  Ja,
+ich habe ihn von dem Augenblicke an, da ich seiner Neigung und seiner
+Treue gewiss war, als meinen Ehemann angesehen; ich habe ihm alles
+gerne gegoennt, was die Liebe fordert und was ein ueberzeugtes Herz
+nicht versagen kann.  Machen Sie nun mit mir, was Sie wollen.  Wenn
+ich einen Augenblick zu gestehen zauderte, so war die Furcht, dass mein
+Bekenntnis fuer meinen Geliebten schlimme Folgen haben koennte, allein
+daran Ursache."
+
+Wilhelm fasste, als er ihr Gestaendnis hoerte, einen hohen Begriff von
+den Gesinnungen des Maedchens, indes sie die Gerichtspersonen fuer eine
+freche Dirne erkannten und die gegenwaertigen Buerger Gott dankten, dass
+dergleichen Faelle in ihren Familien entweder nicht vorgekommen oder
+nicht bekannt geworden waren.
+
+Wilhelm versetzte seine Mariane in diesem Augenblicke vor den
+Richterstuhl, legte ihr noch schoenere Worte in den Mund, liess ihre
+Aufrichtigkeit noch herzlicher und ihr Bekenntnis noch edler werden.
+Die heftigste Leidenschaft, beiden Liebenden zu helfen, bemaechtigte
+sich seiner.  Er verbarg sie nicht und bat den zaudernden Amtmann
+heimlich, er moechte doch der Sache ein Ende machen, es sei ja alles so
+klar als moeglich und beduerfe keiner weitern Untersuchung.
+
+Dieses half so viel, dass man das Maedchen abtreten, dafuer aber den
+jungen Menschen, nachdem man ihm vor der Tuere die Fesseln abgenommen
+hatte, hereinkommen liess.  Dieser schien ueber sein Schicksal mehr
+nachdenkend.  Seine Antworten waren gesetzter, und wenn er von einer
+Seite weniger heroische Freimuetigkeit zeigte, so empfahl er sich
+hingegen durch Bestimmtheit und Ordnung seiner Aussage.
+
+Da auch dieses Verhoer geendiget war, welches mit dem vorigen in allem
+uebereinstimmte, nur dass er, um das Maedchen zu schonen, hartnaeckig
+leugnete, was sie selbst schon bekannt hatte, liess man auch sie
+endlich wieder vortreten, und es entstand zwischen beiden eine Szene,
+welche ihnen das Herz unsers Freundes gaenzlich zu eigen machte.
+
+Was nur in Romanen und Komoedien vorzugehen pflegt, sah er hier in
+einer unangenehmen Gerichtsstube vor seinen Augen: den Streit
+wechselseitiger Grossmut, die Staerke der Liebe im Unglueck.
+
+"Ist es denn also wahr", sagte er bei sich selbst, "dass die
+schuechterne Zaertlichkeit, die vor dem Auge der Sonne und der Menschen
+sich verbirgt und nur in abgesonderter Einsamkeit, in tiefem
+Geheimnisse zu geniessen wagt, wenn sie durch einen feindseligen Zufall
+hervorgeschleppt wird, sich alsdann mutiger, staerker, tapferer zeigt
+als andere, brausende und grosstuende Leidenschaften?"
+
+Zu seinem Troste schloss sich die ganze Handlung noch ziemlich bald.
+Sie wurden beide in leidliche Verwahrung genommen, und wenn es moeglich
+gewesen waere, so haette er noch diesen Abend das Frauenzimmer zu ihren
+Eltern hinuebergebracht.  Denn er setzte sich fest vor, hier ein
+Mittelsmann zu werden und die glueckliche und anstaendige Verbindung
+beider Liebenden zu befoerdern.
+
+Er erbat sich von dem Amtmanne die Erlaubnis, mit Melina allein zu
+reden, welche ihm denn auch ohne Schwierigkeit verstattet wurde.
+
+
+
+
+I. Buch, 14. Kapitel
+
+
+
+
+Vierzehntes Kapitel
+
+Das Gespraech der beiden neuen Bekannten wurde gar bald vertraut und
+lebhaft.  Denn als Wilhelm dem niedergeschlagnen Juengling sein
+Verhaeltnis zu den Eltern des Frauenzimmers entdeckte, sich zum Mittler
+anbot und selbst die besten Hoffnungen zeigte, erheiterte sich das
+traurige und sorgenvolle Gemuet des Gefangnen, er fuehlte sich schon
+wieder befreit, mit seinen Schwiegereltern versoehnt, und es war nun
+von kuenftigem Erwerb und Unterkommen die Rede.
+
+"Darueber werden Sie doch nicht in Verlegenheit sein", versetzte
+Wilhelm; "denn Sie scheinen mir beiderseits von der Natur bestimmt, in
+dem Stande, den Sie gewaehlt haben, Ihr Glueck zu machen.  Eine
+angenehme Gestalt, eine wohlklingende Stimme, ein gefuehlvolles Herz!
+Koennen Schauspieler besser ausgestattet sein?  Kann ich Ihnen mit
+einigen Empfehlungen dienen, so wird es mir viel Freude machen."
+
+"Ich danke Ihnen von Herzen", versetzte der andere; "aber ich werde
+wohl schwerlich davon Gebrauch machen koennen, denn ich denke, wo
+moeglich nicht auf das Theater zurueckzukehren."
+
+"Daran tun Sie sehr uebel", sagte Wilhelm nach einer Pause, in welcher
+er sich von seinem Erstaunen erholt hatte; denn er dachte nicht anders,
+als dass der Schauspieler, sobald er mit seiner jungen Gattin befreit
+worden, das Theater aufsuchen werde.  Es schien ihm ebenso natuerlich
+und notwendig, als dass der Frosch das Wasser sucht.  Nicht einen
+Augenblick hatte er daran gezweifelt und musste nun zu seinem Erstaunen
+das Gegenteil erfahren.
+
+"Ja", versetzte der andere, "ich habe mir vorgenommen, nicht wieder
+auf das Theater zurueckzukehren, vielmehr eine buergerliche Bedienung,
+sie sei auch, welche sie wolle, anzunehmen, wenn ich nur eine erhalten
+kann."
+
+"Das ist ein sonderbarer Entschluss, den ich nicht billigen kann; denn
+ohne besondere Ursache ist es niemals ratsam, die Lebensart, die man
+ergriffen hat, zu veraendern, und ueberdies wuesste ich keinen Stand, der
+so viel Annehmlichkeiten, so viel reizende Aussichten darboete, als den
+eines Schauspielers."
+
+"Man sieht, dass Sie keiner gewesen sind", versetzte jener.
+
+Darauf sagte Wilhelm: "Mein Herr, wie selten ist der Mensch mit dem
+Zustande zufrieden, in dem er sich befindet!  Er wuenscht sich immer
+den seines Naechsten, aus welchem sich dieser gleichfalls heraussehnt."
+
+"Indes bleibt doch ein Unterschied", versetzte Melina, "zwischen dem
+Schlimmen und dem Schlimmern; Erfahrung, nicht Ungeduld macht mich so
+handeln.  Ist wohl irgend ein Stueckchen Brot kuemmerlicher, unsicherer
+und muehseliger in der Welt?  Beinahe waere es ebensogut, vor den Tueren
+zu betteln.  Was hat man von dem Neide seiner Mitgenossen und der
+Parteilichkeit des Direktors, von der veraenderlichen Laune des
+Publikums auszustehen!  Wahrhaftig, man muss ein Fell haben wie ein Baer,
+der in Gesellschaft von Affen und Hunden an der Kette herumgefuehrt
+und gepruegelt wird, um bei dem Tone eines Dudelsacks vor Kindern und
+Poebel zu tanzen."
+
+Wilhelm dachte allerlei bei sich selbst, was er jedoch dem guten
+Menschen nicht ins Gesicht sagen wollte.  Er ging also nur von ferne
+mit dem Gespraech um ihn herum.  Jener liess sich desto aufrichtiger und
+weitlaeufiger heraus.--"Taete es nicht not", sagte er, "dass ein Direktor
+jedem Stadtrate zu Fuessen fiele, um nur die Erlaubnis zu haben, vier
+Wochen zwischen der Messe ein paar Groschen mehr an einem Orte
+zirkulieren zu lassen.  Ich habe den unsrigen, der soweit ein guter
+Mann war, oft bedauert, wenn er mir gleich zu anderer Zeit Ursache zu
+Missvergnuegen gab.  Ein guter Akteur steigert ihn, die schlechten kann
+er nicht loswerden; und wenn er seine Einnahme einigermassen der
+Ausgabe gleichsetzen will, so ist es dem Publikum gleich zuviel, das
+Haus steht leer, und man muss, um nur nicht gar zugrunde zu gehen, mit
+Schaden und Kummer spielen.  Nein, mein Herr! da Sie sich unsrer, wie
+Sie sagen, annehmen moegen, so bitte ich Sie, sprechen Sie auf das
+ernstlichste mit den Eltern meiner Geliebten!  Man versorge mich hier,
+man gebe mir einen kleinen Schreiber- oder Einnehmerdienst, und ich
+will mich gluecklich schaetzen."
+
+Nachdem sie noch einige Worte gewechselt hatten, schied Wilhelm mit
+dem Versprechen, morgen ganz frueh die Eltern anzugehen und zu sehen,
+was er ausrichten koenne.  Kaum war er allein, so musste er sich in
+folgenden Ausrufungen Luft machen: "Ungluecklicher Melina, nicht in
+deinem Stande, sondern in dir liegt das Armselige, ueber das du nicht
+Herr werden kannst!  Welcher Mensch in der Welt, der ohne innern Beruf
+ein Handwerk, eine Kunst oder irgendeine Lebensart ergriffe, muesste
+nicht wie du seinen Zustand unertraeglich finden?  Wer mit einem
+Talente zu einem Talente geboren ist, findet in demselben sein
+schoenstes Dasein!  Nichts ist auf der Erde ohne Beschwerlichkeit!  Nur
+der innere Trieb, die Lust, die Liebe helfen uns Hindernisse
+ueberwinden, Wege bahnen und uns aus dem engen Kreise, worin sich
+andere kuemmerlich abaengstigen, emporheben.  Dir sind die Bretter
+nichts als Bretter, und die Rollen, was einem Schulknaben sein Pensum
+ist.  Die Zuschauer siehst du an, wie sie sich selbst an Werkeltagen
+vorkommen.  Dir koennte es also freilich einerlei sein, hinter einem
+Pult ueber linierten Buechern zu sitzen, Zinsen einzutragen und Reste
+herauszustochern.  Du fuehlst nicht das zusammenbrennende,
+zusammentreffende Ganze, das allein durch den Geist erfunden,
+begriffen und ausgefuehrt wird; du fuehlst nicht, dass in den Menschen
+ein besserer Funke lebt, der, wenn er keine Nahrung erhaelt, wenn er
+nicht geregt wird, von der Asche taeglicher Beduerfnisse und
+Gleichgueltigkeit tiefer bedeckt und doch so spaet und fast nie erstickt
+wird.  Du fuehlst in deiner Seele keine Kraft, ihn aufzublasen, in
+deinem eignen Herzen keinen Reichtum, um dem Erweckten Nahrung zu
+geben.  Der Hunger treibt dich, die Unbequemlichkeiten sind dir
+zuwider, und es ist dir verborgen, dass in jedem Stande diese Feinde
+lauern, die nur mit Freudigkeit und Gleichmut zu ueberwinden sind.  Du
+tust wohl, dich in jene Grenzen einer gemeinen Stelle zu sehnen; denn
+welche wuerdest du wohl ausfuellen, die Geist und Mut verlangt!  Gib
+einem Soldaten, einem Staatsmanne, einem Geistlichen deine Gesinnungen,
+und mit ebensoviel Recht wird er sich ueber das Kuemmerliche seines
+Standes beschweren koennen.  Ja, hat es nicht sogar Menschen gegeben,
+die von allem Lebensgefuehl so ganz verlassen waren, dass sie das ganze
+Leben und Wesen der Sterblichen fuer ein Nichts, fuer ein kummervolles
+und staubgleiches Dasein erklaert haben?  Regten sich lebendig in
+deiner Seele die Gestalten wirkender Menschen, waermte deine Brust ein
+teilnehmendes Feuer, verbreitete sich ueber deine ganze Gestalt die
+Stimmung, die aus dem Innersten kommt, waeren die Toene deiner Kehle,
+die Worte deiner Lippen lieblich anzuhoeren, fuehltest du dich genug in
+dir selbst, so wuerdest du dir gewiss Ort und Gelegenheit aufsuchen,
+dich in andern fuehlen zu koennen."
+
+Unter solchen Worten und Gedanken hatte sich unser Freund ausgekleidet
+und stieg mit einem Gefuehle des innigsten Behagens zu Bette.  Ein
+ganzer Roman, was er an der Stelle des Unwuerdigen morgenden Tages tun
+wuerde, entwickelte sich in seiner Seele, angenehme Phantasien
+begleiteten ihn in das Reich des Schlafes sanft hinueber und ueberliessen
+ihn dort ihren Geschwistern, den Traeumen, die ihn mit offenen Armen
+aufnahmen und das ruhende Haupt unsers Freundes mit dem Vorbilde des
+Himmels umgaben.
+
+Am fruehen Morgen war er schon wieder erwacht und dachte seiner
+vorstehenden Unterhandlung nach.  Er kehrte in das Haus der
+verlassenen Eltern zurueck, wo man ihn mit Verwunderung aufnahm.  Er
+trug sein Anbringen bescheiden vor und fand gar bald mehr und weniger
+Schwierigkeiten, als er vermutet hatte.  Geschehen war es einmal, und
+wenngleich ausserordentlich strenge und harte Leute sich gegen das
+Vergangene und Nichtzuaendernde mit Gewalt zu setzen und das UEbel
+dadurch zu vermehren pflegen, so hat dagegen das Geschehene auf die
+Gemueter der meisten eine unwiderstehliche Gewalt, und was unmoeglich
+schien, nimmt sogleich, als es geschehen ist, neben dem Gemeinen
+seinen Platz ein.  Es war also bald ausgemacht, dass der Herr Melina
+die Tochter heiraten sollte; dagegen sollte sie wegen ihrer Unart kein
+Heiratsgut mitnehmen und versprechen, das Vermaechtnis einer Tante noch
+einige Jahre gegen geringe Interessen in des Vaters Haenden zu lassen.
+Der zweite Punkt, wegen einer buergerlichen Versorgung, fand schon
+groessere Schwierigkeiten.  Man wollte das ungeratene Kind nicht vor
+Augen sehen, man wollte die Verbindung eines hergelaufenen Menschen
+mit einer so angesehenen Familie, welche sogar mit einem
+Superintendenten verwandt war, sich durch die Gegenwart nicht
+bestaendig aufruecken lassen; man konnte ebensowenig hoffen, dass die
+fuerstlichen Kollegien ihm eine Stelle anvertrauen wuerden.  Beide
+Eltern waren gleich stark dagegen, und Wilhelm, der sehr eifrig dafuer
+sprach, weil er dem Menschen, den er geringschaetzte, die Rueckkehr auf
+das Theater nicht goennte und ueberzeugt war, dass er eines solchen
+Glueckes nicht wert sei, konnte mit allen seinen Argumenten nichts
+ausrichten.  Haette er die geheimen Triebfedern gekannt, so wuerde er
+sich die Muehe gar nicht gegeben haben, die Eltern ueberreden zu wollen.
+Denn der Vater, der seine Tochter gerne bei sich behalten haette,
+hasste den jungen Menschen, weil seine Frau selbst ein Auge auf ihn
+geworfen hatte, und diese konnte in ihrer Stieftochter eine glueckliche
+Nebenbuhlerin nicht vor Augen leiden.  Und so musste Melina wider
+seinen Willen mit seiner jungen Braut, die schon groessere Lust bezeigte,
+die Welt zu sehen und sich der Welt sehen zu lassen, nach einigen
+Tagen abreisen, um bei irgendeiner Gesellschaft ein Unterkommen zu
+finden.
+
+
+
+
+I. Buch, 15. Kapitel
+
+
+
+
+Fuenfzehntes Kapitel
+
+Glueckliche Jugend!  Glueckliche Zeiten des ersten Liebesbeduerfnisses!
+Der Mensch ist dann wie ein Kind, das sich am Echo stundenlang ergoetzt,
+die Unkosten des Gespraeches allein traegt und mit der Unterhaltung
+wohl zufrieden ist, wenn der unsichtbare Gegenpart auch nur die
+letzten Silben der ausgerufenen Worte wiederholt.
+
+So war Wilhelm in den fruehern, besonders aber in den spaetern Zeiten
+seiner Leidenschaft fuer Marianen, als er den ganzen Reichtum seines
+Gefuehls auf sie hinuebertrug und sich dabei als einen Bettler ansah,
+der von ihren Almosen lebte.  Und wie uns eine Gegend reizender, ja
+allein reizend vorkommt, wenn sie von der Sonne beschienen wird, so
+war auch alles in seinen Augen verschoenert und verherrlicht, was sie
+umgab, was sie beruehrte.
+
+Wie oft stand er auf dem Theater hinter den Waenden, wozu er sich das
+Privilegium von dem Direktor erbeten hatte!  Dann war freilich die
+perspektivische Magie verschwunden, aber die viel maechtigere Zauberei
+der Liebe fing erst an zu wirken.  Stundenlang konnte er am
+schmutzigen Lichtwagen stehen, den Qualm der Unschlittlampen einziehen,
+nach der Geliebten hinausblicken und, wenn sie wieder hereintrat und
+ihn freundlich ansah, sich in Wonne verloren dicht an dem Balken und
+Lattengerippe in einen paradiesischen Zustand versetzt fuehlen.  Die
+ausgestopften Laemmchen, die Wasserfaelle von Zindel, die pappenen
+Rosenstoecke und die einseitigen Strohhuetten erregten in ihm liebliche
+dichterische Bilder uralter Schaeferwelt.  Sogar die in der Naehe
+haesslich erscheinenden Taenzerinnen waren ihm nicht immer zuwider, weil
+sie auf einem Brette mit seiner Vielgeliebten standen.  Und so ist es
+gewiss, dass Liebe, welche Rosenlauben, Myrtenwaeldchen und Mondschein
+erst beleben muss, auch sogar Hobelspaenen und Papierschnitzeln einen
+Anschein belebter Naturen geben kann.  Sie ist eine so starke Wuerze,
+dass selbst schale und ekle Bruehen davon schmackhaft werden.
+
+Solch einer Wuerze bedurft es freilich, um jenen Zustand leidlich, ja
+in der Folge angenehm zu machen, in welchem er gewoehnlich ihre Stube,
+ja gelegentlich sie selbst antraf.
+
+In einem feinen Buergerhause erzogen, war Ordnung und Reinlichkeit das
+Element, worin er atmete, und indem er von seines Vaters Prunkliebe
+einen Teil geerbt hatte, wusste er in den Knabenjahren sein Zimmer, das
+er als sein kleines Reich ansah, stattlich auszustaffieren.  Seine
+Bettvorhaenge waren in grosse Falten aufgezogen und mit Quasten
+befestigt, wie man Thronen vorzustellen pflegt; er hatte sich einen
+Teppich in die Mitte des Zimmers und einen feinern auf den Tisch
+anzuschaffen gewusst; seine Buecher und Geraetschaften legte und stellte
+er fast mechanisch so, dass ein niederlaendischer Maler gute Gruppen zu
+seinen Stilleben haette herausnehmen koennen.  Eine weisse Muetze hatte er
+wie einen Turban zurechtgebunden und die AErmel seines Schlafrocks nach
+orientalischem Kostueme kurz stutzen lassen.  Doch gab er hiervon die
+Ursache an, dass die langen, weiten AErmel ihn im Schreiben hinderten.
+Wenn er abends ganz allein war und nicht mehr fuerchten durfte, gestoert
+zu werden, trug er gewoehnlich eine seidene Schaerpe um den Leib, und er
+soll manchmal einen Dolch, den er sich aus einer alten Ruestkammer
+zugeeignet, in den Guertel gesteckt und so die ihm zugeteilten
+tragischen Rollen memoriert und probiert, ja in ebendem Sinne sein
+Gebet kniend auf dem Teppich verrichtet haben.
+
+Wie gluecklich pries er daher in frueheren Zeiten den Schauspieler, den
+er im Besitz so mancher majestaetischen Kleider, Ruestungen und Waffen
+und in steter UEbung eines edlen Betragens sah, dessen Geist einen
+Spiegel des Herrlichsten und Praechtigsten, was die Welt an
+Verhaeltnissen, Gesinnungen und Leidenschaften hervorgebracht,
+darzustellen schien.  Ebenso dachte sich Wilhelm auch das haeusliche
+Leben eines Schauspielers als eine Reihe von wuerdigen Handlungen und
+Beschaeftigungen, davon die Erscheinung auf dem Theater die aeusserste
+Spitze sei, etwa wie ein Silber, das vom Laeuterfeuer lange
+herumgetrieben worden, endlich farbig-schoen vor den Augen des
+Arbeiters erscheint und ihm zugleich andeutet, dass das Metall nunmehr
+von allen fremden Zusaetzen gereiniget sei.
+
+Wie sehr stutzte er daher anfangs, wenn er sich bei seiner Geliebten
+befand und durch den gluecklichen Nebel, der ihn umgab, nebenaus auf
+Tische, Stuehle und Boden sah.  Die Truemmer eines augenblicklichen,
+leichten und falschen Putzes lagen, wie das glaenzende Kleid eines
+abgeschuppten Fisches, zerstreut in wilder Unordnung durcheinander.
+Die Werkzeuge menschlicher Reinlichkeit, als Kaemme, Seife, Tuecher,
+waren mit den Spuren ihrer Bestimmung gleichfalls nicht versteckt.
+Musik, Rollen und Schuhe, Waesche und italienische Blumen, Etuis,
+Haarnadeln, Schminktoepfchen und Baender, Buecher und Strohhuete, keines
+verschmaehte die Nachbarschaft des andern, alle waren durch ein
+gemeinschaftliches Element, durch Puder und Staub, vereinigt.  Jedoch
+da Wilhelm in ihrer Gegenwart wenig von allem andern bemerkte, ja
+vielmehr ihm alles, was ihr gehoerte, sie beruehrt hatte, lieb werden
+musste, so fand er zuletzt in dieser verworrenen Wirtschaft einen Reiz,
+den er in seiner stattlichen Prunkordnung niemals empfunden hatte.  Es
+war ihm--wenn er hier ihre Schnuerbrust wegnahm, um zum Klavier zu
+kommen, dort ihre Roecke aufs Bette legte, um sich setzen zu koennen,
+wenn sie selbst mit unbefangener Freimuetigkeit manches Natuerliche, das
+man sonst gegen einen andern aus Anstand zu verheimlichen pflegt, vor
+ihm nicht zu verbergen suchte--es war ihm, sag ich, als wenn er ihr
+mit jedem Augenblicke naeher wuerde, als wenn eine Gemeinschaft zwischen
+ihnen durch unsichtbare Bande befestigt wuerde.
+
+Nicht ebenso leicht konnte er die Auffuehrung der uebrigen Schauspieler,
+die er bei seinen ersten Besuchen manchmal bei ihr antraf, mit seinen
+Begriffen vereinigen.  Geschaeftig im Muessiggange, schienen sie an ihren
+Beruf und Zweck am wenigsten zu denken; ueber den poetischen Wert eines
+Stueckes hoerte er sie niemals reden und weder richtig noch unrichtig
+darueber urteilen; es war immer nur die Frage: "Was wird das Stueck
+machen?  Ist es ein Zugstueck?  Wie lange wird es spielen?  Wie oft
+kann es wohl gegeben werden?" und was Fragen und Bemerkungen dieser
+Art mehr waren.  Dann ging es gewoehnlich auf den Direktor los, dass er
+mit der Gage zu karg und besonders gegen den einen und den andern
+ungerecht sei, dann auf das Publikum, dass es mit seinem Beifall selten
+den rechten Mann belohne, dass das deutsche Theater sich taeglich
+verbessere, dass der Schauspieler nach seinen Verdiensten immer mehr
+geehrt werde und nicht genug geehrt werden koenne.  Dann sprach man
+viel von Kaffeehaeusern und Weingaerten und was daselbst vorgefallen,
+wieviel irgendein Kamerad Schulden habe und Abzug leiden muesse, von
+Disproportion der woechentlichen Gage, von Kabalen einer Gegenpartei;
+wobei denn doch zuletzt die grosse und verdiente Aufmerksamkeit des
+Publikums wieder in Betracht kam und der Einfluss des Theaters auf die
+Bildung einer Nation und der Welt nicht vergessen wurde.
+
+Alle diese Dinge, die Wilhelmen sonst schon manche unruhige Stunde
+gemacht hatten, kamen ihm gegenwaertig wieder ins Gedaechtnis, als ihn
+sein Pferd langsam nach Hause trug und er die verschiedenen Vorfaelle,
+die ihm begegnet waren, ueberlegte.  Die Bewegung, welche durch die
+Flucht eines Maedchens in eine gute Buergerfamilie, ja in ein ganzes
+Staedtchen gekommen war, hatte er mit Augen gesehen; die Szenen auf der
+Landstrasse und im Amthause, die Gesinnungen Melinas, und was sonst
+noch vorgegangen war, stellten sich ihm wieder dar und brachten seinen
+lebhaften, vordringenden Geist in eine Art von sorglicher Unruhe, die
+er nicht lange ertrug, sondern seinem Pferde die Sporen gab und nach
+der Stadt zu eilte.
+
+Allein auch auf diesem Wege rannte er nur neuen Unannehmlichkeiten
+entgegen.  Werner, sein Freund und vermutlicher Schwager, wartete auf
+ihn, um ein ernsthaftes, bedeutendes und unerwartetes Gespraech mit ihm
+anzufangen.
+
+Werner war einer von den geprueften, in ihrem Dasein bestimmten Leuten,
+die man gewoehnlich kalte Leute zu nennen pflegt, weil sie bei Anlaessen
+weder schnell noch sichtlich auflodern; auch war sein Umgang mit
+Wilhelmen ein anhaltender Zwist, wodurch sich ihre Liebe aber nur
+desto fester knuepfte: denn ungeachtet ihrer verschiedenen Denkungsart
+fand jeder seine Rechnung bei dem andern.  Werner tat sich darauf
+etwas zugute, dass er dem vortrefflichen, obgleich gelegentlich
+ausschweifenden Geist Wilhelms mitunter Zuegel und Gebiss anzulegen
+schien, und Wilhelm fuehlte oft einen herrlichen Triumph, wenn er
+seinen bedaechtlichen Freund in warmer Aufwallung mit sich fortnahm.
+So uebte sich einer an dem andern, sie wurden gewohnt, sich taeglich zu
+sehen, und man haette sagen sollen, das Verlangen, einander zu finden,
+sich miteinander zu besprechen, sei durch die Unmoeglichkeit, einander
+verstaendlich zu werden, vermehrt worden.  Im Grunde aber gingen sie
+doch, weil sie beide gute Menschen waren, nebeneinander, miteinander
+nach einem Ziel und konnten niemals begreifen, warum denn keiner den
+andern auf seine Gesinnung reduzieren koenne.
+
+Werner bemerkte seit einiger Zeit, dass Wilhelms Besuche seltner wurden,
+dass er in Lieblingsmaterien kurz und zerstreut abbrach, dass er sich
+nicht mehr in lebhafte Ausbildung seltsamer Vorstellungen vertiefte,
+an welcher sich freilich ein freies, in der Gegenwart des Freundes
+Ruhe und Zufriedenheit findendes Gemuet am sichersten erkennen laesst.
+Der puenktliche und bedaechtige Werner suchte anfangs den Fehler in
+seinem eignen Betragen, bis ihn einige Stadtgespraeche auf die rechte
+Spur brachten und einige Unvorsichtigkeiten Wilhelms ihn der Gewissheit
+naeher fuehrten.  Er liess sich auf eine Untersuchung ein und entdeckte
+gar bald, dass Wilhelm vor einiger Zeit eine Schauspielerin oeffentlich
+besucht, mit ihr auf dem Theater gesprochen und sie nach Hause
+gebracht habe; er waere trostlos gewesen, wenn ihm auch die naechtlichen
+Zusammenkuenfte bekannt geworden waeren, denn er hoerte, dass Mariane ein
+verfuehrerisches Maedchen sei, die seinen Freund wahrscheinlich ums Geld
+bringe und sich noch nebenher von dem unwuerdigsten Liebhaber
+unterhalten lasse.
+
+Sobald er seinen Verdacht soviel moeglich zur Gewissheit erhoben,
+beschloss er einen Angriff auf Wilhelmen und war mit allen Anstalten
+voellig in Bereitschaft, als dieser eben verdriesslich und verstimmt von
+seiner Reise zurueckkam.
+
+Werner trug ihm noch denselbigen Abend alles, was er wusste, erst
+gelassen, dann mit dem dringenden Ernste einer wohldenkenden
+Freundschaft vor, liess keinen Zug unbestimmt und gab seinem Freunde
+alle die Bitterkeiten zu kosten, die ruhige Menschen an Liebende mit
+tugendhafter Schadenfreude so freigebig auszuspenden pflegen.  Aber
+wie man sich denken kann, richtete er wenig aus.  Wilhelm versetzte
+mit inniger Bewegung, doch mit grosser Sicherheit: "Du kennst das
+Maedchen nicht!  Der Schein ist vielleicht nicht zu ihrem Vorteil, aber
+ich bin ihrer Treue und Tugend so gewiss als meiner Liebe."
+
+Werner beharrte auf seiner Anklage und erbot sich zu Beweisen und
+Zeugen.  Wilhelm verwarf sie und entfernte sich von seinem Freunde
+verdriesslich und erschuettert wie einer, dem ein ungeschickter Zahnarzt
+einen schadhaften festsitzenden Zahn gefasst und vergebens daran
+geruckt hat.
+
+Hoechst unbehaglich fand sich Wilhelm, das schoene Bild Marianens erst
+durch die Grillen der Reise, dann durch Werners Unfreundlichkeit in
+seiner Seele getruebt und beinahe entstellt zu sehen.  Er griff zum
+sichersten Mittel, ihm die voellige Klarheit und Schoenheit
+wiederherzustellen, indem er nachts auf den gewoehnlichen Wegen zu ihr
+hineilte.  Sie empfing ihn mit lebhafter Freude; denn er war bei
+seiner Ankunft vorbeigeritten, sie hatte ihn diese Nacht erwartet, und
+es laesst sich denken, dass alle Zweifel bald aus seinem Herzen
+vertrieben wurden.  Ja, ihre Zaertlichkeit schloss sein ganzes Vertrauen
+wieder auf, und er erzaehlte ihr, wie sehr sich das Publikum, wie sehr
+sich sein Freund an ihr versuendiget.
+
+Mancherlei lebhafte Gespraeche fuehrten sie auf die ersten Zeiten ihrer
+Bekanntschaft, deren Erinnerung eine der schoensten Unterhaltungen
+zweier Liebenden bleibt.  Die ersten Schritte, die uns in den
+Irrgarten der Liebe bringen, sind so angenehm, die ersten Aussichten
+so reizend, dass man sie gar zu gern in sein Gedaechtnis zurueckruft.
+Jeder Teil sucht einen Vorzug vor dem andern zu behalten, er habe
+frueher, uneigennuetziger geliebt, und jedes wuenscht in diesem
+Wettstreite lieber ueberwunden zu werden als zu ueberwinden.
+
+Wilhelm wiederholte Marianen, was sie schon so oft gehoert hatte, dass
+sie bald seine Aufmerksamkeit von dem Schauspiel ab und auf sich
+allein gezogen habe, dass ihre Gestalt, ihr Spiel, ihre Stimme ihn
+gefesselt; wie er zuletzt nur die Stuecke, in denen sie gespielt,
+besucht habe, wie er endlich aufs Theater geschlichen sei, oft, ohne
+von ihr bemerkt zu werden, neben ihr gestanden habe; dann sprach er
+mit Entzuecken von dem gluecklichen Abende, an dem er eine Gelegenheit
+gefunden, ihr eine Gefaelligkeit zu erzeigen und ein Gespraech
+einzuleiten.
+
+Mariane dagegen wollte nicht Wort haben, dass sie ihn so lange nicht
+bemerkt haette; sie behauptete, ihn schon auf dem Spaziergange gesehen
+zu haben, und bezeichnete ihm zum Beweis das Kleid, das er am selbigen
+Tage angehabt; sie behauptete, dass er ihr damals vor allen andern
+gefallen und dass sie seine Bekanntschaft gewuenscht habe.
+
+Wie gern glaubte Wilhelm das alles!  Wie gern liess er sich ueberreden,
+dass sie zu ihm, als er sich ihr genaehert, durch einen
+unwiderstehlichen Zug hingefuehrt worden, dass sie absichtlich zwischen
+die Kulissen neben ihn getreten sei, um ihn naeher zu sehen und
+Bekanntschaft mit ihm zu machen, und dass sie zuletzt, da seine
+Zurueckhaltung und Bloedigkeit nicht zu ueberwinden gewesen, ihm selbst
+Gelegenheit gegeben und ihn gleichsam genoetigt habe, ein Glas Limonade
+herbeizuholen.
+
+Unter diesem liebevollen Wettstreit, den sie durch alle kleinen
+Umstaende ihres kurzen Romans verfolgten, vergingen ihnen die Stunden
+sehr schnell, und Wilhelm verliess voellig beruhigt seine Geliebte mit
+dem festen Vorsatze, sein Vorhaben unverzueglich ins Werk zu richten.
+
+
+
+
+I. Buch, 16. Kapitel
+
+
+
+
+Sechzehntes Kapitel
+
+Was zu seiner Abreise noetig war, hatten Vater und Mutter besorgt; nur
+einige Kleinigkeiten, die an der Equipage fehlten, verzoegerten seinen
+Aufbruch um einige Tage.  Wilhelm benutzte diese Zeit, um an Marianen
+einen Brief zu schreiben, wodurch er die Angelegenheit endlich zur
+Sprache bringen wollte, ueber welche sie sich mit ihm zu unterhalten
+bisher immer vermieden hatte.  Folgendermassen lautete der Brief:
+
+"Unter der lieben Huelle der Nacht, die mich sonst in deinen Armen
+bedeckte, sitze ich und denke und schreibe an dich, und was ich sinne
+und treibe, ist nur um deinetwillen.  O Mariane! mir, dem
+gluecklichsten unter den Maennern, ist es wie einem Braeutigam, der
+ahnungsvoll, welch eine neue Welt sich in ihm und durch ihn entwickeln
+wird, auf den festlichen Teppichen steht und waehrend der heiligen
+Zeremonien sich gedankenvoll luestern vor die geheimnisreichen Vorhaenge
+versetzt, woher ihm die Lieblichkeit der Liebe entgegensaeuselt.
+
+Ich habe ueber mich gewonnen, dich in einigen Tagen nicht zu sehen; es
+war leicht in Hoffnung einer solchen Entschaedigung, ewig mit dir zu
+sein, ganz der Deinige zu bleiben!  Soll ich wiederholen, was ich
+wuensche?  Und doch ist es noetig; denn es scheint, als habest du mich
+bisher nicht verstanden.
+
+Wie oft habe ich mit leisen Toenen der Treue, die, weil sie alles zu
+halten wuenscht, wenig zu sagen wagt, an deinem Herzen geforscht nach
+dem Verlangen einer ewigen Verbindung.  Verstanden hast du mich gewiss:
+denn in deinem Herzen muss ebender Wunsch keimen; vernommen hast du
+mich in jedem Kusse, in der anschmiegenden Ruhe jener gluecklichen
+Abende.  Da lernt ich deine Bescheidenheit kennen, und wie vermehrte
+sich meine Liebe!  Wo eine andere sich kuenstlich betragen haette, um
+durch ueberfluessigen Sonnenschein einen Entschluss in dem Herzen ihres
+Liebhabers zur Reife zu bringen, eine Erklaerung hervorzulocken und ein
+Versprechen zu befestigen, eben da ziehst du dich zurueck, schliessest
+die halbgeoeffnete Brust deines Geliebten wieder zu und suchst durch
+eine anscheinende Gleichgueltigkeit deine Beistimmung zu verbergen;
+aber ich verstehe dich!  Welch ein Elender muesste ich sein, wenn ich an
+diesen Zeichen die reine, uneigennuetzige, nur fuer den Freund besorgte
+Liebe nicht erkennen wollte!  Vertraue mir und sei ruhig!  Wir gehoeren
+einander an, und keins von beiden verlaesst oder verliert etwas, wenn
+wir fuereinander leben.
+
+Nimm sie hin, diese Hand! feierlich noch dies ueberfluessige Zeichen!
+Alle Freuden der Liebe haben wir empfunden, aber es sind neue
+Seligkeiten in dem bestaetigten Gedanken der Dauer.  Frage nicht, wie?
+Sorge nicht!  Das Schicksal sorgt fuer die Liebe, und um so gewisser,
+da Liebe genuegsam ist.
+
+Mein Herz hat schon lange meiner Eltern Haus verlassen; es ist bei dir,
+wie mein Geist auf der Buehne schwebt.  O meine Geliebte!  Ist wohl
+einem Menschen so gewaehrt, seine Wuensche zu verbinden, wie mir?  Kein
+Schlaf kommt in meine Augen, und wie eine ewige Morgenroete steigt
+deine Liebe und dein Glueck vor mir auf und ab.
+
+Kaum dass ich mich halte, nicht auffahre, zu dir hinrenne und mir deine
+Einwilligung erzwinge und gleich Morgen fruehe weiter in die Welt nach
+meinem Ziele hinstrebe.--Nein, ich will mich bezwingen! Ich will nicht
+unbesonnen toerichte, verwegene Schritte tun; mein Plan ist entworfen,
+und ich will ihn ruhig ausfuehren.
+
+Ich bin mit Direktor Serlo bekannt, meine Reise geht gerade zu ihm, er
+hat vor einem Jahre oft seinen Leuten etwas von meiner Lebhaftigkeit
+und Freude am Theater gewuenscht, und ich werde ihm gewiss willkommen
+sein; denn bei eurer Truppe moechte ich aus mehr als einer Ursache
+nicht eintreten; auch spielt Serlo so weit von hier, dass ich anfangs
+meinen Schritt verbergen kann.  Einen leidlichen Unterhalt finde ich
+da gleich; ich saehe mich in dem Publiko um, lerne die Gesellschaft
+kennen und hole dich nach.
+
+Mariane, du siehst, was ich ueber mich gewinnen kann, um dich gewiss zu
+haben; denn dich so lange nicht zu sehen, dich in der weiten Welt zu
+wissen! recht lebhaft darf ich mir's nicht denken.  Wenn ich mir dann
+aber wieder deine Liebe vorstelle, die mich vor allem sichert, wenn du
+meine Bitte nicht verschmaehst, ehe wir scheiden, und du mir deine Hand
+vor dem Priester reichst, so werde ich ruhig gehen.  Es ist nur eine
+Formel unter uns, aber eine so schoene Formel, der Segen des Himmels zu
+dem Segen der Erde.  In der Nachbarschaft, im Ritterschaftlichen, geht
+es leicht und heimlich an.
+
+Fuer den Anfang habe ich Geld genug; wir wollen teilen, es wird fuer uns
+beide hinreichen; ehe das verzehrt ist, wird der Himmel weiterhelfen.
+
+Ja, Liebste, es ist mir gar nicht bange.  Was mit so viel Froehlichkeit
+begonnen wird, muss ein glueckliches Ende erreichen.  Ich habe nie
+gezweifelt, dass man sein Fortkommen in der Welt finden koenne, wenn es
+einem Ernst ist, und ich fuehle Mut genug, fuer zwei, ja fuer mehrere
+einen reichlichen Unterhalt zu gewinnen.  Die Welt ist undankbar,
+sagen viele; ich habe noch nicht gefunden, dass sie undankbar sei, wenn
+man auf die rechte Art etwas fuer sie zu tun weiss.  Mir glueht die ganze
+Seele bei dem Gedanken, endlich einmal aufzutreten und den Menschen in
+das Herz hineinzureden, was sie sich so lange zu hoeren sehnen.  Wie
+tausendmal ist es freilich mir, der ich von der Herrlichkeit des
+Theaters so eingenommen bin, bang durch die Seele gegangen, wenn ich
+die Elendesten gesehen habe sich einbilden, sie koennten uns ein grosses,
+treffliches Wort ans Herz reden!  Ein Ton, der durch die Fistel
+gezwungen wird, klingt viel besser und reiner; es ist unerhoert, wie
+sich diese Bursche in ihrer groben Ungeschicklichkeit versuendigen.
+
+Das Theater hat oft einen Streit mit der Kanzel gehabt; sie sollten,
+duenkt mich, nicht miteinander hadern.  Wie sehr waere zu wuenschen, dass
+an beiden Orten nur durch edle Menschen Gott und Natur verherrlicht
+wuerden!  Es sind keine Traeume, meine Liebste!  Wie ich an deinem
+Herzen habe fuehlen koennen, dass du in Liebe bist, so ergreife ich auch
+den glaenzenden Gedanken und sage--ich will's nicht aussagen, aber
+hoffen will ich, dass wir einst als ein Paar gute Geister den Menschen
+erscheinen werden, ihre Herzen aufzuschliessen, ihre Gemueter zu
+beruehren und ihnen himmlische Genuesse zu bereiten, so gewiss mir an
+deinem Busen Freuden gewaehrt waren, die immer himmlisch genannt werden
+muessen, weil wir uns in jenen Augenblicken aus uns selbst gerueckt,
+ueber uns selbst erhaben fuehlen.
+
+Ich kann nicht schliessen; ich habe schon zuviel gesagt und weiss nicht,
+ob ich dir schon alles gesagt habe, alles, was dich angeht: denn die
+Bewegung des Rades, das sich in meinem Herzen dreht, sind keine Worte
+vermoegend auszudruecken.
+
+Nimm dieses Blatt indes, meine Liebe!  Ich habe es wieder durchgelesen
+und finde, dass ich von vorne anfangen sollte; doch enthaelt es alles,
+was du zu wissen noetig hast, was dir Vorbereitung ist, wenn ich bald
+mit Froehlichkeit der suessen Liebe an deinen Busen zurueckkehre.  Ich
+komme mir vor wie ein Gefangener, der in einem Kerker lauschend seine
+Fesseln abfeilt.  Ich sage gute Nacht meinen sorglos schlafenden
+Eltern!--Lebe wohl, Geliebte!  Lebe wohl!  Fuer diesmal schliess ich;
+die Augen sind mir zwei-, dreimal zugefallen; es ist schon tief in der
+Nacht."
+
+
+
+
+I. Buch, 17. Kapitel
+
+
+
+
+Siebzehntes Kapitel
+
+Der Tag wollte nicht endigen, als Wilhelm, seinen Brief schoen gefaltet
+in der Tasche, sich zu Marianen hinsehnte; auch war es kaum duester
+geworden, als er sich wider seine Gewohnheit nach ihrer Wohnung
+hinschlich.  Sein Plan war: sich auf die Nacht anzumelden, seine
+Geliebte auf kurze Zeit wieder zu verlassen, ihr, eh er wegginge, den
+Brief in die Hand zu druecken und, bei seiner Rueckkehr in tiefer Nacht
+ihre Antwort, ihre Einwilligung zu erhalten oder durch die Macht
+seiner Liebkosungen zu erzwingen.  Er flog in ihre Arme und konnte
+sich an ihrem Busen kaum wieder fassen.  Die Lebhaftigkeit seiner
+Empfindungen verbarg ihm anfangs, dass sie nicht wie sonst mit
+Herzlichkeit antwortete; doch konnte sie einen aengstlichen Zustand
+nicht lange verbergen; sie schuetzte eine Krankheit, eine Unpaesslichkeit
+vor; sie beklagte sich ueber Kopfweh, sie wollte sich auf den Vorschlag,
+dass er heute nacht wiederkommen wolle, nicht einlassen.  Er ahnte
+nichts Boeses, drang nicht weiter in sie, fuehlte aber, dass es nicht die
+Stunde sei, ihr seinen Brief zu uebergeben.  Er behielt ihn bei sich,
+und da verschiedene ihrer Bewegungen und Reden ihn auf eine hoefliche
+Weise wegzugehen noetigten, ergriff er im Taumel seiner ungenuegsamen
+Liebe eines ihrer Halstuecher, steckte es in die Tasche und verliess
+wider Willen ihre Lippen und ihre Tuere.  Er schlich nach Hause, konnte
+aber auch da nicht lange bleiben, kleidete sich um und suchte wieder
+die freie Luft.
+
+Als er einige Strassen auf und ab gegangen war, begegnete ihm ein
+Unbekannter, der nach einem gewissen Gasthofe fragte; Wilhelm erbot
+sich, ihm das Haus zu zeigen; der Fremde erkundigte sich nach dem
+Namen der Strasse, nach den Besitzern verschiedener grossen Gebaeude, vor
+denen sie vorbeigingen, sodann nach einigen Polizeieinrichtungen der
+Stadt, und sie waren in einem ganz interessanten Gespraeche begriffen,
+als sie am Tore des Wirtshauses ankamen.  Der Fremde noetigte seinen
+Fuehrer, hineinzutreten und ein Glas Punsch mit ihm zu trinken;
+zugleich gab er seinen Namen an und seinen Geburtsort, auch die
+Geschaefte, die ihn hierhergebracht haetten, und ersuchte Wilhelmen um
+ein gleiches Vertrauen.  Dieser verschwieg ebensowenig seinen Namen
+als seine Wohnung.
+
+"Sind Sie nicht ein Enkel des alten Meisters, der die schoene
+Kunstsammlung besass?" fragte der Fremde.
+
+"Ja, ich bin's.  Ich war zehn Jahre, als der Grossvater starb, und es
+schmerzte mich lebhaft, diese schoenen Sachen verkaufen zu sehen."
+
+"Ihr Vater hat eine grosse Summe Geldes dafuer erhalten."
+
+"Sie wissen also davon?"
+
+"O ja, ich habe diesen Schatz noch in Ihrem Hause gesehen.  Ihr
+Grossvater war nicht bloss ein Sammler, er verstand sich auf die Kunst,
+er war in einer fruehern, gluecklichen Zeit in Italien gewesen und hatte
+Schaetze von dort mit zurueckgebracht, welche jetzt um keinen Preis mehr
+zu haben waeren.  Er besass treffliche Gemaelde von den besten Meistern;
+man traute kaum seinen Augen, wenn man seine Handzeichnungen durchsah;
+unter seinen Marmorn waren einige unschaetzbare Fragmente; von Bronzen
+besass er eine sehr instruktive Suite; so hatte er auch seine Muenzen
+fuer Kunst und Geschichte zweckmaessig gesammelt; seine wenigen
+geschnittenen Steine verdienten alles Lob; auch war das Ganze gut
+aufgestellt, wenngleich die Zimmer und Saele des alten Hauses nicht
+symmetrisch gebaut waren."
+
+"Sie koennen denken, was wir Kinder verloren, als alle die Sachen
+heruntergenommen und eingepackt wurden.  Es waren die ersten traurigen
+Zeiten meines Lebens.  Ich weiss noch, wie leer uns die Zimmer vorkamen,
+als wir die Gegenstaende nach und nach verschwinden sahen, die uns von
+Jugend auf unterhalten hatten und die wir ebenso unveraenderlich
+hielten als das Haus und die Stadt selbst."
+
+"Wenn ich nicht irre, so gab Ihr Vater das geloeste Kapital in die
+Handlung eines Nachbars, mit dem er eine Art Gesellschaftshandel
+einging."
+
+"Ganz richtig! und ihre gesellschaftlichen Spekulationen sind ihnen
+wohl geglueckt; sie haben in diesen zwoelf Jahren ihr Vermoegen sehr
+vermehrt und sind beide nur desto heftiger auf den Erwerb gestellt;
+auch hat der alte Werner einen Sohn, der sich viel besser zu diesem
+Handwerke schickt als ich."
+
+"Es tut mir leid, dass dieser Ort eine solche Zierde verloren hat, als
+das Kabinett Ihres Grossvaters war.  Ich sah es noch kurz vorher, ehe
+es verkauft wurde, und ich darf wohl sagen, ich war Ursache, dass der
+Kauf zustande kam.  Ein reicher Edelmann, ein grosser Liebhaber, der
+aber bei so einem wichtigen Handel sich nicht allein auf sein eigen
+Urteil verliess, hatte mich hierher geschickt und verlangte meinen Rat.
+Sechs Tage besah ich das Kabinett, und am siebenten riet ich meinem
+Freunde, die ganze geforderte Summe ohne Anstand zu bezahlen.  Sie
+waren als ein munterer Knabe oft um mich herum; Sie erklaerten mir die
+Gegenstaende der Gemaelde und wussten ueberhaupt das Kabinett recht gut
+auszulegen."
+
+"Ich erinnere mich einer solchen Person, aber in Ihnen haette ich sie
+nicht wiedererkannt."
+
+"Es ist auch schon eine geraume Zeit, und wir veraendern uns doch mehr
+oder weniger.  Sie hatten, wenn ich mich recht erinnere, ein
+Lieblingsbild darunter, von dem Sie mich gar nicht weglassen wollten."
+
+"Ganz richtig! es stellte die Geschichte vor, wie der kranke
+Koenigssohn sich ueber die Braut seines Vaters in Liebe verzehrt."
+
+"Es war eben nicht das beste Gemaelde, nicht gut zusammengesetzt, von
+keiner sonderlichen Farbe, und die Ausfuehrung durchaus manieriert."
+
+"Das verstand ich nicht und versteh es noch nicht; der Gegenstand ist
+es, der mich an einem Gemaelde reizt, nicht die Kunst."
+
+"Da schien Ihr Grossvater anders zu denken; denn der groesste Teil seiner
+Sammlung bestand aus trefflichen Sachen, in denen man immer das
+Verdienst ihres Meisters bewunderte, sie mochten vorstellen, was sie
+wollten; auch hing dieses Bild in dem aeussersten Vorsaale, zum Zeichen,
+dass er es wenig schaetzte."
+
+"Da war es eben, wo wir Kinder immer spielen durften und wo dieses
+Bild einen unausloeschlichen Eindruck auf mich machte, den mir selbst
+Ihre Kritik, die ich uebrigens verehre, nicht ausloeschen koennte, wenn
+wir auch jetzt vor dem Bilde stuenden.  Wie jammerte mich, wie jammert
+mich noch ein Juengling, der die suessen Triebe, das schoenste Erbteil,
+das uns die Natur gab, in sich verschliessen und das Feuer, das ihn und
+andere erwaermen und beleben sollte, in seinem Busen verbergen muss, so
+dass sein Innerstes unter ungeheuren Schmerzen verzehrt wird!  Wie
+bedaure ich die Unglueckliche, die sich einem andern widmen soll, wenn
+ihr Herz schon den wuerdigen Gegenstand eines wahren und reinen
+Verlangens gefunden hat!"
+
+"Diese Gefuehle sind freilich sehr weit von jenen Betrachtungen
+entfernt, unter denen ein Kunstliebhaber die Werke grosser Meister
+anzusehen pflegt; wahrscheinlich wuerde Ihnen aber, wenn das Kabinett
+ein Eigentum Ihres Hauses geblieben waere, nach und nach der Sinn fuer
+die Werke selbst aufgegangen sein, so dass Sie nicht immer nur sich
+selbst und Ihre Neigung in den Kunstwerken gesehen haetten."
+
+"Gewiss tat mir der Verkauf des Kabinetts gleich sehr leid, und ich
+habe es auch in reifern Jahren oefters vermisst; wenn ich aber bedenke,
+dass es gleichsam so sein musste, um eine Liebhaberei, um ein Talent in
+mir zu entwickeln, die weit mehr auf mein Leben wirken sollten, als
+jene leblosen Bilder je getan haetten, so bescheide ich mich dann gern
+und verehre das Schicksal, das mein Bestes und eines jeden Bestes
+einzuleiten weiss."
+
+"Leider hoere ich schon wieder das Wort Schicksal von einem jungen
+Manne aussprechen, der sich eben in einem Alter befindet, wo man
+gewoehnlich seinen lebhaften Neigungen den Willen hoeherer Wesen
+unterzuschieben pflegt."
+
+"So glauben Sie kein Schicksal?  Keine Macht, die ueber uns waltet und
+alles zu unserm Besten lenkt?"
+
+"Es ist hier die Rede nicht von meinem Glauben, noch der Ort,
+auszulegen, wie ich mir Dinge, die uns allen unbegreiflich sind,
+einigermassen denkbar zu machen suche; hier ist nur die Frage, welche
+Vorstellungsart zu unserm Besten gereicht.  Das Gewebe dieser Welt ist
+aus Notwendigkeit und Zufall gebildet; die Vernunft des Menschen
+stellt sich zwischen beide und weiss sie zu beherrschen; sie behandelt
+das Notwendige als den Grund ihres Daseins; das Zufaellige weiss sie zu
+lenken, zu leiten und zu nutzen, und nur, indem sie fest und
+unerschuetterlich steht, verdient der Mensch, ein Gott der Erde genannt
+zu werden.  Wehe dem, der sich von Jugend auf gewoehnt, in dem
+Notwendigen etwas Willkuerliches finden zu wollen, der dem Zufaelligen
+eine Art von Vernunft zuschreiben moechte, welcher zu folgen sogar eine
+Religion sei.  Heisst das etwas weiter, als seinem eignen Verstande
+entsagen und seinen Neigungen unbedingten Raum geben?  Wir bilden uns
+ein, fromm zu sein, indem wir ohne UEberlegung hinschlendern, uns durch
+angenehme Zufaelle determinieren lassen und endlich dem Resultate eines
+solchen schwankenden Lebens den Namen einer goettlichen Fuehrung geben."
+
+"Waren Sie niemals in dem Falle, dass ein kleiner Umstand Sie
+veranlasste, einen gewissen Weg einzuschlagen, auf welchem bald eine
+gefaellige Gelegenheit Ihnen entgegenkam und eine Reihe von
+unerwarteten Vorfaellen Sie endlich ans Ziel brachte, das Sie selbst
+noch kaum ins Auge gefasst hatten?  Sollte das nicht Ergebenheit in das
+Schicksal, Zutrauen zu einer solchen Leitung einfloessen?"
+
+"Mit diesen Gesinnungen koennte kein Maedchen ihre Tugend, niemand sein
+Geld im Beutel behalten; denn es gibt Anlaesse genug, beides
+loszuwerden.  Ich kann mich nur ueber den Menschen freuen, der weiss,
+was ihm und andern nuetze ist, und seine Willkuer zu beschraenken
+arbeitet.  Jeder hat sein eigen Glueck unter den Haenden, wie der
+Kuenstler eine rohe Materie, die er zu einer Gestalt umbilden will.
+Aber es ist mit dieser Kunst wie mit allen; nur die Faehigkeit dazu
+wird uns angeboren, sie will gelernt und sorgfaeltig ausgeuebt sein."
+
+Dieses und mehreres wurde noch unter ihnen abgehandelt; endlich
+trennten sie sich, ohne dass sie einander sonderlich ueberzeugt zu haben
+schienen, doch bestimmten sie auf den folgenden Tag einen Ort der
+Zusammenkunft.
+
+Wilhelm ging noch einige Strassen auf und nieder; er hoerte Klarinetten,
+Waldhoerner und Fagotte, es schwoll sein Busen.  Durchreisende
+Spielleute machten eine angenehme Nachtmusik.  Er sprach mit ihnen,
+und um ein Stueck Geld folgten sie ihm zu Marianens Wohnung.  Hohe
+Baeume zierten den Platz vor ihrem Hause, darunter stellte er seine
+Saenger; er selbst ruhte auf einer Bank in einiger Entfernung und
+ueberliess sich ganz den schwebenden Toenen, die in der rasenden Nacht um
+ihn saeuselten.  Unter den holden Sternen hingestreckt, war ihm sein
+Dasein wie ein goldner Traum.  "Sie hoert auch diese Floeten", sagte er
+in seinem Herzen; "sie fuehlt, wessen Andenken, wessen Liebe die Nacht
+wohlklingend macht; auch in der Entfernung sind wir durch diese
+Melodien zusammengebunden, wie in jeder Entfernung durch die feinste
+Stimmung der Liebe.  Ach! zwei liebende Herzen, sie sind wie zwei
+Magnetuhren; was in der einen sich regt, muss auch die andere mit
+bewegen, denn es ist nur eins, was in beiden wirkt, eine Kraft, die
+sie durchgeht.  Kann ich in ihren Armen eine Moeglichkeit fuehlen, mich
+von ihr zu trennen?  Und doch, ich werde fern von ihr sein, werde
+einen Heilort fuer unsere Liebe suchen und werde sie immer mit mir
+haben.
+
+Wie oft ist mir's geschehen, dass ich, abwesend von ihr, in Gedanken an
+sie verloren, ein Buch, ein Kleid oder sonst etwas beruehrte und
+glaubte, ihre Hand zu fuehlen, so ganz war ich mit ihrer Gegenwart
+umkleidet.  Und jener Augenblicke mich zu erinnern, die das Licht des
+Tages wie das Auge des kalten Zuschauers fliehen, die zu geniessen
+Goetter den schmerzlosen Zustand der reinen Seligkeit zu verlassen sich
+entschliessen duerften!--Mich zu erinnern?--Als wenn man den Rausch des
+Taumelkelchs in der Erinnerung erneuern koennte, der unsere Sinne, von
+himmlischen Banden umstrickt, aus aller ihrer Fassung reisst.--Und ihre
+Gestalt--" Er verlor sich im Andenken an sie, seine Ruhe ging in
+Verlangen ueber, er umfasste einen Baum, kuehlte seine heisse Wange an der
+Rinde, und die Winde der Nacht saugten begierig den Hauch auf, der aus
+dem reinen Busen bewegt hervordrang.  Er fuehlte nach dem Halstuch, das
+er von ihr mitgenommen hatte, es war vergessen, es steckte im vorigen
+Kleide.  Seine Lippen lechzten, seine Glieder zitterten vor Verlangen.
+
+Die Musik hoerte auf, und es war ihm, als waer er aus dem Elemente
+gefallen, in dem seine Empfindungen bisher emporgetragen wurden.
+Seine Unruhe vermehrte sie, da seine Gefuehle nicht mehr von den
+sanften Toenen genaehrt und gelindert wurden.  Er setzte sich auf ihre
+Schwelle nieder und war schon mehr beruhigt.  Er kuesste den messingen
+Ring, womit man an ihre Tuere pochte, er kuesste die Schwelle, ueber die
+ihre Fuesse aus- und eingingen, und erwaermte sie durch das Feuer seiner
+Brust.  Dann sass er wieder eine Weile stille und dachte sie hinter
+ihren Vorhaengen, im weissen Nachtkleide mit dem roten Band um den Kopf,
+in suesser Ruhe und dachte sich selbst so nahe zu ihr hin, dass ihm
+vorkam, sie muesste nun von ihm traeumen.  Seine Gedanken waren lieblich
+wie die Geister der Daemmerung; Ruhe und Verlangen wechselten in ihm;
+die Liebe lief mit schaudernder Hand tausendfaeltig ueber alle Saiten
+seiner Seele; es war, als wenn der Gesang der Sphaeren ueber ihm stille
+stuende, um die leisen Melodien seines Herzens zu belauschen.
+
+Haette er den Hauptschluessel bei sich gehabt, der ihm sonst Marianens
+Tuere oeffnete, er wuerde sich nicht gehalten haben, wuerde ins Heiligtum
+der Liebe eingedrungen sein.  Doch er entfernte sich langsam,
+schwankte halb traeumend unter den Baeumen hin, wollte nach Hause und
+ward immer wieder umgewendet; endlich, als er's ueber sich vermochte,
+ging und an der Ecke noch einmal zuruecksah, kam es ihm vor, als wenn
+Marianens Tuere sich oeffnete und eine dunkle Gestalt sich herausbewegte.
+Er war zu weit, um deutlich zu sehen, und eh er sich fasste und recht
+aufsah, hatte sich die Erscheinung schon in der Nacht verloren; nur
+ganz weit glaubte er sie wieder an einem weissen Hause vorbeistreifen
+zu sehen.  Er stund und blinzte, und ehe er sich ermannte und
+nacheilte, war das Phantom verschwunden.  Wohin sollt er ihm folgen?
+Welche Strasse hatte den Menschen aufgenommen, wenn es einer war?
+
+Wie einer, dem der Blitz die Gegend in einem Winkel erhellte, gleich
+darauf mit geblendeten Augen die vorigen Gestalten, den Zusammenhang
+der Pfade in der Finsternis vergebens sucht, so war's vor seinen Augen,
+so war's in seinem Herzen.  Und wie ein Gespenst der Mitternacht, das
+ungeheure Schrecken erzeugt, in folgenden Augenblicken der Fassung fuer
+ein Kind des Schreckens gehalten wird und die fuerchterliche
+Erscheinung Zweifel ohne Ende in der Seele zuruecklaesst, so war auch
+Wilhelm in der groessten Unruhe, als er, an einen Eckstein gelehnt, die
+Helle des Morgens und das Geschrei der Haehne nicht achtete, bis die
+fruehen Gewerbe lebendig zu werden anfingen und ihn nach Hause trieben.
+
+Er hatte, wie er zurueckkam, das unerwartete Blendwerk mit den
+triftigsten Gruenden beinahe aus der Seele vertrieben; doch die schoene
+Stimmung der Nacht, an die er jetzt auch nur wie an eine Erscheinung
+zurueckdachte, war auch dahin.  Sein Herz zu letzen, ein Siegel seinem
+wiederkehrenden Glauben aufzudruecken, nahm er das Halstuch aus der
+vorigen Tasche.  Das Rauschen eines Zettels, der herausfiel, zog ihm
+das Tuch von den Lippen; er hob auf und las:
+
+"So hab ich dich lieb, kleiner Narre!  Was war dir auch gestern?
+Heute nacht komm ich zu dir.  Ich glaube wohl, dass dir's leid tut, von
+hier wegzugehen; aber habe Geduld; auf die Messe komm ich dir nach.
+Hoere, tu mir nicht wieder die schwarzgruenbraune Jacke an, du siehst
+drin aus wie die Hexe von Endor.  Hab ich dir nicht das weisse
+Neglige darum geschickt, dass ich ein weisses Schaefchen in meinen
+Armen haben will?  Schick mir deine Zettel immer durch die alte
+Sibylle; die hat der Teufel selbst zur Iris bestellt."
+
+
+
+
+
+Ende dieses Project Gutenberg Etextes "Wilhelm Meisters Lehrjahre-Buch 1"
+von Johann Wolfgang von Goethe.
+
